@@ -2,10 +2,8 @@ name: Pokemon Restock Watcher
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # alle 15 Minuten. GitHub garantiert keine
-                              # exakte Puenktlichkeit, kleine Verzoegerungen
-                              # (paar Minuten) sind normal.
-  workflow_dispatch:          # erlaubt manuelles Anstossen über den "Run workflow"-Button
+    - cron: "*/15 * * * *"   # alle 15 Minuten
+  workflow_dispatch:          # erlaubt manuelles Anstossen
 
 jobs:
   check:
@@ -32,6 +30,7 @@ jobs:
         run: |
           git config user.name "restock-watcher-bot"
           git config user.email "actions@users.noreply.github.com"
+          git pull origin main --rebase || true
           git add watcher_state.json
           git diff --staged --quiet || git commit -m "Stand aktualisiert [skip ci]"
           git push
