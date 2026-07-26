@@ -43,12 +43,9 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PersoenlicherRestockWatcher/1
 OUT_OF_STOCK_KEYWORDS = ["ausverkauft", "nicht verfügbar", "nicht auf lager", "sold out"]
 IN_STOCK_KEYWORDS = ["in den warenkorb", "jetzt kaufen", "add to cart", "vorbestellen"]
 
-# Jeder Shop-Eintrag kann enthalten:
-#   watch_pages: Kategorie-/Vorbestellseiten, die auf NEUE Artikel geprueft werden
-#     method "shopify" nutzt die /products.json-Konvention (sehr zuverlaessig)
-#     method "links"   ist ein generischer Linkscan (muss ggf. pro Shop verfeinert werden)
-#   products: einzelne Produktseiten, die auf Lagerbestand geprueft werden
-
+# ---------------------------------------------------------------------------
+# ERWEITERTE SHOP-LISTE
+# ---------------------------------------------------------------------------
 SHOPS = [
     {
         "shop": "God of Cards",
@@ -57,33 +54,53 @@ SHOPS = [
         ],
     },
     {
-        "shop": "TCGViert",
-        "watch_pages": [
-            {"name": "Vorbestellungen", "url": "https://tcgviert.com/collections/vorbestellungen", "method": "links"},
-        ],
-    },
-    {
-        "shop": "Gate to the Games",
-        "watch_pages": [
-            {"name": "Vorverkauf", "url": "https://www.gate-to-the-games.de/Pokemon-Karten/", "method": "links"},
-        ],
-    },
-    {
-        "shop": "Comic Planet",
-        "watch_pages": [
-            {"name": "Vorbestellung PKM", "url": "https://www.comicplanet.de/sammelkarten/pokemon/deutsch/vorbestellung-pkm/", "method": "links"},
-        ],
-    },
-    {
         "shop": "FantasiaCards",
         "watch_pages": [
             {"name": "Neue Artikel", "url": "https://fantasiacards.de/products.json", "method": "shopify"},
         ],
     },
-    # -> Weitere Shops nach diesem Muster ergaenzen. pokestores.de (Community-
-    #    Linkliste, 200+ deutsche TCG-Shops) ist der beste Startpunkt, um diese
-    #    Liste zu erweitern - dort selbst nachsehen, da automatisiertes Auslesen
-    #    dort per robots.txt untersagt ist.
+    {
+        "shop": "Poke-Corner",
+        "watch_pages": [
+            {"name": "Neue Artikel", "url": "https://poke-corner.de/products.json", "method": "shopify"},
+        ],
+    },
+    {
+        "shop": "Kartenkrake",
+        "watch_pages": [
+            {"name": "Neue Artikel", "url": "https://kartenkrake.de/products.json", "method": "shopify"},
+        ],
+    },
+    {
+        "shop": "Taschenmonster",
+        "watch_pages": [
+            {"name": "Neue Artikel", "url": "https://taschenmonster.de/products.json", "method": "shopify"},
+        ],
+    },
+    {
+        "shop": "CardBuddies",
+        "watch_pages": [
+            {"name": "Neue Artikel", "url": "https://cardbuddies.de/products.json", "method": "shopify"},
+        ],
+    },
+    {
+        "shop": "TCG-Nord",
+        "watch_pages": [
+            {"name": "Neue Artikel", "url": "https://tcg-nord.de/products.json", "method": "shopify"},
+        ],
+    },
+    {
+        "shop": "Card-Panda",
+        "watch_pages": [
+            {"name": "Neue Artikel", "url": "https://card-panda.de/products.json", "method": "shopify"},
+        ],
+    },
+    {
+        "shop": "TCGViert",
+        "watch_pages": [
+            {"name": "Vorbestellungen", "url": "https://tcgviert.com/collections/vorbestellungen", "method": "links"},
+        ],
+    }
 ]
 
 # ---------------------------------------------------------------------------
