@@ -8681,6 +8681,142 @@
     "pokemon-pkm-swsh09-arceus-strahlende-sterne-top-trainer-box-deutsch": {
       "a": false,
       "p": false
+    },
+    "pokemon-celebrations-booster-pack-jagdfieber": {
+      "a": false,
+      "p": false
+    },
+    "nintendo-switch-spiel-pokemon-palkia-leuchtende-perle": {
+      "a": true,
+      "p": false
+    },
+    "nintendo-switch-spiel-pokemon-dialga-strahlender-diamant": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-schwert-schild-fusions-angriff-display-36-boostern": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-schwert-schild-08-fusions-angriff-top-trainer-box-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-ultra-prisma-3-booster-pack-blister-porygon-z": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-zamazenta-v-schwert-schild-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-schwert-schild-evoli-v-tin-b-ware": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-schwert-schild-zamazenta-v-tin-deutsch-b-ware": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-schwert-schild-zacian-v-tin-deutsch-b-ware": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-pikachu-v-collection-shining-fates-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-pikachu-v-kollektion-glaenzendes-schicksal-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-bellektro-v-tin-box-glaenzendes-schicksal-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-cottoni-v-tin-box-glaenzendes-schicksal-neu-ovp-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tin-box-urgl-v-glaenzendes-schicksal-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sammelkoffer-zacian-zamazenta-neu-ovp-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-dragoran-v-kollektion-box-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mewtu-v-union-spezial-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-25-jahre-karten-mini-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-25-jahre-zacian-deluxe-pin-collection-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-25-jahre-dragapult-prime-box-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-25-jahre-katapultda-primus-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-zacian-deluxe-pin-kollektion-deutsch-25-jahre": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-25-jahre-jubilaeum-pikachu-v-union-box-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-25-jahre-jubilaeum-top-trainer-box-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-schwert-schild-kampfstile-top-trainer-box-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sword-shield-battle-styles-rapid-strike-etb-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sword-shield-battle-styles-single-strike-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-shining-fates-elite-evolie-trainer-box-neu-ovp-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-celebrations-booster-pack-25th-jahre-deutsch-4xholo-karten": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-karte-ho-oh-001-025-celebrations-deutsch-nm-m": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-karte-zamazenta-v-018-025-celebrations-25-jahre-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-karte-mew-011-025-celebrations-25th-jahre-deutsch-nm-m": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-surfendes-pikachu-vmax-kp310-009-025-celebrations-deutsch": {
+      "a": false,
+      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -10989,7 +11125,7 @@
       "p": false
     },
     "pokemon-tcg-weisse-flammen-binder-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-black-bolt-white-flare-unova-poster-collection-eng": {
@@ -19043,7 +19179,7 @@
       "p": false
     },
     "pikachu-flocked-pokemon-funko-pop": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pikachu-pokemon-funko-pop": {
