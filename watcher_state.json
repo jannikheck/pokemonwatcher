@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 128
+    "run_count": 139
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -23827,22 +23827,22 @@
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "KTCards": {
@@ -23859,7 +23859,7 @@
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Butti Cards": {
@@ -23870,7 +23870,7 @@
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
@@ -23878,12 +23878,12 @@
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "SpielRaum": {
@@ -23891,7 +23891,7 @@
     },
     "TcG Love": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
@@ -23899,7 +23899,7 @@
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
@@ -23907,12 +23907,12 @@
     },
     "ExtremePokeCorner (GR)": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Cardstore.cz": {
@@ -23932,7 +23932,7 @@
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Card-Panda": {
@@ -23940,17 +23940,17 @@
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "shopify"
     },
     "Card Collector": {
@@ -23967,7 +23967,7 @@
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 15:03:14",
+      "last_ok": "2026-07-27 15:21:29",
       "platform": "woocommerce"
     }
   }
