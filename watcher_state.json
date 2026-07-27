@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 212
+    "run_count": 232
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -2098,6 +2098,10 @@
     },
     "YONKO TCG::ALL": {
       "items": {
+        "jp-pokemon-ex-starter-deck-mary-troy-sv0d-sv0m": {
+          "a": true,
+          "p": false
+        },
         "pokemon-ling-xi-gong-fang-studio-figur-gengar": {
           "a": true,
           "p": false
@@ -23823,151 +23827,151 @@
   },
   "health": {
     "KEEPSEVEN": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "KTCards": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "LottiCards": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "BulkParadise TCG": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Vinticards": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Butti Cards": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Collect-It": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "SpielRaum": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "TcG Love": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "ExtremePokeCorner (GR)": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Cardstore.cz": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Kartenkrake": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Grubi & Co": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "TCGKarty.cz": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "TCG-Nord": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Card-Panda": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "shopify"
     },
     "Card Collector": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "TCG-Shop.at": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Poke-Corner": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "Taschenmonster": {
-      "fail_streak": 16
+      "fail_streak": 17
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-27 19:09:28",
+      "last_ok": "2026-07-27 20:34:51",
       "platform": "woocommerce"
     }
   }
