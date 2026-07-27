@@ -2,29 +2,24 @@ name: Pokemon Restock Watcher
 
 on:
   schedule:
-    # Alle 15 Min, aber BEWUSST NICHT auf die volle Stunde/Null gelegt.
-    # GitHubs Zeitplaner ist "best effort" und genau um :00 am staerksten
-    # ueberlastet -> versetzte Minuten (3,18,33,48) verringern die Verspaetung.
-    # Hinweis: exakte Intervalle garantiert GitHub trotzdem nicht (Verspaetungen
-    # von 20-60 Min sind moeglich). Fuer engere/zuverlaessigere Takte siehe
-    # den "--max-runtime"-Hinweis beim Watcher-Schritt weiter unten.
+    # Alle 15 Min, bewusst NICHT auf die volle Stunde gelegt (dort ist GitHubs
+    # Zeitplaner am staerksten ueberlastet). Jeder Lauf prueft dann aber nicht
+    # nur einmal, sondern laeuft ~14 Min im Dauertakt weiter (siehe run-Schritt)
+    # -> zusammen ergibt das nahezu lueckenlose Ueberwachung.
     - cron: "3,18,33,48 * * * *"
   workflow_dispatch: {}          # manuelles Anstossen erlaubt
 
-# Ohne Schreibrechte kann der aktualisierte State nicht zurueckgepusht werden
-# -> dann meldet jeder Lauf alles erneut. contents: write ist also Pflicht.
 permissions:
-  contents: write
+  contents: write                # noetig, um den aktualisierten State zu committen
 
-# Verhindert, dass sich zwei Laeufe ueberschneiden und den State zerschiessen.
 concurrency:
   group: restock-watcher
-  cancel-in-progress: false
+  cancel-in-progress: false      # laufenden Lauf nicht abbrechen; naechster wartet
 
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10          # Sicherheitsnetz: ein Lauf dauert jetzt nur Sekunden.
+    timeout-minutes: 20          # Sicherheitsnetz ueber der ~14-Min-Laufzeit
     steps:
       - name: Repo auschecken
         uses: actions/checkout@v4
@@ -35,23 +30,18 @@ jobs:
           python-version: "3.12"
 
       - name: Abhaengigkeiten installieren
-        run: pip install requests        # beautifulsoup4 wird nicht mehr gebraucht
+        run: pip install requests
 
       - name: Watcher ausfuehren
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python pokemon_restock_watcher.py
-        # ------------------------------------------------------------------
-        # ENGERES INTERVALL (nur fuer OEFFENTLICHE Repos sinnvoll):
-        # Bei oeffentlichen Repos sind Actions-Minuten unbegrenzt. Dann kannst
-        # du innerhalb EINES Laufs mehrfach pruefen und so ~3-Min-Takt erreichen,
-        # unabhaengig von GitHubs Cron-Verspaetung. Dazu die Zeile oben ersetzen:
-        #   run: python pokemon_restock_watcher.py --max-runtime 13 --interval 180
-        # und "timeout-minutes" oben auf z. B. 15 erhoehen.
-        # ACHTUNG bei PRIVATEN Repos: das verbraucht sehr viele Actions-Minuten
-        # (kostenpflichtiges Kontingent) -> dort lieber beim Einzel-Lauf bleiben.
-        # ------------------------------------------------------------------
+        # OEFFENTLICHES REPO -> Actions-Minuten sind gratis, darum der Dauertakt:
+        # ~14 Min lang alle 30 Sekunden ein kompletter Durchlauf ueber alle Shops.
+        # 30s ist der sinnvolle Boden - schneller riskiert IP-Sperren der Shops.
+        # (Bei einem PRIVATEN Repo waere das teuer -> dann stattdessen einfach:
+        #   run: python pokemon_restock_watcher.py )
+        run: python pokemon_restock_watcher.py --max-runtime 14 --interval 30
 
       - name: Neuen Stand speichern (state committen)
         run: |
@@ -62,7 +52,6 @@ jobs:
             echo "Keine Aenderungen am State - nichts zu committen."
           else
             git commit -m "Stand aktualisiert [skip ci]"
-            # Falls zwischenzeitlich etwas auf main gepusht wurde:
             git pull --rebase --autostash origin main || true
             git push || echo "Push fehlgeschlagen - naechster Lauf holt es nach."
           fi
