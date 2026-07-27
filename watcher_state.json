@@ -1580,6 +1580,14 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-storm-emeralda-booster-pack-japanisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-storm-emeralda-booster-pack-koreanisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
       "a": false,
       "p": false
@@ -2445,7 +2453,7 @@
       "p": false
     },
     "pokemon-turtok-holo-2-102-basis-set-psa-7-near-mint": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-bisaflor-holo-15-102-basis-set-psa-7-near-mint": {
@@ -16557,7 +16565,7 @@
       "p": false
     },
     "pokemon-2er-blister-enhanced-august-2023": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-battle-partners-booster-japanisch": {
@@ -17273,7 +17281,7 @@
       "p": false
     },
     "pokemon-back-to-school-sammelkoffer": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-origin-forme-palkia-vstar-englisch": {
