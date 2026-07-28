@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 400
+    "run_count": 419
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -415,7 +415,7 @@
           "p": false
         },
         "one-piece-tony-tony-choppers-full-color-book-promo-card-japanisch": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "one-piece-2026-saikyo-jump-promo-set-ace-luffy-newgate": {
@@ -970,6 +970,14 @@
     },
     "TCGViert::ALL": {
       "items": {
+        "pokemon-tcg-mega-entwicklungen-dunkelnacht-me05-3-pack-blister-de-vvk-17-07-26-limit-1-person-beschreibung-beachten": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tcg-mega-evolutions-pitch-black-me05-3-pack-blister-en-preorder-17-07-26-limit-1-person-beschreibung-beachten": {
+          "a": true,
+          "p": false
+        },
         "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
           "a": false,
           "p": false
@@ -19601,562 +19609,6 @@
         "pokemon-trainer-toolkit-2025-deutsch": {
           "a": false,
           "p": false
-        },
-        "pokemon-mega-entwicklung-mini-tin-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-mega-inferno-x-binder-set": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-acryl-booster-box-case-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-acryl-display-case-pokemon-etb": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-dark-crystal-blaze-slim-booster-box-chinesisch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-dark-crystal-blaze-jumbo-booster-box-chinesisch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-holiday-figures-calendar-englisch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-trainers-toolkit-2024-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-und-purpur-booster-box-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-crimanzo-ex-premium-kollektion-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-mega-latias-ex-premium-kollektion-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-mega-inferno-x-display-japanisch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-mega-lucario-ex-figuren-kollektion-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-mega-entwicklung-booster-display-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-team-rocket-snobilikat-ex-tin-box-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-team-rocket-nidoking-ex-tin-box-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-team-rocket-mewtu-ex-tin-box-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-festtagskalender-2025-deutsch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-lohgock-ex-spezial-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-collect-151-hope-tin-collection-box-bisasam-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-collect-151-hope-card-sleeve-blind-box-chn": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-sword-and-shield-12-9-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-first-partner-accessory-bundle-for-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-vmax-gift-box-blitza-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-vmax-gift-box-flamara-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-vmax-gift-box-aquana-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-weisse-flammen-tech-sticker-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-schwarze-blitze-weisse-flammen-mini-tin-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-mega-symphonia-30er-display-japanisch": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-mega-brave-display-japanisch": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-black-bolt-white-flare-mini-tin-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-prismatische-entwicklungen-premium-figuren-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-9-4-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-2zoll-ring-binder-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-glory-of-team-rocket-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-dark-phantasma-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-cyber-judge-booster-display-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-battle-partners-booster-display-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-mask-of-change-booster-display-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-jet-black-spirit-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-incandescent-arcana-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-ex-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-premium-kollektion-cynthias-ex-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-dragoran-xxl-plusch-50-cm-squishmallows": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-dragoran-plusch-25-cm-squishmallows": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-dragoran-plusch-35-cm-squishmallows": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-neon-kantoalcove-vault-deckbox-mit-glurak-turtok-und-bisaflor": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-neon-kanto-bisaflor-glurak-turtok-foil-playmat-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-team-rockets-mewtu-ex-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-collect-151-hope-jumbo-booster-box-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-collect-151-hope-coin-set-ex-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-collect-151-hope-coin-set-chn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-eevee-plusch-25-cm-squishmallows": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-clay-burst-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-the-glory-of-team-rocket-display-jpn": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-scarlet-violet-journey-together-booster-display-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-destined-rivals-booster-display-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-destined-rivals-elite-trainer-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-ewige-rivalen-top-trainer-box-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-ewige-rivalen-booster-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-rivalen-kampfdeck-mai-2025-troy-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-rivalen-kampfdeck-mai-2025-mary-de": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-elite-series-arceus-alcove-flip-deck-box-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-hisui-zoroark-v-star-premium-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-roaring-moon-ex-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-pokemon-trainers-toolkit-2024-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-ogerpon-ex-premium-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-ogerpon-ex-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-kanto-bisasam-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-blitza-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-aquana-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-flamara-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-evoli-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-kanto-shiggy-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-kanto-glumanda-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-kanto-pikachu-plusch-20-cm-jazwares": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-20cm-plusch-pikachu": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-heat-wave-arena-30er-display-jpn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-zacian-ex-tin-box-122-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-koraidon-ex-tin-box-121-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-slashing-legends-tin-koraidon-ex-tin-us-version-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-slashing-legends-tin-zacian-ex-tin-us-version-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-prismatic-evolutions-accesory-pouch-special-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-prismatische-entwicklungen-zubehor-beutel-spezial-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-prismatic-evolutions-super-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-paradigm-trigger-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-time-gazer-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-space-juggler-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-star-birth-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-fusion-arts-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-silver-lance-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-terastal-festival-ex-booster-display-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-ruler-of-the-black-flame-booster-display-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-vstar-universe-booster-display-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-ionos-bellibolt-ex-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-4-pocket-portfolio-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-mimikyu-9pocket-portfolio-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-mimikyu-4pocket-portfolio-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-65-stk-deck-protector-hullen-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-9-pocket-portfolio-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-9-pocket-pro-binder-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pikachu-alcove-tower-deck-box-fur-pokemon": {
-          "a": true,
-          "p": false
-        },
-        "ultra-pro-pikachu-playmat-fur-pokemon": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-7-9-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-8-5-9-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-8-5-4-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-7-4-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-2025-stacking-tin-ogerpon-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-2025-stacking-tin-paradox-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-2025-stacking-tin-treasur-of-ruin-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-enigmaras-wampitz-ex-premium-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-glurak-ex-spezial-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-25th-anniversary-collection-jpn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-battle-partners-30er-display-jpn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-lost-abyss-display-booster-box-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-evee-heroes-display-booster-box-koreanisch": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-blue-sky-stream-display-booster-box-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-151-display-koreanisch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-stacking-tin-2022-fighting-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-stacking-tin-2022-fire-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-stacking-tin-2022-darkness-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-greninja-ex-ultra-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-palafin-ex-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-armarouge-ex-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-tera-brawlers-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-aegislash-ex-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-journey-together-enhanced-booster-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-151-blooming-waters-premium-collection-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-journey-together-hops-zacian-ex-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-reisegefahrten-booster-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-reisegefahrten-hops-zacian-ex-box-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-paradox-rift-booster-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-mini-tin-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-uberraschungs-box-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-tech-sticker-kollektion-feelinara-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-tech-sticker-kollektion-glaziola-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-ordner-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-poster-kollektion-de": {
-          "a": false,
-          "p": false
         }
       }
     },
@@ -23811,22 +23263,22 @@
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "KTCards": {
@@ -23843,7 +23295,7 @@
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Butti Cards": {
@@ -23854,7 +23306,7 @@
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
@@ -23862,12 +23314,12 @@
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "SpielRaum": {
@@ -23883,7 +23335,7 @@
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
@@ -23896,7 +23348,7 @@
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Cardstore.cz": {
@@ -23916,7 +23368,7 @@
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Card-Panda": {
@@ -23924,17 +23376,17 @@
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "shopify"
     },
     "Card Collector": {
@@ -23951,7 +23403,7 @@
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-28 12:00:26",
+      "last_ok": "2026-07-28 13:06:02",
       "platform": "woocommerce"
     }
   }
