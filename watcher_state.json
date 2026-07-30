@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 1074
+    "run_count": 1091
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -9069,142 +9069,6 @@
         "pokemon-sammelordner-erste-partner-25-jahre-train-on-mit-oversized-sammelkarte": {
           "a": true,
           "p": false
-        },
-        "pokemon-card-game-classic-box": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-25th-anniversary-pro-binder": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-celebrations-mini-tin-kanto-starter-bulbasaur-charmander-squirtle": {
-          "a": false,
-          "p": false
-        },
-        "jenseits-des-multiversums-fallout-commander-deck-mutantengefahr": {
-          "a": false,
-          "p": false
-        },
-        "30th-celebration-ultra-premium-collection-night-pikachu-ex-umbreon-ex-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-ultra-premium-collection-day-pikachu-ex-espeon-ex-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-figure-collection-mew-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-figure-collection-mewtwo-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-ditto-premium-collection-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-battle-deck-umbreon-ex-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-battle-deck-espeon-ex-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-booster-bundle-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-mini-tin-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-eevee-knock-out-collection-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-binder-collection-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-poster-collection-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-alolan-exeggutor-sticker-collection-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-lucario-sticker-collection-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-eevee-blister-english": {
-          "a": false,
-          "p": true
-        },
-        "30th-celebration-greninja-tin-english": {
-          "a": false,
-          "p": true
-        },
-        "exclusive-30th-celebration-sylveon-tin-english": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30th-celebration-greninja-ex-box-english": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30th-celebration-sylveon-ex-box-english": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30th-celebration-elite-trainer-box-english": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-ordner-kollektion-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-2er-pack-blister-evoli-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-kollektion-quajutsu-ex-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-kollektion-feelinara-ex-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-poster-kollektion-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-tech-sticker-kollektion-alola-kokowei-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-tech-sticker-kollektion-lucario-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-tin-box-feelinara-ex-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-tin-box-quajutsu-ex-deutsch": {
-          "a": false,
-          "p": true
-        },
-        "pokemon-30-jahre-top-trainer-box-deutsch": {
-          "a": false,
-          "p": true
         }
       }
     },
@@ -20743,7 +20607,7 @@
           "p": false
         },
         "pokemon-shiny-treasure-ex-booster-jp": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-munikis-zero-booster-jp": {
@@ -23879,151 +23743,151 @@
   },
   "health": {
     "KEEPSEVEN": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "KTCards": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "LottiCards": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "BulkParadise TCG": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Vinticards": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Butti Cards": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Collect-It": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "SpielRaum": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "TcG Love": {
-      "fail_streak": 15,
-      "last_ok": "2026-07-30 03:41:41",
+      "fail_streak": 6,
+      "last_ok": "2026-07-30 23:40:21",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "ExtremePokeCorner (GR)": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Cardstore.cz": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Kartenkrake": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Grubi & Co": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "TCGKarty.cz": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "TCG-Nord": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Card-Panda": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "shopify"
     },
     "Card Collector": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "TCG-Shop.at": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Poke-Corner": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "Taschenmonster": {
-      "fail_streak": 59
+      "fail_streak": 60
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 22:32:57",
+      "last_ok": "2026-07-30 23:46:52",
       "platform": "woocommerce"
     }
   }
