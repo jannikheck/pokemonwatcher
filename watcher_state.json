@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 925
+    "run_count": 943
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -339,7 +339,7 @@
           "p": false
         },
         "pokemon-phantasmal-flames-display-englisch": {
-          "a": false,
+          "a": true,
           "p": false
         },
         "pokemon-celebrations-elite-trainer-box-englisch": {
@@ -970,24 +970,36 @@
     },
     "TCGViert::ALL": {
       "items": {
+        "pokemon-tcg-mega-evolution-perfect-order-me03-36er-display-en-preorder-27-03-26-limit-3-person": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tcg-2-pack-blister-januar-2025-de": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tcg-phantasmal-flames-me02-booster-display-box-36-packs-en": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tcg-mega-glurak-ex-tin-box-de-random": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tcg-mega-entwicklungen-perfekte-ordnung-me03-3-pack-blister-de": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tcg-wachsendes-chaos-me04-3-pack-blister-de": {
+          "a": true,
+          "p": false
+        },
         "kp6-5-top-trainer-box-de-b2c": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-tcg-erhabene-helden-me2-5-top-trainer-box-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-tcg-erhabene-helden-me2-5-booster-bundle-de-preorder-24-04-2026-limit-5-person": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-tcg-erhabene-helden-me2-5-mega-ex-box-de-preorder-24-04-26-limit-3-person": {
           "a": false,
           "p": false
         },
         "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-tcg-pitch-black-me05-premium-checklane-blister-en-limit-2-person": {
@@ -995,7 +1007,7 @@
           "p": false
         },
         "pokemon-tcg-mega-entwicklungen-dunkelnacht-me05-3-pack-blister-de-vvk-17-07-26-limit-1-person-beschreibung-beachten": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-tcg-mega-evolutions-pitch-black-me05-3-pack-blister-en-preorder-17-07-26-limit-1-person-beschreibung-beachten": {
@@ -1283,7 +1295,7 @@
           "p": false
         },
         "pokemon-tcg-trainer-toolkit-2024-de": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-tcg-omakase-ex-deckjp": {
@@ -1639,7 +1651,7 @@
           "p": false
         },
         "pokemon-tcg-151-collect-the-first-partner-display-set-bisasam-chn": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-tcg-battle-partners-display-sv9-jp": {
@@ -8339,7 +8351,7 @@
           "p": false
         },
         "ultra-pro-pokemon-pro-binder-pikachu": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "ultra-pro-pokemon-9-pocket-portfolio-pikachu": {
@@ -16394,6 +16406,166 @@
     },
     "CardCosmos::ALL": {
       "items": {
+        "pokemon-bisaflor-holo-15-102-basis-set-aog-3-5-played": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-glurak-holo-4-102-basis-set-aog-3-played": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mewtu-holo-10-102-basis-set-aog-2-5-played": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-turtok-holo-2-102-basis-set-aog-5-good": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mewtu-holo-10-102-basis-set-aog-5-5-good": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-glurak-holo-4-102-basis-set-aog-1-poor-3": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-glurak-holo-4-102-basis-set-aog-1-poor-4": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-turtok-holo-2-102-basis-set-aog-1-poor-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-comfey-187-172-art-rare-vstar-universe-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-delibird-074-063-art-rare-mega-symphonia-apg-9-5-mint-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-sandygast-075-071-art-rare-clay-burst-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-dudunsparce-138-130-art-rare-fearless-terastal-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-palafin-111-108-art-rare-ruler-of-the-black-flame-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-passimian-125-122-chr-pawmi-and-alts-topbest-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-orthworm-136-130-art-rare-fearless-terastal-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-flutter-mane-076-071-art-rare-wild-force-apg-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-thievul-192-172-art-rare-vstar-universe-apg-9-5-mint-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-heliolisk-073-066-art-rare-crimson-haze-apg-10-gem-mint-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-togedemaru-090-080-art-rare-inferno-x-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-bellibolt-112-108-art-rare-ruler-of-the-black-flame-apg-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-heliolisk-073-066-art-rare-crimson-haze-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-delibird-074-063-art-rare-mega-symphonia-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-enamorus-074-066-art-rare-crimson-haze-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-dewgong-084-080-art-rare-inferno-x-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-thievul-192-172-art-rare-vstar-universe-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-nacli-078-071-art-rare-clay-burst-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-houndour-115-108-art-rare-ruler-of-the-black-flame-apg-9-mint-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-chandelure-069-067-character-rare-battle-region-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-houndour-115-108-art-rare-ruler-of-the-black-flame-apg-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-farigiraf-083-071-art-rare-clay-burst-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-toxtricity-089-080-art-rare-inferno-x-apg-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-charizard-r-029-115-vivid-portrayals-obsidian-apg-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-glaziola-swsh192-swsh-black-star-promos-m3g-8-nm-mint-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-glaziola-swsh192-swsh-black-star-promos-m3g-8-nm-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-frillish-art-rare-124-086-white-flare-m3g-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-petilil-art-rare-091-086-black-bolt-m3g-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-evoli-ex-075-131-prismatische-entwicklungen-m3g-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-terapagos-ex-gold-rare-180-131-prismatische-entwicklungen-m3g-8-5-nm-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-piplup-art-rare-085-080-inferno-x-m3g-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-xenias-aufruf-special-illustration-rare-246-191-stuermische-funken-m3g-9-mint": {
+          "a": true,
+          "p": false
+        },
         "pokemon-pitch-black-sleeved-booster-englisch": {
           "a": false,
           "p": false
@@ -20049,134 +20221,6 @@
         "ultra-pro-pokemon-scarlet-violet-7-9-pocket-portfolio": {
           "a": false,
           "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-8-5-9-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-8-5-4-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "ultra-pro-pokemon-scarlet-violet-7-4-pocket-portfolio": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-2025-stacking-tin-ogerpon-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-2025-stacking-tin-paradox-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-2025-stacking-tin-treasur-of-ruin-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-enigmaras-wampitz-ex-premium-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-glurak-ex-spezial-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-25th-anniversary-collection-jpn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-battle-partners-30er-display-jpn": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-lost-abyss-display-booster-box-kor": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-evee-heroes-display-booster-box-koreanisch": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-blue-sky-stream-display-booster-box-kor": {
-          "a": true,
-          "p": false
-        },
-        "pokemon-151-display-koreanisch": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-stacking-tin-2022-fighting-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-stacking-tin-2022-fire-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-stacking-tin-2022-darkness-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-greninja-ex-ultra-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-palafin-ex-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-armarouge-ex-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-tera-brawlers-premium-collection-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-aegislash-ex-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-journey-together-enhanced-booster-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-151-blooming-waters-premium-collection-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-scarlet-violet-journey-together-hops-zacian-ex-box-en": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-reisegefahrten-booster-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-reisegefahrten-hops-zacian-ex-box-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-paradox-rift-booster-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-mini-tin-display-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-uberraschungs-box-kollektion-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-tech-sticker-kollektion-feelinara-de": {
-          "a": false,
-          "p": false
-        },
-        "pokemon-karmesin-purpur-prismatische-entwicklungen-tech-sticker-kollektion-glaziola-de": {
-          "a": false,
-          "p": false
         }
       }
     },
@@ -21026,10 +21070,6 @@
     },
     "CardBuddies::ALL": {
       "items": {
-        "abyss-eye-m5-booster-display-jp": {
-          "a": false,
-          "p": false
-        },
         "mega-entwicklungen-dunkelnacht-top-trainer-box-de": {
           "a": false,
           "p": false
@@ -23807,151 +23847,151 @@
   },
   "health": {
     "KEEPSEVEN": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "KTCards": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "LottiCards": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "BulkParadise TCG": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Vinticards": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Butti Cards": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Collect-It": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "SpielRaum": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "TcG Love": {
-      "fail_streak": 8,
+      "fail_streak": 9,
       "last_ok": "2026-07-30 03:41:41",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "ExtremePokeCorner (GR)": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Cardstore.cz": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Kartenkrake": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Grubi & Co": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "TCGKarty.cz": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "TCG-Nord": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Card-Panda": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "shopify"
     },
     "Card Collector": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "TCG-Shop.at": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Poke-Corner": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "Taschenmonster": {
-      "fail_streak": 52
+      "fail_streak": 53
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-30 09:03:20",
+      "last_ok": "2026-07-30 11:20:15",
       "platform": "woocommerce"
     }
   }
