@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 1200
+    "run_count": 1214
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -2291,7 +2291,7 @@
           "p": false
         },
         "s-chn-pokemon-display-gem-pack-vol-5-cbb5": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "eng-pokemon-elite-trainer-box-phantasmal-flames-me02": {
@@ -4655,7 +4655,7 @@
           "p": false
         },
         "pokemon-mega-moonlit-tins-de": {
-          "a": false,
+          "a": true,
           "p": false
         },
         "pokemon-eternatus-v-powers-tin-eng": {
@@ -4667,7 +4667,7 @@
           "p": false
         },
         "pokemon-dunkelnacht-display-de": {
-          "a": false,
+          "a": true,
           "p": false
         },
         "pokemon-dunkelnacht-top-trainer-box-de": {
@@ -5347,7 +5347,7 @@
           "p": false
         },
         "pokemon-verborgenes-schicksal-glurak-gx-tin-de": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-ascended-heroes-mini-tin-eng": {
@@ -20267,7 +20267,7 @@
     "FantasiaCards::ALL": {
       "items": {
         "pokemon-pitch-black-display-eng": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-pitch-black-booster-eng": {
@@ -23891,22 +23891,22 @@
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "KTCards": {
@@ -23923,7 +23923,7 @@
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Butti Cards": {
@@ -23934,7 +23934,7 @@
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
@@ -23942,12 +23942,12 @@
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "SpielRaum": {
@@ -23955,7 +23955,7 @@
     },
     "TcG Love": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
@@ -23963,7 +23963,7 @@
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
@@ -23971,12 +23971,12 @@
     },
     "ExtremePokeCorner (GR)": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Cardstore.cz": {
@@ -23996,7 +23996,7 @@
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Card-Panda": {
@@ -24004,17 +24004,17 @@
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "shopify"
     },
     "Card Collector": {
@@ -24031,7 +24031,7 @@
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-07-31 15:12:53",
+      "last_ok": "2026-07-31 16:58:57",
       "platform": "woocommerce"
     }
   }
