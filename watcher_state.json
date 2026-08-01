@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 1426
+    "run_count": 1445
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -1721,11 +1721,415 @@
         "pokemon-pikachu-mousepad-xxl": {
           "a": true,
           "p": false
+        },
+        "trading-card-pro-magazin-ausgabe-1-en": {
+          "a": true,
+          "p": false
+        },
+        "enfeiertagskalender-2024": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-gerahmtes-bild-scarlet-violet-starter-30x40-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-250-ml-jigglypuff": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-gerahmtes-bild-red-vs-blue-glurak-vs-turtok-30x40-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-poster-set-2er-chibi-style-bunte-charaktere-52-x-38-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-gerahmtes-bild-pikachu-silhouette-25-jahre-30x40-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-gerahmtes-bild-relax-mit-relaxo-30x40-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-gerahmtes-bild-comic-panel-allstars-30x40-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-gerahmtes-bild-pikachu-kanto-starter-30x40-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-pokemon-moves-91-5-x-61-cm": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-kartenetui-pikachu-25-jahre-edition-2-facher": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-a5-notebook-stil-kanto-starters": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-400-ml-togepi": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-heat-change-460ml-stil-evolve": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tote-bag-anime-ii": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-ice-cube-tray-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-first-partners": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-set-2-posters-chibi-52x38-environments": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-eevee": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-fire-type": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-all-time-favorites": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-pikachu-wink": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-eevee-evolution": {
+          "a": false,
+          "p": false
+        },
+        "pokemon-maxi-poster-91-5x61-stil-pikachu-neon": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-premium-kartenhalter-pikachu-mit-sichtfenster": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-geschenkset-xxl-glas-tasse-2-untersetzer-glow-in-the-dark": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tasse-on-the-way-to-the-gifts-weihnachtsedition-320ml": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tasse-pikachu-black-icon-460ml-keramik": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-250-ml-pikachu-electric": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mousepad-stil-starters-kanto-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-giftset-a5-notebook-mug320ml-postcards-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-tote-bag-trainer": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-bowl-600ml-stil-pikachu-electric-type": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-large-glass-pikachu-pattern-400ml": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-notebook-blue-red-partners": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-heat-change-460-ml-pikachu-25": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-a5-notebook-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-postcards-gen-1-starters-x5-14-8x10-5": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-bowl-600ml-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-breakfast-set-mug-bowl-pikachu-kanto-starters": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-a5-notebook-stil-starters": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-3d-mug-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-400-ml-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mousepad-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mousepad-scarlet-violet-legenden": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-3d-mug-snorlax": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-pen-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-pikachu-evolve": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-love-at-first-sight": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-pikachu-christmas": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-water-partners": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-fire-starters-white": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-trainer": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-pikachu-rest": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-pikachu-electric-type": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-jigglypuff-comic-2": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-bulbasaur-neon": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-squirtle-neon": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-charizard-type": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-logo-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-evoli-evolutions": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-i-choose-you": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-pikachu-kanto-starters": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-jigglypuff-comic-strip": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-snorlax-comic-strip": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-gyarados": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-scarlet-violet-legendaries": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-scarlet-violet-starters": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-320ml-stil-comic-strip-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-pen-stil-bulbasaur": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-umbrella-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-water-bottle-pikachu-scribble": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-heat-change-460ml-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-heat-change-460ml-stil-eevee": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-heat-change-320ml-stil-catch-em-all": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-460ml-stil-pikachu-face": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-460ml-stil-pikachu-and-starters": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-460ml-stil-pikachu-25": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mug-460ml-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-large-glass-premium-pikachu-foil-400ml": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-giftset-xxl-glass-mug-2-coasters-pokeball": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-breakfast-set-pikachu-mug-bowl": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-canteen-steel-bottle-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-cushion-stil-squirtle": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-cushion-stil-pokeball": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-cushion-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-cushion-stil-jigglypuff": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-cookie-jar-pokeball": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-bento-box-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-bento-box-stil-electric-type": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-3d-mug-pokeball": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-3d-mug-pikachu-lightening-bolt": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-2-glass-set-magikarp-gyarados": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-carabiner-mug-stil-pokeball": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-carabiner-mug-stil-pikachu-25": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-carabiner-mug-stil-pikachu": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-set-mit-3-glasern-motiv-bisasam-glumanda-schiggy": {
+          "a": true,
+          "p": false
         }
       }
     },
     "YONKO TCG::ALL": {
       "items": {
+        "de-pokemon-top-trainer-box-30-jahre-mbe4": {
+          "a": false,
+          "p": true
+        },
+        "de-pokemon-box-ultra-premium-kollektion-30-jahre-tag-nacht": {
+          "a": false,
+          "p": true
+        },
         "s-chn-pokemon-blind-box-dream-eeveelutions-figuren-set-vol-3": {
           "a": false,
           "p": true
@@ -4214,6 +4618,10 @@
     },
     "CrispyCards::ALL": {
       "items": {
+        "pokemon-erste-partner-illustrations-kollektion-2-de": {
+          "a": true,
+          "p": false
+        },
         "pokemon-erste-partner-illustrations-kollektion-1": {
           "a": true,
           "p": false
@@ -23499,151 +23907,151 @@
   },
   "health": {
     "KEEPSEVEN": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "KTCards": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "LottiCards": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "BulkParadise TCG": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Vinticards": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Butti Cards": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Collect-It": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "SpielRaum": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "TcG Love": {
-      "fail_streak": 16,
+      "fail_streak": 17,
       "last_ok": "2026-07-31 16:58:57",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "ExtremePokeCorner (GR)": {
-      "fail_streak": 0,
+      "fail_streak": 7,
       "last_ok": "2026-08-01 11:55:37",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Cardstore.cz": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Kartenkrake": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Grubi & Co": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "TCGKarty.cz": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "TCG-Nord": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Card-Panda": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "shopify"
     },
     "Card Collector": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "TCG-Shop.at": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Poke-Corner": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "Taschenmonster": {
-      "fail_streak": 77
+      "fail_streak": 78
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-01 11:55:37",
+      "last_ok": "2026-08-01 12:53:18",
       "platform": "woocommerce"
     }
   }
