@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 2080
+    "run_count": 2099
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -1043,7 +1043,7 @@
           "p": false
         },
         "pokemon-tcg-mega-evolution-perfect-order-me03-sleeved-booster-pack-en-preorder-27-03-2026-limit-6-kunde": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-tcg-black-bolt-white-flare-sv10-5-unova-mini-tin-random-en": {
@@ -2999,7 +2999,7 @@
           "p": false
         },
         "jp-pokemon-boosterpack-future-flash-sv4m": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "jp-pokemon-boosterpack-paradise-dragona-sv6a": {
@@ -3627,7 +3627,7 @@
           "p": false
         },
         "jp-pokemon-boosterpack-raging-surf-sv3a": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "eng-pokemon-boosterpack-silver-tempest": {
@@ -17743,7 +17743,7 @@
           "p": false
         },
         "pokemon-psiana-prime-81-90-unerschrocken-aog-2-5-played": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-umbreon-41-147-aquapolis-aog-3-5-played": {
@@ -20326,6 +20326,22 @@
     },
     "FantasiaCards::ALL": {
       "items": {
+        "pokemon-mask-of-change-booster-jp": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mask-of-change-display-jp": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-night-wanderer-booster-jp": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-night-wanderer-display-jp": {
+          "a": true,
+          "p": false
+        },
         "pokemon-blind-box-30th-anniversary-first-partner-card-set-vol-2-s-chn": {
           "a": true,
           "p": false
@@ -21140,10 +21156,6 @@
         },
         "pokemon-maries-morpeko-olangaar-ex-starter-jp": {
           "a": true,
-          "p": false
-        },
-        "pokemon-scarlet-ex-display-japanisch": {
-          "a": false,
           "p": false
         },
         "pokemon-collect-151-journey-slim-display-cn": {
@@ -23943,22 +23955,22 @@
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "KTCards": {
@@ -23975,7 +23987,7 @@
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Butti Cards": {
@@ -23986,7 +23998,7 @@
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
@@ -23994,12 +24006,12 @@
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "SpielRaum": {
@@ -24015,7 +24027,7 @@
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
@@ -24023,12 +24035,12 @@
     },
     "ExtremePokeCorner (GR)": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Cardstore.cz": {
@@ -24048,7 +24060,7 @@
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Card-Panda": {
@@ -24056,17 +24068,17 @@
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "shopify"
     },
     "Card Collector": {
@@ -24083,7 +24095,7 @@
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-03 18:32:34",
+      "last_ok": "2026-08-03 20:24:48",
       "platform": "woocommerce"
     }
   }
