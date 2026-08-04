@@ -5784,10 +5784,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "acryl-case-f-r-pokemon-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
     "mega-entwicklungen-erhabene-helden-top-trainer-box-de": {
       "a": false,
       "p": false
@@ -7343,7 +7339,7 @@
   },
   "TCG Stadium::ALL": {
     "prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "destined-rivals-pokemon-center-elite-trainer-box-exclusive-sv10-destined-rivals-dri": {
@@ -8579,11 +8575,11 @@
   },
   "Templars Arena::ALL": {
     "pokemon-first-partner-illustration-collection-3": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-05-pitch-black-2-pack-checklane-blister-zarude": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-booster-bundle-english-copy": {
