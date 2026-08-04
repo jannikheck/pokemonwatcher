@@ -5146,6 +5146,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-evolutions-booster-eng-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-first-partner-illustration-collection-series-1-eng": {
       "a": true,
       "p": false
@@ -7725,7 +7729,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-tin-mega-charizard-x-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-charizard-tin-mega-charizard-y-ex": {
