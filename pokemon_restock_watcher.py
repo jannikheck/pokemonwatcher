@@ -1,130 +1,147 @@
-#!/usr/bin/env python3
 """
-Pokemon Restock & Preorder Watcher v6 (Europa-Edition)
-------------------------------------------------------
-Ueberwacht TCG-Shops in ganz Europa auf
+Pokemon Restock & Preorder Watcher v5 (DACH Master Edition)
+-----------------------------------------------------------
+Ueberwacht deutsche und oesterreichische TCG-Shops auf
 
   * NEUE Pokémon-Produkte (inkl. Vorbestellungen), sobald sie im Shop auftauchen
   * WIEDER VERFUEGBARE Pokémon-Produkte (echter Restock: war ausverkauft -> jetzt kaufbar)
 
 und schickt dir dazu eine Telegram-Nachricht MIT Produktname und Direktlink.
 
-Was ist neu gegenueber v5
--------------------------
-1. NEBENLAEUFIG: alle Shops werden parallel geprueft (ThreadPool) statt nacheinander.
-   -> ein kompletter Lauf dauert jetzt Sekunden statt Minuten.
-2. WOOCOMMERCE: zusaetzlich zu Shopify (products.json) werden jetzt auch
-   WooCommerce-Shops ueber die oeffentliche Store-API gelesen
-   (/wp-json/wc/store/v1/products). Damit sind viele europaeische Shops
-   erreichbar, die NICHT auf Shopify laufen (z. B. viele GR/CZ/DE-Shops).
-3. FIX gegen Falschmeldungen: neue Artikel werden nur noch gemeldet, wenn man
-   sie auch kaufen oder vorbestellen kann. "Neu, aber schon ausverkauft" wird
-   nicht mehr als Fund gemeldet (war die Ursache fuer deine unsicheren Treffer).
-4. ROBUSTER: kurze Timeouts (tote Domains blockieren nicht mehr), automatisches
-   Ueberspringen chronisch toter Shops, versioniertes State-Format.
-5. DIAGNOSE: --test (Telegram testen), --check-url (beliebigen Shop pruefen),
-   --selftest (Melde-Logik offline testen), --max-runtime (enges Intervall in CI).
+Funktionsweise
+--------------
+Fast alle hier gelisteten Shops laufen auf Shopify. Shopify stellt unter
+    https://<shop>/products.json
+das komplette Sortiment als JSON bereit (oeffentlich, kein Login noetig).
+Der Watcher liest dieses JSON, filtert nach Pokémon und vergleicht den Stand
+mit dem letzten Lauf (watcher_state.json).
+
+WICHTIG: Nicht jeder Shop nutzt Shopify (viele deutsche Shops laufen auf
+Shopware / JTL / Gambio / WooCommerce -> dort gibt es KEIN products.json).
+Solche Shops werden automatisch erkannt und sauber uebersprungen. Du kannst
+also bedenkenlos neue Domains in die Liste werfen - was nicht passt, faellt
+beim Selbsttest einfach raus. Fuer den schnellen Check gibt es den
+--verify-Modus (siehe unten).
 
 Aufruf
 ------
-    python pokemon_restock_watcher.py                 # ein Ueberwachungslauf
-    python pokemon_restock_watcher.py --test          # Telegram-Testnachricht senden
-    python pokemon_restock_watcher.py --check-url URL # pruefen, ob ein Shop lesbar ist
-    python pokemon_restock_watcher.py --verify        # alle Shops in der Liste pruefen
-    python pokemon_restock_watcher.py --selftest      # Melde-Logik ohne Netz testen
-    python pokemon_restock_watcher.py --loop          # dauerhaft laufen (lokal)
-    python pokemon_restock_watcher.py --max-runtime 13  # ~13 Min lang wiederholt pruefen (CI)
+    python pokemon_restock_watcher.py            # ein Ueberwachungslauf
+    python pokemon_restock_watcher.py --verify   # nur pruefen, welche Shops Shopify sind
+    python pokemon_restock_watcher.py --loop      # dauerhaft laufen (Intervall unten)
 
-Abhaengigkeiten:  pip install requests
+Abhaengigkeiten:  pip install requests beautifulsoup4
 """
 
 import argparse
 import json
 import os
 import random
+import re
 import sys
 import time
-from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+from urllib.parse import urljoin, urlparse
 
 import requests
+from bs4 import BeautifulSoup
 
 # ---------------------------------------------------------------------------
 # KONFIGURATION
 # ---------------------------------------------------------------------------
 
 STATE_FILE = "watcher_state.json"
-STATE_SCHEMA = 6  # bei Formataenderung erhoehen -> alter State wird neu eingelernt
 
 # --- Telegram ---
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "DEIN_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "DEINE_CHAT_ID")
 
 # --- Verhalten ---
-MAX_WORKERS = 8                      # wie viele Shops parallel geprueft werden
-REQUEST_TIMEOUT = (5, 10)            # (Verbindungs-, Lese-Timeout) in Sekunden
-MAX_PAGES = 10                       # max. Katalogseiten je Shop
-SHOPIFY_PER_PAGE = 250
-WOO_PER_PAGE = 100
-PER_PAGE_DELAY = (0.3, 0.8)          # kleine Pause zwischen Seiten DESSELBEN Shops
-LOOP_INTERVAL_SECONDS = 180          # Pause zwischen Laeufen im --loop / --max-runtime
-MAX_ITEMS_PER_MESSAGE = 15           # so viele Artikel werden einzeln gelistet
-TELEGRAM_MSG_DELAY = 0.5             # Pause zwischen Telegram-Nachrichten
-TELEGRAM_MAX_CHARS = 3900            # unter dem Telegram-Limit (4096) bleiben
-
-NOTIFY_ON_NEW = True                 # neue Produkte / Vorbestellungen melden
-NOTIFY_ON_RESTOCK = True             # "wieder verfuegbar" melden
-# FIX: neue Artikel nur melden, wenn kaufbar ODER Vorbestellung.
-# So kommt kein "NEU"-Alarm mehr fuer Produkte, die schon ausverkauft sind.
-NOTIFY_NEW_REQUIRES_ACTIONABLE = True
-
-SKIP_AFTER_FAILS = 6                 # Shop nach so vielen Fehl-Laeufen in Folge ueberspringen
-REPROBE_EVERY = 20                   # ... aber alle N Laeufe trotzdem nochmal testen
+LOOP_INTERVAL_SECONDS = 300          # Pause zwischen zwei Komplettlaeufen im --loop-Modus
+REQUEST_TIMEOUT = 20                 # Sekunden pro HTTP-Request
+MAX_PAGES = 10                       # max. Shopify-Seiten je Shop (250 Produkte/Seite -> 2500)
+PER_SHOP_DELAY = (3, 6)              # zufaellige Pause (Sek.) zwischen Shops -> hoeflich bleiben
+PER_PAGE_DELAY = (1, 2)             # zufaellige Pause (Sek.) zwischen Katalogseiten
+MAX_ITEMS_PER_MESSAGE = 15           # so viele Artikel werden einzeln in der Nachricht gelistet
+NOTIFY_ON_RESTOCK = True             # auch bei "wieder verfuegbar" benachrichtigen
+NOTIFY_ON_NEW = True                 # bei neuen Produkten / Vorbestellungen benachrichtigen
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; PersoenlicherRestockWatcher/1.0)",
     "Accept": "application/json, text/html;q=0.9, */*;q=0.8",
-    "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
+    "Accept-Language": "de-DE,de;q=0.9",
 }
 
-# Woran erkennt der Watcher "Pokémon"? (Kleinbuchstaben; "pok" faengt Pokemon/Pokémon)
-POKEMON_KEYWORDS = ["pok"]
+# ---------------------------------------------------------------------------
+# FILTER: Was soll ueberhaupt gemeldet werden?
+# ---------------------------------------------------------------------------
+# Ziel: NUR interessante versiegelte Produkte + Vorbestellungen. KEINE
+# Einzelkarten, keine gegradeten Karten, kein Zubehoer, keine anderen TCGs.
+#
+# Ein Produkt wird gemeldet, wenn:
+#     ist Pokémon  UND  (versiegelte Kategorie ODER Vorbestellung)
+#     UND  ist KEINE Einzel-/Gradingkarte  UND  keine ausgeschlossene Sprache
 
-# Woran erkennt der Watcher eine Vorbestellung?
-PREORDER_KEYWORDS = [
-    "vorbestell", "preorder", "pre-order", "pre order", "vorverkauf",
-    "coming soon", "προπαραγγελ", "predobjedn", "předobjedn",
+# 1) Muss Pokémon sein. Wir pruefen NUR Titel + Produkttyp (nicht Vendor/Tags),
+#    damit z.B. der Shopname "Pokitrio" nicht faelschlich One-Piece-Artikel triggert.
+POKEMON_TERMS = ["pokemon"]  # "é" wird vorher zu "e" normalisiert -> faengt auch "Pokémon"
+
+# 2) Erwuenschte Produktkategorien (versiegelt). Kommt einer dieser Begriffe im
+#    Titel/Typ vor, ist es ein Kandidat. Liste beliebig erweiterbar/kuerzbar.
+SEALED_CATEGORY_KEYWORDS = [
+    "display", "booster box", "booster bundle", "booster display",
+    "elite trainer box", "top trainer box", "trainer box", "etb", "ttb",
+    "blister", "tin", "collection", "kollektion", "premium collection",
+    "poster collection", "poster kollektion", "special collection",
+    "ultra premium collection", "upc", "build & battle", "build and battle",
+    "prerelease", "mystery box", "bundle", "gift box", "geschenkbox",
 ]
 
+# 3) Ausschluss: Einzelkarten & gegradete Karten (das war der CardCosmos-Spam).
+#    Grading-Kuerzel + Zustandsbegriffe. Zusaetzlich greift unten ein
+#    Kartennummern-Muster wie "53/82" oder "091/187".
+SINGLE_CARD_EXCLUDE = [
+    "psa", "pgs", "cgc", "bgs", "sgc", "gma", "aog",        # Grading-Firmen
+    "gem mint", "near mint", "pristine", "excellent",        # Zustaende (Einzelkarten)
+    "very good", "light play", "moderate play", "played",
+    "einzelkarte", "single card", "singles",
+]
+CARD_NUMBER_RE = re.compile(r"\b\d{1,3}/\d{2,3}\b")          # z.B. 53/82, 47/102, 091/187
+
+# 4) Sprachen, die du NICHT willst (killt u.a. die China-Jumbo-Flut bei God of Cards).
+#    Leere Liste [] = keine Sprachfilterung. Ergaenze "japanisch"/"koreanisch",
+#    falls du die auch nicht willst.
+EXCLUDE_LANGUAGES = ["chinesisch", "s-chinesisch"]
+
+# Vorbestellungen kommen IMMER durch (solange keine Einzelkarte / falsche Sprache),
+# damit du keine neu erscheinenden Sets verpasst.
+PREORDER_KEYWORDS = ["vorbestell", "preorder", "pre-order", "pre order", "vorverkauf", "coming soon"]
+
 # ---------------------------------------------------------------------------
-# SHOP-LISTE
+# SHOP-LISTE (Deutschland & Oesterreich)
 #
-#   shop      : Anzeigename
-#   country   : DE / AT / GR / CZ / ...
-#   base      : Shop-Basis-URL OHNE abschliessenden Slash
-#   platform  : optional "shopify" oder "woocommerce" als Hinweis.
-#               Fehlt der Hinweis, wird die Plattform zur Laufzeit erkannt
-#               (erst Shopify, dann WooCommerce). Erkanntes Ergebnis wird
-#               gemerkt, damit spaetere Laeufe nur 1 Request pro Shop brauchen.
-#   collections: optional; nur diese Shopify-Collection(s) statt Gesamtsortiment.
-#   verified  : rein informativ.
+#   base            : Shop-Basis-URL ohne abschliessenden Slash
+#   country         : DE / AT
+#   verified        : True  -> als Shopify bestaetigt (Recherche 07/2026)
+#                     None  -> echter Shop, Plattform wird zur Laufzeit geprueft
+#   collections     : optional; nur diese Shopify-Collection(s) statt Gesamtsortiment
+#                     ueberwachen, z.B. ["vorbestellungen"] -> spart Traffic
+#   method          : "shopify" (Standard) oder "links" (HTML-Fallback fuer Nicht-Shopify)
 #
-# Neue Shops einfach ergaenzen. Was weder Shopify noch WooCommerce ist (oder
-# nicht erreichbar), wird automatisch sauber uebersprungen. Zum Testen eines
-# einzelnen Shops:  python pokemon_restock_watcher.py --check-url <url>
+# Du kannst jederzeit Eintraege ergaenzen. Was nicht auf Shopify laeuft oder
+# nicht erreichbar ist, wird beim Lauf automatisch uebersprungen.
 # ---------------------------------------------------------------------------
 
 SHOPS = [
-    # ===================== DEUTSCHLAND — Shopify bestaetigt =====================
-    {"shop": "TCGViert",         "country": "DE", "base": "https://tcgviert.com",         "platform": "shopify", "verified": True},
-    {"shop": "Feenturm",         "country": "DE", "base": "https://feenturm.de",          "platform": "shopify", "verified": True},
-    {"shop": "CardCosmos",       "country": "DE", "base": "https://cardcosmos.de",        "platform": "shopify", "verified": True},
-    {"shop": "TradingToys",      "country": "DE", "base": "https://www.tradingtoys.de",   "platform": "shopify", "verified": True},
-    {"shop": "KEEPSEVEN",        "country": "DE", "base": "https://keepseven.de",         "platform": "shopify", "verified": True},
-    {"shop": "BulkParadise TCG", "country": "DE", "base": "https://bulkparadise-tcg.de",  "platform": "shopify", "verified": True},
-    {"shop": "CrispyCards",      "country": "DE", "base": "https://crispycards.de",       "platform": "shopify", "verified": True},
+    # ===================== DEUTSCHLAND - Shopify bestaetigt =====================
+    {"shop": "TCGViert",         "country": "DE", "base": "https://tcgviert.com",         "verified": True},
+    {"shop": "Feenturm",         "country": "DE", "base": "https://feenturm.de",          "verified": True},
+    {"shop": "CardCosmos",       "country": "DE", "base": "https://cardcosmos.de",        "verified": True},
+    {"shop": "TradingToys",      "country": "DE", "base": "https://www.tradingtoys.de",   "verified": True},
+    {"shop": "KEEPSEVEN",        "country": "DE", "base": "https://keepseven.de",         "verified": True},
+    {"shop": "BulkParadise TCG", "country": "DE", "base": "https://bulkparadise-tcg.de",  "verified": True},
+    {"shop": "CrispyCards",      "country": "DE", "base": "https://crispycards.de",       "verified": True},
 
-    # ===================== DEUTSCHLAND — Kandidaten (Laufzeit-Check) =====================
+    # ===================== DEUTSCHLAND - Kandidaten (Laufzeit-Check) =====================
     {"shop": "Pokitrio",         "country": "DE", "base": "https://www.pokitrio.de",      "verified": None},
     {"shop": "Major Cards TCG",  "country": "DE", "base": "https://majorcardstcg.com",    "verified": None},
     {"shop": "YONKO TCG",        "country": "DE", "base": "https://yonko-tcg.de",         "verified": None},
@@ -134,67 +151,59 @@ SHOPS = [
     {"shop": "Collect-It",       "country": "DE", "base": "https://www.collect-it.de",    "verified": None},
     {"shop": "God of Cards",     "country": "DE", "base": "https://godofcards.com",       "verified": None},
 
-    # ===================== OESTERREICH — Shopify bestaetigt =====================
-    {"shop": "Vinticards",       "country": "AT", "base": "https://vinticards.at",        "platform": "shopify", "verified": True},
-    {"shop": "Cardstore.at",     "country": "AT", "base": "https://cardstore.at",         "platform": "shopify", "verified": True},
+    # ===================== OESTERREICH - Shopify bestaetigt =====================
+    {"shop": "Vinticards",       "country": "AT", "base": "https://vinticards.at",        "verified": True},
+    {"shop": "Cardstore.at",     "country": "AT", "base": "https://cardstore.at",         "verified": True},
 
-    # ===================== OESTERREICH — Kandidaten (Laufzeit-Check) =====================
-    {"shop": "Butti Cards",          "country": "AT", "base": "https://www.butticards.at",        "verified": None},
-    {"shop": "Sammelkarten-Shop.at", "country": "AT", "base": "https://www.sammelkarten-shop.at", "verified": None},
-    {"shop": "TCG-Shop.at",          "country": "AT", "base": "https://www.tcg-shop.at",          "verified": None},
-    {"shop": "PokeVend",             "country": "AT", "base": "https://pokevend.at",              "verified": None},
-    {"shop": "Cardcorner",           "country": "AT", "base": "https://cardcorner.at",            "verified": None},
-    {"shop": "Grubi & Co",           "country": "AT", "base": "https://www.grubi-co.at",          "verified": None},
-    {"shop": "SpielRaum",            "country": "AT", "base": "https://www.spielraum.co.at",      "verified": None},
+    # ===================== OESTERREICH - Kandidaten (Laufzeit-Check) =====================
+    {"shop": "Butti Cards",         "country": "AT", "base": "https://www.butticards.at",       "verified": None},
+    {"shop": "Sammelkarten-Shop.at","country": "AT", "base": "https://www.sammelkarten-shop.at","verified": None},
+    {"shop": "TCG-Shop.at",         "country": "AT", "base": "https://www.tcg-shop.at",         "verified": None},
+    {"shop": "PokeVend",            "country": "AT", "base": "https://pokevend.at",             "verified": None},
+    {"shop": "Cardcorner",          "country": "AT", "base": "https://cardcorner.at",           "verified": None},
+    {"shop": "Grubi & Co",          "country": "AT", "base": "https://www.grubi-co.at",         "verified": None},
+    {"shop": "SpielRaum",           "country": "AT", "base": "https://www.spielraum.co.at",     "verified": None},
 
-    # ===================== EUROPA — Kandidaten (Plattform unbestaetigt) =====================
-    # Bitte mit --verify oder --check-url pruefen. Viele nationale Shops laufen
-    # leider auf OpenCart/PrestaShop und lassen sich (noch) NICHT auslesen.
-    # ExtremePokeCorner ist bestaetigt WooCommerce (Store-API-Verfuegbarkeit offen).
-    {"shop": "ExtremePokeCorner (GR)", "country": "GR", "base": "https://extremepokecorner.com", "platform": "woocommerce", "verified": None},
-    {"shop": "Pokemon Center (GR)",    "country": "GR", "base": "https://www.pokemoncenter.gr",  "verified": None},
-    {"shop": "Nerdom (GR)",            "country": "GR", "base": "https://www.nerdom.gr",          "verified": None},
-    {"shop": "Cardstore.cz",           "country": "CZ", "base": "https://www.cardstore.cz",       "verified": None},
-    {"shop": "TCGKarty.cz",            "country": "CZ", "base": "https://www.tcgkarty.cz",        "verified": None},
-
-    # ===================== LEGACY / UNBESTAETIGT =====================
-    {"shop": "FantasiaCards",  "country": "DE", "base": "https://fantasiacards.de", "verified": None},
-    {"shop": "Poke-Corner",    "country": "DE", "base": "https://poke-corner.de",   "verified": None},
-    {"shop": "Kartenkrake",    "country": "DE", "base": "https://kartenkrake.de",   "verified": None},
-    {"shop": "Taschenmonster", "country": "DE", "base": "https://taschenmonster.de","verified": None},
-    {"shop": "CardBuddies",    "country": "DE", "base": "https://cardbuddies.de",   "verified": None},
-    {"shop": "TCG-Nord",       "country": "DE", "base": "https://tcg-nord.de",      "verified": None},
-    {"shop": "Card-Panda",     "country": "DE", "base": "https://card-panda.de",    "verified": None},
-    {"shop": "UltraCards",     "country": "DE", "base": "https://ultracards.de",    "verified": None},
-    {"shop": "Card Collector", "country": "DE", "base": "https://cardcollector.de", "verified": None},
+    # ===================== LEGACY / UNBESTAETIGT (aus deiner alten Liste) =====================
+    # Diese Domains tauchten in keiner Shop-Recherche auf - moeglicherweise nicht mehr
+    # aktiv oder falsch geschrieben. Werden geprueft und bei Fehler uebersprungen.
+    {"shop": "FantasiaCards", "country": "DE", "base": "https://fantasiacards.de", "verified": None},
+    {"shop": "Poke-Corner",   "country": "DE", "base": "https://poke-corner.de",   "verified": None},
+    {"shop": "Kartenkrake",   "country": "DE", "base": "https://kartenkrake.de",   "verified": None},
+    {"shop": "Taschenmonster","country": "DE", "base": "https://taschenmonster.de","verified": None},
+    {"shop": "CardBuddies",   "country": "DE", "base": "https://cardbuddies.de",   "verified": None},
+    {"shop": "TCG-Nord",      "country": "DE", "base": "https://tcg-nord.de",      "verified": None},
+    {"shop": "Card-Panda",    "country": "DE", "base": "https://card-panda.de",    "verified": None},
+    {"shop": "UltraCards",    "country": "DE", "base": "https://ultracards.de",    "verified": None},
+    {"shop": "Card Collector","country": "DE", "base": "https://cardcollector.de", "verified": None},
 ]
+
+# ---------------------------------------------------------------------------
+# BEKANNT NICHT-SHOPIFY (nur zur Info - werden NICHT ueberwacht)
+# ---------------------------------------------------------------------------
+#   tabletop-dragon.de      -> JTL-Shop
+#   gate-to-the-games.de    -> JTL-Shop
+#   comicplanet.de          -> Gambio
+#   sapphire-cards.de       -> WooCommerce
+#   packsandco (wixsite)    -> Wix
+#   business.cardsandtoys.de-> Grosshandels-/Shopware-Setup
+# Fuer diese braeuchtest du HTML-Scraping (method="links") mit shopspezifischen
+# Selektoren - aufwaendiger und fragiler. Bei Bedarf nachruestbar.
+# ---------------------------------------------------------------------------
 
 
 # ===========================================================================
 # ZUSTAND LADEN / SPEICHERN
 # ===========================================================================
 
-def _empty_state():
-    return {"_meta": {"schema": STATE_SCHEMA, "run_count": 0}, "shops": {}, "health": {}}
-
-
 def load_state():
-    if not os.path.exists(STATE_FILE):
-        return _empty_state()
-    try:
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except (json.JSONDecodeError, OSError):
-        print("[WARN] watcher_state.json unlesbar — starte mit leerem Zustand.")
-        return _empty_state()
-    if not isinstance(data, dict) or data.get("_meta", {}).get("schema") != STATE_SCHEMA:
-        # Alt-/Fremdformat: nicht spammen, sondern sauber neu einlernen.
-        print("[INFO] State-Format veraltet — lerne einmalig neu ein (keine Flut-Meldungen).")
-        return _empty_state()
-    data.setdefault("shops", {})
-    data.setdefault("health", {})
-    data.setdefault("_meta", {"schema": STATE_SCHEMA, "run_count": 0})
-    return data
+    if os.path.exists(STATE_FILE):
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, OSError):
+            print("[WARN] watcher_state.json unlesbar - starte mit leerem Zustand.")
+    return {}
 
 
 def save_state(state):
@@ -205,318 +214,328 @@ def save_state(state):
 
 
 # ===========================================================================
+# BENACHRICHTIGUNG
+# ===========================================================================
+
+def notify(message):
+    """Schickt eine Telegram-Nachricht. Faellt bei fehlender Konfig auf Konsole zurueck."""
+    if not TELEGRAM_BOT_TOKEN or TELEGRAM_BOT_TOKEN == "DEIN_BOT_TOKEN":
+        print("[NOTIFY] (kein Telegram-Token gesetzt)\n" + message + "\n")
+        return
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    try:
+        resp = requests.post(
+            url,
+            data={
+                "chat_id": TELEGRAM_CHAT_ID,
+                "text": message,
+                "disable_web_page_preview": "true",
+            },
+            timeout=REQUEST_TIMEOUT,
+        )
+        if resp.status_code != 200:
+            print(f"[WARN] Telegram-Antwort {resp.status_code}: {resp.text[:200]}")
+    except requests.RequestException as e:
+        print(f"[WARN] Telegram fehlgeschlagen: {e}")
+
+
+# ===========================================================================
 # HILFSFUNKTIONEN
 # ===========================================================================
 
-def _now():
-    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+def _norm(text):
+    """Kleinbuchstaben + 'é'->'e', damit 'Pokémon' und 'pokemon' gleich behandelt werden."""
+    return str(text).lower().replace("é", "e")
 
 
-def _blob(*parts):
-    """Baut aus beliebigen Teilen (Strings, Listen, {name:..}-Dicts) einen
-    durchsuchbaren Kleinbuchstaben-String."""
-    out = []
-    for p in parts:
-        if isinstance(p, (list, tuple)):
-            for x in p:
-                out.append(x.get("name", "") if isinstance(x, dict) else str(x))
-        elif isinstance(p, dict):
-            out.append(p.get("name", ""))
-        else:
-            out.append(str(p))
-    return " ".join(out).lower()
+def _title_type(product):
+    """Nur Titel + Produkttyp - bewusst OHNE Vendor/Tags, sonst triggert z.B. der
+    Shopname 'Pokitrio' faelschlich auf 'pok' und meldet One-Piece-Artikel."""
+    return _norm(str(product.get("title", "")) + " " + str(product.get("product_type", "")))
 
 
-def is_pokemon(item):
-    return any(kw in item["blob"] for kw in POKEMON_KEYWORDS)
+def _full_blob(product):
+    """Titel + Typ + Tags - fuer Kategorie-, Vorbestell- und Sprachpruefung."""
+    parts = [product.get("title", ""), product.get("product_type", "")]
+    tags = product.get("tags", "")
+    parts.extend(tags if isinstance(tags, list) else [tags])
+    return _norm(" ".join(str(x) for x in parts))
 
 
-def is_preorder(item):
-    return any(kw in item["blob"] for kw in PREORDER_KEYWORDS)
+# Einzelkarten-/Grading-Begriffe mit Wortgrenzen (damit z.B. 'played' nicht in
+# 'displayed' matcht und 'pgs' nur als eigenes Wort greift).
+_SINGLE_CARD_RE = re.compile(
+    r"\b(" + "|".join(re.escape(t) for t in SINGLE_CARD_EXCLUDE) + r")\b"
+)
 
 
-def build_current_map(items):
-    """Erzeugt {id: {a, p, title, url}} fuer alle Pokémon-Produkte."""
+def is_pokemon(product):
+    blob = _title_type(product)
+    return any(term in blob for term in POKEMON_TERMS)
+
+
+def is_preorder(product):
+    return any(kw in _full_blob(product) for kw in PREORDER_KEYWORDS)
+
+
+def is_sealed_category(product):
+    return any(kw in _full_blob(product) for kw in SEALED_CATEGORY_KEYWORDS)
+
+
+def is_single_or_graded(product):
+    blob = _full_blob(product)
+    return bool(CARD_NUMBER_RE.search(blob) or _SINGLE_CARD_RE.search(blob))
+
+
+def is_excluded_language(product):
+    if not EXCLUDE_LANGUAGES:
+        return False
+    blob = _full_blob(product)
+    return any(lang in blob for lang in EXCLUDE_LANGUAGES)
+
+
+def is_wanted(product):
+    """Zentrales Kriterium: melden, wenn Pokémon UND (versiegelt ODER Vorbestellung)
+    UND keine Einzel-/Gradingkarte UND keine ausgeschlossene Sprache."""
+    if not is_pokemon(product):
+        return False
+    if is_excluded_language(product):
+        return False
+    if is_single_or_graded(product):
+        return False
+    return is_sealed_category(product) or is_preorder(product)
+
+
+def is_available(product):
+    """Verfuegbar = mindestens eine Variante ist kaufbar."""
+    for variant in product.get("variants", []):
+        if variant.get("available"):
+            return True
+    return False
+
+
+def product_url(base, handle):
+    return f"{base}/products/{handle}"
+
+
+def extract_product_links(html, base_url):
+    """HTML-Fallback fuer Nicht-Shopify-Shops (method='links')."""
+    soup = BeautifulSoup(html, "html.parser")
+    links = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if any(m in href for m in ["/products/", "/produkt", "/artikel", "-p-", "/item"]):
+            if href.startswith("/"):
+                href = urljoin(base_url, href)
+            links.add(href)
+    return links
+
+
+# ===========================================================================
+# SHOPIFY-ABRUF
+# ===========================================================================
+
+def fetch_shopify_products(base, collection=None, max_pages=MAX_PAGES):
+    """
+    Laedt Produkte via Shopify products.json (mit Paginierung).
+
+    Rueckgabe:
+        Liste[dict]  bei Erfolg (Shop ist Shopify)
+        None         wenn der Shop kein gueltiges Shopify-JSON liefert
+                     (falsche Plattform, 404, Redirect auf HTML, ...)
+    """
+    if collection:
+        endpoint = f"{base}/collections/{collection}/products.json"
+    else:
+        endpoint = f"{base}/products.json"
+
+    products = []
+    seen_ids = set()
+
+    for page in range(1, max_pages + 1):
+        try:
+            resp = requests.get(
+                endpoint,
+                headers=HEADERS,
+                params={"limit": 250, "page": page},
+                timeout=REQUEST_TIMEOUT,
+            )
+        except requests.RequestException as e:
+            print(f"    [WARN] Netzwerkfehler ({e.__class__.__name__}) bei {endpoint}")
+            return None if page == 1 else products
+
+        # Kein Shopify? Dann ist die Antwort meist HTML oder ein 404.
+        if resp.status_code != 200:
+            return None if page == 1 else products
+        ctype = resp.headers.get("Content-Type", "")
+        if "json" not in ctype and not resp.text.lstrip().startswith("{"):
+            return None if page == 1 else products
+        try:
+            data = resp.json()
+        except ValueError:
+            return None if page == 1 else products
+        if "products" not in data:
+            return None if page == 1 else products
+
+        batch = data["products"]
+        if not batch:
+            break  # letzte Seite erreicht
+
+        new_on_page = 0
+        for p in batch:
+            pid = p.get("id")
+            if pid in seen_ids:
+                continue
+            seen_ids.add(pid)
+            products.append(p)
+            new_on_page += 1
+
+        # Manche Shops ignorieren den page-Parameter und liefern immer Seite 1
+        # -> dann kommen keine neuen IDs -> abbrechen.
+        if new_on_page == 0:
+            break
+        if len(batch) < 250:
+            break  # weniger als eine volle Seite -> fertig
+
+        time.sleep(random.uniform(*PER_PAGE_DELAY))
+
+    return products
+
+
+def build_current_map(base, products):
+    """Erzeugt {handle: {a, p, title, url}} fuer alle GEWUENSCHTEN Produkte
+    (versiegelte Pokémon-Artikel + Vorbestellungen, ohne Einzelkarten)."""
     current = {}
-    for it in items:
-        if not is_pokemon(it):
+    for p in products:
+        if not is_wanted(p):
             continue
-        current[it["id"]] = {
-            "a": it["available"],
-            "p": is_preorder(it),
-            "title": it["title"],
-            "url": it["url"],
+        handle = p.get("handle")
+        if not handle:
+            continue
+        current[handle] = {
+            "a": is_available(p),
+            "p": is_preorder(p),
+            "title": p.get("title", handle),
+            "url": product_url(base, handle),
         }
     return current
 
 
-def _get(url, params=None):
-    return requests.get(url, headers=HEADERS, params=params, timeout=REQUEST_TIMEOUT)
-
-
 # ===========================================================================
-# PLATTFORM-ABRUF  (jede Funktion gibt eine Liste normierter Items zurueck
-# oder None, wenn der Shop diese Plattform nicht ist.)
-#
-# Normiertes Item:
-#   {"id": str, "title": str, "url": str, "available": bool, "blob": str}
+# NACHRICHTEN-AUFBAU
 # ===========================================================================
 
-def _shopify_items(base, products):
-    items = []
-    for p in products:
-        handle = p.get("handle")
-        if not handle:
-            continue
-        available = any(v.get("available") for v in p.get("variants", []))
-        items.append({
-            "id": handle,
-            "title": p.get("title", handle),
-            "url": f"{base}/products/{handle}",
-            "available": available,
-            "blob": _blob(p.get("title", ""), p.get("product_type", ""),
-                          p.get("vendor", ""), p.get("tags", "")),
-        })
-    return items
-
-
-def fetch_shopify(base, collection=None):
-    """Shopify products.json (mit Paginierung). None, wenn kein Shopify."""
-    endpoint = (f"{base}/collections/{collection}/products.json"
-                if collection else f"{base}/products.json")
-    products, seen = [], set()
-    for page in range(1, MAX_PAGES + 1):
-        try:
-            r = _get(endpoint, {"limit": SHOPIFY_PER_PAGE, "page": page})
-        except requests.RequestException:
-            return None if page == 1 else products
-        if r.status_code != 200:
-            return None if page == 1 else products
-        ctype = r.headers.get("Content-Type", "")
-        if "json" not in ctype and not r.text.lstrip().startswith("{"):
-            return None if page == 1 else products
-        try:
-            data = r.json()
-        except ValueError:
-            return None if page == 1 else products
-        if not isinstance(data, dict) or "products" not in data:
-            return None if page == 1 else products
-        batch = data["products"]
-        if not batch:
-            break
-        new = 0
-        for p in batch:
-            pid = p.get("id")
-            if pid in seen:
-                continue
-            seen.add(pid)
-            products.append(p)
-            new += 1
-        if new == 0 or len(batch) < SHOPIFY_PER_PAGE:
-            break
-        time.sleep(random.uniform(*PER_PAGE_DELAY))
-    return products
-
-
-def _woo_items(base, products):
-    items = []
-    for p in products:
-        slug = p.get("slug") or (str(p["id"]) if p.get("id") else None)
-        if not slug:
-            continue
-        available = bool(p.get("is_in_stock", False)) and bool(p.get("is_purchasable", True))
-        items.append({
-            "id": slug,
-            "title": p.get("name", slug),
-            "url": p.get("permalink") or f"{base}/?p={p.get('id', '')}",
-            "available": available,
-            "blob": _blob(p.get("name", ""), p.get("categories", []), p.get("tags", [])),
-        })
-    return items
-
-
-def fetch_woocommerce(base, collection=None):
-    """WooCommerce Store-API. None, wenn kein (offenes) WooCommerce."""
-    for path in ("/wp-json/wc/store/v1/products", "/wp-json/wc/store/products"):
-        endpoint = base + path
-        products, reached = [], False
-        for page in range(1, MAX_PAGES + 1):
-            try:
-                r = _get(endpoint, {"per_page": WOO_PER_PAGE, "page": page})
-            except requests.RequestException:
-                break
-            if r.status_code != 200:
-                break
-            try:
-                data = r.json()
-            except ValueError:
-                break
-            if not isinstance(data, list):
-                break
-            reached = True
-            if not data:
-                break
-            products.extend(data)
-            total_pages = r.headers.get("X-WP-TotalPages")
-            if (total_pages and page >= int(total_pages)) or len(data) < WOO_PER_PAGE:
-                break
-            time.sleep(random.uniform(*PER_PAGE_DELAY))
-        if reached:
-            return products
-    return None
-
-
-def fetch_items(base, platform_hint=None, collection=None):
-    """Erkennt die Plattform (oder nutzt den Hinweis) und gibt (platform, items)
-    zurueck. (None, None), wenn der Shop nicht lesbar ist."""
-    base = base.rstrip("/")
-    if platform_hint == "shopify":
-        order = [("shopify", fetch_shopify)]
-    elif platform_hint in ("woocommerce", "woo"):
-        order = [("woocommerce", fetch_woocommerce)]
-    else:
-        order = [("shopify", fetch_shopify), ("woocommerce", fetch_woocommerce)]
-
-    for platform, fn in order:
-        raw = fn(base, collection)
-        if raw is not None:
-            items = _shopify_items(base, raw) if platform == "shopify" else _woo_items(base, raw)
-            return platform, items
-    return None, None
-
-
-# ===========================================================================
-# EIN SHOP PRUEFEN  (laeuft im Worker-Thread; fasst KEINEN gemeinsamen Zustand
-# an und sendet KEINE Nachrichten — das macht der Hauptthread.)
-# ===========================================================================
-
-def check_shop_worker(shop, prev_shops_state, hint):
-    name = shop["shop"]
-    base = shop["base"].rstrip("/")
-    collections = shop.get("collections") or [None]
-    res = {"shop": name, "ok": False, "platform": None, "error": None, "collections": []}
-
-    for collection in collections:
-        key = f"{name}::{collection or 'ALL'}"
-        prev = prev_shops_state.get(key, {})
-        prev_items = prev.get("items", {}) if isinstance(prev, dict) else {}
-
-        platform, items = fetch_items(base, hint, collection)
-        if items is None:
-            res["error"] = "kein Shopify/WooCommerce erreichbar"
-            continue
-
-        res["ok"] = True
-        res["platform"] = platform
-        current = build_current_map(items)
-
-        new_ids = current.keys() - prev_items.keys()
-        restock_ids = {
-            i for i in (current.keys() & prev_items.keys())
-            if current[i]["a"] and not prev_items[i].get("a", False)
-        }
-
-        new_items = []
-        for i in new_ids:
-            c = current[i]
-            if NOTIFY_NEW_REQUIRES_ACTIONABLE and not (c["a"] or c["p"]):
-                continue  # neu, aber ausverkauft -> nicht melden
-            new_items.append((c["title"], c["url"], c["p"], c["a"]))
-        restock_items = [(current[i]["title"], current[i]["url"], current[i]["p"], True)
-                         for i in restock_ids]
-
-        res["collections"].append({
-            "key": key,
-            "platform": platform,
-            "country": shop.get("country", ""),
-            "current": {i: {"a": current[i]["a"], "p": current[i]["p"]} for i in current},
-            "n_pokemon": len(current),
-            "n_new_raw": len(new_ids),
-            "new_items": new_items,
-            "restock_items": restock_items,
-            "had_prev": bool(prev_items),
-        })
-    return res
-
-
-# ===========================================================================
-# NACHRICHTEN
-# ===========================================================================
-
-def _fmt(items):
+def _format_items(items):
+    """items = Liste[(titel, url, ist_vorbestellung)] -> Textzeilen (gekuerzt)."""
     lines = []
-    for title, url, pre, avail in items[:MAX_ITEMS_PER_MESSAGE]:
-        tags = []
-        if pre:
-            tags.append("Vorbestellung")
-        if not avail and not pre:
-            tags.append("ausverkauft")
-        suffix = f" ({', '.join(tags)})" if tags else ""
-        lines.append(f"• {title}{suffix}\n  {url}")
+    for title, url, pre in items[:MAX_ITEMS_PER_MESSAGE]:
+        tag = " (Vorbestellung)" if pre else ""
+        lines.append(f"• {title}{tag}\n  {url}")
     rest = len(items) - MAX_ITEMS_PER_MESSAGE
     if rest > 0:
         lines.append(f"… und {rest} weitere.")
     return "\n".join(lines)
 
 
-def build_messages(shop_name, col):
+def build_messages(shop_name, page_label, new_items, restock_items):
+    """Erzeugt 0-2 Telegram-Nachrichten (neu / restock)."""
     msgs = []
-    label = col["key"].split("::", 1)[1]
-    where = shop_name if label == "ALL" else f"{shop_name} — {label}"
-    if NOTIFY_ON_NEW and col["new_items"]:
-        pre = sum(1 for _, _, p, _ in col["new_items"] if p)
-        head = f"🚨 NEU bei {where}: {len(col['new_items'])} Artikel"
+    where = f"{shop_name}" + (f" — {page_label}" if page_label else "")
+
+    if NOTIFY_ON_NEW and new_items:
+        pre = sum(1 for _, _, p in new_items if p)
+        kopf = f"🚨 NEU bei {where}: {len(new_items)} Artikel"
         if pre:
-            head += f" (davon {pre} Vorbestellung)"
-        msgs.append(head + "\n\n" + _fmt(col["new_items"]))
-    if NOTIFY_ON_RESTOCK and col["restock_items"]:
-        head = f"♻️ WIEDER VERFÜGBAR bei {where}: {len(col['restock_items'])} Artikel"
-        msgs.append(head + "\n\n" + _fmt(col["restock_items"]))
+            kopf += f" (davon {pre} Vorbestellung)"
+        msgs.append(kopf + "\n\n" + _format_items(new_items))
+
+    if NOTIFY_ON_RESTOCK and restock_items:
+        kopf = f"♻️ WIEDER VERFUEGBAR bei {where}: {len(restock_items)} Artikel"
+        msgs.append(kopf + "\n\n" + _format_items(restock_items))
+
     return msgs
 
 
-def _chunk(text, limit):
-    if len(text) <= limit:
-        return [text]
-    parts, cur = [], ""
-    for line in text.split("\n"):
-        if cur and len(cur) + len(line) + 1 > limit:
-            parts.append(cur)
-            cur = line
+# ===========================================================================
+# EIN SHOP PRUEFEN
+# ===========================================================================
+
+def check_shop(shop, state):
+    shop_name = shop["shop"]
+    base = shop["base"].rstrip("/")
+    method = shop.get("method", "shopify")
+    collections = shop.get("collections") or [None]  # None = Gesamtsortiment
+
+    for collection in collections:
+        page_label = collection if collection else ""
+        key = f"{shop_name}::{collection or 'ALL'}"
+        prev = state.get(key)
+        # Alt-Format (Liste von Handles) tolerieren -> als Seed behandeln
+        if isinstance(prev, list):
+            prev = {h: {} for h in prev}
+        prev = prev or {}
+
+        if method == "shopify":
+            products = fetch_shopify_products(base, collection)
+            if products is None:
+                flag = "nicht erreichbar / kein Shopify"
+                print(f"[{_now()}] {shop_name}: uebersprungen ({flag})")
+                return
+            current = build_current_map(base, products)
         else:
-            cur = (cur + "\n" + line) if cur else line
-    if cur:
-        parts.append(cur)
-    return parts
+            # HTML-Fallback (nur Nicht-Shopify): reine Linksammlung. Verfuegbarkeit
+            # laesst sich hier NICHT zuverlaessig lesen -> a=True als Annahme. Fuer die
+            # strikte "muss bestellbar sein"-Logik ist die shopify-Methode noetig.
+            try:
+                resp = requests.get(base if collection is None else f"{base}/{collection}",
+                                    headers=HEADERS, timeout=REQUEST_TIMEOUT)
+                resp.raise_for_status()
+            except requests.RequestException as e:
+                print(f"[{_now()}] {shop_name}: uebersprungen ({e.__class__.__name__})")
+                return
+            current = {
+                url: {"a": True, "p": False, "title": url.rsplit("/", 1)[-1], "url": url}
+                for url in extract_product_links(resp.text, base)
+            }
+
+        # ---- Diff bilden ----
+        # WICHTIG: Gemeldet wird nur, was ZUM PRUEFZEITPUNKT bestellbar ist -
+        # d.h. mindestens eine Variante ist "available" (in den Warenkorb legbar).
+        # Das deckt sowohl "auf Lager" als auch aktive Vorbestellungen ab.
+        # Neu aufgetauchte, aber ausverkaufte Treffer werden lautlos mitgefuehrt,
+        # damit ihr spaeteres Bestellbar-Werden als Restock gemeldet wird.
+        new_handles = current.keys() - prev.keys()
+        restock_handles = {
+            h for h in (current.keys() & prev.keys())
+            if current[h]["a"] and not prev[h].get("a", False)
+        }
+
+        new_items = [
+            (current[h]["title"], current[h]["url"], current[h]["p"])
+            for h in new_handles if current[h]["a"]      # nur BESTELLBARE Neuzugaenge
+        ]
+        restock_items = [
+            (current[h]["title"], current[h]["url"], current[h]["p"])
+            for h in restock_handles                     # sind per Definition bestellbar
+        ]
+
+        # Beim allerersten Lauf nur "einlernen", nicht spammen
+        if prev:
+            for msg in build_messages(shop_name, page_label, new_items, restock_items):
+                notify(msg)
+
+        n_soldout_new = sum(1 for h in new_handles if not current[h]["a"])
+        print(f"[{_now()}] {shop_name} ({shop['country']}): "
+              f"{len(current)} relevant | {len(new_items)} neu-bestellbar, "
+              f"{len(restock_items)} restock, {n_soldout_new} neu-aber-ausverkauft (vorgemerkt)")
+
+        # ---- Zustand aktualisieren: ALLE relevanten Artikel (auch ausverkaufte),
+        #      damit Restocks erkannt werden koennen ----
+        state[key] = {h: {"a": current[h]["a"], "p": current[h]["p"]} for h in current}
 
 
-def notify(message):
-    """Schickt eine Telegram-Nachricht. True bei Erfolg."""
-    if not TELEGRAM_BOT_TOKEN or TELEGRAM_BOT_TOKEN == "DEIN_BOT_TOKEN":
-        print("[NOTIFY] (kein Telegram-Token gesetzt)\n" + message + "\n")
-        return True
-    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    try:
-        r = requests.post(
-            url,
-            data={"chat_id": TELEGRAM_CHAT_ID, "text": message,
-                  "disable_web_page_preview": "true"},
-            timeout=REQUEST_TIMEOUT,
-        )
-        if r.status_code != 200:
-            print(f"[WARN] Telegram-Antwort {r.status_code}: {r.text[:300]}")
-            return False
-        return True
-    except requests.RequestException as e:
-        print(f"[WARN] Telegram fehlgeschlagen: {e}")
-        return False
-
-
-def send_all(messages):
-    for m in messages:
-        for chunk in _chunk(m, TELEGRAM_MAX_CHARS):
-            notify(chunk)
-            time.sleep(TELEGRAM_MSG_DELAY)
+def _now():
+    return datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 
 # ===========================================================================
@@ -525,175 +544,39 @@ def send_all(messages):
 
 def run_once():
     state = load_state()
-    meta = state["_meta"]
-    run_count = meta.get("run_count", 0) + 1
-    meta["run_count"] = run_count
-    shops_state = state["shops"]
-    health = state["health"]
-
-    # Welche Shops pruefen wir? Chronisch tote ueberspringen, aber ab und zu neu testen.
-    active = []
     for shop in SHOPS:
-        streak = health.get(shop["shop"], {}).get("fail_streak", 0)
-        if streak >= SKIP_AFTER_FAILS and (run_count % REPROBE_EVERY) != 0:
-            continue
-        active.append(shop)
-
-    # Parallel abrufen. Als Plattform-Hinweis nehmen wir den Eintrag aus der
-    # Shop-Liste oder die zuletzt erkannte Plattform (spart Requests).
-    results = []
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
-        futures = {}
-        for shop in active:
-            hint = shop.get("platform") or health.get(shop["shop"], {}).get("platform")
-            futures[ex.submit(check_shop_worker, shop, shops_state, hint)] = shop
-        for fut in as_completed(futures):
-            shop = futures[fut]
-            try:
-                results.append(fut.result())
-            except Exception as e:
-                results.append({"shop": shop["shop"], "ok": False,
-                                "error": f"{e.__class__.__name__}: {e}", "collections": []})
-
-    # Ab hier wieder single-threaded: State schreiben + Nachrichten sammeln.
-    outgoing = []
-    for res in results:
-        name = res["shop"]
-        if not res.get("ok"):
-            h = health.setdefault(name, {})
-            h["fail_streak"] = h.get("fail_streak", 0) + 1
-            print(f"[{_now()}] {name}: uebersprungen ({res.get('error', '?')}) "
-                  f"[Fehlserie {h['fail_streak']}]")
-            continue
-        health[name] = {"fail_streak": 0, "last_ok": _now(), "platform": res.get("platform")}
-        for col in res["collections"]:
-            shops_state[col["key"]] = {"items": col["current"]}
-            print(f"[{_now()}] {name} ({col['country']}, {col['platform']}): "
-                  f"{col['n_pokemon']} Pokémon, {col['n_new_raw']} neu (roh), "
-                  f"{len(col['new_items'])} meldbar, {len(col['restock_items'])} Restock")
-            if col["had_prev"]:
-                outgoing.extend(build_messages(name, col))
-            # sonst: erster Lauf fuer diesen Shop -> nur einlernen, nicht melden
-
+        try:
+            check_shop(shop, state)
+        except Exception as e:  # ein Shop darf nie den ganzen Lauf killen
+            print(f"[{_now()}] FEHLER bei {shop['shop']}: {e.__class__.__name__}: {e}")
+        time.sleep(random.uniform(*PER_SHOP_DELAY))
     save_state(state)
-    if outgoing:
-        send_all(outgoing)
-    print(f"[{_now()}] Lauf #{run_count} beendet: {len(active)} Shops geprueft, "
-          f"{len(outgoing)} Nachricht(en) gesendet.\n")
-
-
-def run_bounded(minutes, interval):
-    """Wiederholt Laeufe fuer ~'minutes' Minuten (fuer enge Intervalle in CI)."""
-    end = time.time() + minutes * 60
-    n = 0
-    print(f"Bounded-Loop: pruefe ~{minutes} Min lang alle {interval}s.\n")
-    while True:
-        n += 1
-        print(f"--- Durchlauf {n} ---")
-        run_once()
-        if time.time() + interval >= end:
-            print(f"Zeitfenster erreicht — beende nach {n} Durchlaeufen.")
-            break
-        time.sleep(interval)
+    print(f"[{_now()}] Lauf beendet.\n")
 
 
 # ===========================================================================
-# DIAGNOSE-MODI
+# VERIFY-MODUS  (schneller Plattform-Check ohne Benachrichtigungen/State)
 # ===========================================================================
-
-def test_telegram():
-    print("Sende Test-Nachricht an Telegram …")
-    if not TELEGRAM_BOT_TOKEN or TELEGRAM_BOT_TOKEN == "DEIN_BOT_TOKEN":
-        print("✗ Kein TELEGRAM_BOT_TOKEN gesetzt (Secret/Umgebungsvariable fehlt).")
-        return
-    if not TELEGRAM_CHAT_ID or TELEGRAM_CHAT_ID == "DEINE_CHAT_ID":
-        print("✗ Keine TELEGRAM_CHAT_ID gesetzt.")
-        return
-    ok = notify(f"✅ Test vom Pokémon-Watcher ({_now()}). Wenn du das liest, funktioniert Telegram.")
-    if ok:
-        print("✓ Nachricht abgeschickt — schau in deinen Telegram-Chat.")
-    else:
-        print("✗ Senden fehlgeschlagen. Haeufigste Ursachen:")
-        print("   1. Du hast dem Bot noch nie '/start' geschickt (Bots duerfen erst dann schreiben).")
-        print("   2. Falsche chat_id.")
-        print("   3. Token nicht korrekt in den GitHub-Secrets hinterlegt.")
-
-
-def check_url(url):
-    base = url if url.startswith("http") else "https://" + url
-    base = base.rstrip("/")
-    print(f"Pruefe {base} …")
-    platform, items = fetch_items(base)
-    if items is None:
-        print("  ✗ Weder Shopify (products.json) noch offenes WooCommerce (Store-API) gefunden.")
-        print("    -> Dieser Shop laesst sich mit dem Watcher aktuell nicht ueberwachen.")
-        return
-    n = sum(1 for it in items if is_pokemon(it))
-    avail = sum(1 for it in items if is_pokemon(it) and it["available"])
-    host = base.split("//", 1)[-1]
-    print(f"  ✓ {platform.upper()} erkannt.")
-    print(f"    {len(items)} Produkte gelesen, davon {n} Pokémon ({avail} aktuell verfuegbar).")
-    print("    Eintrag zum Einfuegen in die SHOPS-Liste:")
-    print(f'      {{"shop": "{host}", "country": "??", "base": "{base}", '
-          f'"platform": "{platform}", "verified": True}},')
-
 
 def verify_shops():
-    print("Pruefe alle Shops (Shopify + WooCommerce), parallel …\n")
+    print("Pruefe Shops auf Shopify + Pokémon-Sortiment …\n")
+    ok, fail = [], []
+    for shop in SHOPS:
+        base = shop["base"].rstrip("/")
+        products = fetch_shopify_products(base, max_pages=1)
+        if products is None:
+            fail.append(shop)
+            print(f"  ✗  {shop['shop']:<22} {base}   (kein Shopify / nicht erreichbar)")
+        else:
+            n_want = sum(1 for p in products if is_wanted(p))
+            ok.append(shop)
+            mark = "✓" if shop.get("verified") else "≈"
+            print(f"  {mark}  {shop['shop']:<22} {base}   Shopify OK "
+                  f"(Seite 1: {len(products)} Produkte, {n_want} relevant)")
+        time.sleep(random.uniform(*PER_PAGE_DELAY))
 
-    def probe(shop):
-        platform, items = fetch_items(shop["base"].rstrip("/"), shop.get("platform"))
-        return shop, platform, items
-
-    ok = fail = 0
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
-        for shop, platform, items in ex.map(probe, SHOPS):
-            if items is None:
-                fail += 1
-                print(f"  ✗  {shop['shop']:<24} {shop['base']}  (nicht nutzbar)")
-            else:
-                ok += 1
-                n = sum(1 for it in items if is_pokemon(it))
-                print(f"  ✓  {shop['shop']:<24} {shop['base']}  "
-                      f"[{platform}] {len(items)} Produkte, {n} Pokémon")
-    print(f"\nErgebnis: {ok} nutzbar, {fail} nicht nutzbar.")
-
-
-def selftest():
-    """Prueft die Diff-/Melde-Logik mit Testdaten — ohne Netzwerk."""
-    def item(pid, title, avail, extra=""):
-        return {"id": pid, "title": title, "url": f"http://x/{pid}",
-                "available": avail, "blob": (title + " " + extra).lower()}
-
-    prev_items = {
-        "charizard-etb": {"a": False, "p": False},  # war ausverkauft
-        "pikachu-tin":   {"a": True,  "p": False},  # war verfuegbar
-    }
-    items = [
-        item("charizard-etb", "Pokemon Charizard ETB", True),                  # RESTOCK
-        item("pikachu-tin",   "Pokemon Pikachu Tin",   True),                  # unveraendert
-        item("new-soldout",   "Pokemon New Set Booster", False),               # NEU, ausverkauft -> unterdruecken
-        item("new-preorder",  "Pokemon New Set ETB", False, "vorbestellung"),  # NEU + Vorbestellung -> melden
-        item("new-instock",   "Pokemon New Promo", True),                      # NEU + verfuegbar -> melden
-        item("random-mtg",    "Magic Booster", True),                          # kein Pokémon -> ignorieren
-    ]
-    current = build_current_map(items)
-    new_ids = current.keys() - prev_items.keys()
-    restock_ids = {i for i in (current.keys() & prev_items.keys())
-                   if current[i]["a"] and not prev_items[i].get("a", False)}
-    meldbar_neu = {i for i in new_ids if (current[i]["a"] or current[i]["p"])}
-
-    assert "random-mtg" not in current, "Nicht-Pokémon wurde nicht gefiltert"
-    assert restock_ids == {"charizard-etb"}, f"Restock falsch: {restock_ids}"
-    assert meldbar_neu == {"new-preorder", "new-instock"}, f"Meldbare Neu falsch: {meldbar_neu}"
-    assert "new-soldout" in new_ids and "new-soldout" not in meldbar_neu, \
-        "Ausverkauft-Neu wurde nicht unterdrueckt"
-
-    print("✓ Selbsttest bestanden:")
-    print("   • Nicht-Pokémon (Magic) korrekt ignoriert")
-    print("   • Restock erkannt (ausverkauft -> verfuegbar): charizard-etb")
-    print("   • Neu + kaufbar/Vorbestellung gemeldet: new-instock, new-preorder")
-    print("   • Neu, aber ausverkauft korrekt NICHT gemeldet: new-soldout")
+    print(f"\nErgebnis: {len(ok)} Shopify-Shops nutzbar, {len(fail)} uebersprungen.")
+    print("Legende:  ✓ vorab bestaetigt   ≈ zur Laufzeit als Shopify erkannt   ✗ nicht nutzbar")
 
 
 # ===========================================================================
@@ -701,39 +584,23 @@ def selftest():
 # ===========================================================================
 
 def main():
-    ap = argparse.ArgumentParser(description="Pokémon Restock & Preorder Watcher (Europa)")
-    ap.add_argument("--verify", action="store_true",
-                    help="Alle Shops pruefen (Shopify/WooCommerce), ohne State/Nachrichten.")
-    ap.add_argument("--check-url", metavar="URL",
-                    help="Einen beliebigen Shop pruefen und passenden SHOPS-Eintrag ausgeben.")
-    ap.add_argument("--test", action="store_true",
-                    help="Test-Nachricht an Telegram senden.")
-    ap.add_argument("--selftest", action="store_true",
-                    help="Melde-Logik offline testen (kein Netz noetig).")
-    ap.add_argument("--loop", action="store_true",
-                    help=f"Dauerbetrieb (lokal): alle {LOOP_INTERVAL_SECONDS}s ein Lauf.")
-    ap.add_argument("--max-runtime", type=float, metavar="MIN",
-                    help="~MIN Minuten lang wiederholt pruefen, dann beenden (fuer CI).")
-    ap.add_argument("--interval", type=int, default=LOOP_INTERVAL_SECONDS,
-                    help="Sekunden zwischen Laeufen bei --loop / --max-runtime.")
-    args = ap.parse_args()
+    parser = argparse.ArgumentParser(description="Pokémon Restock & Preorder Watcher (DACH)")
+    parser.add_argument("--verify", action="store_true",
+                        help="Nur pruefen, welche Shops Shopify sind (kein State, keine Nachrichten).")
+    parser.add_argument("--loop", action="store_true",
+                        help=f"Dauerbetrieb: alle {LOOP_INTERVAL_SECONDS}s ein Lauf.")
+    args = parser.parse_args()
 
-    if args.selftest:
-        selftest()
-    elif args.check_url:
-        check_url(args.check_url)
-    elif args.test:
-        test_telegram()
-    elif args.verify:
+    if args.verify:
         verify_shops()
-    elif args.max_runtime:
-        run_bounded(args.max_runtime, args.interval)
-    elif args.loop:
-        print(f"Dauerbetrieb gestartet (Intervall {args.interval}s). Abbruch mit Strg+C.")
+        return
+
+    if args.loop:
+        print(f"Dauerbetrieb gestartet (Intervall {LOOP_INTERVAL_SECONDS}s). Abbruch mit Strg+C.")
         try:
             while True:
                 run_once()
-                time.sleep(args.interval)
+                time.sleep(LOOP_INTERVAL_SECONDS)
         except KeyboardInterrupt:
             print("\nBeendet.")
             sys.exit(0)
