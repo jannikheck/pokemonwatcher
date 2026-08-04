@@ -1,0 +1,70 @@
+name: Pokemon Restock Watcher
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # alle 15 Min (GitHub kann Laeufe unter Last verzoegern)
+  workflow_dispatch:          # manuelles Anstossen erlaubt
+
+# Ohne Schreibrechte kann der aktualisierte State nicht zurueckgepusht werden
+# -> dann meldet jeder Lauf alles erneut als "neu".
+permissions:
+  contents: write
+
+# Verhindert, dass sich zwei Laeufe ueberschneiden und den State zerschiessen.
+concurrency:
+  group: restock-watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhaengigkeiten installieren
+        run: pip install requests beautifulsoup4
+
+      # Diagnose: zeigt im Log, welche Dateien wirklich im Repo liegen.
+      - name: Dateien im Repo anzeigen
+        run: ls -la
+
+      - name: Watcher ausfuehren
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          # Findet das Watcher-Skript, auch wenn der Dateiname ein " (1)" o.ae. hat.
+          if [ -f pokemon_restock_watcher.py ]; then
+            SCRIPT="pokemon_restock_watcher.py"
+          else
+            SCRIPT="$(find . -maxdepth 1 -name 'pokemon_restock_watcher*.py' | head -n 1)"
+          fi
+
+          if [ -z "$SCRIPT" ]; then
+            echo "FEHLER: Keine Datei pokemon_restock_watcher*.py im Repo gefunden."
+            echo "Vorhandene Python-Dateien:"
+            ls -1 *.py 2>/dev/null || echo "  (keine .py-Datei vorhanden)"
+            exit 1
+          fi
+
+          echo "Starte: $SCRIPT"
+          python "$SCRIPT"
+
+      - name: Neuen Stand speichern (state committen)
+        run: |
+          git config user.name "restock-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add watcher_state.json
+          if git diff --staged --quiet; then
+            echo "Keine Aenderungen am State - nichts zu committen."
+          else
+            git commit -m "Stand aktualisiert [skip ci]"
+            git pull --rebase origin main || true
+            git push
+          fi
