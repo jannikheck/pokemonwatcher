@@ -1,7 +1,7 @@
 {
   "_meta": {
     "schema": 6,
-    "run_count": 2234
+    "run_count": 2252
   },
   "shops": {
     "Pokitrio::ALL": {
@@ -10771,7 +10771,7 @@
           "p": false
         },
         "secret-packs-mystery-pack-retouren-kaufen": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-reisegefahrten-booster-karmesin-purpur-pokemon-sammelkartenspiel": {
@@ -16438,6 +16438,102 @@
     },
     "CardCosmos::ALL": {
       "items": {
+        "pokemon-cornerstone-mask-ogerpon-ex-091-187-terastal-festival-ex-p-grade-10-pristine": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-cutiefly-078-071-cyber-judge-cgc-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-braixen-069-068-incandescent-arcana-psa-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mega-dragonite-ex-232-193-mega-dream-ex-pgs-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-fearow-36-64-jungle-pgs-7-near-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-machoke-34-102-basis-set-pgs-3-very-good": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-abra-43-102-basis-set-pgs-3-very-good": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-sigilyph-118-086-white-flare-pgs-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-smogon-58-82-team-rocket-pgs-3-very-good": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-dratini-53-82-team-rocket-pgs-6-ex-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-digda-47-102-basis-set-pgs-6-ex-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-nebulak-33-62-fossil-pgs-7-near-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mega-chandelure-ex-097-081-abyss-eye-pgs-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-galarian-obstagoon-200-193-mega-dream-ex-pgs-10-gem-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-froxy-088-086-chaos-rising-pgs-9-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-mega-tandrak-ex-104-086-chaos-rising-pgs-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-pidove-153-086-black-bolt-pgs-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-fan-rotom-213-193-mega-dream-ex-pgs-9-5-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-karpador-47-82-team-rocket-pgs-4-vg-ex": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-glurak-4-102-basis-set-1st-aog-3-5-played": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-turtok-2-102-basis-set-aog-7-near-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-dragoran-4-62-fossil-1st-aog-8-5-nm-mint": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-dunkles-turtok-3-82-team-rocket-1st-aog-6-5-excellent": {
+          "a": true,
+          "p": false
+        },
+        "pokemon-dunkles-glurak-4-82-team-rocket-1st-aog-6-5-excellent": {
+          "a": true,
+          "p": false
+        },
         "pokemon-30-jahre-kampfdeck-nachtara-ex-zeraora-deutsch": {
           "a": false,
           "p": false
@@ -19171,7 +19267,7 @@
           "p": false
         },
         "pokemon-white-flare-display-japanisch": {
-          "a": true,
+          "a": false,
           "p": false
         },
         "pokemon-black-bolt-display-japanisch": {
@@ -23951,151 +24047,151 @@
   },
   "health": {
     "KEEPSEVEN": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Pokitrio": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Major Cards TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "TCGViert": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "YONKO TCG": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "KTCards": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "LottiCards": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "BulkParadise TCG": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Vinticards": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Cardstore.at": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Butti Cards": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Collect-It": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "CrispyCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Sammelkarten-Shop.at": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "PokeVend": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Feenturm": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "SpielRaum": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "TcG Love": {
-      "fail_streak": 56,
+      "fail_streak": 57,
       "last_ok": "2026-07-31 16:58:57",
       "platform": "woocommerce"
     },
     "Pokemon Center (GR)": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "TradingToys": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Nerdom (GR)": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "ExtremePokeCorner (GR)": {
-      "fail_streak": 0,
+      "fail_streak": 6,
       "last_ok": "2026-08-04 10:12:26",
       "platform": "woocommerce"
     },
     "God of Cards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Cardstore.cz": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Kartenkrake": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Grubi & Co": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "TCGKarty.cz": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "TCG-Nord": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "CardCosmos": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Card-Panda": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "FantasiaCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "CardBuddies": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Cardcorner": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "shopify"
     },
     "Card Collector": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "TCG-Shop.at": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Poke-Corner": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "Taschenmonster": {
-      "fail_streak": 117
+      "fail_streak": 118
     },
     "UltraCards": {
       "fail_streak": 0,
-      "last_ok": "2026-08-04 10:12:26",
+      "last_ok": "2026-08-04 12:15:37",
       "platform": "woocommerce"
     }
   }
