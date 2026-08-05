@@ -4281,7 +4281,7 @@
       "p": false
     },
     "pokemon-terapagos-ultra-premium-collection-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-silver-tempest-36er-display-eng": {
@@ -4325,7 +4325,7 @@
       "p": false
     },
     "pokemon-kp07-stellakrone-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-premium-mystery-box-vintage": {
@@ -9347,7 +9347,7 @@
       "p": false
     },
     "pokemon-perfect-order-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
