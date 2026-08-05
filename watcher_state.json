@@ -180,6 +180,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-brilliant-illusions-csv8c-slim-display-chinesisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-kampfdeck-psiana-ex-victini-deutsch": {
       "a": false,
       "p": false
@@ -6085,7 +6089,7 @@
       "p": false
     },
     "de-pokemon-box-festtagskalender-2023": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ultra-pro-alcove-flip-deck-box": {
@@ -7669,7 +7673,7 @@
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-lumiose-city-mini-tin": {
@@ -7785,7 +7789,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-151-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-premium-figure-collection-1": {
