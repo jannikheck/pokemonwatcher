@@ -8,10 +8,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-tcg-phantasmal-flames-me02-booster-display-box-36-packs-en": {
-      "a": true,
-      "p": false
-    },
     "pokemon-tcg-mega-entwicklungen-perfekte-ordnung-me03-3-pack-blister-de": {
       "a": true,
       "p": false
@@ -318,22 +314,6 @@
     },
     "pokemon-30th-anniversary-first-partner-card-set-v2-chn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-5-einzelbooster-chinesisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-4-einzelbooster-chinesisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-3-einzelbooster-chinesisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-2-einzelbooster-chinesich": {
-      "a": false,
       "p": false
     },
     "pokemon-mega-quajutsu-ex-premium-kollektion-deutsch": {
@@ -1449,7 +1429,7 @@
       "p": false
     },
     "pokemon-white-flare-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-display-japanisch": {
@@ -7921,7 +7901,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-tech-sticker-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-elite-trainer-box": {
