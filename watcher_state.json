@@ -5631,7 +5631,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-1-display-cn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-trick-or-trade-2024-booster-eng": {
@@ -7326,80 +7326,12 @@
     }
   },
   "TCG Stadium::ALL": {
-    "prismatic-evolutions-poster-collection": {
-      "a": false,
-      "p": false
-    },
-    "destined-rivals-pokemon-center-elite-trainer-box-exclusive-sv10-destined-rivals-dri": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "chaos-rising-pokemon-center-elite-trainer-box-me04-chaos-rising-cri": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-trading-card-game-paradox-clash-tin-styles-may-vary": {
-      "a": false,
-      "p": false
-    },
-    "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-151-mini-tin-choose-design": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-q1-2021-pokeball-tin": {
-      "a": false,
-      "p": false
-    },
-    "pre-order-pokemon-tcg-mega-evolutions-me3-perfect-order-3-pack-blister-styles-may-vary": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-10-5-black-bolt-binder-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-10-5-unova-poster-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-10-5-white-flare-binder-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-surging-sparks-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-trading-card-game-scarlet-violet-journey-together-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-and-violet-journey-together-three-booster-blister-style-may-vary": {
-      "a": false,
-      "p": false
-    },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
-      "a": false,
-      "p": false
-    },
-    "6-piece-pokemon-collection-pikachu-pen-holder-anime-action-figures-perfect-toy-gift-set": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
@@ -8562,6 +8494,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-tcg-30th-celebration-elite-trainer-box-english": {
+      "a": false,
+      "p": false
+    },
     "pokemon-bitty-pop-display-vinyl-figures-poke-ball": {
       "a": false,
       "p": false
