@@ -84,10 +84,6 @@
       "a": false,
       "p": false
     },
-    "preis-pokemon-tcg-prismatic-evolutions-sv8-5-elite-trainer-box-en-limit-2-kunde-preorder-mitte-mai": {
-      "a": true,
-      "p": false
-    },
     "pokemon-tcg-karmesin-purpur-kp01-build-battle-stadion-de": {
       "a": false,
       "p": false
@@ -5866,6 +5862,14 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-mega-krafte-tin-box-bundle-mega-zeraora-mega-dragoran-mega-darkrai-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-dunkelnacht-3er-blister-de": {
       "a": false,
       "p": false
@@ -6662,6 +6666,14 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-2-pack-blister-august-2026-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-dunkelnacht-3-pack-blister-de": {
       "a": false,
       "p": false
@@ -7515,15 +7527,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7543,7 +7555,7 @@
       "p": false
     },
     "pack-pokemon-fuegos-fantasmales-elite-blister": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pack-pokemon-rivales-predestinados-lata-caja-ex": {
@@ -7567,7 +7579,7 @@
       "p": false
     },
     "lata-team-rocket": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-rivales-predestinados-sleeved-booster-es-2025": {
@@ -7583,7 +7595,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
