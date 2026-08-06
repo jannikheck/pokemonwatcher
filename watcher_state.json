@@ -12,10 +12,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-wachsendes-chaos-me04-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-pitch-black-me05-premium-checklane-blister-en-limit-2-person": {
       "a": true,
       "p": false
@@ -89,7 +85,7 @@
       "p": false
     },
     "preis-pokemon-tcg-prismatic-evolutions-sv8-5-elite-trainer-box-en-limit-2-kunde-preorder-mitte-mai": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-karmesin-purpur-kp01-build-battle-stadion-de": {
@@ -5772,6 +5768,14 @@
     }
   },
   "CardBuddies::ALL": {
+    "zarude-2-pack-blister-de": {
+      "a": false,
+      "p": false
+    },
+    "acryl-case-f-r-pokemon-ultra-premium-collection-box-charizard": {
+      "a": false,
+      "p": false
+    },
     "mega-entwicklungen-erhabene-helden-top-trainer-box-de": {
       "a": false,
       "p": false
@@ -7511,15 +7515,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7539,7 +7543,7 @@
       "p": false
     },
     "pack-pokemon-fuegos-fantasmales-elite-blister": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pack-pokemon-rivales-predestinados-lata-caja-ex": {
@@ -7563,7 +7567,7 @@
       "p": false
     },
     "lata-team-rocket": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-rivales-predestinados-sleeved-booster-es-2025": {
@@ -7579,7 +7583,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
@@ -7721,7 +7725,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-151-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-premium-figure-collection-1": {
