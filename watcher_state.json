@@ -2409,7 +2409,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-twilight-masquerade-premium-checklane-blister-eng": {
@@ -5566,10 +5566,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-nine-colors-gathering-cs4bc-jumbo-booster-s-chn": {
-      "a": false,
-      "p": false
-    },
     "pokemon-prismatische-entwicklungen-booster-de": {
       "a": true,
       "p": false
@@ -7745,7 +7741,7 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-collectors-chest-fall-2025": {
