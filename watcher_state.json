@@ -1,5 +1,13 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-mega-greninja-ex-premium-collection-en-limit-1-person": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-mega-quajutsu-ex-premium-kollektion-de-limit-1-person": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-mega-evolution-perfect-order-me03-36er-display-en-preorder-27-03-26-limit-3-person": {
       "a": false,
       "p": false
@@ -6683,7 +6691,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-3-pack-blister-de": {
@@ -8599,7 +8607,7 @@
       "p": false
     },
     "pokemon-tcg-surging-sparks-bundle-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-battle-styles-booster": {
