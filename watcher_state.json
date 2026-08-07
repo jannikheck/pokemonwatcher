@@ -172,6 +172,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-zacian-v-union-card-frame-box-chinesisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mewtu-v-union-card-frame-box-chinesisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-quajutsu-v-union-card-frame-box-chinesisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-brilliant-illusions-csv8c-slim-display-chinesisch": {
       "a": true,
       "p": false
