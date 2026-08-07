@@ -173,7 +173,7 @@
   },
   "CardCosmos::ALL": {
     "pokemon-brilliant-illusions-csv8c-slim-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-kampfdeck-psiana-ex-victini-deutsch": {
@@ -305,7 +305,7 @@
       "p": false
     },
     "pokemon-true-mystery-csv6c-booster-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-v2-chn": {
@@ -337,7 +337,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustration-kollektion-box-serie-3-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-terastal-gathering-tin-box-csv9-5-chinesisch-zufalliges-design": {
