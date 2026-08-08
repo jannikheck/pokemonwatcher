@@ -3249,7 +3249,7 @@
       "p": false
     },
     "pokemon-reshiram-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection-eng": {
@@ -5142,6 +5142,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "fantasiacards-x-piicardchu-pokemon-graded-card-bag-limited-time": {
+      "a": true,
+      "p": false
+    },
     "pokemon-first-partner-illustration-collection-series-3-eng": {
       "a": true,
       "p": false
