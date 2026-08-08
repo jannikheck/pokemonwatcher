@@ -2469,7 +2469,7 @@
       "p": false
     },
     "pokemon-optimale-ordung-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-battle-styles-sleeved-booster-eng": {
@@ -6077,7 +6077,7 @@
       "p": false
     },
     "eng-pokemon-elite-trainer-box-prismatic-evolutions-sv8-5": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "eng-pokemon-tech-sticker-collection-prismatic-evolutions": {
