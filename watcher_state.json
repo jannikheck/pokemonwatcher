@@ -7551,15 +7551,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7579,7 +7579,7 @@
       "p": false
     },
     "pack-pokemon-fuegos-fantasmales-elite-blister": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pack-pokemon-rivales-predestinados-lata-caja-ex": {
@@ -7603,7 +7603,7 @@
       "p": false
     },
     "lata-team-rocket": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-rivales-predestinados-sleeved-booster-es-2025": {
@@ -7619,7 +7619,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
