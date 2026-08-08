@@ -181,15 +181,15 @@
   },
   "CardCosmos::ALL": {
     "pokemon-zacian-v-union-card-frame-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mewtu-v-union-card-frame-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-quajutsu-v-union-card-frame-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-brilliant-illusions-csv8c-slim-display-chinesisch": {
@@ -7761,7 +7761,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-151-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-premium-figure-collection-1": {
