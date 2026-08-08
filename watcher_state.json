@@ -117,68 +117,7 @@
       "p": false
     }
   },
-  "Feenturm::ALL": {
-    "pokemon-bitty-pop-display-vinyl-figuren-poke-ball-minifiguren": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-30th-celebration-day-night-mini-tins-1-zufallige-tin-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-30th-celebration-ditto-premium-collection-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-30th-celebration-ultra-premium-collection-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-30th-celebration-booster-display-de-vorbestellung": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-erste-partner-illustrations-kollektion-serie-3-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-glurak-ex-super-premium-kollektion-deutsch-kopie": {
-      "a": false,
-      "p": false
-    },
-    "ultra-pro-pokemon-deck-box-tinkaton": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mbe03-mega-quajutsu-ex-premium-kollektion-jetzt-vorbestellen": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-top-trainer-box-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-3er-blister-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-booster-bundle-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-booster-display-36-booster-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    }
-  },
+  "Feenturm::ALL": {},
   "CardCosmos::ALL": {
     "pokemon-zacian-v-union-card-frame-box-chinesisch": {
       "a": false,
