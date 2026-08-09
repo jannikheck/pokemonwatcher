@@ -1803,7 +1803,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -5142,6 +5142,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-grauen-der-lichtfinsternis-booster-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-nebel-der-sagen-booster-bundle-de": {
       "a": true,
       "p": false
@@ -7817,7 +7821,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-ultra-pro-9-pocket-binder": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-7-evolving-skies-booster-box": {
