@@ -885,7 +885,7 @@
       "p": false
     },
     "pokemon-weisse-flammen-booster-bundle-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-151-booster-bundle-deutsch": {
@@ -5142,6 +5142,30 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-nebel-der-sagen-booster-bundle-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-shrouded-fable-booster-bundle-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-chilling-reign-snorlax-3er-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-chilling-reign-eevee-3er-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-battle-styles-jolteon-3er-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-battle-styles-eevee-3er-blister-eng": {
+      "a": true,
+      "p": false
+    },
     "fantasiacards-x-piicardchu-pokemon-graded-card-bag-limited-time": {
       "a": true,
       "p": false
