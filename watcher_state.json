@@ -5174,10 +5174,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-first-partner-illustration-collection-series-3-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-evolutions-booster-eng-kopie": {
       "a": true,
       "p": false
@@ -8005,7 +8001,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-mini-tin": {
