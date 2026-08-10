@@ -2401,7 +2401,7 @@
       "p": false
     },
     "pokemon-mega-zygarde-ex-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-twilight-masquerade-display-eng": {
@@ -5568,10 +5568,6 @@
     },
     "pokemon-obsidian-flames-booster-englisch-1": {
       "a": true,
-      "p": false
-    },
-    "pokemon-darkness-ablaze-booster-englisch": {
-      "a": false,
       "p": false
     },
     "pokemon-csv6c-true-mystic-slim-booster-s-chn": {
