@@ -5191,7 +5191,7 @@
       "p": false
     },
     "pokemon-german-mega-booster-bundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-german-booster-bundle-obsidianflammen-entwicklungen-in-paldea-karmesin-purpur-de": {
@@ -5603,7 +5603,7 @@
       "p": false
     },
     "pokemon-fatale-flammen-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-booster-eng-1": {
