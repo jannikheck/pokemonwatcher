@@ -118,12 +118,20 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-tcg-30th-celebration-mew-figuren-kollektion-deutsch-jetzt-vorbestellen": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-tcg-30th-celebration-mewtu-figuren-kollektion-deutsch-jetzt-vorbestellen": {
+      "a": true,
+      "p": true
+    },
     "pokemon-tcg-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen-kopie": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen-kopie": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-bitty-pop-display-vinyl-figuren-poke-ball-minifiguren": {
@@ -139,7 +147,7 @@
       "p": true
     },
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30th-celebration-ultra-premium-collection-deutsch-jetzt-vorbestellen": {
@@ -8687,7 +8695,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-display-36-booster": {
