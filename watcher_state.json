@@ -8562,6 +8562,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-tcg-delta-reign-prerelease-event-ticket": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-elite-trainer-box-english": {
       "a": false,
       "p": false
