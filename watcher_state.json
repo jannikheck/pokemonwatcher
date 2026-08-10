@@ -118,6 +118,14 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-tcg-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen-kopie": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen-kopie": {
+      "a": false,
+      "p": true
+    },
     "pokemon-bitty-pop-display-vinyl-figuren-poke-ball-minifiguren": {
       "a": true,
       "p": false
@@ -437,7 +445,7 @@
       "p": false
     },
     "pokemon-galarian-rapidash-v-kollektion-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-shining-fates-eldegoss-v-tin-box-englisch": {
@@ -593,7 +601,7 @@
       "p": false
     },
     "pokemon-pokemon-go-spezial-kollektion-team-weisheit-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pokemon-go-spezial-kollektion-team-wagemut-deutsch": {
@@ -5603,7 +5611,7 @@
       "p": false
     },
     "pokemon-charizard-booster-bundle-obsidian-flames-brilliant-stars-shining-fates-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatische-entwicklungen-booster-de": {
