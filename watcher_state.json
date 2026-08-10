@@ -229,11 +229,11 @@
       "p": false
     },
     "pokemon-umbreon-frame-collection-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mew-frame-collection-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-maskerade-im-zwielicht-booster-bundle-deutsch": {
@@ -533,7 +533,7 @@
       "p": false
     },
     "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pokemon-go-heiteira-tin-box-deutsch": {
