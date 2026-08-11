@@ -981,7 +981,7 @@
       "p": false
     },
     "pokemon-shining-fates-elite-trainer-box-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-darkness-ablaze-elite-trainer-box-englisch": {
@@ -1649,30 +1649,6 @@
       "p": false
     },
     "pokemon-shiny-star-v-booster-display-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-inferno-x-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-151c-collect-151-journey-booster-display-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-bisaflor-ex-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-briduradon-ex-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-glurak-x-ex-ultra-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-kangama-ex-premium-kollektion-de": {
       "a": false,
       "p": false
     }
