@@ -1,0 +1,84 @@
+name: EX Preis Watcher
+
+on:
+  schedule:
+    # Zweimal taeglich - die Cardmarket-Preise bei pokemontcg.io werden nur
+    # einmal am Tag aktualisiert, oefter waere reine Verschwendung.
+    - cron: "0 7 * * *"    # 07:00 UTC (Sommer 09:00, Winter 08:00 dt. Zeit)
+    - cron: "0 17 * * *"   # 17:00 UTC (Sommer 19:00, Winter 18:00 dt. Zeit)
+  workflow_dispatch:
+    inputs:
+      modus:
+        description: "Was soll laufen?"
+        required: true
+        default: "normal"
+        type: choice
+        options:
+          - normal        # normaler Ueberwachungslauf mit Telegram
+          - report        # einmalige CSV-Uebersicht aller Karten
+          - dry-run       # Lauf ohne Telegram, nur Log
+
+permissions:
+  contents: write
+
+# Eigene Gruppe - damit sich Preis- und Restock-Bot nicht gegenseitig blockieren.
+concurrency:
+  group: ex-price-watcher
+  cancel-in-progress: false
+
+jobs:
+  preise:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhaengigkeiten installieren
+        run: pip install requests
+
+      - name: Preis-Watcher ausfuehren
+        env:
+          TELEGRAM_PRICE_BOT_TOKEN: ${{ secrets.TELEGRAM_PRICE_BOT_TOKEN }}
+          TELEGRAM_PRICE_CHAT_ID: ${{ secrets.TELEGRAM_PRICE_CHAT_ID }}
+          POKEMONTCG_API_KEY: ${{ secrets.POKEMONTCG_API_KEY }}
+        run: |
+          MODUS="${{ github.event.inputs.modus }}"
+          case "$MODUS" in
+            report)  python ex_price_watcher.py --report ;;
+            dry-run) python ex_price_watcher.py --dry-run ;;
+            *)       python ex_price_watcher.py ;;
+          esac
+
+      # Der Report ist eine einmalige Auswertung -> als Download bereitstellen.
+      - name: Report als Download anbieten
+        if: ${{ github.event.inputs.modus == 'report' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: ex-preis-report
+          path: ex_price_report.csv
+          if-no-files-found: warn
+
+      - name: Stand speichern
+        if: ${{ github.event.inputs.modus != 'report' }}
+        run: |
+          git config user.name "ex-price-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ex_price_state.json
+          if git diff --staged --quiet; then
+            echo "Keine Aenderungen - nichts zu committen."
+          else
+            git commit -m "Preisstand aktualisiert [skip ci]"
+            # Mehrere Versuche: der Restock-Bot koennte zeitgleich pushen.
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && exit 0
+              echo "Push-Versuch $i fehlgeschlagen, neuer Versuch in 5s …"
+              sleep 5
+            done
+            echo "Push endgueltig fehlgeschlagen."
+            exit 1
+          fi
