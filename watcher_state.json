@@ -677,7 +677,7 @@
       "p": false
     },
     "pokemon-xy-evolution-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pikachu-v-union-card-frame-collection-box-chinesisch": {
@@ -7672,6 +7672,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-tcg-mega-greninja-ex-premium-collection": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-10-destined-rivals-elite-trainer-box": {
       "a": false,
       "p": false
@@ -7725,7 +7729,7 @@
       "p": false
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-enhanced-2-pack-blister-pack-2026": {
@@ -7793,7 +7797,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
