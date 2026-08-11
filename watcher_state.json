@@ -196,6 +196,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-center-special-box-set-hiroshima-japanisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-zacian-v-union-binder-box-chinesisch": {
       "a": true,
       "p": false
