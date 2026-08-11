@@ -81,7 +81,7 @@
       "p": false
     },
     "pokemon-tcg-holiday-calendar-2024-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "b-ware-pokemon-tcg-glurak-ex-super-premium-kollektion-de": {
@@ -1674,26 +1674,6 @@
     },
     "pokemon-mega-kangama-ex-premium-kollektion-de": {
       "a": false,
-      "p": false
-    },
-    "pokemon-mega-dream-ex-display-japanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-fatale-flammen-booster-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-super-electric-breaker-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-symphonia-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-brave-booster-display-koreanisch": {
-      "a": true,
       "p": false
     }
   },
@@ -11441,7 +11421,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
