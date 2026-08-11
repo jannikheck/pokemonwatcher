@@ -5175,7 +5175,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-1-promo-booster-cn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ultra-booster-bundle-sword-shield-era-eng-1": {
@@ -8461,7 +8461,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-paradox-rift-build-battle-stadium-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-build-battle-stadium-box": {
