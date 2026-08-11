@@ -54,6 +54,10 @@ REQUEST_TIMEOUT = 30
 # (16 Sets: Ruby & Sapphire bis Power Keepers).
 QUERY = "set.series:ex"
 
+# Ersatzabfrage, falls die Serien-Abfrage nichts liefert (z.B. weil der
+# Serienname anders geschrieben ist): die 16 Set-IDs direkt.
+FALLBACK_QUERY = " OR ".join(f"set.id:ex{i}" for i in range(1, 17))
+
 # --- Welche Varianten werden beobachtet? ---
 # NORMAL-Seite: nur Holos. Commons/Uncommons ohne Reverse sind wertlos.
 HOLO_RARITIES = [
@@ -139,49 +143,91 @@ def notify(message, dry_run=False):
 # DATEN HOLEN
 # ---------------------------------------------------------------------------
 
+def _fetch_page(query, page, headers):
+    """
+    Holt eine Seite. Rueckgabe: (liste, fehlertext).
+    Bei Rate-Limit (429) oder Serverfehler (5xx) wird mehrfach mit
+    wachsender Wartezeit erneut versucht.
+    """
+    params = {"q": query, "page": page, "pageSize": PAGE_SIZE,
+              "orderBy": "set.releaseDate,number"}
+
+    for versuch in range(1, 5):
+        try:
+            r = requests.get(API_BASE, headers=headers, params=params,
+                             timeout=REQUEST_TIMEOUT)
+        except requests.RequestException as e:
+            print(f"    [WARN] Netzwerkfehler (Versuch {versuch}): {e}")
+            time.sleep(5 * versuch)
+            continue
+
+        if r.status_code == 200:
+            try:
+                return r.json().get("data", []), None
+            except ValueError:
+                return None, "Antwort war kein gueltiges JSON"
+
+        # Diese Faelle lohnen einen erneuten Versuch
+        if r.status_code == 429 or r.status_code >= 500:
+            wartezeit = 15 * versuch
+            print(f"    [WARN] HTTP {r.status_code} (Versuch {versuch}) "
+                  f"- warte {wartezeit}s …")
+            time.sleep(wartezeit)
+            continue
+
+        # Alles andere ist dauerhaft (401/403 = Key-Problem, 400 = Abfragefehler)
+        return None, f"HTTP {r.status_code}: {r.text[:300]}"
+
+    return None, "Nach 4 Versuchen keine Antwort (Rate-Limit oder Serverproblem)"
+
+
 def fetch_cards():
     """Laedt alle Karten der EX-Aera (paginiert). Gibt Liste von dicts zurueck."""
     headers = {"Accept": "application/json"}
     if API_KEY:
         headers["X-Api-Key"] = API_KEY
+        print("API-Key: vorhanden")
+    else:
+        print("API-Key: KEINER gesetzt.")
+        print("  Achtung: ohne Key sind die Limits sehr niedrig. Auf GitHub-Actions-")
+        print("  Servern (geteilte IP-Adressen) reicht das haeufig nicht aus.")
+        print("  Kostenlosen Key holen und als Secret POKEMONTCG_API_KEY hinterlegen.")
 
-    cards, page = [], 1
-    while True:
-        params = {"q": QUERY, "page": page, "pageSize": PAGE_SIZE,
-                  "orderBy": "set.releaseDate,number"}
-        try:
-            r = requests.get(API_BASE, headers=headers, params=params,
-                             timeout=REQUEST_TIMEOUT)
-        except requests.RequestException as e:
-            print(f"[FEHLER] Netzwerk bei Seite {page}: {e}")
-            break
+    # Hauptabfrage; falls die nichts liefert, Ersatzabfrage ueber die Set-IDs.
+    abfragen = [
+        (QUERY, "Serie 'ex'"),
+        (FALLBACK_QUERY, "Set-IDs ex1-ex16"),
+    ]
 
-        if r.status_code == 429:
-            print("[WARN] Rate-Limit erreicht - warte 60s und versuche erneut.")
-            time.sleep(60)
-            continue
-        if r.status_code != 200:
-            print(f"[FEHLER] API antwortete {r.status_code}: {r.text[:200]}")
-            break
+    for query, beschreibung in abfragen:
+        print(f"\nAbfrage: {beschreibung}")
+        print(f"  q = {query}")
+        cards, page = [], 1
 
-        try:
-            data = r.json()
-        except ValueError:
-            print("[FEHLER] Antwort war kein JSON.")
-            break
+        while True:
+            batch, fehler = _fetch_page(query, page, headers)
 
-        batch = data.get("data", [])
-        if not batch:
-            break
-        cards.extend(batch)
-        print(f"  Seite {page}: {len(batch)} Karten (gesamt {len(cards)})")
+            if fehler:
+                print(f"  [FEHLER] {fehler}")
+                cards = []
+                break
 
-        if len(batch) < PAGE_SIZE:
-            break
-        page += 1
-        time.sleep(0.5)
+            if not batch:
+                break
 
-    return cards
+            cards.extend(batch)
+            print(f"  Seite {page}: {len(batch)} Karten (gesamt {len(cards)})")
+
+            if len(batch) < PAGE_SIZE:
+                break
+            page += 1
+            time.sleep(0.5)
+
+        if cards:
+            return cards
+        print(f"  -> {beschreibung} lieferte nichts.")
+
+    return []
 
 
 # ---------------------------------------------------------------------------
