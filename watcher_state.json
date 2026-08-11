@@ -5895,7 +5895,7 @@
       "p": false
     },
     "pokemon-mega-krafte-tin-box-bundle-mega-zeraora-mega-dragoran-mega-darkrai-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
@@ -5907,7 +5907,7 @@
       "p": false
     },
     "pokemon-me05-dunkelnacht-booster-display-36-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
@@ -8784,10 +8784,6 @@
     },
     "pokemon-tcg-team-rockets-moltres-ex-ultra-premium-collection": {
       "a": false,
-      "p": false
-    },
-    "acrylic-protection-for-pokemon-elite-trainer-box": {
-      "a": true,
       "p": false
     },
     "acrylic-protection-for-pokemon-bundle-case": {
