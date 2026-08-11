@@ -5114,7 +5114,7 @@
     }
   },
   "FantasiaCards::ALL": {
-    "pokemon-ewige-rivalen-elite-trainer-box-eng": {
+    "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
       "a": true,
       "p": false
     },
@@ -5391,7 +5391,7 @@
       "p": false
     },
     "pokemon-mega-charizard-x-ultra-premium-collection-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-stellar-crown-sleeved-booster-eng": {
@@ -5887,7 +5887,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-karmesin-purpur-36er-booster-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-zarude-2-pack-blister-dunkelnacht-wachsendes-chaos-de": {
@@ -7059,7 +7059,7 @@
       "p": false
     },
     "ewige-rivalen-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "ewige-rivalen-top-trainer-box-de": {
