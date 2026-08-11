@@ -301,7 +301,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-deutsch": {
@@ -697,7 +697,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-obsidianflammen-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-inferno-x-30er-booster-display-japanisch": {
@@ -5772,6 +5772,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "acryl-case-f-r-pokemon-booster-bundle-display": {
+      "a": false,
+      "p": false
+    },
     "acryl-case-f-r-pokemon-elite-trainer-box": {
       "a": false,
       "p": false
@@ -7781,7 +7785,7 @@
       "p": false
     },
     "pokemon-tcg-kanto-friends-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
