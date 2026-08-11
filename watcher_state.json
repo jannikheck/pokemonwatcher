@@ -119,19 +119,19 @@
   },
   "Feenturm::ALL": {
     "pokemon-tcg-30th-celebration-mew-figuren-kollektion-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-mewtu-figuren-kollektion-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen-kopie": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen-kopie": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-bitty-pop-display-vinyl-figuren-poke-ball-minifiguren": {
@@ -1645,10 +1645,6 @@
       "p": false
     },
     "pokemon-vmax-climax-booster-display-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shiny-star-v-booster-display-japanisch": {
       "a": false,
       "p": false
     }
@@ -8579,7 +8575,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-03-perfect-order-checklane-blister-english-makuhita": {
@@ -8907,7 +8903,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-booster-bundle-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-booster-bundle": {
