@@ -889,7 +889,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-prismatische-entwicklungen-booster-bundle-deutsch": {
@@ -5102,6 +5102,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-poster-collection-eng": {
+      "a": true,
+      "p": true
+    },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
       "a": true,
       "p": false
@@ -5761,10 +5765,6 @@
   },
   "CardBuddies::ALL": {
     "acryl-case-f-r-pokemon-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "mega-entwicklungen-erhabene-helden-top-trainer-box-de": {
       "a": false,
       "p": false
     },
@@ -8731,15 +8731,15 @@
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-squirtle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-bulbasaur": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-charmander": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-perfect-order-elite-trainer-box-english": {
@@ -11285,7 +11285,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
