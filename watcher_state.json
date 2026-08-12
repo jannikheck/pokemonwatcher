@@ -3089,7 +3089,7 @@
       "p": false
     },
     "pokemon-windewoge-ex-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-vivid-voltage-premium-checklane-blister-eng": {
@@ -4041,7 +4041,7 @@
       "p": false
     },
     "pokemon-schlagkraeftige-legenden-tin-122-zacian-ex-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-2-pack-blister-januar-2025-de": {
@@ -5219,8 +5219,8 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
       "a": false,
@@ -5383,10 +5383,6 @@
       "p": false
     },
     "pokemon-stellar-crown-sleeved-booster-eng": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-perfect-order-booster-eng": {
       "a": true,
       "p": false
     },
@@ -5764,10 +5760,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "acryl-case-f-r-pokemon-booster-bundle-display": {
-      "a": false,
-      "p": false
-    },
     "acryl-case-f-r-pokemon-elite-trainer-box": {
       "a": false,
       "p": false
