@@ -3193,7 +3193,7 @@
       "p": false
     },
     "pokemon-5-er-booster-mystery-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tin-box-koraidon-miraidon-de": {
@@ -4506,10 +4506,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-display-fusion-strike-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-destined-rivals-display-englisch": {
       "a": false,
       "p": false
@@ -5102,6 +5098,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-greninja-ex-box-eng": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-sylveon-ex-box-eng": {
+      "a": false,
+      "p": true
+    },
     "pokemon-30th-celebration-poster-collection-eng": {
       "a": true,
       "p": true
