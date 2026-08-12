@@ -6060,6 +6060,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-kampfdecks": {
+      "a": true,
+      "p": false
+    },
     "eng-pokemon-surprise-box-prismatic-evolutions-2-pack-bundle-sams-club-sv8-5": {
       "a": false,
       "p": false
