@@ -1643,10 +1643,6 @@
     "pokemon-mega-dream-ex-booster-display-case-japanisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-vmax-climax-booster-display-japanisch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -8389,7 +8385,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-6-5-shrouded-fable-3-pack-blister-pecharunt": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-6-5-shrouded-fable-mini-tin": {
