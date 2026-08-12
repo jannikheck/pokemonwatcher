@@ -700,10 +700,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-mega-inferno-x-30er-booster-display-japanisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-paradox-rift-maskerade-im-zwielicht-2-pack-blister-deutsch": {
       "a": true,
       "p": false
@@ -1465,7 +1461,7 @@
       "p": false
     },
     "pokemon-white-flare-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-display-japanisch": {
@@ -7624,6 +7620,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-pitch-black-booster-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
       "a": true,
       "p": false
@@ -9427,7 +9427,7 @@
       "p": false
     },
     "pokemon-trading-card-game-kanto-power-mini-tin-random": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-premium-figure-collection": {
@@ -10431,7 +10431,7 @@
       "p": false
     },
     "pokemon-sinnoh-stars-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-brilliant-stars-build-and-battle-kit-box": {
@@ -11007,7 +11007,7 @@
       "p": false
     },
     "scarlet-violet-black-bolt-tech-sticker-collection-gothitelle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-reuniclus": {
@@ -11155,7 +11155,7 @@
       "p": false
     },
     "pokemon-shrouded-fable-mini-tin-display-10x-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-paradox-rift-checklane-hydreigon": {
@@ -11227,7 +11227,7 @@
       "p": false
     },
     "pokemon-sword-shield-battle-styles-3-pack-blister-eevee": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-trainers-toolkit-2021": {
