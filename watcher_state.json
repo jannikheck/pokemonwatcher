@@ -7119,7 +7119,7 @@
       "p": false
     },
     "reisegefahrten-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "reisegefahrten-3-pack-blister-de": {
@@ -11280,6 +11280,10 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-ascended-heroes-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-first-partner-illustration-collection-series-2": {
       "a": true,
       "p": false
