@@ -5551,7 +5551,7 @@
       "p": false
     },
     "pokemon-primordial-arts-cs3bc-jumbo-booster-s-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-primordial-arts-cs3ac-jumbo-booster-s-chn": {
@@ -5603,7 +5603,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-3-booster-s-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-3-display-s-chn": {
@@ -5655,7 +5655,7 @@
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-booster-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-set-off-to-collect-gift-box-s-chn": {
@@ -9007,22 +9007,6 @@
       "p": false
     },
     "pokemon-me01-2x-mega-evolution-elite-trainer-box-bundle-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mega-evolution-mega-lucario-elite-trainer-box-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mega-evolution-mega-gardevoir-elite-trainer-box-english": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-evolution-checklane-blister-wailord-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-evolution-3-pack-blister-psyduck": {
       "a": false,
       "p": false
     }
