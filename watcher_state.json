@@ -1,17 +1,5 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-inferno-x-m2-display-kor": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-ninja-spinner-m4-display-kor": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-shiny-treasure-ex-sv4a-display-kor": {
-      "a": true,
-      "p": false
-    },
     "pokemon-tcg-mega-greninja-ex-premium-collection-en-limit-1-person": {
       "a": true,
       "p": false
@@ -11317,7 +11305,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
