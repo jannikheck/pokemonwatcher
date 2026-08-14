@@ -5231,7 +5231,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
@@ -11429,7 +11429,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
