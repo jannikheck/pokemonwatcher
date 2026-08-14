@@ -697,7 +697,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-prismatische-entwicklungen-uberraschungs-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-schillerndes-katapuldra-vmax-kollektion-deutsch": {
@@ -7260,6 +7260,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-mega-evolution-chaos-rising-elite-trainer-box-card-sleeves-65-sleeves": {
+      "a": true,
+      "p": false
+    },
     "ultra-pro-deck-protector-sleeves-pokemon-lillie-and-clefairy": {
       "a": true,
       "p": true
@@ -7753,7 +7757,7 @@
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "victini-svp208-pokemon-scarlet-violet-promo": {
