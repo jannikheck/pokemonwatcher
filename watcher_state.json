@@ -837,7 +837,7 @@
       "p": false
     },
     "pokemon-center-special-box-set-tohoku-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-5-booster-box-chinesisch-sammler-edition": {
@@ -873,7 +873,7 @@
       "p": false
     },
     "pokemon-ancient-roar-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
@@ -7665,7 +7665,7 @@
   },
   "TCGStore.se::ALL": {
     "pokemon-mega-evolution-pitch-black-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
