@@ -1153,7 +1153,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-celebrations-pokemon-center-elite-trainer-box-englisch": {
@@ -2817,7 +2817,7 @@
       "p": false
     },
     "pokemon-mega-glurak-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lillie-premium-tournament-collection-eng": {
@@ -7260,6 +7260,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-mega-evolution-chaos-rising-elite-trainer-box-dice": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box-card-sleeves-65-sleeves": {
       "a": true,
       "p": false
@@ -11329,7 +11333,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
