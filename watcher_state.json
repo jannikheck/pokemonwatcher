@@ -176,6 +176,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-pokemon-go-s10b-booster-display-japanisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-center-special-box-set-hiroshima-japanisch": {
       "a": false,
       "p": false
@@ -8570,10 +8574,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-30th-celebration-elite-trainer-box-english": {
-      "a": false,
-      "p": false
-    },
     "pokemon-bitty-pop-display-vinyl-figures-poke-ball": {
       "a": false,
       "p": false
@@ -11019,7 +11019,7 @@
       "p": false
     },
     "scarlet-violet-black-bolt-tech-sticker-collection-gothitelle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-black-bolt-tech-sticker-collection-reuniclus": {
