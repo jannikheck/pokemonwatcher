@@ -176,6 +176,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-evolution-chaos-rising-booster-display-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-pokemon-go-s10b-booster-display-japanisch": {
       "a": true,
       "p": false
@@ -693,7 +697,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-prismatische-entwicklungen-uberraschungs-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-schillerndes-katapuldra-vmax-kollektion-deutsch": {
@@ -737,7 +741,7 @@
       "p": false
     },
     "pokemon-dragoran-v-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151-ordner-kollektion-deutsch": {
@@ -961,7 +965,7 @@
       "p": false
     },
     "pokemon-shining-fates-elite-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-darkness-ablaze-elite-trainer-box-englisch": {
@@ -1149,7 +1153,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-celebrations-pokemon-center-elite-trainer-box-englisch": {
@@ -1177,7 +1181,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-wachsendes-chaos-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-kampf-akademie-box-2024-deutsch": {
@@ -6707,7 +6711,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-quajutsu-ex-premium-kollektion-de": {
@@ -7669,7 +7673,7 @@
       "p": false
     },
     "pokemon-tcg-mega-moonlit-tin-mega-gengar-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-first-partner-deluxe-pin-collection": {
@@ -7677,7 +7681,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-booster-bundle": {
