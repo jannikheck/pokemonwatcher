@@ -1,5 +1,9 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-destined-rivals-sv10-elite-trainer-box-en": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-mega-greninja-ex-premium-collection-en-limit-1-person": {
       "a": true,
       "p": false
@@ -2549,7 +2553,7 @@
       "p": false
     },
     "pokemon-go-special-collection-team-valor-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-go-special-collection-team-mystic-eng": {
@@ -2557,7 +2561,7 @@
       "p": false
     },
     "pokemon-go-special-collection-team-instinct": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-go-premium-collection-radiant-eevee-eng": {
@@ -5463,7 +5467,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-eng": {
