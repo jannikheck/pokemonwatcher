@@ -1634,6 +1634,14 @@
     }
   },
   "TradingToys::ALL": {
+    "pokemon-3-booster-sticker-collection-30-jahre-jubilaeumsedit-ion-2026": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-anniversary-collection-blister-pack-30-jahre": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-knock-out-collection-30-jahre-sammelbox": {
       "a": false,
       "p": false
@@ -2653,7 +2661,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-deluxe-pin-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-champion-s-path-elite-trainer-box-eng": {
