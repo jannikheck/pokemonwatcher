@@ -7680,6 +7680,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-pitch-black-booster-box": {
       "a": false,
       "p": false
