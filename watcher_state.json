@@ -4354,6 +4354,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-dunkelnacht-display-deutsch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-ascended-heroes-elite-trainer-box-englisch": {
       "a": false,
       "p": false
