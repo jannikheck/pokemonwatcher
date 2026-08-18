@@ -6687,7 +6687,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-3-pack-blister-de": {
@@ -6735,7 +6735,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-3-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
@@ -6847,10 +6847,6 @@
       "p": false
     },
     "pokemon-tech-sticker-kollektion-erhabene-helden-de": {
-      "a": false,
-      "p": false
-    },
-    "silberne-sturmwinde-display-de": {
       "a": false,
       "p": false
     },
@@ -7043,7 +7039,7 @@
       "p": false
     },
     "ewige-rivalen-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "ewige-rivalen-top-trainer-box-de": {
