@@ -1631,22 +1631,6 @@
     "pokemon-violet-ex-booster-display-koreanisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-shiny-treasure-ex-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-wild-force-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-dream-ex-booster-display-japanisch-ohne-folie": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-dream-ex-booster-display-case-japanisch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -4081,7 +4065,7 @@
       "p": true
     },
     "pokemon-tcg-ewige-rivalen-kp10-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkoffer-herbst-2024-de": {
