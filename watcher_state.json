@@ -21,7 +21,7 @@
       "p": false
     },
     "pokemon-tcg-pitch-black-me05-premium-checklane-blister-en-limit-2-person": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
@@ -6723,7 +6723,7 @@
       "p": false
     },
     "pokemon-mega-pixi-ex-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-gengar-ex-tin-de": {
@@ -6731,7 +6731,7 @@
       "p": false
     },
     "pokemon-illumina-city-mini-tins-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-3-pack-blister-de": {
@@ -6743,7 +6743,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-booster-bundle-de": {
@@ -6802,10 +6802,6 @@
       "a": false,
       "p": false
     },
-    "miraidon-tin-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-mega-glurak-x-tin-de": {
       "a": false,
       "p": false
@@ -6822,16 +6818,8 @@
       "a": false,
       "p": false
     },
-    "entwicklungen-in-paldea-display-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-enhanced-2-pack-blister-oktober-2025-de": {
       "a": true,
-      "p": false
-    },
-    "151-poster-box-de": {
-      "a": false,
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-mini-tins-de": {
@@ -6855,10 +6843,6 @@
       "p": false
     },
     "pokemon-pokeball-tin-herbst-2025-de": {
-      "a": false,
-      "p": false
-    },
-    "obsidianflammen-display-de": {
       "a": false,
       "p": false
     },
@@ -6891,10 +6875,6 @@
       "p": false
     },
     "pokeball-tin-herbst-2024-de": {
-      "a": false,
-      "p": false
-    },
-    "karmesin-purpur-build-battle-stadium-de": {
       "a": false,
       "p": false
     },
@@ -6974,10 +6954,6 @@
       "a": false,
       "p": false
     },
-    "karmesin-purpur-display-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-schwarze-blitze-weisse-flammen-poster-kollektion-de": {
       "a": false,
       "p": false
@@ -7034,10 +7010,6 @@
       "a": false,
       "p": false
     },
-    "build-battle-stadium-swsh12-de": {
-      "a": false,
-      "p": false
-    },
     "ewige-rivalen-display-de": {
       "a": true,
       "p": false
@@ -7051,18 +7023,6 @@
       "p": false
     },
     "enigmaras-wampitz-ex-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "151-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "paradoxrift-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "karmesin-purpur-top-trainer-box-de": {
       "a": false,
       "p": false
     },
@@ -7122,10 +7082,6 @@
       "a": false,
       "p": false
     },
-    "verlorener-ursprung-display-de": {
-      "a": false,
-      "p": false
-    },
     "kyogre-tin-de": {
       "a": false,
       "p": false
@@ -7155,10 +7111,6 @@
       "p": false
     },
     "2-pack-blister-januar-2025-de": {
-      "a": false,
-      "p": false
-    },
-    "paradoxrift-3-pack-blister-de": {
       "a": false,
       "p": false
     },
@@ -7231,18 +7183,6 @@
       "p": false
     },
     "crimanzo-ex-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "mastifioso-ex-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "entwickelnde-krafte-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-japanisches-10er-display-acryl-case": {
       "a": false,
       "p": false
     }
@@ -11617,7 +11557,7 @@
       "p": false
     },
     "pokemon-ionos-bellibolt-ex-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-jcc-pack-blister-3-boosters-ev10-rivalites-destinees-kangourex-zeblitz-1-aleatoire-fr": {
