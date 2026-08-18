@@ -180,8 +180,16 @@
     }
   },
   "CardCosmos::ALL": {
-    "pokemon-gem-pack-vol-6-booster-box-chinesisch": {
+    "pokemon-terastal-gathering-eevee-friends-gift-box-chinesisch": {
       "a": false,
+      "p": false
+    },
+    "pokemon-super-electric-breaker-display-japanisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-gem-pack-vol-6-booster-box-chinesisch": {
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-display-englisch": {
