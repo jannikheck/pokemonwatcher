@@ -102,6 +102,10 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-mew-figuren-kollektion-deutsch-jetzt-vorbestellen": {
       "a": false,
       "p": true
@@ -7897,7 +7901,7 @@
       "p": false
     },
     "the-acrylic-box-akrylskydd-for-pokemon-booster-box-6mm": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-champions-path-elite-trainer-box": {
