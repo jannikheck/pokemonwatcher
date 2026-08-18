@@ -180,6 +180,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-gem-pack-vol-6-booster-box-chinesisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-chaos-rising-booster-display-englisch": {
       "a": true,
       "p": false
