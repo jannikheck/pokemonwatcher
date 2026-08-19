@@ -1551,62 +1551,6 @@
     "pokemon-mega-inferno-x-case-japanisch": {
       "a": true,
       "p": false
-    },
-    "pokemon-vmax-climax-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-hot-wind-arena-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-towering-perfection-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-snow-hazard-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-paradise-dragona-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-day-2026-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-morpeko-v-union-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-nacht-in-flammen-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ultra-prisma-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-farbenschock-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-nihil-zero-display-japanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-blade-awakening-slim-booster-box-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-blade-awakening-jumbo-booster-box-chinesisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-151-booster-display-case-japanisch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
