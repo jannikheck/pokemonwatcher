@@ -11245,7 +11245,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-accessory-pouch-special-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-premium-figure-collection-box": {
@@ -11265,7 +11265,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11361,7 +11361,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
@@ -11449,7 +11449,7 @@
       "p": false
     },
     "pokemon-crown-zenith-tin-1-willekeurige-variant": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-unown-v-lugia-v-special-collection-box": {
