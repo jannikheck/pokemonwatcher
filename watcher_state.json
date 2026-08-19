@@ -2185,7 +2185,7 @@
       "p": false
     },
     "pokemon-nebel-der-sagen-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-3-pack-blister-eng": {
@@ -3921,7 +3921,7 @@
       "p": false
     },
     "pokemon-maskerade-im-zwielicht-18er-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gewalten-der-zeit-18er-display-de": {
@@ -7247,10 +7247,6 @@
     "pokemon-scarlet-violet-temporal-force-elite-trainer-box-dice-7-pack": {
       "a": true,
       "p": false
-    },
-    "pokemon-enhanced-2-pack-blister-gengar": {
-      "a": false,
-      "p": true
     }
   },
   "TCG Stadium::ALL": {
