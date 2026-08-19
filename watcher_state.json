@@ -7573,7 +7573,7 @@
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-3-pack-blister-chikorita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-booster-box": {
@@ -11501,10 +11501,6 @@
       "p": false
     },
     "pokemon-journey-together-checklane-blister-1-willekeurige": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-elite-trainer-box": {
       "a": false,
       "p": false
     }
