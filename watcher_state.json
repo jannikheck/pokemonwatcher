@@ -185,7 +185,7 @@
   },
   "CardCosmos::ALL": {
     "pokemon-terastal-gathering-eevee-friends-gift-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-super-electric-breaker-display-japanisch": {
