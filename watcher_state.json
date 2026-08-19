@@ -184,6 +184,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-anniversary-first-partner-card-set-v3-chinesisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-terastal-gathering-eevee-friends-gift-box-chinesisch": {
       "a": true,
       "p": false
@@ -7725,7 +7729,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
@@ -7761,7 +7765,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-ultra-pro-9-pocket-binder": {
@@ -7853,11 +7857,11 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-tech-sticker-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-tech-sticker-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-elite-trainer-box": {
@@ -7909,7 +7913,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-white-flare-unova-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-lillie-premium-tournament-collection": {
@@ -8153,7 +8157,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-binder-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-poster-collection-box": {
@@ -8277,7 +8281,7 @@
       "p": false
     },
     "pokemon-surging-sparks-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-holiday-calendar-adventskalender-2024": {
@@ -8285,7 +8289,7 @@
       "p": false
     },
     "pokemon-tcg-armarouge-ex-premium-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-3-pack-blister-dondozo": {
