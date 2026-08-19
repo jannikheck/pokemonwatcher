@@ -745,7 +745,7 @@
       "p": false
     },
     "pokemon-viridium-v-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-panferno-v-kollektion-deutsch": {
@@ -1605,34 +1605,6 @@
       "p": false
     },
     "pokemon-151-booster-display-case-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-crimson-haze-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-stella-miracle-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-dream-ex-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-future-flash-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-triple-beat-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-night-wanderer-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-violet-ex-booster-display-koreanisch": {
       "a": false,
       "p": false
     }
@@ -7596,12 +7568,20 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-chaos-rising-booster-bundle": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-pitch-black-booster-bundle": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection": {
       "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
@@ -7653,7 +7633,7 @@
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-3-pack-blister-chikorita": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-booster-box": {
@@ -7693,7 +7673,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-fun-pack": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-collection": {
