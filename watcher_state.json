@@ -8422,6 +8422,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-english": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-delta-reign-prerelease-event-ticket": {
       "a": true,
       "p": false
