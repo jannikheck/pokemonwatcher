@@ -1241,7 +1241,7 @@
       "p": false
     },
     "pokemon-center-fukuoka-special-box-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-erhabene-helden-booster-bundle-deutsch": {
@@ -4262,6 +4262,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-chilling-reign-display-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-dunkelnacht-display-deutsch": {
       "a": true,
       "p": false
@@ -7597,7 +7601,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-booster-bundle": {
