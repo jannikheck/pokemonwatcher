@@ -193,7 +193,7 @@
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-booster-bundle-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-7-booster-box-chinesich": {
@@ -3109,7 +3109,7 @@
       "p": false
     },
     "pokemon-5-er-booster-mystery-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tin-box-koraidon-miraidon-de": {
@@ -7128,6 +7128,30 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-mega-evolution-delta-reign-checklane-blister-spritzee": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-mega-evolution-delta-reign-3-pack-blister-seel": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-mega-evolution-delta-reign-booster-bundle": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-mega-evolution-delta-reign-elite-trainer-box": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-mega-evolution-delta-reign-booster-pack": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-mega-evolution-delta-reign-booster-box-36-boosters": {
+      "a": false,
+      "p": true
+    },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box-dice": {
       "a": true,
       "p": false
@@ -7605,7 +7629,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-fun-pack": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-collection": {
