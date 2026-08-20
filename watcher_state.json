@@ -1241,7 +1241,7 @@
       "p": false
     },
     "pokemon-center-fukuoka-special-box-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-erhabene-helden-booster-bundle-deutsch": {
@@ -7288,6 +7288,42 @@
     }
   },
   "Otakura::ALL": {
+    "bundle-set-allenatore-30-anniversario-equilibrio-perfetto-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "bundle-set-allenatore-30-anniversario-caos-nascente-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "bundle-set-allenatore-30-anniversario-buio-pesto-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-poster-collection-ita": {
+      "a": true,
+      "p": false
+    },
+    "bundle-2-tin-sylveon-ex-greninja-ex-30-anniversario-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "30-anniversario-set-allenatore-fuoriclasse-pokemon-tcg-ita": {
+      "a": false,
+      "p": false
+    },
+    "30-anniversario-tin-da-collezione-greninja-ex-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "30-anniversario-tin-da-collezione-sylveon-ex-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "30-anniversario-blister-2-buste-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
     "bundle-zarude-blister-collezione-primi-compagni-davventura-serie-3-pokemon-tcg-ita": {
       "a": true,
       "p": false
