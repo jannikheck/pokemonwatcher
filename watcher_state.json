@@ -184,6 +184,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-evolution-enhanced-booster-display-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-phantasmal-flames-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-ascended-heroes-booster-bundle-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-gem-pack-vol-7-booster-box-chinesich": {
       "a": false,
       "p": false
@@ -1550,10 +1562,6 @@
     },
     "pokemon-mega-entwicklung-optimale-ordnung-booster-display-deutsch": {
       "a": false,
-      "p": false
-    },
-    "pokemon-mega-inferno-x-case-japanisch": {
-      "a": true,
       "p": false
     }
   },
