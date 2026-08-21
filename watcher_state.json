@@ -184,6 +184,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-pokemon-go-pokeball-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-enhanced-booster-display-englisch": {
       "a": true,
       "p": false
