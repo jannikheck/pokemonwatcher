@@ -4258,6 +4258,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-paldean-fates-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-chilling-reign-display-englisch": {
       "a": true,
       "p": false
