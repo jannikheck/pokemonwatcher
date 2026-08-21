@@ -4258,6 +4258,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-evolving-skies-elite-trainer-box-englisch-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paldean-fates-elite-trainer-box": {
       "a": false,
       "p": false
@@ -7162,110 +7166,6 @@
     },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box-card-sleeves-65-sleeves": {
       "a": false,
-      "p": false
-    },
-    "ultra-pro-deck-protector-sleeves-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-100-deck-box-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-9-pocket-pro-binder-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-playmat-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-4-pocket-portfolio-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-9-pocket-portfolio-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-2-album-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-alcove-tower-deck-box-pokemon-lillie-and-clefairy": {
-      "a": true,
-      "p": true
-    },
-    "pokemon-ultra-ball-tin-stciker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-quaxly-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-quaxly-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-pawmi-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-pawmi-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-fuecoco-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-sprigatito-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-friends-mini-tin-sprigatito-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-evolution-lumiose-city-mini-tins-meganium-meowstic-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-lumiose-city-mini-tins-meganium-meowstic-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-lumiose-city-mini-tins-feraligatr-smoliv-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-evolution-lumiose-city-mini-tins-feraligatr-smoliv-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-evolution-lumiose-city-mini-tins-emboar-inkay-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-lumiose-city-mini-tins-emboar-inkay-sticker": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-evolution-lumiose-city-mini-tins-gallade-goomy-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-lumiose-city-mini-tins-gallade-goomy": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-go-mini-tins-blissey-meltan-art-card": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mini-tin-art-card-galar-power-rapidash": {
-      "a": true,
       "p": false
     }
   },
