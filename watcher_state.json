@@ -6400,6 +6400,10 @@
     }
   },
   "PokeVend::ALL": {
+    "pokemon-terastal-gathering-display-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-vol-5-display-chn": {
       "a": true,
       "p": false
