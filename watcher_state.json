@@ -2201,7 +2201,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "acrylcase-mit-magneten-fur-pokemon-36-display": {
@@ -2885,7 +2885,7 @@
       "p": false
     },
     "pokemon-tag-kollektion-2026-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-tech-sticker-kollektion-de": {
@@ -3565,7 +3565,7 @@
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-victini-illustrations-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-charizard-ex-special-collection-de": {
@@ -6691,7 +6691,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-optimale-ordnung-display-de": {
