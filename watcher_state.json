@@ -6400,6 +6400,10 @@
     }
   },
   "PokeVend::ALL": {
+    "pokemon-dunkelnacht-display-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-terastal-gathering-display-chn": {
       "a": true,
       "p": false
