@@ -5843,7 +5843,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de-mega-entwicklung-major-cards-tcg": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-boosterbundle-de-major-cards-tcg": {
@@ -6695,15 +6695,15 @@
       "p": false
     },
     "pokemon-erhabene-helden-mega-meganie-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-mega-flambirex-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-mega-impergator-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-booster-bundle-de": {
@@ -6723,7 +6723,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-3-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-de": {
@@ -6979,7 +6979,7 @@
       "p": false
     },
     "prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-accessory-pouch-special-collection-en": {
