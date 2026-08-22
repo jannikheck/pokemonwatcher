@@ -1831,7 +1831,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-booster-pack-repack": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-ordner-kollektion-karmesin-purpur-weisse-flammen-reshiram-ordner-5-boosterpacks": {
@@ -5006,6 +5006,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-paldea-evolved-booster-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
       "a": true,
       "p": true
@@ -5496,10 +5500,6 @@
     },
     "pokemon-prismatische-entwicklungen-booster-de": {
       "a": true,
-      "p": false
-    },
-    "pokemon-paldea-evolved-booster-englisch-1": {
-      "a": false,
       "p": false
     },
     "pokemon-lost-origin-booster-englisch-1": {
@@ -7673,7 +7673,7 @@
       "p": false
     },
     "pokemon-tcg-mega-venusaur-ex-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-heroes-mini-tin": {
