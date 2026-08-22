@@ -849,7 +849,7 @@
       "p": false
     },
     "pokemon-schwert-schild-astralglanz-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sonne-mond-verborgenes-schicksal-top-trainer-box-deutsch": {
@@ -7181,11 +7181,11 @@
   },
   "Otakura::ALL": {
     "bundle-set-allenatore-30-anniversario-equilibrio-perfetto-pokemon-tcg-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "bundle-set-allenatore-30-anniversario-caos-nascente-pokemon-tcg-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "bundle-set-allenatore-30-anniversario-buio-pesto-pokemon-tcg-ita": {
