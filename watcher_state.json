@@ -5006,6 +5006,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-vivid-voltage-display-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paldea-evolved-booster-eng": {
       "a": true,
       "p": false
