@@ -28,22 +28,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-black-bolt-white-flare-sv10-5-unova-mini-tin-random-en": {
-      "a": false,
-      "p": false
-    },
-    "b-ware-pokemon-tcg-miracle-journey-csv2c-jumbo-display-chn": {
-      "a": false,
-      "p": false
-    },
-    "b-ware-pokemon-tcg-bonus-round-csv4c-jumbo-display-chn": {
-      "a": false,
-      "p": false
-    },
-    "b-ware-pokemon-tcg-eternal-birth-csv1c-jumbo-display-chn": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-mega-pixi-tin-box-de-limit-2-kunde": {
       "a": false,
       "p": false
@@ -56,16 +40,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-kampfakademie-2024-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-trainer-s-toolkit-2024-en": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-kanto-powers-mini-tin-random-en": {
-      "a": false,
       "p": false
     }
   },
@@ -669,7 +645,7 @@
       "p": false
     },
     "pokemon-151-ultra-premium-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-celebrations-top-trainer-box-deutsch": {
@@ -949,7 +925,7 @@
       "p": false
     },
     "pokemon-tcg-trainer-collection-gift-box-mystery-trainer-tin-mit-boostern-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-illumina-city-mini-tin-display-deutsch": {
