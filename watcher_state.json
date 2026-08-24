@@ -128,16 +128,20 @@
     }
   },
   "CardCosmos::ALL": {
-    "pokemon-mega-evolution-ascended-heroes-mini-tin-englisch": {
+    "pokemon-mega-evolution-pitch-black-booster-box-englisch": {
       "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-ascended-heroes-mini-tin-englisch": {
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-sneasel-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-pokeball-tin-deutsch": {
@@ -1513,10 +1517,6 @@
       "p": false
     },
     "pokemon-mega-entwicklung-erhabene-helden-tech-sticker-kollektion-glumanda-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-inferno-x-display-ohne-folie-japanisch": {
       "a": false,
       "p": false
     }
@@ -7080,6 +7080,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-scarlet-violet-destined-rivals-build-battle-40-card-pre-built-deck-team-rockets-tyranitar": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-delta-reign-half-booster-box-18-packs": {
       "a": false,
       "p": true
