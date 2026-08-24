@@ -128,6 +128,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-evolution-ascended-heroes-mini-tin-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-phantasmal-flames-3-pack-blister-weavile-englisch": {
       "a": false,
       "p": false
@@ -1513,10 +1517,6 @@
       "p": false
     },
     "pokemon-mega-inferno-x-display-ohne-folie-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-optimale-ordnung-booster-display-deutsch": {
       "a": false,
       "p": false
     }
