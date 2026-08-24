@@ -7123,6 +7123,14 @@
     "pokemon-mega-evolution-delta-reign-booster-box-36-boosters": {
       "a": false,
       "p": true
+    },
+    "pokemon-mega-evolution-chaos-rising-elite-trainer-box-dice": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-chaos-rising-elite-trainer-box-card-sleeves-65-sleeves": {
+      "a": false,
+      "p": false
     }
   },
   "TCG Stadium::ALL": {
