@@ -4958,6 +4958,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-mega-entwicklung-display-de-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-vivid-voltage-display-eng": {
       "a": true,
       "p": false
@@ -5475,7 +5479,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-booster-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-3-booster-s-chn": {
