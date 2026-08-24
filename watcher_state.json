@@ -12,10 +12,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-2-pack-blister-januar-2025-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-mega-entwicklungen-perfekte-ordnung-me03-3-pack-blister-de": {
       "a": false,
       "p": false
@@ -48,10 +44,6 @@
       "a": false,
       "p": false
     },
-    "b-ware-pokemon-tcg-eternal-birth-csv1c-slim-display-chn": {
-      "a": false,
-      "p": false
-    },
     "b-ware-pokemon-tcg-eternal-birth-csv1c-jumbo-display-chn": {
       "a": false,
       "p": false
@@ -72,14 +64,6 @@
       "a": false,
       "p": false
     },
-    "b-ware-pokemon-tcg-glurak-ex-super-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-trainer-toolkit-2024-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-karmesin-purpur-kp01-build-battle-stadion-de": {
       "a": false,
       "p": false
@@ -88,16 +72,8 @@
       "a": true,
       "p": false
     },
-    "premium-checklane-sv06-en": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-kanto-powers-mini-tin-random-en": {
       "a": false,
-      "p": false
-    },
-    "enfeiertagskalender-2024": {
-      "a": true,
       "p": false
     }
   },
@@ -185,7 +161,7 @@
   },
   "CardCosmos::ALL": {
     "pokemon-pokemon-go-pokeball-tin-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-enhanced-booster-display-englisch": {
