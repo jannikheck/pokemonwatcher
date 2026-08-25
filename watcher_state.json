@@ -7337,7 +7337,7 @@
       "p": false
     },
     "rivali-predestinati-set-allenatore-fuoriclasse-scarlatto-e-violetto-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "collezione-torneo-premium-lylia-pokemon-it": {
@@ -7359,15 +7359,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7427,7 +7427,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
