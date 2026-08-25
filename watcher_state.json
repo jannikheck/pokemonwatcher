@@ -128,6 +128,14 @@
     }
   },
   "CardCosmos::ALL": {
+    "the-acrylic-box-pokemon-booster-box-acryl-case": {
+      "a": false,
+      "p": false
+    },
+    "the-acrylic-box-pokemon-elite-trainer-box-etb-acryl-case": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-pitch-black-booster-box-englisch": {
       "a": false,
       "p": false
@@ -7144,6 +7152,10 @@
     }
   },
   "Otakura::ALL": {
+    "pokemon-tin-da-collezione-megaforze-ita": {
+      "a": true,
+      "p": false
+    },
     "bundle-set-allenatore-30-anniversario-equilibrio-perfetto-pokemon-tcg-ita": {
       "a": false,
       "p": false
