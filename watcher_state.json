@@ -2029,7 +2029,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-2-de": {
@@ -2061,7 +2061,7 @@
       "p": true
     },
     "pokemon-go-v-kollektion-kokowei-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-raikou-2-pack-blister": {
@@ -2897,7 +2897,7 @@
       "p": false
     },
     "pokemon-pokeball-tins-herbst-2025-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-vivid-voltage-elite-trainer-box-eng-b-ware": {
@@ -3009,7 +3009,7 @@
       "p": false
     },
     "pokemon-premium-turnierkollektion-lilly": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-island-guardians-tapu-bulu-gx-tin-2017": {
@@ -3589,7 +3589,7 @@
       "p": false
     },
     "pokemon-eisenhals-knockout-collection-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-zapdos-ex-collection-eng": {
@@ -3601,7 +3601,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2025-boninu": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-cynthias-knakrack-ex-premium-kollektion-de": {
@@ -11425,10 +11425,6 @@
       "p": false
     },
     "pokemon-journey-together-build-battle-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-checklane-blister-1-willekeurige": {
       "a": false,
       "p": false
     }
