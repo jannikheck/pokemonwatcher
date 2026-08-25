@@ -129,11 +129,11 @@
   },
   "CardCosmos::ALL": {
     "the-acrylic-box-pokemon-booster-box-acryl-case": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "the-acrylic-box-pokemon-elite-trainer-box-etb-acryl-case": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box-englisch": {
