@@ -7337,7 +7337,7 @@
       "p": false
     },
     "rivali-predestinati-set-allenatore-fuoriclasse-scarlatto-e-violetto-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "collezione-torneo-premium-lylia-pokemon-it": {
@@ -7701,7 +7701,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-tech-sticker-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-tech-sticker-collection": {
@@ -11117,7 +11117,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
