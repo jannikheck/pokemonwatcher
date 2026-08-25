@@ -889,7 +889,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-prismatische-entwicklungen-booster-bundle-deutsch": {
@@ -1409,7 +1409,7 @@
       "p": false
     },
     "pokemon-black-bolt-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-white-flare-unova-poster-collection-en": {
@@ -7359,15 +7359,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7427,7 +7427,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
