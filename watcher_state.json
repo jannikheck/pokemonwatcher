@@ -2201,7 +2201,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
@@ -7107,42 +7107,6 @@
     "pokemon-scarlet-violet-destined-rivals-build-battle-40-card-pre-built-deck-team-rockets-tyranitar": {
       "a": false,
       "p": false
-    },
-    "pokemon-mega-evolution-delta-reign-half-booster-box-18-packs": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-premium-checklane-blister-ampharos": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-premium-checklane-blister-delphox": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-checklane-blister-spritzee": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-3-pack-blister-seel": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-booster-bundle": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-elite-trainer-box": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-booster-pack": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-delta-reign-booster-box-36-boosters": {
-      "a": false,
-      "p": true
     }
   },
   "TCG Stadium::ALL": {
