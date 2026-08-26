@@ -205,7 +205,7 @@
       "p": false
     },
     "pokemon-center-special-box-set-hiroshima-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-zacian-v-union-binder-box-chinesisch": {
@@ -2289,7 +2289,7 @@
       "p": false
     },
     "pokemon-weg-des-champs-mary-special-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-optimale-ordnung-build-battle-box-de": {
@@ -2545,7 +2545,7 @@
       "p": false
     },
     "glaziola-vstar-special-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-paldean-fates-tin-eng": {
@@ -2641,7 +2641,7 @@
       "p": false
     },
     "pokemon-morpeko-v-union-special-collection-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-fokussierter-angriff-wulaosu-v-box-eng": {
@@ -2829,7 +2829,7 @@
       "p": false
     },
     "echter-stahl-premium-figuren-pin-kollektion-zamazenta-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "echter-stahl-premium-figuren-pin-kollektion-zacian-de": {
@@ -2985,7 +2985,7 @@
       "p": false
     },
     "pokemon-pokeball-tins-herbst-2025-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-glurak-x-ex-ultra-premium-kollektion": {
@@ -3001,7 +3001,7 @@
       "p": false
     },
     "pokemon-karmesin-und-purpur-baseset-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-back-to-school-collectors-chest-2023-eng": {
@@ -3061,7 +3061,7 @@
       "p": false
     },
     "pokemon-tin-box-koraidon-miraidon-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-top-trainer-box": {
@@ -3393,7 +3393,7 @@
       "p": false
     },
     "pokemon-galarian-birds-2-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-astral-radiance-elite-trainer-box": {
@@ -8333,8 +8333,12 @@
     }
   },
   "Templars Arena::ALL": {
+    "the-acrylic-box-premium-pokemon-elite-trainer-box-acrylic-case": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-delta-reign-prerelease-event-ticket": {
@@ -8450,7 +8454,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-display-36-booster": {
@@ -8650,7 +8654,7 @@
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
@@ -11032,7 +11036,7 @@
       "p": false
     },
     "pokemon-mega-charizard-x-ex-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-charizard-x": {
