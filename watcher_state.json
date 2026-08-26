@@ -5760,10 +5760,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-wiederball-tin-herbst-2025-de": {
-      "a": false,
-      "p": false
-    },
     "acryl-case-f-r-pok-mon-booster-box-carton-blue-tape": {
       "a": false,
       "p": false
@@ -6603,7 +6599,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-3-pack-blister-de": {
@@ -7103,12 +7099,7 @@
       "p": false
     }
   },
-  "Total Cards::ALL": {
-    "pokemon-scarlet-violet-destined-rivals-build-battle-40-card-pre-built-deck-team-rockets-tyranitar": {
-      "a": false,
-      "p": false
-    }
-  },
+  "Total Cards::ALL": {},
   "TCG Stadium::ALL": {
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
       "a": true,
@@ -8447,7 +8438,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-checklane-blister-toxel": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-3-pack-blister-charmeleon": {
