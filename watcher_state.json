@@ -128,6 +128,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mid-autumn-festival-gift-box-2026-chinesich": {
+      "a": false,
+      "p": false
+    },
     "the-acrylic-box-pokemon-booster-box-acryl-case": {
       "a": true,
       "p": false
@@ -681,6 +685,10 @@
       "p": false
     },
     "pokemon-pikachu-v-union-card-frame-collection-box-chinesisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
       "a": true,
       "p": false
     },
