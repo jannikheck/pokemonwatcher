@@ -405,15 +405,15 @@
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-132-mega-zeraora-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-131-mega-darkrai-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-130-mega-dragoran-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weltmeisterschaftsdeck-display-2025-deutsch": {
@@ -921,7 +921,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
@@ -929,7 +929,7 @@
       "p": false
     },
     "pokemon-ninja-spinner-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ancient-roar-booster-display-koreanisch": {
@@ -1009,7 +1009,7 @@
       "p": false
     },
     "pokemon-nihil-zero-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-128-mega-gengar-deutsch": {
@@ -2073,7 +2073,7 @@
       "p": false
     },
     "pokemon-evolving-skies-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-checklane-blister-eng": {
@@ -2213,11 +2213,11 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-celebrations-booster-eng": {
@@ -4428,6 +4428,14 @@
     }
   },
   "God of Cards::ALL": {
+    "pokemon-vmax-gift-box-blitza-binder": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-vmax-gift-box-flamara-binder": {
+      "a": false,
+      "p": false
+    },
     "pokemon-paldea-trainer-battle-box-display-10-boxen": {
       "a": false,
       "p": false
@@ -4441,7 +4449,7 @@
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-x-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-world-championships-deck-2023-display-8-decks": {
@@ -4457,7 +4465,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tin-box-team-rockets-snobilikat": {
@@ -5259,7 +5267,7 @@
       "p": false
     },
     "pokemon-obsidian-flames-display-eng-1": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-csv9-5c-terastal-gathering-booster-s-chn": {
@@ -5826,6 +5834,14 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-karmesin-purpur-36er-booster-display-de": {
       "a": false,
       "p": false
@@ -5835,11 +5851,11 @@
       "p": false
     },
     "pokemon-mega-krafte-tin-box-bundle-mega-zeraora-mega-dragoran-mega-darkrai-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-3er-blister-de": {
@@ -5911,11 +5927,11 @@
       "p": false
     },
     "pokemon-erhabene-helden-flambirex-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-meganie-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-de-starter-promos-booster": {
@@ -6245,7 +6261,7 @@
       "p": false
     },
     "pokemon-box-return-of-the-dragon-rayquaza-csfm2": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "s-chn-pok-mon-display-xl-nine-colors-gathering-origin-cs4b": {
@@ -7468,7 +7484,7 @@
   },
   "TCGStore.se::ALL": {
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
@@ -8835,10 +8851,6 @@
     },
     "pokemon-tcg-scarlet-violet-paldea-evolved-growlite-1-pack-blister-english-copy": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-paldea-evolved-checklane-1-pack-blister-english": {
-      "a": false,
       "p": false
     }
   },
@@ -11104,7 +11116,7 @@
       "p": false
     },
     "pokemon-charizard-x": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-elite-trainer-box": {
