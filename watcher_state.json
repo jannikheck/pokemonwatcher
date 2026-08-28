@@ -128,6 +128,26 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-ascended-heroes-mega-emboar-ex-tin-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-ascended-heroes-mega-feraligatr-ex-tin-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-ascended-heroes-mega-meganium-ex-tin-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-perfect-order-booster-bundle-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-journey-together-booster-bundle-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
       "a": true,
       "p": false
@@ -141,7 +161,7 @@
       "p": false
     },
     "pokemon-storm-emeralda-m6f-booster-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-englisch": {
@@ -209,7 +229,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-6-booster-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-display-englisch": {
@@ -401,7 +421,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustration-kollektion-box-serie-3-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-terastal-gathering-tin-box-csv9-5-chinesisch-zufalliges-design": {
@@ -805,7 +825,7 @@
       "p": false
     },
     "pokemon-weg-des-champs-spezial-pin-kollektion-circhester-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-celebrations-pikachu-v-union-spezial-kollektion-deutsch": {
@@ -817,7 +837,7 @@
       "p": false
     },
     "pokemon-flammende-finsternis-clash-der-rebellen-2-pack-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-go-dragoran-vstar-premier-deckhalter-kollektion-deutsch": {
@@ -1530,22 +1550,6 @@
     },
     "pokemon-mega-zygarde-ex-premium-kollektion-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-ninja-spinner-30er-display-japanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-tin-box-126-mega-glurak-x-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-tin-box-127-mega-glurak-y-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-erhabene-helden-mini-tin-display-deutsch": {
-      "a": false,
       "p": false
     }
   },
@@ -4437,7 +4441,7 @@
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-x-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-world-championships-deck-2023-display-8-decks": {
@@ -6033,7 +6037,7 @@
       "p": false
     },
     "eng-pokemon-tech-sticker-collection-prismatic-evolutions": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "eng-pokemon-elite-trainer-box-phantasmal-flames-me02": {
@@ -6767,11 +6771,11 @@
       "p": false
     },
     "pokemon-erhabene-helden-premium-poster-kollektion-mega-lucario-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-premium-poster-kollektion-mega-guardevoir-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-deluxe-pin-kollektion-de": {
@@ -7656,7 +7660,7 @@
       "p": false
     },
     "pokemon-mega-evolution-phantasmal-flames-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-lucario-ex-figure-collection": {
@@ -8280,7 +8284,7 @@
       "p": false
     },
     "forkop-pokemon-scarlet-violet-shrouded-fable-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-8-pokemon-center-fusion-strike-elite-trainer-box": {
@@ -9294,7 +9298,7 @@
       "p": false
     },
     "pokemon-mega-kangaskhan-ex-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-november-figure-box": {
@@ -11248,7 +11252,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
