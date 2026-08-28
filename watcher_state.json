@@ -1847,7 +1847,7 @@
       "p": false
     },
     "pokemon-mystery-box-volume-3-original-sammelkarten-uberraschungen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pikachu-with-grey-felt-hat-svp-en085-pokemon-van-gogh-promo-karte": {
@@ -3069,7 +3069,7 @@
       "p": false
     },
     "pokemon-tin-box-koraidon-miraidon-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-top-trainer-box": {
@@ -4424,6 +4424,26 @@
     }
   },
   "God of Cards::ALL": {
+    "pokemon-paldea-trainer-battle-box-display-10-boxen": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-paldea-trainer-keychain-box-display-10-boxen": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-erste-partner-illustrations-kollektion-serie-3": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-ultra-premium-collection-mega-charizard-x-ex": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-world-championships-deck-2023-display-8-decks": {
+      "a": false,
+      "p": false
+    },
     "pokemon-phantasmal-flames-elite-trainer-box": {
       "a": false,
       "p": false
@@ -8373,6 +8393,14 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon": {
+      "a": false,
+      "p": true
+    },
     "the-acrylic-box-premium-pokemon-elite-trainer-box-acrylic-case": {
       "a": true,
       "p": false
@@ -8806,14 +8834,6 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-paldea-evolved-checklane-1-pack-blister-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-me01-mega-evolution-3-pack-blister-golduck-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-me01-2x-mega-evolution-elite-trainer-box-bundle-english": {
       "a": false,
       "p": false
     }
@@ -10778,7 +10798,7 @@
       "p": false
     },
     "pokemon-mega-evolution-3-pack-blister-golduck": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-3-pack-blister-psyduck": {
@@ -11228,7 +11248,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
