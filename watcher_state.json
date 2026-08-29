@@ -5247,7 +5247,7 @@
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-journey-together-display-eng": {
@@ -5263,7 +5263,7 @@
       "p": false
     },
     "pokemon-surging-sparks-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-obsidian-flames-display-eng-1": {
@@ -8847,10 +8847,6 @@
     },
     "pokemon-tcg-poke-ball-tin-2024-great-ball-english": {
       "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-paldea-evolved-growlite-1-pack-blister-english-copy": {
-      "a": true,
       "p": false
     }
   },
