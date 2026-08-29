@@ -669,7 +669,7 @@
       "p": false
     },
     "pokemon-strahlende-sterne-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-trading-card-game-classic-box-set-englisch": {
@@ -2369,7 +2369,7 @@
       "p": false
     },
     "pokemon-nebel-der-sagen-mini-tin-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-paldeas-schicksale-mini-tin-de": {
@@ -2693,7 +2693,7 @@
       "p": false
     },
     "pokemon-mary-premium-turnierkollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-kangama-ex-box-de": {
@@ -2705,7 +2705,7 @@
       "p": false
     },
     "pokemon-lillie-premium-tournament-collection-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-glurak-ex-premium-kollektion-de": {
@@ -3197,7 +3197,7 @@
       "p": false
     },
     "pokemon-zyrus-premium-tournament-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-zenit-der-konige-lugia-v-special-kollektion-de": {
@@ -3465,7 +3465,7 @@
       "p": false
     },
     "pokemon-lost-origin-build-battle-stadium-box-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-paradoxrift-build-battle-stadion-box-de": {
@@ -3661,7 +3661,7 @@
       "p": false
     },
     "pokemon-brilliant-stars-build-battle-stadium-box-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-ewige-rivalen-kp10-top-trainer-box-de": {
@@ -3809,7 +3809,7 @@
       "p": false
     },
     "pokemon-lost-origin-elite-trainer-box-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-schwarze-blitze-kp10-5-top-trainer-box-de": {
@@ -4029,7 +4029,7 @@
       "p": false
     },
     "pokemon-sv8-5-prismatic-evolutions-etb-eng": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-journey-together-36er-booster-display-eng": {
@@ -11136,7 +11136,7 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
