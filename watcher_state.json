@@ -293,7 +293,7 @@
       "p": false
     },
     "pokemon-umbreon-frame-collection-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mew-frame-collection-chinesisch": {
@@ -2857,7 +2857,7 @@
       "p": false
     },
     "pokemon-tag-kollektion-2026-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklungen-mini-tin-de": {
@@ -3405,11 +3405,11 @@
       "p": false
     },
     "pokemon-galarian-birds-2-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-astral-radiance-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-arceus-v-figure-collection": {
@@ -6557,7 +6557,7 @@
       "p": false
     },
     "festtagskalender-2025-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "gem-pack-vol-2-display-chn": {
