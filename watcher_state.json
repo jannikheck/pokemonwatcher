@@ -8730,7 +8730,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile": {
@@ -8822,6 +8822,10 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2024-ultra-ball-english": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-poke-ball-tin-2024-poke-ball-english": {
       "a": false,
       "p": false
     }
