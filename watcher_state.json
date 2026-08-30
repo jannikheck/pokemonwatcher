@@ -165,7 +165,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mid-autumn-festival-gift-box-2026-chinesich": {
@@ -1671,7 +1671,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -2233,7 +2233,7 @@
       "p": false
     },
     "pokemon-shrouded-fable-booster-bundle-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-tin-de": {
@@ -2297,7 +2297,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weg-des-champs-mary-special-kollektion-de": {
@@ -2833,7 +2833,7 @@
       "p": false
     },
     "pokemon-black-bolt-booster-bundle-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-go-dragoran-vstar-kollektion-de": {
@@ -3001,7 +3001,7 @@
       "p": false
     },
     "pokemon-mega-glurak-x-ex-ultra-premium-kollektion": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-premium-figure-collection": {
@@ -3449,7 +3449,7 @@
       "p": false
     },
     "pokemon-151-ultra-premium-collection-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-go-elite-trainer-box": {
@@ -3821,7 +3821,7 @@
       "p": false
     },
     "pokemon-paradox-schicksale-herbst-tin-2024-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-destined-rivals-sv10-36er-display-eng": {
@@ -5042,6 +5042,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-csv10c-chasing-glory-together-jumbo-display-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-entwicklung-display-de-1": {
       "a": true,
       "p": false
@@ -5260,10 +5264,6 @@
     },
     "pokemon-temporal-forces-display-eng": {
       "a": true,
-      "p": false
-    },
-    "pokemon-surging-sparks-display-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-obsidian-flames-display-eng-1": {
@@ -7047,7 +7047,7 @@
       "p": false
     },
     "reisegefahrten-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "reisegefahrten-3-pack-blister-de": {
@@ -8393,6 +8393,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-tcg-mega-evolution-pitch-black-checklane-blister-slowpoke-en": {
+      "a": false,
+      "p": true
+    },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
       "a": false,
       "p": true
@@ -8819,18 +8823,6 @@
     },
     "pokemon-tcg-poke-ball-tin-2024-ultra-ball-english": {
       "a": false,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2024-poke-ball-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2024-great-ball-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-paldea-evolved-growlite-1-pack-blister-english-copy": {
-      "a": true,
       "p": false
     }
   },
@@ -11244,7 +11236,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
