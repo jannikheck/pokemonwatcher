@@ -1671,7 +1671,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1695,7 +1695,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -2997,7 +2997,7 @@
       "p": false
     },
     "pokemon-pokeball-tins-herbst-2025-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-glurak-x-ex-ultra-premium-kollektion": {
@@ -5882,12 +5882,8 @@
       "a": false,
       "p": false
     },
-    "pokemon-mega-quajutsu-ex-premium-kollektion-de-major-cards-tcg": {
-      "a": false,
-      "p": false
-    },
     "pokemon-erste-partner-illustrations-kollektion-serie-2-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatische-entwicklungen-booster-bundle-display-de-major-cards-tcg": {
@@ -5907,10 +5903,6 @@
       "p": false
     },
     "pokemon-mega-moonlight-tin-bundle-mega-gengar-ex-mega-pixi-ex-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-zygarde-premium-kollektion-de": {
       "a": false,
       "p": false
     },
@@ -5947,10 +5939,6 @@
       "p": false
     },
     "pokemon-boosterbundle-optimale-ordnung-de-me03-pokemon-tcg-6x-booster-ovp": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-verlorener-ursprung-build-battle-stadion-de-swsh11-tcg-sealed-ovp": {
       "a": false,
       "p": false
     },
@@ -5995,10 +5983,6 @@
       "p": false
     },
     "pokemon-collect-151-dream-painting-figure-set-zh-pokemon-tcg-ovp": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-day-kollektion-2026-30-jahre-jubilaum": {
       "a": false,
       "p": false
     },
@@ -7003,7 +6987,7 @@
       "p": false
     },
     "ewige-rivalen-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "ewige-rivalen-top-trainer-box-de": {
@@ -8843,6 +8827,10 @@
     },
     "pokemon-tcg-poke-ball-tin-2024-great-ball-english": {
       "a": false,
+      "p": false
+    },
+    "pokemon-tcg-scarlet-violet-paldea-evolved-growlite-1-pack-blister-english-copy": {
+      "a": true,
       "p": false
     }
   },
