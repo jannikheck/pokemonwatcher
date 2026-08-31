@@ -2040,6 +2040,10 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-enhanced-2pack-blister-oktober-2025-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-zenit-der-konige-top-trainer-box-de": {
       "a": true,
       "p": false
@@ -4295,7 +4299,7 @@
       "p": false
     },
     "pokemon-weisse-flammen-ttb-deutsch-live-boxbreak-chris": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lost-origin-display-englisch": {
@@ -6827,7 +6831,7 @@
       "p": false
     },
     "pokemon-pokemon-day-2026-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-2-pack-blister-de": {
@@ -7487,6 +7491,338 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-inferno-x-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-symphonia-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-brave-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-white-flare-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-black-bolt-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-snow-hazard-booster-box-koreansk": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sword-shield-dark-phantasma-booster-box-koreansk": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-violet-the-glory-of-team-rocket-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-scarlet-ex-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-violet-ex-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-heat-wave-arena-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-paradigm-trigger-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-cyber-judge-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-wild-force-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-future-flash-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-ancient-roar-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-battle-partners-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-triplet-beat-booster-box-koreansk": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sword-shield-fusion-arts-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-stellar-miracle-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-night-wanderer-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-mask-of-change-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-super-electric-breaker-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-crimson-haze-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-paradise-dragona-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-terastal-festival-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-star-birth-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-clay-burst-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-time-gazer-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-space-juggler-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-raging-surf-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-vstar-universe-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-ruler-of-the-black-flame-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-eevee-heroes-booster-box-koreansk-1": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-eevee-heroes-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-151-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-mask-of-change-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-crimson-haze-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-wild-force-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-cyber-judge-booster-box-japansk": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sword-shield-battle-region-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-shiny-treasure-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-future-flash-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-ancient-roar-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-space-juggler-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-time-gazer-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-pokemon-card-151-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-raging-surf-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-triplet-beat-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-snow-hazard-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-clay-burst-booster-box": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-violet-scarlet-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-violet-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-vstar-universe-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-paradigm-trigger-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-ruler-of-the-black-flame-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-storm-emeralda-booster-box-jpn": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-abyss-eye-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-ninja-spinner-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-abyss-eye-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-nihil-zero-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-ninja-spinner-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-dream-booster-box-koreansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-nihil-zero-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-dream-ex-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-inferno-x-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-silver-lance-booster-box-japansk": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-brave-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-symphonia-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-white-flare-deluxe-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-white-flare-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-black-bolt-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-the-glory-of-team-rocket-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-heat-wave-arena-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-battle-partners-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-terastal-festival-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-super-electric-breaker-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-vmax-climax-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-shiny-star-v-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-paradise-dragona-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-stellar-miracle-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-lost-abyss-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-night-wanderer-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
       "a": false,
       "p": false
@@ -8398,22 +8734,6 @@
     "pokemon-tcg-iono-premium-tournament-collection": {
       "a": false,
       "p": false
-    },
-    "pokemon-mabosstiff-ex-collection-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-mini-tin-johto-starters": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-mini-tin-kanto-starters": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-6-twilight-masquerade-booster-box": {
-      "a": false,
-      "p": false
     }
   },
   "Templars Arena::ALL": {
@@ -8842,10 +9162,6 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2024-premier-ball-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2024-ultra-ball-english": {
       "a": false,
       "p": false
     }
