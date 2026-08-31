@@ -141,11 +141,11 @@
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-booster-bundle-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-journey-together-booster-bundle-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
@@ -605,7 +605,7 @@
       "p": false
     },
     "pokemon-me-fatale-flammen-booster-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weg-des-champs-claw-city-arena-pin-kollektion-deutsch": {
@@ -889,7 +889,7 @@
       "p": false
     },
     "pokemon-enhanced-marz-2026-2-pack-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-booster-bundle-deutsch": {
@@ -913,7 +913,7 @@
       "p": false
     },
     "pokemon-storm-emerald-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-storm-emerald-30er-display-japanisch": {
@@ -2040,6 +2040,34 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-zenit-der-konige-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-shrouded-fable-mini-tin-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-illumina-city-mini-tin-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-enhanced-2-pack-blister-2026-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-pitch-black-expansion-premium-checklane-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-chaos-rising-premium-checklane-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-majestat-der-drachen-latios-pin-kollektion-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-wachsendes-chaos-3-pack-blister-de": {
       "a": true,
       "p": false
@@ -4251,7 +4279,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-elite-trainer-box-englisch": {
@@ -8820,10 +8848,6 @@
     "pokemon-tcg-poke-ball-tin-2024-ultra-ball-english": {
       "a": false,
       "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2024-poke-ball-english": {
-      "a": false,
-      "p": false
     }
   },
   "Hobby Addicts::ALL": {
@@ -11236,7 +11260,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
