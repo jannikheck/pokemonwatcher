@@ -4653,7 +4653,7 @@
       "p": false
     },
     "pokemon-collection-cyclizar-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-silver-tempest-elite-trainer-box": {
@@ -6739,7 +6739,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
@@ -8684,7 +8684,7 @@
       "p": false
     },
     "pokemon-sword-shield-11-lost-origin-premium-checklane-blister-torterra": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-11-lost-origin-premium-checklane-blister-infernape": {
@@ -8732,6 +8732,10 @@
       "p": false
     },
     "pokemon-tcg-iono-premium-tournament-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mabosstiff-ex-collection-box": {
       "a": false,
       "p": false
     }
