@@ -721,7 +721,7 @@
       "p": false
     },
     "pokemon-celebrations-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-xy-evolution-display-deutsch": {
@@ -11708,7 +11708,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
