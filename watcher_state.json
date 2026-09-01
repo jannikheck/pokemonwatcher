@@ -46,6 +46,10 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-mega-evolution-pitch-black-top-trainer-box-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
       "a": false,
       "p": false
@@ -217,7 +221,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-v3-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-terastal-gathering-eevee-friends-gift-box-chinesisch": {
@@ -2040,6 +2044,14 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-zenit-der-konige-special-pin-collection-de": {
+      "a": true,
+      "p": false
+    },
+    "yu-gi-oh-duelists-advance-booster-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-enhanced-2pack-blister-oktober-2025-de": {
       "a": true,
       "p": false
@@ -5867,7 +5879,7 @@
       "p": false
     },
     "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-36er-booster-display-de": {
@@ -5947,7 +5959,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-meganie-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-de-starter-promos-booster": {
@@ -11448,7 +11460,7 @@
       "p": false
     },
     "pokemon-twilight-masquerade-18-packs-booster-box-brand-new-sealed": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pitch-black-booster-box": {
@@ -11793,6 +11805,10 @@
     }
   },
   "The TCG Shop UK::ALL": {
+    "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
       "a": false,
       "p": false
