@@ -965,7 +965,7 @@
       "p": false
     },
     "pokemon-verlorener-ursprung-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-elite-trainer-box-pokemon-center-edition-englisch": {
@@ -1545,14 +1545,6 @@
       "p": false
     },
     "pokemon-evolving-skies-booster-display-englisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-ninja-spinner-binder-bundle-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-zygarde-ex-premium-kollektion-deutsch": {
       "a": true,
       "p": false
     }
@@ -4402,10 +4394,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-celebrations-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-strahlende-sterne-display-deutsch": {
       "a": false,
       "p": false
@@ -4439,10 +4427,6 @@
       "p": false
     },
     "pokemon-crown-zenith-elite-trainer-box-etb-englisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-celebrations-pokemon-center-fates-elite-trainer-box-englisch": {
       "a": true,
       "p": false
     },
@@ -7791,6 +7775,10 @@
       "a": true,
       "p": false
     },
+    "pokemon-scarlet-violet-black-bolt-deluxe-booster-box-japansk": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-black-bolt-booster-box-japansk": {
       "a": true,
       "p": false
@@ -7868,7 +7856,7 @@
       "p": false
     },
     "pokemon-tcg-mega-moonlit-tin-mega-gengar-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-first-partner-deluxe-pin-collection": {
@@ -7908,7 +7896,7 @@
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection": {
@@ -9606,7 +9594,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-2-pack-blister-erikas-tangela": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-tech-sticker-blister-gastly": {
