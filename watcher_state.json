@@ -5054,6 +5054,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-pitch-black-display-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-csv10c-chasing-glory-together-jumbo-display-s-chn": {
       "a": true,
       "p": false
@@ -7320,7 +7324,7 @@
       "p": false
     },
     "mega-evolution-perfect-order-booster-display-da-36-bustine-pokemon-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "megaevoluzione-equilibrio-perfetto-confezione-di-buste-6-bustine-pokemon-ita": {
@@ -9058,7 +9062,7 @@
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
@@ -9146,10 +9150,6 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2024-moon-ball-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2024-premier-ball-english": {
       "a": false,
       "p": false
     }
