@@ -1457,7 +1457,7 @@
       "p": false
     },
     "pokemon-white-flare-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-booster-display-koreanisch": {
@@ -1526,26 +1526,6 @@
     },
     "pokemon-erste-partner-illustration-kollektion-box-deutsch": {
       "a": false,
-      "p": false
-    },
-    "pokemon-ultra-prism-booster-display-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-booster-display-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-burning-shadows-booster-display-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-vivid-voltage-booster-display-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-evolving-skies-booster-display-englisch": {
-      "a": true,
       "p": false
     }
   },
@@ -2497,7 +2477,7 @@
       "p": false
     },
     "pokemon-meisterdetektiv-pikachu-spezial-fallakte-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "meisterdetektiv-pikachu-fallakte-quajutsu-gx-de": {
@@ -3313,7 +3293,7 @@
       "p": false
     },
     "pokemon-paradox-rift-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-hidden-fates-tin-box-charizard-gx": {
@@ -3665,7 +3645,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2025-boninu": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-cynthias-knakrack-ex-premium-kollektion-de": {
@@ -4009,7 +3989,7 @@
       "p": false
     },
     "pokemon-sammelkoffer-herbst-2024-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mimikyu-ex-box-eng": {
@@ -4261,7 +4241,7 @@
       "p": false
     },
     "pokemon-temporal-forces-36er-display": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-sv4-5-paldean-fates-elite-trainer-box": {
@@ -4653,7 +4633,7 @@
       "p": false
     },
     "pokemon-collection-cyclizar-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-silver-tempest-elite-trainer-box": {
@@ -5227,7 +5207,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
