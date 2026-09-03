@@ -2005,10 +2005,6 @@
     "pokemon-astralglanz-swsh10-display-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-astralglanz-swsh10-arceus-v-figuren-kollektion-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -2729,7 +2725,7 @@
       "p": false
     },
     "pokemon-arceus-v-figure-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mary-premium-turnierkollektion-de": {
@@ -3177,7 +3173,7 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-premium-figuren-kollektion": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-glanzendes-schicksal-shiny-dragapult-vmax-kollektion": {
@@ -3601,7 +3597,7 @@
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-victini-illustrations-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-charizard-ex-special-collection-de": {
@@ -4033,7 +4029,7 @@
       "p": false
     },
     "pokemon-stacking-tin-fruehjahr-2025-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-kyogre-ex-tin-de": {
@@ -4439,7 +4435,7 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-booster-bundle-display-sealed-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-shiny-treasure-ex-display-mit-folie-live-boxbreak-fred": {
@@ -5747,7 +5743,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-booster-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -11468,7 +11464,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
