@@ -2016,6 +2016,30 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-obsidianflammen-build-battle-stadium-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-briduradon-enhanced-2-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-paldea-evolved-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-temporal-forces-premium-checklane-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-vibrant-paldea-mini-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-ascended-heroes-booster-bundle-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-enhanced-2-pack-blister-zarude-de": {
       "a": true,
       "p": false
@@ -4298,14 +4322,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-pokemon-box-terastal-grand-gathering-tin-box-csv9-5-liveboxbreak-fred": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-box-terastal-grand-gathering-kartenhalter-csv9-5-liveboxbreak-fred": {
-      "a": true,
-      "p": false
-    },
     "pokemon-espeon-v-tin-englisch": {
       "a": false,
       "p": false
@@ -4319,10 +4335,6 @@
       "p": false
     },
     "pokemon-151-elite-trainer-box-englisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-terastal-grand-gathering-badge-set-csv9-5-live-boxbreak-fred": {
       "a": true,
       "p": false
     },
@@ -4525,7 +4537,7 @@
       "p": false
     },
     "pokemon-journey-together-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-paradoxrift-checklane-blister-tannza-fatalitee": {
@@ -5744,10 +5756,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "acryl-case-f-r-pokemon-booster-bundle-display": {
-      "a": false,
-      "p": false
-    },
     "acryl-case-f-r-pokemon-super-premium-collection-prismatic-evolution": {
       "a": false,
       "p": false
@@ -7884,7 +7892,7 @@
       "p": false
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-enhanced-2-pack-blister-pack-2026": {
@@ -11680,7 +11688,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
