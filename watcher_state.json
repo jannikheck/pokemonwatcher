@@ -825,7 +825,7 @@
       "p": false
     },
     "pokemon-weg-des-champs-spezial-pin-kollektion-circhester-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-celebrations-pikachu-v-union-spezial-kollektion-deutsch": {
@@ -929,7 +929,7 @@
       "p": false
     },
     "pokemon-ninja-spinner-booster-display-koreanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ancient-roar-booster-display-koreanisch": {
@@ -6989,190 +6989,6 @@
     "tech-sticker-kollektion-paldeas-schicksale-de-kopie": {
       "a": false,
       "p": false
-    },
-    "pokemon-team-rockers-mewtu-ex-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-build-battle-stadion-verlorener-ursprung-de": {
-      "a": false,
-      "p": false
-    },
-    "ewige-rivalen-display-de": {
-      "a": false,
-      "p": false
-    },
-    "ewige-rivalen-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "ewige-rivalen-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "enigmaras-wampitz-ex-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatische-entwicklungen-mini-tins-de": {
-      "a": false,
-      "p": false
-    },
-    "zacian-tin-de": {
-      "a": false,
-      "p": false
-    },
-    "koraidon-tin-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatic-evolutions-accessory-pouch-special-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "2-pack-blister-august-2024-de": {
-      "a": false,
-      "p": false
-    },
-    "nebel-der-sagen-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "de": {
-      "a": false,
-      "p": false
-    },
-    "sturmische-funken-display-de": {
-      "a": false,
-      "p": false
-    },
-    "hops-zacian-ex-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "enhanced-2-pack-blister-marz-2025-de": {
-      "a": false,
-      "p": false
-    },
-    "reisegefahrten-display-de": {
-      "a": false,
-      "p": false
-    },
-    "reisegefahrten-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "reisegefahrten-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "kyogre-tin-de": {
-      "a": false,
-      "p": false
-    },
-    "dialga-tin-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatische-entwicklungen-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "stapel-tin-fruhjahr-2025-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatische-entwicklungen-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatische-entwicklungen-poster-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "prismatische-entwicklungen-ordner-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "2-pack-blister-januar-2025-de": {
-      "a": false,
-      "p": false
-    },
-    "gewalten-der-zeit-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "terapagos-ex-ultra-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "blutmond-ursaluna-ex-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "ogerpon-ex-premium-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "sturmische-funken-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "sturmische-funken-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "friedwuff-ex-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "super-premium-kollektion-glurak-ex-de": {
-      "a": false,
-      "p": false
-    },
-    "stellarkrone-display-de": {
-      "a": false,
-      "p": false
-    },
-    "stellarkrone-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "stellarkrone-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "nebel-der-sagen-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "nebel-der-sagen-illustrations-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "back-to-school-pencil-tin-2024-de": {
-      "a": false,
-      "p": false
-    },
-    "back-to-school-eraser-blister-2024-de": {
-      "a": false,
-      "p": false
-    },
-    "delfinator-ex-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "maskerade-im-zwielicht-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "crimanzo-ex-premium-kollektion-de": {
-      "a": false,
-      "p": false
     }
   },
   "Total Cards::ALL": {},
@@ -7700,7 +7516,7 @@
       "p": false
     },
     "pokemon-mega-storm-emeralda-booster-box-jpn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-abyss-eye-booster-box-koreansk": {
@@ -11773,11 +11589,11 @@
     }
   },
   "The TCG Shop UK::ALL": {
-    "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box": {
-      "a": false,
+    "pokemon-tcg-30th-celebration-elite-trainer-box": {
+      "a": true,
       "p": false
     },
-    "pokemon-tcg-30th-celebration-elite-trainer-box": {
+    "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box": {
       "a": false,
       "p": false
     },
