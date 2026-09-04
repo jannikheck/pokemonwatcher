@@ -2397,7 +2397,7 @@
       "p": false
     },
     "pokemon-stapel-tin-2022-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-nebel-der-sagen-top-trainer-box-de": {
@@ -2913,11 +2913,11 @@
       "p": false
     },
     "pokemon-mega-entwicklungen-mini-tin-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-mini-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklungen-3-pack-blister-de": {
@@ -2929,7 +2929,7 @@
       "p": false
     },
     "pokemon-tag-kollektion-2026-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-tech-sticker-kollektion-de": {
@@ -2941,7 +2941,7 @@
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-boltund-v-box-eng": {
@@ -3313,7 +3313,7 @@
       "p": false
     },
     "pokemon-weg-des-champs-pin-kollektion-display": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-zenit-der-konige-morpeko-v-union-premium-kollektion": {
@@ -3389,7 +3389,7 @@
       "p": false
     },
     "pokemon-psycho-stacking-tin-box-2024-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-morpeko-v-union-special-collection": {
@@ -3849,7 +3849,7 @@
       "p": false
     },
     "pokemon-reisegefaehrten-36er-booster-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-kampfbox-turtok-vmax-de": {
@@ -3861,7 +3861,7 @@
       "p": false
     },
     "pokemon-schwarze-blitze-kp10-5-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-shining-fates-pikachu-v-collection-eng": {
@@ -3881,7 +3881,7 @@
       "p": false
     },
     "pokemon-swsh-09-strahlende-sterne-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-v-strikers-tin-eng": {
@@ -3973,7 +3973,7 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-evoli-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-astral-radiance-build-battle-stadium-eng": {
@@ -3985,7 +3985,7 @@
       "p": false
     },
     "pokemon-hops-zacian-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatische-entwicklungen-evoli-spezial-kollektion": {
@@ -4013,7 +4013,7 @@
       "p": true
     },
     "pokemon-tcg-ewige-rivalen-kp10-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkoffer-herbst-2024-de": {
@@ -4041,7 +4041,7 @@
       "p": false
     },
     "pokemon-stacking-tin-fruehjahr-2025-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-kyogre-ex-tin-de": {
@@ -4241,7 +4241,7 @@
       "p": false
     },
     "pokemon-swsh-12-0-silver-tempest-elite-trainer-box-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-kp6-5-nebel-der-sagen-ex-spezial-kollektion-de": {
@@ -5227,7 +5227,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
@@ -8388,7 +8388,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-tech-sticker-collection-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-binder-collection-box": {
@@ -9150,14 +9150,6 @@
       "p": false
     },
     "pokemon-scarlet-violet-destined-rivals-one-pack-blister-zarude-english": {
-      "a": false,
-      "p": false
-    },
-    "obsidian-flames-pawmi-1-pack-blister": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-paradox-rift-sinistea-checklane-blister-english": {
       "a": false,
       "p": false
     }
