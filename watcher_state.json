@@ -5070,6 +5070,30 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-destined-rivals-booster-bundle-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-lost-origin-sleeved-booster-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-crown-zenith-booster-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-gem-pack-vol-1-promo-booster-cn": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-phantasmal-flames-sleeved-booster-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-151-karmesin-und-purpur-booster-bundle-de-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-pitch-black-display-eng": {
       "a": true,
       "p": false
@@ -5239,10 +5263,6 @@
       "p": false
     },
     "pokemon-30th-celebration-ultra-premium-collection-umbreon-eng": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-csv9-stellar-crystal-slim-display-s-chn": {
       "a": false,
       "p": false
     },
@@ -5455,7 +5475,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-eng": {
@@ -5586,16 +5606,12 @@
       "a": false,
       "p": false
     },
-    "pokemon-mega-evolution-booster-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-mega-entwicklung-booster-de": {
       "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-3-booster-s-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-3-display-s-chn": {
