@@ -2285,7 +2285,7 @@
       "p": false
     },
     "pokemon-pokemon-go-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zygarde-ex-premium-kollektion-de": {
@@ -2309,11 +2309,11 @@
       "p": false
     },
     "pokemon-erhabene-helden-mega-impergator-ex-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-mega-meganie-ex-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-optimale-ordnung-3-pack-blister-de": {
@@ -2329,11 +2329,11 @@
       "p": false
     },
     "pokemon-dragon-stacking-tin-box-2024-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-metal-stacking-tin-box-2024-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-nebel-der-sagen-booster-bundle-display-de": {
@@ -2577,7 +2577,7 @@
       "p": false
     },
     "pokemon-mega-guardevoir-premium-poster-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-deluxe-pin-kollektion-de": {
@@ -3025,7 +3025,7 @@
       "p": false
     },
     "yu-gi-oh-25th-anniversary-rarity-collection-special-3-pack-tuckbox-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "astral-radiance-premium-checklane-blister-eng": {
@@ -3497,7 +3497,7 @@
       "p": false
     },
     "pokemon-go-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-crown-zenith-tin-boxen-eng": {
@@ -5871,7 +5871,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
@@ -5883,7 +5883,7 @@
       "p": false
     },
     "pokemon-zarude-2-pack-blister-dunkelnacht-wachsendes-chaos-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-krafte-tin-box-bundle-mega-zeraora-mega-dragoran-mega-darkrai-de": {
@@ -5899,7 +5899,7 @@
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-booster-display-36-booster-en-major-cards-tcg": {
@@ -6003,11 +6003,11 @@
       "p": false
     },
     "guardevoir-ex-liga-kampfdeck-de-pokemon-tcg-ovp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "collect-151-gathering-slim-display-zh-pokemon-tcg-ovp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "collect-151-surprise-slim-display-zh-pokemon-tcg-ovp": {
@@ -6027,7 +6027,7 @@
       "p": false
     },
     "pokemon-151-poster-kollektion": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-display-nine-colors-gathering-origin-cs4b": {
@@ -6035,7 +6035,7 @@
       "p": false
     },
     "pokemon-sealed-151-mini-tin-display-sealed": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-me02-mega-entwicklung-ultra-premium-kollektion-mega-glurak-x-ex-deutsch": {
@@ -9324,162 +9324,6 @@
       "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-destined-rivals-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-paradox-rift-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-151-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-legends-premium-powers-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-darkness-ablaze-booster-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-kanto-power-mini-tin-random-art": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-klara-premium-tournament-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-lillie-premium-tournament-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-chilling-reign-build-battle-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-fusion-strike-build-battle-stadium": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-super-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-destined-rivals-3-pack-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-destined-rivals-checklane-blister-pack-assorted": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-fates-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-collector-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-obsidian-flames-booster-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-3-pack-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-arceus-vstar-ultra-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sun-moon-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-astral-radiance-build-battle-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-fusion-strike-3-pack-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-legends-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-hidden-fates-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-burning-shadows-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-legends-figure-collection-shiny-darkrai-gx": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-cosmic-eclipse-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-legends-super-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-hidden-fates-ultra-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-2-pack-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-3-pack-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-checklane-blister-1-pack": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-booster-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-tech-sticker-collection-1-pack": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-mini-tins-assorted": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-terapagos-ex-ultra-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-hidden-fates-premium-powers-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-binder-collection": {
       "a": false,
       "p": false
     }
