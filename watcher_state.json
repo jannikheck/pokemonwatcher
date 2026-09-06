@@ -2020,6 +2020,74 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-mega-krafte-tin-box-mega-darkrai-ex-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-krafte-tin-box-130-mega-dragoran-ex-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-cynthias-garchomp-ex-premium-collection-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-quajutsu-ex-premium-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-fliessender-angriff-wulaosu-v-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-fokussierter-angriff-wulaosu-v-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-evolving-skies-premium-checklane-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-silver-tempest-checklane-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-karmesin-purpur-checklane-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-fatale-flammen-pokemon-center-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sun-moon-elite-trainer-box-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-stapel-tin-fruhjahr-2025-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-perfect-order-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-verborgenes-schicksal-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-spring-2020-collector-chest-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sammelkoffer-fruhling-2021-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-weg-des-champs-pin-collection-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-obsidianflammen-build-battle-stadium-box-de": {
       "a": true,
       "p": false
@@ -5871,7 +5939,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
@@ -5883,7 +5951,7 @@
       "p": false
     },
     "pokemon-zarude-2-pack-blister-dunkelnacht-wachsendes-chaos-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-krafte-tin-box-bundle-mega-zeraora-mega-dragoran-mega-darkrai-de": {
@@ -5899,11 +5967,11 @@
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pitch-black-booster-display-36-booster-en-major-cards-tcg": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pitch-black-elite-trainer-box-en-mega-entwicklung-major-cards-tcg": {
