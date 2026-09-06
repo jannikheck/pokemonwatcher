@@ -2020,6 +2020,10 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-mega-krafte-tin-boxmega-zeraora-ex-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-krafte-tin-box-mega-darkrai-ex-de": {
       "a": true,
       "p": false
@@ -6071,11 +6075,11 @@
       "p": false
     },
     "guardevoir-ex-liga-kampfdeck-de-pokemon-tcg-ovp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "collect-151-gathering-slim-display-zh-pokemon-tcg-ovp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "collect-151-surprise-slim-display-zh-pokemon-tcg-ovp": {
@@ -6095,7 +6099,7 @@
       "p": false
     },
     "pokemon-151-poster-kollektion": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-display-nine-colors-gathering-origin-cs4b": {
@@ -6103,7 +6107,7 @@
       "p": false
     },
     "pokemon-sealed-151-mini-tin-display-sealed": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-me02-mega-entwicklung-ultra-premium-kollektion-mega-glurak-x-ex-deutsch": {
