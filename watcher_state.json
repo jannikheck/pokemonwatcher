@@ -681,7 +681,7 @@
       "p": false
     },
     "pokemon-strahlende-sterne-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-trading-card-game-classic-box-set-englisch": {
@@ -1731,7 +1731,7 @@
       "p": false
     },
     "pokemon-glurak-ex-card-sleeves-65-premium-collection-charizard-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-top-trainer-box-karmesin-purpur-stuermische-funken": {
@@ -1796,10 +1796,6 @@
     },
     "pokemon-sammelkartenspiel-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario": {
       "a": false,
-      "p": false
-    },
-    "pokemon-optimale-ordnung-booster-pack-repack": {
-      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-ordner-kollektion-karmesin-purpur-weisse-flammen-reshiram-ordner-5-boosterpacks": {
@@ -8994,7 +8990,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-flareon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "prismatic-evolutions-espeon-mini-tin": {
