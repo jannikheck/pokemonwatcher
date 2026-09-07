@@ -2020,6 +2020,18 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-azure-legends-kyogre-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-go-pokeball-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-pokeball-tin-2024-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-krafte-tin-boxmega-zeraora-ex-de": {
       "a": true,
       "p": false
@@ -4350,6 +4362,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "preorder-illustration-rare-metal-deck-blind-box-simplified-chinese-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-151-booster-bundle-bb-deutsche-version-de": {
       "a": false,
       "p": false
@@ -4378,10 +4394,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-schwarze-blitze-ttb-deutsch-live-boxbreak-chris": {
-      "a": false,
-      "p": false
-    },
     "pokemon-weisse-flammen-ttb-deutsch-live-boxbreak-chris": {
       "a": true,
       "p": false
@@ -4407,22 +4419,6 @@
       "p": false
     },
     "pokemon-151-elite-trainer-box-englisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-box-terastal-grand-gathering-tin-box-csv9-5-liveboxbreak-chris": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-box-terastal-grand-gathering-kartenhalter-csv9-5-liveboxbreak-chris": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-coin-set-terastal-grand-gathering-csv9-5-live-boxbreak-chris": {
-      "a": true,
-      "p": false
-    },
-    "preorder-illustration-rare-metal-deck-blind-box-simplified-chinese-kopie": {
       "a": true,
       "p": false
     },
@@ -9554,7 +9550,7 @@
       "p": false
     },
     "pokemon-tcg-pitch-black-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-pitch-black-3-pack-booster-blister-binacle": {
