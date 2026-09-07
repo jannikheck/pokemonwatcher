@@ -5138,6 +5138,18 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-collect-151-journey-slim-booster-s-chn-kopie": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-collect-151-hope-slim-booster-s-chn-kopie": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-collect-151-surprises-slim-booster-s-chn-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-destined-rivals-booster-bundle-eng": {
       "a": true,
       "p": false
@@ -5602,10 +5614,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-gem-pack-2-booster-cn": {
-      "a": false,
-      "p": false
-    },
     "pokemon-fusion-strike-booster-englisch-1": {
       "a": true,
       "p": false
@@ -5632,14 +5640,6 @@
     },
     "pokemon-csv6c-true-mystery-slim-display-s-chn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-primordial-arts-cs3bc-jumbo-booster-s-chn": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-primordial-arts-cs3ac-jumbo-booster-s-chn": {
-      "a": false,
       "p": false
     },
     "pokemon-pokemon-go-booster-de": {
@@ -5670,10 +5670,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-ice-rider-calyrex-radiant-energy-gift-box-s-chn": {
-      "a": false,
-      "p": false
-    },
     "pokemon-mega-entwicklung-booster-de": {
       "a": true,
       "p": false
@@ -5695,10 +5691,6 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-mini-tin-display-de": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-collect-151-the-first-partners-set-s-chn": {
       "a": true,
       "p": false
     },
