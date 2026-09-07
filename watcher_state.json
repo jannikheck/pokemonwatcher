@@ -421,11 +421,11 @@
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-131-mega-darkrai-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-130-mega-dragoran-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weltmeisterschaftsdeck-display-2025-deutsch": {
@@ -681,7 +681,7 @@
       "p": false
     },
     "pokemon-strahlende-sterne-booster-display-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-trading-card-game-classic-box-set-englisch": {
@@ -777,7 +777,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-booster-display-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-glurak-x-ex-ultra-premium-kollektion-box-deutsch": {
@@ -933,7 +933,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
@@ -941,7 +941,7 @@
       "p": false
     },
     "pokemon-ninja-spinner-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ancient-roar-booster-display-koreanisch": {
@@ -1799,7 +1799,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-booster-pack-repack": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-ordner-kollektion-karmesin-purpur-weisse-flammen-reshiram-ordner-5-boosterpacks": {
@@ -2429,7 +2429,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weg-des-champs-mary-special-kollektion-de": {
@@ -3317,7 +3317,7 @@
       "p": false
     },
     "pokemon-arceus-v-figure-collection-eng-b-ware": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sophora-premium-tournament-kollektion-de": {
@@ -3361,7 +3361,7 @@
       "p": false
     },
     "pokemon-surging-sparks-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolution-elite-trainer-box-eng-b-ware": {
