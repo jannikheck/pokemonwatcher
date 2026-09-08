@@ -4253,7 +4253,7 @@
       "p": false
     },
     "pokemon-kp08-sturmische-funken-36er-booster-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-terapagos-ultra-premium-collection-eng": {
@@ -5595,7 +5595,7 @@
       "p": false
     },
     "pokemon-white-flare-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-surging-sparks-booster-eng": {
@@ -5917,10 +5917,6 @@
       "p": false
     },
     "acryl-case-f-r-pok-mon-booster-box-carton-blue-tape": {
-      "a": false,
-      "p": false
-    },
-    "pok-mon-mystery-slab-bag": {
       "a": false,
       "p": false
     }
@@ -6641,7 +6637,7 @@
       "p": false
     },
     "paradoxrift-build-and-battle-stadium-box-mit-11-boostern-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "prismatic-evolutions-accessory-pouch-special-collection-en": {
@@ -8982,7 +8978,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-jolteon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-glaceon": {
