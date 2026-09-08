@@ -1667,7 +1667,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -5640,10 +5640,6 @@
     },
     "pokemon-destined-rivals-booster-eng-1": {
       "a": true,
-      "p": false
-    },
-    "pokemon-charizard-booster-bundle-obsidian-flames-brilliant-stars-shining-fates-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-lost-origin-booster-englisch-1": {
