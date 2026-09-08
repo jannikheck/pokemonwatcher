@@ -5442,10 +5442,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-gem-pack-vol-4-display-s-chn": {
-      "a": true,
-      "p": false
-    },
     "pokemon-gem-pack-vol-5-booster-s-chn": {
       "a": true,
       "p": false
@@ -5607,7 +5603,7 @@
       "p": false
     },
     "pokemon-collect-151-dream-painting-figure-set-blind-box-s-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-obsidian-flames-booster-englisch-1": {
@@ -5640,10 +5636,6 @@
     },
     "pokemon-charizard-booster-bundle-obsidian-flames-brilliant-stars-shining-fates-eng": {
       "a": false,
-      "p": false
-    },
-    "pokemon-prismatische-entwicklungen-booster-de": {
-      "a": true,
       "p": false
     },
     "pokemon-lost-origin-booster-englisch-1": {
@@ -8978,7 +8970,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-glaceon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-flareon": {
