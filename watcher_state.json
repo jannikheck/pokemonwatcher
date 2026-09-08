@@ -2173,7 +2173,7 @@
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-3-de": {
@@ -2341,7 +2341,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
@@ -3925,7 +3925,7 @@
       "p": false
     },
     "pokemon-reisegefaehrten-36er-booster-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-kampfbox-turtok-vmax-de": {
@@ -4406,10 +4406,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-sylveon-v-tin-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-umbreonv-tin-englisch": {
       "a": false,
       "p": false
@@ -4435,10 +4431,6 @@
       "p": false
     },
     "pokemon-darkness-ablaze-elite-trainer-box-englisch-kopie": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-paldea-evolved-elite-trainer-box-englisch-kopie": {
       "a": false,
       "p": false
     },
@@ -5828,6 +5820,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "acryl-case-fur-pokemon-booster-bundle-display-v2": {
+      "a": false,
+      "p": false
+    },
     "acryl-case-f-r-pokemon-super-premium-collection-prismatic-evolution": {
       "a": false,
       "p": false
@@ -9142,7 +9138,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile": {
@@ -9610,7 +9606,7 @@
       "p": false
     },
     "pokemon-perfect-order-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
