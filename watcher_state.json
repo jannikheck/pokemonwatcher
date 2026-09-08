@@ -1538,6 +1538,18 @@
     }
   },
   "TradingToys::ALL": {
+    "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sammelkartenspiel-pkm-tin-130": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sammelkartenspiel-pkm-tin-131": {
+      "a": true,
+      "p": false
+    },
     "erste-partner-deluxe-pin-kollektion-erhabene-helden-mega-entwicklung-deutsch": {
       "a": false,
       "p": false
@@ -1655,7 +1667,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1679,7 +1691,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -1691,7 +1703,7 @@
       "p": false
     },
     "pokemon-tcg-top-trainer-box-mega-entwicklung-wachsendes-chaos": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-entwicklung-wachsendes-chaos-boosterbundle-6-packs": {
@@ -1779,7 +1791,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-top-trainer-box-mega-entwicklung-fatale-flammen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-optimale-ordnung-6-boosterpacks": {
@@ -1791,7 +1803,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-me03-top-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario": {
@@ -2007,10 +2019,6 @@
       "p": false
     },
     "pokemon-inselwaechter-gx-kollektion-kapu-fala-gx-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-astralglanz-swsh10-display-deutsch": {
       "a": false,
       "p": false
     }
