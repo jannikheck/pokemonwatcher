@@ -1791,7 +1791,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-top-trainer-box-mega-entwicklung-fatale-flammen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-optimale-ordnung-6-boosterpacks": {
@@ -6497,7 +6497,7 @@
   },
   "PokeVend::ALL": {
     "pokemon-dunkelnacht-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-terastal-gathering-display-chn": {
@@ -6557,7 +6557,7 @@
       "p": false
     },
     "the-acrylic-box-booster-bundle-case-en-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "magic-the-gathering-lorwyns-finsternis-fat-pack-bundle-de": {
@@ -6693,7 +6693,7 @@
       "p": false
     },
     "pokemon-mystery-box-10-mehr-inhalt": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "paldea-abenteuerkoffer-paldea-collectors-chest-de": {
