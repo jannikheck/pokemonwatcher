@@ -140,6 +140,26 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-glurak-y-tin-box-127-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-glurak-x-tin-box-126-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-brilliant-illusions-csv8c-jumbo-display-chn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-karmesin-purpur-ewige-rivalen-18er-booster-display-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-25th-anniversary-collection-box-jpn": {
+      "a": false,
+      "p": false
+    },
     "pokemon-ascended-heroes-mega-emboar-ex-tin-englisch": {
       "a": false,
       "p": false
@@ -173,7 +193,7 @@
       "p": false
     },
     "pokemon-storm-emeralda-m6f-booster-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-englisch": {
@@ -653,7 +673,7 @@
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weg-des-champs-fairballey-arena-pin-kollektion-deutsch": {
@@ -1526,14 +1546,6 @@
     },
     "pokemon-black-bolt-display-japanisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-wachsendes-chaos-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-erste-partner-illustration-kollektion-box-deutsch": {
-      "a": false,
       "p": false
     }
   },
@@ -5207,7 +5219,7 @@
       "p": true
     },
     "pokemon-30th-celebration-poster-collection-eng": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5816,6 +5828,14 @@
     }
   },
   "CardBuddies::ALL": {
+    "acryl-case-fur-pokemon-ultra-premium-collection-box-charizard-kopie": {
+      "a": false,
+      "p": false
+    },
+    "acryl-case-fur-pokemon-booster-bundle-v2": {
+      "a": false,
+      "p": false
+    },
     "acryl-case-fur-pokemon-booster-bundle-display-v2": {
       "a": false,
       "p": false
@@ -8790,10 +8810,6 @@
     "pokemon-tcg-iono-premium-tournament-collection": {
       "a": false,
       "p": false
-    },
-    "pokemon-mabosstiff-ex-collection-box": {
-      "a": false,
-      "p": false
     }
   },
   "Templars Arena::ALL": {
@@ -9686,11 +9702,11 @@
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-weavile": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-sneasel": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-booster-bundle": {
@@ -11833,6 +11849,18 @@
     }
   },
   "The TCG Shop UK::ALL": {
+    "pokemon-tcg-30th-celebration-greninja-ex-box-copy": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-greninja-ex-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-sylveon-ex-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
       "a": true,
       "p": false
