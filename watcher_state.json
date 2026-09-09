@@ -1,5 +1,37 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-premium-tournament-collection-lillie-en": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-paradoxrift-kp04-18er-display-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-terapagos-ex-ultra-premium-collection-en": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-enhanced-2-pack-blister-2022-en": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-prismatische-entwicklungen-kp8-5-booster-bundle-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-prismatische-entwicklungen-kp8-5-poster-kollektion-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-obsidian-flames-sv3-3er-blister-random-en": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-nebel-der-sagen-kp6-5-booster-bundle-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-pitch-black-me05-premium-checklane-blister-en-limit-2-person": {
       "a": false,
       "p": false
@@ -9161,7 +9193,7 @@
       "p": false
     },
     "evoretro-pokemon-elite-trainer-box-acrylic-protector": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-vivid-voltage-booster-box": {
