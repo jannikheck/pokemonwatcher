@@ -1,5 +1,13 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-erhabene-helden-me2-5-mega-ex-box-de-preorder-24-04-26-limit-3-person": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-pokeball-tin-2025-en-max-3-person": {
+      "a": false,
+      "p": false
+    },
     "b-ware-pokemon-tcg-future-flash-sv4m-display-kor": {
       "a": false,
       "p": false
@@ -9,10 +17,6 @@
       "p": false
     },
     "pokemon-tcg-mega-entwicklungen-dunkelnacht-me05-3-pack-blister-de-vvk-17-07-26-limit-1-person-beschreibung-beachten": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
       "a": false,
       "p": false
     },
@@ -4962,6 +4966,26 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-weisse-flammen-ordner-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-schwarze-blitze-ordner-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-weisse-flammen-booster-de-1": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-schwarze-blitze-booster-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-fatale-flammen-booster-de-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-collect-151-journey-slim-booster-s-chn-kopie": {
       "a": true,
       "p": false
@@ -5466,10 +5490,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-fatale-flammen-booster-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-destined-rivals-booster-eng-1": {
       "a": true,
       "p": false
@@ -5639,7 +5659,7 @@
       "p": false
     },
     "pokemon-paradox-rift-booster-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-booster-deutsch": {
@@ -8803,7 +8823,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-flareon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-espeon-mini-tin": {
@@ -8839,7 +8859,7 @@
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-squirtle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-bulbasaur": {
