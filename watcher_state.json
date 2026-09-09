@@ -1,5 +1,9 @@
 {
   "TCGViert::ALL": {
+    "b-ware-pokemon-tcg-future-flash-sv4m-display-kor": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-mega-evolutions-pitch-black-me05-3-pack-blister-en-preorder-17-07-26-limit-1-person-beschreibung-beachten": {
       "a": false,
       "p": false
@@ -49,7 +53,7 @@
       "p": false
     },
     "pokemon-tcg-trainer-s-toolkit-2024-en": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -1363,195 +1367,11 @@
     "pokemon-mega-entwicklung-erhabene-helden-2-pack-blister-aokis-koalelu-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-mega-entwicklung-optimale-ordnung-3-pack-blister-endivie-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-fatale-flammen-3er-blister-snibunna-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-fatale-flammen-3er-blister-sniebel-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-3-pack-blister-entoron-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-3-pack-blister-enton-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-enhanced-april-2024-2-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-destined-rivals-checklane-blister-zarude-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-destined-rivals-checklane-blister-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-destined-rivals-3-pack-blister-zebstrika-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-destined-rivals-3-pack-blister-kangaskhan-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paradox-rift-hydreigo-premium-checklane-blister-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paradox-rift-tinkaton-premium-checklane-blister-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-ewige-rivalen-3-pack-blister-zebritz-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-ewige-rivalen-3-pack-blister-kangama-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-reisegefahrten-3-pack-blister-irokex-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-reisegefahrten-3-pack-blister-yanmega-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-journey-together-3-pack-blister-scrafty-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-journey-together-3-pack-blister-yanmega-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-enhanced-marz-2025-2-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-3-pack-bilster-tinkaton-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-3-pack-blister-latias-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-stellarkrone-3-pack-bilster-granforgita-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-stellarkrone-3-pack-blister-latias-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-evolved-varoom-3-pack-blister-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-evolved-tinkatink-3-pack-blister-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-obsidianflames-eevee-3-pack-blister-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-nebel-der-sagen-3-pack-blister-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shrouded-fable-3-pack-blister-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-obsidian-flames-3-pack-blister-houndstone-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-und-violet-white-flare-booster-bundle-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-white-flare-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-black-bolt-booster-display-koreanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-black-bolt-white-flare-unova-poster-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-black-bolt-binder-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-white-flare-binder-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-schwarze-blitze-tech-sticker-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schwarze-blitze-weisse-flammen-victini-illustrationskollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-weisse-flammen-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-schwarze-blitze-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-weisse-flammen-ordner-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-schwarze-blitze-weisse-flammen-poster-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-schwarze-blitze-ordner-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-white-flare-deluxe-display-japanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-black-bolt-deluxe-display-jpn": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-white-flare-display-japanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-black-bolt-display-japanisch": {
-      "a": true,
-      "p": false
     }
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -1703,7 +1523,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -6331,22 +6151,6 @@
     "eng-pokemon-display-obsidian-flames": {
       "a": false,
       "p": false
-    },
-    "ultra-necrozma-sleeve-box": {
-      "a": true,
-      "p": false
-    },
-    "rayquaza-sleeve-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-box-return-of-the-dragon-rayquaza-csfm2": {
-      "a": false,
-      "p": false
-    },
-    "s-chn-pok-mon-display-xl-nine-colors-gathering-origin-cs4b": {
-      "a": true,
-      "p": false
     }
   },
   "Cardstore.at::ALL": {
@@ -7263,7 +7067,12 @@
       "p": false
     }
   },
-  "Total Cards::ALL": {},
+  "Total Cards::ALL": {
+    "lego-pokemon-iconic-trainer-moments-poke-ball-72154": {
+      "a": true,
+      "p": true
+    }
+  },
   "TCG Stadium::ALL": {
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
       "a": true,
@@ -7636,7 +7445,7 @@
       "p": false
     },
     "pokemon-sword-shield-fusion-arts-booster-box-koreansk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-stellar-miracle-booster-box-koreansk": {
