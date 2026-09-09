@@ -1,5 +1,21 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-pitch-black-me05-premium-checklane-blister-en-limit-2-person": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-wachsendes-chaos-me04-3-pack-blister-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection-en-limit-1-kunde": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-2-pack-blister-team-rockets-zapdos-arktos-despotar-de-limit-1-person": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-erhabene-helden-me2-5-mega-ex-box-de-preorder-24-04-26-limit-3-person": {
       "a": false,
       "p": false
@@ -9,14 +25,6 @@
       "p": false
     },
     "b-ware-pokemon-tcg-future-flash-sv4m-display-kor": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mega-evolutions-pitch-black-me05-3-pack-blister-en-preorder-17-07-26-limit-1-person-beschreibung-beachten": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mega-entwicklungen-dunkelnacht-me05-3-pack-blister-de-vvk-17-07-26-limit-1-person-beschreibung-beachten": {
       "a": false,
       "p": false
     },
@@ -30,10 +38,6 @@
     },
     "pokemon-tcg-mega-quajutsu-ex-premium-kollektion-de-limit-1-person": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-mega-entwicklungen-perfekte-ordnung-me03-3-pack-blister-de": {
-      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
@@ -805,7 +809,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-glurak-x-ex-ultra-premium-kollektion-box-deutsch": {
@@ -1375,7 +1379,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
