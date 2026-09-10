@@ -5002,6 +5002,30 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-card-display-set-sylveon-ex-s-chn-vorbestellung-release-ende-september-2026-kopie": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-card-display-set-quajutsu-ex-s-chn-vorbestellung-release-ende-september-2026": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-coin-set-s-chn-vorbestellung-versand-ende-september-2026-kopie": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
+      "a": true,
+      "p": true
+    },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
       "a": true,
       "p": false
@@ -5099,7 +5123,7 @@
       "p": true
     },
     "pokemon-30th-celebration-poster-collection-eng": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -7833,7 +7857,7 @@
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-zygarde-ex-premium-collection": {
@@ -9567,11 +9591,11 @@
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-weavile": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-sneasel": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-booster-bundle": {
