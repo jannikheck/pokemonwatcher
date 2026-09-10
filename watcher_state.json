@@ -6016,6 +6016,10 @@
       "a": true,
       "p": false
     },
+    "pokemon-einsteiger-set-mein-erstes-spiel-pokemon-company": {
+      "a": false,
+      "p": false
+    },
     "eng-pokemon-surprise-box-prismatic-evolutions-2-pack-bundle-sams-club-sv8-5": {
       "a": false,
       "p": false
@@ -6533,7 +6537,7 @@
       "p": false
     },
     "paradoxrift-build-and-battle-stadium-box-mit-11-boostern-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-accessory-pouch-special-collection-en": {
@@ -7148,12 +7152,28 @@
     }
   },
   "Total Cards::ALL": {
+    "ultra-pro-pokemon-mega-evolution-delta-reign-4-pocket-portfolio": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-mega-evolution-delta-reign-9-pocket-portfolio": {
+      "a": true,
+      "p": true
+    },
     "lego-pokemon-iconic-trainer-moments-poke-ball-72154": {
       "a": true,
       "p": true
     }
   },
   "TCG Stadium::ALL": {
+    "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-box": {
+      "a": true,
+      "p": false
+    },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
       "a": true,
       "p": false
@@ -7221,7 +7241,7 @@
       "p": false
     },
     "mega-evolution-mega-greninja-ex-premium-collection-pokemon-tcg-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "megaevoluzione-buio-pesto-bustina-singola-da-10-carte-pokemon-tcg-ita": {
@@ -7789,7 +7809,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
@@ -7801,7 +7821,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
@@ -8697,6 +8717,10 @@
       "p": false
     },
     "pokemon-tcg-iono-premium-tournament-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mabosstiff-ex-collection-box": {
       "a": false,
       "p": false
     }
