@@ -1411,7 +1411,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
