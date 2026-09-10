@@ -9140,6 +9140,22 @@
     }
   },
   "Hobby Addicts::ALL": {
+    "pokemon-30th-celebration-tech-sticker-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-poster-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-knock-out-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-perfect-order-booster-box": {
       "a": false,
       "p": false
