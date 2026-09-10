@@ -2513,7 +2513,7 @@
       "p": false
     },
     "pokemon-back-to-school-2024-sammelkoffer-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-2025-collector-chest-eng": {
@@ -5239,7 +5239,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
@@ -7171,7 +7171,7 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
@@ -7949,7 +7949,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
@@ -11557,7 +11557,7 @@
       "p": false
     },
     "pokemon-black-bolt-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-tech-sticker-collection": {
