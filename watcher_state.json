@@ -2113,7 +2113,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de": {
@@ -5002,6 +5002,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-anniversary-first-partner-card-set-bundle-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-card-display-set-sylveon-ex-s-chn-vorbestellung-release-ende-september-2026-kopie": {
       "a": true,
       "p": true
