@@ -1539,7 +1539,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -4242,6 +4242,14 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-pokemon-coin-set-terastal-grand-gathering-csv9-5-live-boxbreak-chris": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-pokemon-box-terastal-grand-gathering-tin-box-csv9-5-liveboxbreak-chris": {
+      "a": true,
+      "p": false
+    },
     "pokemon-151-booster-bundle-bb-deutsche-version-de": {
       "a": false,
       "p": false
@@ -6541,7 +6549,7 @@
       "p": false
     },
     "paradoxrift-build-and-battle-stadium-box-mit-11-boostern-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "prismatic-evolutions-accessory-pouch-special-collection-en": {
