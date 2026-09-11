@@ -103,7 +103,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-top-trainer-box-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
@@ -188,6 +188,14 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-anniversary-collection-30er-display-japanisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-booster-display-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-glurak-y-tin-box-127-de": {
       "a": true,
       "p": false
@@ -988,10 +996,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-storm-emerald-booster-display-koreanisch": {
       "a": true,
       "p": false
@@ -1401,10 +1405,6 @@
       "p": false
     },
     "pokemon-mega-entwicklung-wachsendes-chaos-3-pack-blister-glutexo-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-erhabene-helden-2-pack-blister-erikas-tangela-deutsch": {
       "a": false,
       "p": false
     }
@@ -2117,7 +2117,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de": {
@@ -2137,7 +2137,7 @@
       "p": false
     },
     "pokemon-pitch-black-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-celebrations-deluxe-pin-collection-eng": {
@@ -2885,7 +2885,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-2-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tag-kollektion-2026-de": {
@@ -3017,7 +3017,7 @@
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-und-purpur-baseset-display": {
@@ -4242,10 +4242,6 @@
     }
   },
   "Pokitrio::ALL": {
-    "preorder-illustration-rare-metal-deck-blind-box-simplified-chinese-kopie": {
-      "a": true,
-      "p": false
-    },
     "pokemon-151-booster-bundle-bb-deutsche-version-de": {
       "a": false,
       "p": false
@@ -8705,30 +8701,6 @@
       "p": false
     },
     "pokemon-tcg-v-powers-tin-eternatus-v": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-v-powers-tin-pikachu-v": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-151-mini-tin-art-card-coin": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-6-twilight-masquerade-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-151-forvaringslada-tom-elite-trainer-box-4st-card-dividers": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-iono-premium-tournament-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mabosstiff-ex-collection-box": {
       "a": false,
       "p": false
     }
