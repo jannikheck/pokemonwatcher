@@ -98,8 +98,12 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-mega-evolution-pitch-black-booster-bundle-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-pitch-black-top-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
@@ -193,7 +197,7 @@
       "p": false
     },
     "pokemon-brilliant-illusions-csv8c-jumbo-display-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-ewige-rivalen-18er-booster-display-de": {
@@ -305,7 +309,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-6-booster-box-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-display-englisch": {
@@ -477,7 +481,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-zarude-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-132-mega-zeraora-ex-deutsch": {
@@ -801,7 +805,7 @@
       "p": false
     },
     "pokemon-pikachu-v-union-card-frame-collection-box-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
@@ -1403,10 +1407,6 @@
     "pokemon-mega-entwicklung-erhabene-helden-2-pack-blister-erikas-tangela-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-mega-entwicklung-erhabene-helden-2-pack-blister-aokis-koalelu-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1896,6 +1896,10 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-reisegefahrten-boosterbundle-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-azure-legends-kyogre-tin-eng": {
       "a": true,
       "p": false
@@ -5019,7 +5023,7 @@
       "p": true
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
@@ -6719,7 +6723,7 @@
       "p": false
     },
     "pokemon-mega-zygarde-ex-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-mega-meganie-ex-kollektion-de": {
@@ -11473,7 +11477,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
