@@ -661,7 +661,7 @@
       "p": false
     },
     "pokemon-evoli-entwicklungen-flamara-v-tin-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-evoli-entwicklungen-aquana-v-tin-box-deutsch": {
@@ -2133,7 +2133,7 @@
       "p": false
     },
     "pokemon-pitch-black-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-display-eng": {
@@ -3085,7 +3085,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-top-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-tech-mini-tin": {
@@ -3821,7 +3821,7 @@
       "p": false
     },
     "pokemon-schwarze-blitze-kp10-5-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-shining-fates-pikachu-v-collection-eng": {
@@ -7178,6 +7178,18 @@
     }
   },
   "TCG Stadium::ALL": {
+    "prismatic-evolutions-poster-collection": {
+      "a": true,
+      "p": false
+    },
+    "6-piece-pokemon-collection-pikachu-pen-holder-anime-action-figures-perfect-toy-gift-set": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-sword-shield-astral-radiance-checklane-blister-pack-set-of-2": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
       "a": true,
       "p": false
