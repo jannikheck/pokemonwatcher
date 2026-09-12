@@ -1403,10 +1403,6 @@
     "pok-mon-ninja-spinner-booster-pack-japanisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-mega-entwicklung-wachsendes-chaos-3-pack-blister-glutexo-de": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -5846,6 +5842,10 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-ewige-rivalen-destined-rivals-elite-trainer-box-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
       "a": true,
       "p": false
@@ -5999,7 +5999,7 @@
       "p": false
     },
     "pokemon-me02-5-erhabene-helden-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151-poster-kollektion": {
@@ -7179,7 +7179,7 @@
   },
   "TCG Stadium::ALL": {
     "prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "6-piece-pokemon-collection-pikachu-pen-holder-anime-action-figures-perfect-toy-gift-set": {
@@ -7187,7 +7187,7 @@
       "p": false
     },
     "pokemon-sword-shield-astral-radiance-checklane-blister-pack-set-of-2": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
