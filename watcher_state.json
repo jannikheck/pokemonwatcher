@@ -1407,7 +1407,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -1887,6 +1887,10 @@
       "p": false
     },
     "pokemon-inselwaechter-gx-kollektion-kapu-fala-gx-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-astralglanz-swsh10-display-deutsch": {
       "a": false,
       "p": false
     }
@@ -7191,7 +7195,7 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-box": {
@@ -8389,7 +8393,7 @@
       "p": false
     },
     "pokemon-tcg-collectors-chest-fall-2024-pikachu": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-11-lost-origin-pokemon-center-elite-trainer-box": {
