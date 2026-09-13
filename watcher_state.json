@@ -1559,7 +1559,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -1823,14 +1823,6 @@
       "p": false
     },
     "pokemon-go-alola-kokowei-v-sammelkarten-kollektion-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pikachu-shiny-gold-muenze-coin-original-pokemon-go-tin-2022-neu": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-schwert-schild-go-mini-tin-heiteira-deutsch-leer": {
       "a": false,
       "p": false
     }
@@ -7099,20 +7091,7 @@
       "p": false
     }
   },
-  "Total Cards::ALL": {
-    "ultra-pro-pokemon-mega-evolution-delta-reign-4-pocket-portfolio": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-mega-evolution-delta-reign-9-pocket-portfolio": {
-      "a": true,
-      "p": true
-    },
-    "lego-pokemon-iconic-trainer-moments-poke-ball-72154": {
-      "a": true,
-      "p": true
-    }
-  },
+  "Total Cards::ALL": {},
   "TCG Stadium::ALL": {
     "prismatic-evolutions-poster-collection": {
       "a": false,
