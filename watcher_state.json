@@ -1407,7 +1407,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -1831,66 +1831,6 @@
       "p": false
     },
     "pokemon-schwert-schild-go-mini-tin-heiteira-deutsch-leer": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tin-box-decidueye-v-4-boosterpacks-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tin-box-typhlosion-v-4-boosterpacks-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tin-box-samurott-v-4-boosterpacks-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schwert-schild-10-astralglanz-darkrai-top-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "5x-pokemon-karten-pack-mysterypack-kaufen": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-elite-trainer-box-etb-drachenwandel-schwert-schild-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glaenzendes-schicksal-dedenne-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glaenzendes-schicksal-mortipot-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glaenzendes-schicksal-galar-pantifrost-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glaenzendes-schicksal-scoppel-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-lucario-vstar-kollektion-xxl-karte-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-kollektion-dark-sylveon-v-25-jahre-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-kollektion-dunkles-feelinara-v-25-jahre-jubilaeum": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-inselwaechter-gx-kollektion-kapu-fala-gx-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-astralglanz-swsh10-display-deutsch": {
       "a": false,
       "p": false
     }
@@ -4250,10 +4190,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-151-booster-bundle-bb-deutsche-version-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-evolving-skies-elite-trainer-box-englisch-1": {
       "a": true,
       "p": false
@@ -4284,10 +4220,6 @@
     },
     "pokemon-lost-origin-display-englisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-151-premium-collection-englisch": {
-      "a": false,
       "p": false
     },
     "pokemon-espeon-v-tin-englisch": {
