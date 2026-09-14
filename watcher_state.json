@@ -119,7 +119,7 @@
       "p": true
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen-kopie": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen-kopie": {
@@ -1418,8 +1418,16 @@
     }
   },
   "TradingToys::ALL": {
+    "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-sammelkartenspiel-illustrations-kollektion-erste-partner-serie-1-3-promokarten-2-boosterpacks-und-1-stickerbogen": {
+      "a": false,
+      "p": false
+    },
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -1427,7 +1435,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-131": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "erste-partner-deluxe-pin-kollektion-erhabene-helden-mega-entwicklung-deutsch": {
@@ -1821,22 +1829,6 @@
     "pokemon-kaufen-ultra-premium-kollektion-glurak-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-ultra-premium-collection-25th-charizard-glurak-pikachu-pin": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-elite-trainer-box-etb-drachenwandel-schwert-schild-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-fusion-strike-display-36-boostern-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-go-alola-kokowei-v-sammelkarten-kollektion-box-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -1877,7 +1869,7 @@
       "p": false
     },
     "pokemon-fliessender-angriff-wulaosu-v-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-fokussierter-angriff-wulaosu-v-box-de": {
@@ -2221,7 +2213,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-mega-meganie-ex-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-optimale-ordnung-3-pack-blister-de": {
@@ -2817,7 +2809,7 @@
       "p": false
     },
     "pokemon-mega-entwicklungen-mini-tin-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-mini-tin-de": {
@@ -3041,7 +3033,7 @@
       "p": false
     },
     "pokemon-reshiram-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection-eng": {
@@ -4946,6 +4938,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-maskerade-im-zwielicht-booster-de-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
       "a": true,
       "p": true
@@ -4979,7 +4975,7 @@
       "p": true
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
@@ -5602,10 +5598,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-maskerade-im-zwielicht-booster-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-nebel-der-sagen-booster-de": {
       "a": true,
       "p": false
@@ -5679,7 +5671,7 @@
       "p": false
     },
     "pokemon-paradox-rift-booster-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-booster-deutsch": {
@@ -5688,6 +5680,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "pok-mon-mystery-slab-bag": {
+      "a": false,
+      "p": false
+    },
     "acryl-case-fur-pokemon-ultra-premium-collection-box-charizard-kopie": {
       "a": false,
       "p": false
@@ -5976,6 +5972,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "pokemon-kartenbinder-30th-celebration": {
+      "a": false,
+      "p": true
+    },
     "de-pokemon-kampfdecks": {
       "a": true,
       "p": false
@@ -7872,7 +7872,7 @@
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-mega-emboar-ex-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-mega-meganium-ex-box": {
@@ -9534,7 +9534,7 @@
       "p": false
     },
     "pokemon-sword-shield-rebel-clash-checklane-mantine": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin": {
