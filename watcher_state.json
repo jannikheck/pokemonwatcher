@@ -188,6 +188,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-entwicklung-delta-herrschaft-booster-bundle-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-delta-herrschaft-3-pack-blister-jurob-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-delta-herrschaft-me06-booster-display-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
       "a": false,
       "p": false
@@ -1021,7 +1033,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-prismatische-entwicklungen-booster-bundle-deutsch": {
@@ -2653,7 +2665,7 @@
       "p": false
     },
     "pokemon-zenit-der-konige-mini-tin-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-blitza-vmax-premium-kollektion-de": {
@@ -2761,7 +2773,7 @@
       "p": false
     },
     "pokemon-151-mini-tin-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-white-flare-booster-bundle-display-eng": {
@@ -3185,7 +3197,7 @@
       "p": false
     },
     "pokemon-crown-zenith-mini-tin-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-galar-kumpel-pals-mini-tin-box": {
@@ -7764,7 +7776,7 @@
       "p": false
     },
     "pokemon-tcg-mega-greninja-ex-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-elite-trainer-box": {
