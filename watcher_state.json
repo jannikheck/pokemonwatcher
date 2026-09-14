@@ -513,7 +513,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-130-mega-dragoran-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weltmeisterschaftsdeck-display-2025-deutsch": {
@@ -1419,7 +1419,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -1427,7 +1427,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-131": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "erste-partner-deluxe-pin-kollektion-erhabene-helden-mega-entwicklung-deutsch": {
@@ -4946,12 +4946,24 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-charizard-collectors-box-s-chn-vorbestellung-versand-ende-september-2026": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-30th-celebration-futuristic-box-s-chn-vorbestellung-versand-anfang-oktober-2026": {
+      "a": true,
+      "p": true
+    },
     "pokemon-30th-anniversary-first-partner-card-set-bundle-s-chn": {
       "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-display-set-sylveon-ex-s-chn-vorbestellung-release-ende-september-2026-kopie": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30th-celebration-card-display-set-quajutsu-ex-s-chn-vorbestellung-release-ende-september-2026": {
@@ -4963,7 +4975,7 @@
       "p": true
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
@@ -5487,7 +5499,7 @@
       "p": false
     },
     "pokemon-silver-tempest-sleeved-booster-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-csv6c-true-mystery-slim-display-s-chn": {
@@ -7423,6 +7435,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-30th-celebration-booster-box-jpn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-inferno-x-booster-box-koreansk": {
       "a": true,
       "p": false
@@ -7548,7 +7564,7 @@
       "p": false
     },
     "pokemon-sword-shield-vstar-universe-booster-box-koreansk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-ruler-of-the-black-flame-booster-box-koreansk": {
@@ -7780,7 +7796,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-moonlit-tin-mega-clefable-ex": {
@@ -8644,10 +8660,6 @@
       "p": false
     },
     "pokemon-tcg-v-powers-tin-eevee": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-v-powers-tin-eternatus-v": {
       "a": false,
       "p": false
     }
