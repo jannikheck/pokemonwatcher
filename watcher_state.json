@@ -253,11 +253,11 @@
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-storm-emeralda-m6f-booster-display-chinesisch": {
@@ -1013,7 +1013,7 @@
       "p": false
     },
     "pokemon-storm-emerald-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
@@ -7660,7 +7660,7 @@
       "p": false
     },
     "pokemon-mega-storm-emeralda-booster-box-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-abyss-eye-booster-box-koreansk": {
@@ -8096,7 +8096,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-white-flare-unova-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-lillie-premium-tournament-collection": {
@@ -8652,10 +8652,6 @@
       "p": false
     },
     "pokemon-scarlet-violet-premium-checklane-blister-pack-machamp": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-v-powers-tin-eevee": {
       "a": false,
       "p": false
     }
@@ -11704,10 +11700,6 @@
       "p": false
     },
     "pokemon-journey-together-booster-box": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-journey-together-booster-bundle": {
       "a": true,
       "p": false
     }
