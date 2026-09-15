@@ -225,7 +225,7 @@
       "p": false
     },
     "pokemon-25th-anniversary-collection-box-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ascended-heroes-mega-emboar-ex-tin-englisch": {
@@ -329,7 +329,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-6-booster-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-display-englisch": {
@@ -341,7 +341,7 @@
       "p": false
     },
     "pokemon-center-special-box-set-hiroshima-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-zacian-v-union-binder-box-chinesisch": {
@@ -833,7 +833,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-pack-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-me01-lucario-top-trainer-box-deutsch": {
@@ -997,7 +997,7 @@
       "p": false
     },
     "pokemon-center-special-box-set-tohoku-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-5-booster-box-chinesisch-sammler-edition": {
@@ -1357,7 +1357,7 @@
       "p": false
     },
     "pokemon-center-fukuoka-special-box-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-erhabene-helden-booster-bundle-deutsch": {
@@ -1409,10 +1409,6 @@
       "p": false
     },
     "pokemon-25th-anniversary-collection-booster-pack-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pok-mon-ninja-spinner-booster-pack-japanisch": {
       "a": false,
       "p": false
     }
@@ -4975,7 +4971,7 @@
       "p": true
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
@@ -5015,7 +5011,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lost-origin-sleeved-booster-eng": {
@@ -11408,7 +11404,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11484,7 +11480,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-mega-meganium-ex-collection-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-premium-poster-collection-mega-gardevoir": {
@@ -11730,7 +11726,7 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box": {
