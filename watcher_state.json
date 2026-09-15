@@ -781,7 +781,7 @@
       "p": false
     },
     "pokemon-drachenwandel-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-fusionsangriff-booster-display-deutsch": {
@@ -1427,7 +1427,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-131": {
@@ -4133,7 +4133,7 @@
       "p": false
     },
     "pokemon-swsh-12-0-silver-tempest-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-kp6-5-nebel-der-sagen-ex-spezial-kollektion-de": {
@@ -4934,6 +4934,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-perfect-order-booster-eng-1": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-black-bolt-white-flare-mini-tin-display-eng-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-maskerade-im-zwielicht-booster-de-kopie": {
       "a": true,
       "p": false
@@ -5786,6 +5794,26 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-ordner-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-top-trainer-box-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-elite-trainer-box-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-ewige-rivalen-destined-rivals-elite-trainer-box-englisch": {
       "a": true,
       "p": false
@@ -7134,7 +7162,7 @@
       "p": false
     },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
