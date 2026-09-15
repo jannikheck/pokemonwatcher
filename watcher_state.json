@@ -713,7 +713,7 @@
       "p": false
     },
     "pokemon-schw-schi-astralglanz-booster-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-glanzendes-schicksal-cottomi-v-tin-box-deutsch": {
@@ -997,7 +997,7 @@
       "p": false
     },
     "pokemon-center-special-box-set-tohoku-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-5-booster-box-chinesisch-sammler-edition": {
@@ -1419,7 +1419,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-illustrations-kollektion-erste-partner-serie-1-3-promokarten-2-boosterpacks-und-1-stickerbogen": {
