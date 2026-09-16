@@ -11738,7 +11738,7 @@
   },
   "The TCG Shop UK::ALL": {
     "pokemon-tcg-30th-celebration-greninja-ex-box-copy": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-30th-celebration-greninja-ex-box": {
