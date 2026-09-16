@@ -188,6 +188,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-celebration-gift-box-espeon-ex-umbreon-ex-chinesisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-entwicklung-delta-herrschaft-booster-bundle-deutsch": {
       "a": false,
       "p": false
@@ -201,7 +205,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
@@ -281,7 +285,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-mini-tin-englisch": {
@@ -1427,7 +1431,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-131": {
@@ -11742,11 +11746,11 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-greninja-ex-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-30th-celebration-sylveon-ex-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
