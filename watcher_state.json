@@ -833,7 +833,7 @@
       "p": false
     },
     "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-abyss-eye-booster-pack-japanisch": {
@@ -3293,7 +3293,7 @@
       "p": false
     },
     "pokemon-maskerade-im-zwielicht-3-pack-blister": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-3-pack-blister-eng": {
@@ -6675,7 +6675,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-2-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-pixi-ex-tin-de": {
@@ -7463,6 +7463,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-30th-celebration-premium-deck-set-jpn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-booster-box-jpn": {
       "a": true,
       "p": false
@@ -9078,26 +9082,6 @@
       "p": false
     },
     "pokemon-astral-radiance-3-pack-blister-eevee": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-masks-of-ogerpon-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box-iron-valiant": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box-roaring-moon": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-temporal-forces-elite-trainer-box-iron-leaves": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-destined-rivals-one-pack-blister-zarude-english": {
       "a": false,
       "p": false
     }
