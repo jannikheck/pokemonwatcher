@@ -401,7 +401,7 @@
       "p": false
     },
     "pokemon-mew-frame-collection-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-maskerade-im-zwielicht-booster-bundle-deutsch": {
@@ -5559,7 +5559,7 @@
       "p": false
     },
     "the-acrylic-box-elite-trainer-box-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sturmische-funken-booster-de": {
@@ -5811,7 +5811,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
@@ -7143,7 +7143,12 @@
       "p": false
     }
   },
-  "Total Cards::ALL": {},
+  "Total Cards::ALL": {
+    "pokemon-mega-evolution-ascended-heroes-focused-fighters-premium-collection": {
+      "a": false,
+      "p": false
+    }
+  },
   "TCG Stadium::ALL": {
     "prismatic-evolutions-poster-collection": {
       "a": false,
