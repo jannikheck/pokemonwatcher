@@ -9065,10 +9065,6 @@
     "pokemon-astral-radiance-3-pack-blister-sylveon": {
       "a": false,
       "p": false
-    },
-    "pokemon-astral-radiance-3-pack-blister-eevee": {
-      "a": false,
-      "p": false
     }
   },
   "Hobby Addicts::ALL": {
@@ -11621,7 +11617,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
