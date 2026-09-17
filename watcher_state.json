@@ -1,18 +1,18 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-karmesin-purpur-briduradon-2-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-premium-tournament-collection-lillie-en": {
       "a": false,
       "p": false
     },
-    "pokemon-tcg-paradoxrift-kp04-18er-display-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-terapagos-ex-ultra-premium-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-enhanced-2-pack-blister-2022-en": {
       "a": false,
       "p": false
     },
@@ -32,31 +32,11 @@
       "a": false,
       "p": false
     },
-    "pokemon-tcg-pitch-black-me05-premium-checklane-blister-en-limit-2-person": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-wachsendes-chaos-me04-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-salamence-ex-reshiram-ex-premium-collection-en-limit-1-kunde": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-2-pack-blister-team-rockets-zapdos-arktos-despotar-de-limit-1-person": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-erhabene-helden-me2-5-mega-ex-box-de-preorder-24-04-26-limit-3-person": {
       "a": false,
       "p": false
     },
     "pokemon-tcg-pokeball-tin-2025-en-max-3-person": {
-      "a": false,
-      "p": false
-    },
-    "b-ware-pokemon-tcg-future-flash-sv4m-display-kor": {
       "a": false,
       "p": false
     },
@@ -72,20 +52,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-mega-pixi-tin-box-de-limit-2-kunde": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-illumina-city-mini-tin-einzel-de-limit-5-kunde": {
-      "a": false,
       "p": false
     },
     "pokemon-tcg-battle-academy-2022-en": {
@@ -205,7 +173,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
@@ -5022,10 +4990,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-destined-rivals-booster-bundle-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-lost-origin-sleeved-booster-eng": {
       "a": true,
       "p": false
@@ -5811,7 +5775,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
@@ -6077,6 +6041,158 @@
       "p": false
     },
     "de-pokemon-festtagskalender-2025": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-glurak-ex-spezial-kollektion": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-obsidian-flammen-kp03-build-battle-stadion": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-top-trainer-box-paradoxrift-sv04": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-premium-kollektion-ogerpon-ex": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-kollektion-hops-zacian-ex": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-top-trainer-box-reisegefahrten-kp09": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-reisegefahrten-kp09": {
+      "a": false,
+      "p": false
+    },
+    "s-chn-pokemon-box-collect-151-card-stands": {
+      "a": true,
+      "p": false
+    },
+    "de-pokemon-box-vstar-premium-kollektion-ur-dialga-vstar-45416": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-vstar-premium-kollektion-ur-palkia-vstar": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-obsidian-flammen-kp03": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-boosterbundle-nebel-der-sagen-kp06-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-top-trainer-box-prismatische-entwicklungen-kp08-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-ordner-kollektion-prismatische-entwicklungen-kp08-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-poster-kollektion-prismatische-entwicklungen-kp08-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-tech-sticker-kollektion-prismatische-entwicklungen-kp08-5-folipurba-feelinara-glaziola": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-tin-karmesin-purpur-miraidon-koraidon": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-maskerade-im-zwielicht-kp06": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-gewalten-der-zeit-kp05": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-entwicklungen-in-paldea-kp02": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-paradoxrift-kp04": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-nebel-der-sagen-spezial-illustrations-kollektion-kingdra-ex-sv6-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-nebel-der-sagen-spezial-illustrations-kollektion-quajutsu-ex-sv6-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-blister-stuermische-funken-kp08": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-blister-paldeas-schicksale-sticker-kp4-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-blister-nebel-der-sagen-kp6-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-enigmara-premium-turnierkollektion": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-silberne-sturmwinde-swsh12-build-battle-stadion": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-box-zenit-der-k-nige-pin-kollektion-swsh12-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-top-trainer-box-maskerade-im-zwielicht-kp06": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-top-trainer-box-sturmische-funken-kp08": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-sturmische-funken-kp08": {
+      "a": false,
+      "p": false
+    },
+    "eng-pokemon-box-shrouded-fable-greninja-sv6-5": {
+      "a": false,
+      "p": false
+    },
+    "eng-pokemon-box-shrouded-kindra-ex-sv6-5": {
+      "a": false,
+      "p": false
+    },
+    "de-pokemon-display-karmesin-purpur-kp01": {
+      "a": false,
+      "p": false
+    },
+    "eng-pokemon-display-silver-tempest": {
+      "a": false,
+      "p": false
+    },
+    "eng-pokemon-display-paldea-evolved-sv02": {
+      "a": false,
+      "p": false
+    },
+    "eng-pokemon-display-obsidian-flames": {
       "a": false,
       "p": false
     }
@@ -9278,6 +9394,10 @@
     }
   },
   "PKMWinkel::ALL": {
+    "pokemon-30th-celebration-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-me05-pitch-black-booster-bundle": {
       "a": true,
       "p": false
