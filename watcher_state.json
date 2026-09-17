@@ -5823,7 +5823,7 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
@@ -5835,7 +5835,7 @@
       "p": false
     },
     "pokemon-zarude-2-pack-blister-dunkelnacht-wachsendes-chaos-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-krafte-tin-box-bundle-mega-zeraora-mega-dragoran-mega-darkrai-de": {
@@ -6000,6 +6000,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-top-trainer-box-30-jahre-mbe4": {
+      "a": false,
+      "p": true
+    },
     "pokemon-kartenbinder-30th-celebration": {
       "a": false,
       "p": true
@@ -11731,7 +11735,7 @@
   },
   "The TCG Shop UK::ALL": {
     "pokemon-tcg-30th-celebration-greninja-ex-box-copy": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-30th-celebration-greninja-ex-box": {
