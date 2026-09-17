@@ -485,7 +485,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-130-mega-dragoran-ex-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weltmeisterschaftsdeck-display-2025-deutsch": {
@@ -801,7 +801,7 @@
       "p": false
     },
     "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-abyss-eye-booster-pack-japanisch": {
@@ -985,7 +985,7 @@
       "p": false
     },
     "pokemon-storm-emerald-30er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
@@ -1800,6 +1800,18 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-ascended-heroes-mini-tin-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-erhabene-helden-mini-tin-display-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-151-mini-tin-display-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-reisegefahrten-boosterbundle-de": {
       "a": true,
       "p": false
@@ -6823,7 +6835,7 @@
       "p": false
     },
     "pokemon-mega-entwicklungen-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklungen-top-trainer-box-de": {
@@ -7809,7 +7821,7 @@
       "p": false
     },
     "pokemon-tcg-mega-moonlit-tin-mega-gengar-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-first-partner-deluxe-pin-collection": {
@@ -7953,7 +7965,7 @@
       "p": false
     },
     "pokemon-tcg-kanto-friends-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
