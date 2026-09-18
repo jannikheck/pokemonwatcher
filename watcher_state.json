@@ -4926,7 +4926,7 @@
       "a": true,
       "p": false
     },
-    "pokemon-maskerade-im-zwielicht-booster-de-kopie": {
+    "pokemon-maskerade-im-zwielicht-booster-de": {
       "a": true,
       "p": false
     },
@@ -4959,7 +4959,7 @@
       "p": true
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
@@ -4986,19 +4986,19 @@
       "a": true,
       "p": false
     },
-    "pokemon-fatale-flammen-booster-de-kopie": {
+    "pokemon-fatale-flammen-booster-de-1": {
       "a": true,
       "p": false
     },
-    "pokemon-collect-151-journey-slim-booster-s-chn-kopie": {
+    "pokemon-collect-151-journey-slim-booster-s-chn": {
       "a": true,
       "p": false
     },
-    "pokemon-collect-151-hope-slim-booster-s-chn-kopie": {
+    "pokemon-collect-151-hope-slim-booster-s-chn": {
       "a": true,
       "p": false
     },
-    "pokemon-collect-151-surprises-slim-booster-s-chn-kopie": {
+    "pokemon-collect-151-surprises-slim-booster-s-chn": {
       "a": true,
       "p": false
     },
@@ -5478,10 +5478,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-silver-tempest-sleeved-booster-display-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-csv6c-true-mystery-slim-display-s-chn": {
       "a": true,
       "p": false
@@ -5656,10 +5652,6 @@
     },
     "pokemon-paradox-rift-booster-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-booster-deutsch": {
-      "a": false,
       "p": false
     }
   },
@@ -9065,6 +9057,18 @@
     "pokemon-astral-radiance-3-pack-blister-sylveon": {
       "a": false,
       "p": false
+    },
+    "pokemon-astral-radiance-3-pack-blister-eevee": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-masks-of-ogerpon-premium-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box-iron-valiant": {
+      "a": false,
+      "p": false
     }
   },
   "Hobby Addicts::ALL": {
@@ -11401,7 +11405,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11537,7 +11541,7 @@
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-charizard-ex-special-collection": {
