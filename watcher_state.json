@@ -5243,7 +5243,7 @@
       "p": false
     },
     "pokemon-obsidian-flames-display-eng-1": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-csv9-5c-terastal-gathering-booster-s-chn": {
@@ -7441,7 +7441,7 @@
   },
   "TCGStore.se::ALL": {
     "pokemon-30th-celebration-premium-deck-set-jpn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-booster-box-jpn": {
@@ -9052,22 +9052,6 @@
     },
     "pokemon-scarlet-violet-black-bolt-booster-bundle": {
       "a": true,
-      "p": false
-    },
-    "pokemon-astral-radiance-3-pack-blister-sylveon": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-astral-radiance-3-pack-blister-eevee": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-masks-of-ogerpon-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-paradox-rift-elite-trainer-box-iron-valiant": {
-      "a": false,
       "p": false
     }
   },
@@ -11702,10 +11686,6 @@
     },
     "pokemon-jcc-pack-blister-3-boosters-ev10-rivalites-destinees-kangourex-zeblitz-1-aleatoire-fr": {
       "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-booster-box": {
-      "a": true,
       "p": false
     }
   },
