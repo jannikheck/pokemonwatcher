@@ -7197,7 +7197,7 @@
       "p": false
     },
     "30-anniversario-blister-2-buste-pokemon-tcg-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "bundle-zarude-blister-collezione-primi-compagni-davventura-serie-3-pokemon-tcg-ita": {
@@ -11340,10 +11340,6 @@
     }
   },
   "BESCARDS::ALL": {
-    "pokemon-30th-anniversary-booster-box-chinese-cn-kopie": {
-      "a": true,
-      "p": true
-    },
     "pokemon-perfect-order-3-pack-blister-chikorita": {
       "a": true,
       "p": false
@@ -11617,7 +11613,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
