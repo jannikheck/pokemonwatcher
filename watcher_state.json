@@ -1869,7 +1869,7 @@
       "p": false
     },
     "pokemon-fatale-flammen-pokemon-center-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sun-moon-elite-trainer-box-eng": {
@@ -2621,7 +2621,7 @@
       "p": false
     },
     "pokemon-mega-kangama-ex-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-glurak-tin-de": {
@@ -2665,7 +2665,7 @@
       "p": false
     },
     "pokemon-fatale-flammen-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ogerpon-premium-collection-eng": {
@@ -4195,7 +4195,7 @@
       "p": false
     },
     "pokemon-lost-origin-display-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-espeon-v-tin-englisch": {
@@ -5755,7 +5755,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
