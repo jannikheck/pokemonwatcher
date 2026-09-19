@@ -5046,14 +5046,6 @@
       "a": false,
       "p": true
     },
-    "pokemon-30th-celebration-tech-sticker-collection-lucario-eng-vorbestellung": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-eng-vorbestellung": {
-      "a": false,
-      "p": true
-    },
     "pokemon-30th-celebration-greninja-ex-box-eng": {
       "a": false,
       "p": true
@@ -5783,7 +5775,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
@@ -7445,7 +7437,7 @@
   },
   "TCGStore.se::ALL": {
     "pokemon-30th-celebration-premium-deck-set-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-booster-box-jpn": {
