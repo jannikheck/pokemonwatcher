@@ -5759,7 +5759,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
@@ -5775,7 +5775,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
