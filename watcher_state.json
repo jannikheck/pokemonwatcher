@@ -4918,6 +4918,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-first-partner-illustration-collection-series-3-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-perfect-order-booster-eng-1": {
       "a": true,
       "p": false
@@ -9391,7 +9395,7 @@
       "p": false
     },
     "pokemon-tcg-pitch-black-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-pitch-black-3-pack-booster-blister-binacle": {
