@@ -53,7 +53,7 @@
       "p": false
     },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-battle-academy-2022-en": {
@@ -409,7 +409,7 @@
       "p": false
     },
     "pokemon-30-jahre-2er-pack-blister-evoli-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
@@ -5966,7 +5966,7 @@
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-30-jahre-mbe4": {
       "a": false,
-      "p": true
+      "p": false
     },
     "pokemon-kartenbinder-30th-celebration": {
       "a": false,
@@ -11365,7 +11365,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-accessory-pouch-special-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-premium-figure-collection-box": {
