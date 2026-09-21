@@ -156,6 +156,30 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-battle-styles-v-strikers-empoleon-v-tin-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-battle-styles-v-strikers-tyranitar-v-tin-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-verborgenes-potenzial-galagladi-v-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-verborgenes-potenzial-giratina-v-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-glanzendes-schicksal-bellektro-v-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-glanzendes-schicksal-urgl-v-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-celebration-gift-box-espeon-ex-umbreon-ex-chinesisch": {
       "a": false,
       "p": false
@@ -409,7 +433,7 @@
       "p": false
     },
     "pokemon-30-jahre-2er-pack-blister-evoli-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
@@ -805,7 +829,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-pack-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-me01-lucario-top-trainer-box-deutsch": {
@@ -821,7 +845,7 @@
       "p": false
     },
     "pokemon-paradox-rift-maskerade-im-zwielicht-2-pack-blister-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ewige-rivalen-obsidian-flammen-2-pack-blister-deutsch": {
@@ -925,7 +949,7 @@
       "p": false
     },
     "pokemon-obsidianflammen-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-top-trainer-box-deutsch": {
@@ -941,7 +965,7 @@
       "p": false
     },
     "pokemon-sonne-mond-verborgenes-schicksal-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ewige-rivalen-top-trainer-box-deutsch": {
@@ -2065,7 +2089,7 @@
       "p": false
     },
     "pokemon-charizard-ex-ultra-premium-collection-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-display-eng": {
@@ -4194,10 +4218,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-lost-origin-display-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-espeon-v-tin-englisch": {
       "a": false,
       "p": false
@@ -4271,7 +4291,7 @@
       "p": false
     },
     "pokemon-crown-zenith-elite-trainer-box-etb-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-silver-tempest-stadium-box-build-battle-englische-version-en": {
@@ -4291,10 +4311,6 @@
       "p": false
     },
     "pokemon-mega-evolutions-display-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatische-entwicklungen-booster-bundle-display-sealed-deutsch": {
       "a": false,
       "p": false
     },
@@ -4918,6 +4934,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-ascended-heroes-booster-eng-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-first-partner-illustration-collection-series-3-eng": {
       "a": true,
       "p": false
@@ -5166,10 +5186,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-30th-celebration-booster-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30th-celebration-mini-tin-display-eng": {
       "a": false,
       "p": false
@@ -5380,10 +5396,6 @@
     },
     "pokemon-journey-together-booster-eng": {
       "a": true,
-      "p": false
-    },
-    "pokemon-ascended-heroes-booster-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-silver-tempest-sleeved-booster-eng": {
@@ -5759,7 +5771,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
@@ -5775,7 +5787,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
@@ -9547,7 +9559,7 @@
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-weavile": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-sneasel": {
@@ -11565,7 +11577,7 @@
       "p": false
     },
     "pokemon-crown-zenith-premium-figure-collection-1-willekeurige-variant": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-tin-1-willekeurige-variant": {
@@ -11573,7 +11585,7 @@
       "p": false
     },
     "pokemon-crown-zenith-unown-v-lugia-v-special-collection-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-pikachu-vmax-premium-collection": {
