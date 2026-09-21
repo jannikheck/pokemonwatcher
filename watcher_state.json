@@ -1567,7 +1567,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -4934,10 +4934,6 @@
     }
   },
   "FantasiaCards::ALL": {
-    "pokemon-30th-celebration-booster-eng": {
-      "a": true,
-      "p": false
-    },
     "pokemon-gem-pack-vol-4-display-s-chn": {
       "a": true,
       "p": false
@@ -11349,7 +11345,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-binder-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-poster-collection": {
@@ -11357,7 +11353,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-volume-4-booster-box-cn-1": {
