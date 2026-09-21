@@ -71,7 +71,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-top-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
@@ -4934,6 +4934,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-booster-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-gem-pack-vol-4-display-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-ascended-heroes-booster-eng-1": {
       "a": true,
       "p": false
@@ -5031,7 +5039,7 @@
       "p": false
     },
     "pokemon-crown-zenith-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-1-promo-booster-cn": {
@@ -5076,10 +5084,6 @@
     },
     "pokemon-30th-celebration-sylveon-ex-box-eng": {
       "a": false,
-      "p": true
-    },
-    "pokemon-30th-celebration-poster-collection-eng": {
-      "a": true,
       "p": true
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5475,7 +5479,7 @@
       "p": false
     },
     "pokemon-collect-151-dream-painting-figure-set-blind-box-s-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-obsidian-flames-booster-englisch-1": {
@@ -11336,6 +11340,30 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-30th-anniversary-celebration-5-pack-usa-tin-greninja-ex": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-tin": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-binder-collection": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-poster-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-gem-pack-volume-4-booster-box-cn-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-perfect-order-3-pack-blister-chikorita": {
       "a": true,
       "p": false
@@ -11365,7 +11393,7 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
@@ -11681,19 +11709,15 @@
       "p": false
     },
     "pokemon-gem-pack-volume-4-booster-box-cn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-volume-5-booster-box-cn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ionos-bellibolt-ex-premium-collection": {
       "a": true,
-      "p": false
-    },
-    "pokemon-jcc-pack-blister-3-boosters-ev10-rivalites-destinees-kangourex-zeblitz-1-aleatoire-fr": {
-      "a": false,
       "p": false
     }
   },
