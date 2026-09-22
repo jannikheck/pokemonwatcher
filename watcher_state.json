@@ -66,28 +66,32 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-tcg-30th-celebration-ultra-premium-collection-englisch-jetzt-vorbestellen": {
+      "a": true,
+      "p": true
+    },
     "pokemon-tcg-30th-celebration-tin-box-tag-deutsch-jetzt-vorbestellen-kopie": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-tin-box-tag-deutsch-jetzt-vorbestellen": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-ordner-kollektion-deutsch-jetzt-vorbestellen": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-poster-kollektion-deutsch-jetzt-vorbestellen": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-nachtara-ex-kampfdeck-deutsch-jetzt-vorbestellen": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-psiana-ex-kampfdeck-deutsch-jetzt-vorbestellen": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle-englisch": {
@@ -4954,6 +4958,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-booster-eng-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-vol-4-display-s-chn": {
       "a": true,
       "p": false
@@ -6635,7 +6643,7 @@
       "p": false
     },
     "pokemon-mega-dragoran-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-2-pack-blister-august-2026-de": {
@@ -11621,7 +11629,7 @@
       "p": false
     },
     "pokemon-crown-zenith-premium-figure-collection-1-willekeurige-variant": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-crown-zenith-tin-1-willekeurige-variant": {
@@ -11629,7 +11637,7 @@
       "p": false
     },
     "pokemon-crown-zenith-unown-v-lugia-v-special-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-crown-zenith-pikachu-vmax-premium-collection": {
