@@ -67,31 +67,31 @@
   },
   "Feenturm::ALL": {
     "pokemon-tcg-30th-celebration-ultra-premium-collection-englisch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-tin-box-tag-deutsch-jetzt-vorbestellen-kopie": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-tin-box-tag-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-ordner-kollektion-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-poster-kollektion-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-nachtara-ex-kampfdeck-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-psiana-ex-kampfdeck-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle-englisch": {
@@ -857,7 +857,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-pack-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-me01-lucario-top-trainer-box-deutsch": {
@@ -1897,7 +1897,7 @@
       "p": false
     },
     "pokemon-mega-quajutsu-ex-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-fliessender-angriff-wulaosu-v-box-de": {
@@ -5720,10 +5720,6 @@
       "a": false,
       "p": false
     },
-    "pok-mon-mystery-booster-bag": {
-      "a": false,
-      "p": false
-    },
     "pokemon-go-eevee-premium-collection-en": {
       "a": false,
       "p": false
@@ -7403,15 +7399,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7471,7 +7467,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
