@@ -5231,7 +5231,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
@@ -7202,12 +7202,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-sword-shield-astral-radiance-checklane-blister-pack-set-of-2": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-box": {
@@ -11271,7 +11267,7 @@
       "p": false
     },
     "pokemon-ex-battle-deck-tinkaton": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-journey-together-premium-checklane-blister-klinklang": {
@@ -11401,12 +11397,12 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-celebration-tin-greninja-ex": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-tech-sticker-lucario": {
       "a": false,
@@ -11417,12 +11413,12 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-ex-box-sylveon-ex": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-celebration-ex-box-greninja-ex": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-celebration-2-booster-blister-eevee": {
       "a": true,
@@ -11441,12 +11437,12 @@
       "p": true
     },
     "pokemon-30th-anniversary-celebration-poster-collection": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-gem-pack-volume-4-booster-box-cn-1": {
       "a": true,
