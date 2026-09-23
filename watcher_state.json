@@ -53,7 +53,7 @@
       "p": false
     },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-battle-academy-2022-en": {
@@ -705,7 +705,7 @@
       "p": false
     },
     "pokemon-evoli-entwicklungen-blitza-v-tin-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sturmische-funken-booster-display-deutsch": {
@@ -1595,7 +1595,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -5806,6 +5806,18 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30-jahre-tech-sticker-kollektion-deutsch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-tin-box-tag-feelinara-ex-deutsch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
       "a": false,
       "p": false
@@ -5859,7 +5871,7 @@
       "p": false
     },
     "pokemon-me05-dunkelnacht-booster-display-36-booster-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
@@ -7203,7 +7215,7 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-box": {
