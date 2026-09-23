@@ -6630,6 +6630,34 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30-jahre-top-trainer-box-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-2-pack-blister-30-jahre-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tech-sticker-kollektion-30-jahre-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-feelinara-ex-kollektion-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-nacht-tin-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-tin-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-zeraora-tin-de": {
       "a": true,
       "p": false
@@ -8690,14 +8718,6 @@
     },
     "pokemon-sword-shield-12-silver-tempest-premium-checklane-blister-pack-magnezone": {
       "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-3-obsidian-flames-premium-checklane-blister-pack-kingambit": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-premium-checklane-blister-pack-machamp": {
-      "a": false,
       "p": false
     }
   },
