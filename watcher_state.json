@@ -1041,7 +1041,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
@@ -2097,7 +2097,7 @@
       "p": false
     },
     "pokemon-pitch-black-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-elite-trainer-box": {
@@ -2245,7 +2245,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-mega-meganie-ex-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-optimale-ordnung-3-pack-blister-de": {
@@ -4210,6 +4210,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-phantasmal-flames-display-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-pokemon-coin-set-terastal-grand-gathering-csv9-5-live-boxbreak-chris": {
       "a": true,
       "p": false
@@ -4231,7 +4235,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-display-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-elite-trainer-box-englisch": {
@@ -4323,7 +4327,7 @@
       "p": false
     },
     "pokemon-destined-rivals-display-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolution-elite-trainer-box-etb-englische-version-en": {
@@ -4345,7 +4349,7 @@
   },
   "God of Cards::ALL": {
     "pokemon-vmax-gift-box-blitza-binder": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-vmax-gift-box-flamara-binder": {
@@ -4958,6 +4962,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-paldea-evolved-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-twilight-masquerade-display-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-booster-eng-1": {
       "a": true,
       "p": false
@@ -7207,7 +7219,7 @@
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -7500,6 +7512,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-tcg-first-partner-illustration-collection-series-2": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-premium-deck-set-jpn": {
       "a": true,
       "p": false
@@ -8714,10 +8730,6 @@
     },
     "pokemon-sword-shield-10-astral-radiance-premium-checklane-blister-pack-feraligatr": {
       "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-12-silver-tempest-premium-checklane-blister-pack-magnezone": {
-      "a": true,
       "p": false
     }
   },
@@ -11380,6 +11392,42 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-30th-anniversary-mini-tin": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-booster-bundle": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-celebration-tin-greninja-ex": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-tech-sticker-lucario": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-tech-sticker-alolan-exeggutor": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-collection-ex-box-sylveon-ex": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-ex-box-greninja-ex": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-2-booster-blister-eevee": {
+      "a": true,
+      "p": true
+    },
     "pokemon-30th-anniversary-celebration-5-pack-usa-tin-greninja-ex": {
       "a": false,
       "p": false
@@ -11389,8 +11437,8 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-binder-collection": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-celebration-poster-collection": {
       "a": false,
@@ -11753,10 +11801,6 @@
       "p": false
     },
     "pokemon-gem-pack-volume-5-booster-box-cn": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-ionos-bellibolt-ex-premium-collection": {
       "a": true,
       "p": false
     }
