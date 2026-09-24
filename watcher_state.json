@@ -269,7 +269,7 @@
       "p": false
     },
     "pokemon-journey-together-booster-bundle-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
@@ -4357,11 +4357,11 @@
       "p": false
     },
     "pokemon-paldea-trainer-battle-box-display-10-boxen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-paldea-trainer-keychain-box-display-10-boxen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3": {
@@ -6651,7 +6651,7 @@
   },
   "Cardcorner::ALL": {
     "pokemon-30th-celebration-binder-collection-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-en": {
@@ -6663,7 +6663,7 @@
       "p": false
     },
     "pokemon-30th-celebration-tin-night-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-sylveon-ex-kollektion-en": {
@@ -11541,7 +11541,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
