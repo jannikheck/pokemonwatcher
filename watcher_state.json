@@ -5131,7 +5131,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -6675,7 +6675,7 @@
       "p": false
     },
     "pokemon-30th-celebration-tin-day-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-tin-night-en": {
@@ -6683,11 +6683,11 @@
       "p": false
     },
     "pokemon-30-jahre-sylveon-ex-kollektion-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-greninja-ex-kollektion-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
@@ -11745,7 +11745,7 @@
       "p": false
     },
     "pokemon-crown-zenith-unown-v-lugia-v-special-collection-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-pikachu-vmax-premium-collection": {
