@@ -4962,6 +4962,26 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-sylveon-ex-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-greninja-ex-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-reisegefahrten-display-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-elite-trainer-box-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-karmesin-purpur-booster-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paldea-evolved-display-eng": {
       "a": true,
       "p": false
@@ -5024,7 +5044,7 @@
     },
     "pokemon-30th-celebration-coin-set-s-chn-vorbestellung-versand-ende-september-2026-kopie": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
       "a": false,
@@ -5032,11 +5052,11 @@
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
       "a": true,
@@ -5112,14 +5132,6 @@
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
       "a": true,
-      "p": true
-    },
-    "pokemon-30th-celebration-greninja-ex-box-eng": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-30th-celebration-sylveon-ex-box-eng": {
-      "a": false,
       "p": true
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5687,7 +5699,7 @@
       "p": false
     },
     "pokemon-reisegefahrten-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-collect-151-journey-slim-display-cn": {
@@ -5802,16 +5814,20 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30-jahre-tag-nacht-tin-bundle-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-tech-sticker-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-box-tag-feelinara-ex-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
@@ -5819,11 +5835,11 @@
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
@@ -5875,7 +5891,7 @@
       "p": false
     },
     "pokemon-pitch-black-booster-display-36-booster-en-major-cards-tcg": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-elite-trainer-box-en-mega-entwicklung-major-cards-tcg": {
