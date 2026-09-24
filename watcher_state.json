@@ -5230,10 +5230,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-30th-celebration-elite-trainer-box-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30-jahre-top-trainer-box-eng": {
       "a": false,
       "p": false
@@ -6654,6 +6650,30 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30th-celebration-binder-collection-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-poster-collection-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-tin-day-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-tin-night-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-sylveon-ex-kollektion-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-greninja-ex-kollektion-en": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-top-trainer-box-de": {
       "a": false,
       "p": false
@@ -6663,7 +6683,7 @@
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
@@ -6675,11 +6695,11 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -8673,7 +8693,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-3-obsidian-flames-3-pack-blister-eevee": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mystery-box-1": {
@@ -11815,7 +11835,7 @@
   },
   "The TCG Shop UK::ALL": {
     "pokemon-tcg-30th-celebration-greninja-ex-box-copy": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-30th-celebration-greninja-ex-box": {
