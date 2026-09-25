@@ -1,9 +1,5 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-karmesin-purpur-briduradon-2-pack-blister-de": {
       "a": true,
       "p": false
@@ -50,10 +46,6 @@
     },
     "pokemon-tcg-mega-quajutsu-ex-premium-kollektion-de-limit-1-person": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
-      "a": false,
       "p": false
     },
     "pokemon-tcg-battle-academy-2022-en": {
@@ -2001,7 +1993,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2026-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-expansion-premium-checklane-blister-eng": {
@@ -2385,7 +2377,7 @@
       "p": false
     },
     "pokemon-schwert-schild-elite-trainer-box-plus-zacian-de-b-ware": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-kampfbox-bisaflor-vmax-de": {
@@ -4369,7 +4361,7 @@
       "p": false
     },
     "pokemon-world-championships-deck-2023-display-8-decks": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-elite-trainer-box": {
@@ -4958,6 +4950,30 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-phantasmal-flames-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-poster-collection-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-white-flare-elite-trainer-box-eng-1": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-phantasmal-flames-elite-trainer-box-eng-1": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-151-binder-collection-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-black-bolt-white-flare-unova-victini-illustration-collection-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-sylveon-ex-tin-eng": {
       "a": true,
       "p": false
@@ -5128,7 +5144,7 @@
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
       "a": false,
-      "p": true
+      "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
       "a": true,
@@ -5231,7 +5247,7 @@
       "p": false
     },
     "pokemon-30-jahre-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-display-eng": {
@@ -5239,7 +5255,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-ultra-premium-collection-espeon-eng": {
@@ -5283,7 +5299,7 @@
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-journey-together-display-eng": {
@@ -5367,7 +5383,7 @@
       "p": false
     },
     "pokemon-phantasmal-flames-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-verlorener-ursprung-booster-deutsch": {
@@ -11494,7 +11510,7 @@
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
       "a": true,
-      "p": false
+      "p": true
     },
     "pokemon-gem-pack-volume-4-booster-box-cn-1": {
       "a": true,
