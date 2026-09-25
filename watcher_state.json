@@ -1547,7 +1547,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-latias-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-ultra-premium-kollektion-mega-glurak-x-ex-2-holografische-promokarten-18-boosterpacks-premium-zubehor": {
@@ -5067,7 +5067,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -5143,7 +5143,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5851,7 +5851,7 @@
       "p": false
     },
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
@@ -5859,7 +5859,7 @@
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
@@ -5879,11 +5879,11 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-36er-booster-display-de": {
@@ -5959,7 +5959,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-flambirex-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-meganie-ex-kollektion-de": {
