@@ -90,10 +90,6 @@
       "a": false,
       "p": true
     },
-    "pokemon-tcg-30th-celebration-psiana-ex-kampfdeck-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
     "pokemon-mega-evolution-pitch-black-booster-bundle-englisch": {
       "a": true,
       "p": false
@@ -853,7 +849,7 @@
       "p": false
     },
     "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-abyss-eye-booster-pack-japanisch": {
@@ -2857,7 +2853,7 @@
       "p": false
     },
     "pokemon-tag-kollektion-2026-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-tech-sticker-kollektion-de": {
@@ -4353,7 +4349,7 @@
       "p": false
     },
     "pokemon-vmax-gift-box-flamara-binder": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-paldea-trainer-battle-box-display-10-boxen": {
@@ -4369,31 +4365,31 @@
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-x-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-world-championships-deck-2023-display-8-decks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tin-box-team-rockets-mewtu-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-display": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tin-box-team-rockets-snobilikat": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tin-box-team-rockets-nidoking-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-display1": {
@@ -5051,7 +5047,7 @@
       "p": true
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
@@ -5712,6 +5708,14 @@
     }
   },
   "CardBuddies::ALL": {
+    "acryl-case-f-r-pokemon-super-premium-collection-prismatic-evolution": {
+      "a": false,
+      "p": false
+    },
+    "30-jahre-tech-sticker-kollektion": {
+      "a": false,
+      "p": false
+    },
     "pok-mon-mystery-slab-bag": {
       "a": false,
       "p": false
@@ -5839,7 +5843,7 @@
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
@@ -6711,11 +6715,11 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -7565,7 +7569,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-box-jpn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-inferno-x-booster-box-koreansk": {
@@ -8225,7 +8229,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-binder-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-white-flare-unova-poster-collection": {
@@ -11490,7 +11494,7 @@
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-gem-pack-volume-4-booster-box-cn-1": {
       "a": true,
