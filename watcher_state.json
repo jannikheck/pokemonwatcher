@@ -5834,6 +5834,14 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30-jahre-poster-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-ordner-kollektion-deutsch-1": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-tag-nacht-tin-bundle-deutsch": {
       "a": false,
       "p": false
@@ -6691,7 +6699,7 @@
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-tin-day-en": {
@@ -7256,6 +7264,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-mega-evolution-pitch-black-pokemon-center-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-ascended-heroes-focused-fighters-premium-collection": {
       "a": false,
       "p": false
@@ -7425,7 +7437,7 @@
       "p": false
     },
     "mega-evolution-perfect-order-booster-display-da-36-bustine-pokemon-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "megaevoluzione-equilibrio-perfetto-confezione-di-buste-6-bustine-pokemon-ita": {
