@@ -965,7 +965,7 @@
       "p": false
     },
     "pokemon-obsidianflammen-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-top-trainer-box-deutsch": {
@@ -11473,8 +11473,8 @@
       "p": false
     },
     "pokemon-30th-anniversary-booster-bundle": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
       "a": true,
