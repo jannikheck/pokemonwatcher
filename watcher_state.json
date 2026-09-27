@@ -2237,7 +2237,7 @@
       "p": false
     },
     "pokemon-paldeas-freunde-mini-tin-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erhabene-helden-boosterbundle-de": {
@@ -3889,7 +3889,7 @@
       "p": false
     },
     "pokemon-tin-box-koraidon-miraidon-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-surprise-box-collection-box-eng": {
@@ -5031,7 +5031,7 @@
       "p": true
     },
     "pokemon-30th-celebration-coin-set-s-chn-vorbestellung-versand-ende-september-2026-kopie": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
@@ -6045,7 +6045,7 @@
       "p": false
     },
     "pokemon-kartenbinder-30th-celebration": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "de-pokemon-kampfdecks": {
@@ -11661,7 +11661,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
