@@ -1515,7 +1515,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-kangama-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-lucario-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -4979,7 +4979,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-eng-1": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-4-display-s-chn": {
@@ -5208,10 +5208,6 @@
     },
     "pokemon-blue-sky-stream-booster-kor": {
       "a": true,
-      "p": false
-    },
-    "pokemon-battle-styles-booster-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
@@ -5476,10 +5472,6 @@
     },
     "pokemon-verborgenes-schicksal-booster-de": {
       "a": true,
-      "p": false
-    },
-    "pokemon-silberne-sturmwinde-booster-deutsch-1": {
-      "a": false,
       "p": false
     },
     "pokemon-obsidian-flammen-booster-deutsch": {
@@ -5887,7 +5879,7 @@
       "p": false
     },
     "pokemon-me05-dunkelnacht-booster-display-36-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
@@ -11565,7 +11557,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
