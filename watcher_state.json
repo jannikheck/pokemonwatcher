@@ -817,7 +817,7 @@
       "p": false
     },
     "pokemon-prismatische-entwicklungen-super-premium-kollektion-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-nacht-in-flammen-booster-display-box-deutsch": {
@@ -7266,20 +7266,8 @@
     }
   },
   "TCG Stadium::ALL": {
-    "prismatic-evolutions-poster-collection": {
-      "a": false,
-      "p": false
-    },
     "6-piece-pokemon-collection-pikachu-pen-holder-anime-action-figures-perfect-toy-gift-set": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-sv10-destined-rivals-elite-trainer": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-sv10-destined-rivals-booster-box": {
-      "a": false,
       "p": false
     },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
@@ -8245,7 +8233,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-binder-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-binder-collection": {
@@ -8577,7 +8565,7 @@
       "p": false
     },
     "pokemon-tcg-terapagos-ex-ultra-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-paldea-evolved-build-battle-stadium-box": {
@@ -11677,7 +11665,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
@@ -11793,7 +11781,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
