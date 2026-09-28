@@ -1,7 +1,7 @@
 {
   "TCGViert::ALL": {
     "pokemon-tcg-karmesin-purpur-briduradon-2-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-premium-tournament-collection-lillie-en": {
@@ -148,6 +148,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-paldeas-schicksale-tech-sticker-kollektion-gruff-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-paldeas-schicksale-tech-sticker-kollektion-mobtiff-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-paldeas-schicksale-tech-sticker-kollektion-hefel-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-celebration-binder-collection-englisch": {
       "a": false,
       "p": false
@@ -205,7 +217,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-glurak-y-tin-box-127-de": {
@@ -309,7 +321,7 @@
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-booster-bundle-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-7-booster-box-chinesich": {
@@ -541,7 +553,7 @@
       "p": false
     },
     "pokemon-abyss-eye-jpn-bundle-mit-9-pocket-binder-lila": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-optimale-ordnung-booster-display-deutsch": {
@@ -825,7 +837,7 @@
       "p": false
     },
     "pokemon-pikachu-v-union-card-frame-collection-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
@@ -1021,7 +1033,7 @@
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ninja-spinner-booster-display-koreanisch": {
@@ -1077,7 +1089,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-3-booster-box-chinesich-sammler-edition": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-2-booster-box-chinesisch-sammler-edition": {
@@ -5035,12 +5047,12 @@
       "p": false
     },
     "pokemon-30th-celebration-card-display-set-sylveon-ex-s-chn-vorbestellung-release-ende-september-2026-kopie": {
-      "a": true,
-      "p": true
+      "a": false,
+      "p": false
     },
     "pokemon-30th-celebration-card-display-set-quajutsu-ex-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
-      "p": true
+      "a": false,
+      "p": false
     },
     "pokemon-30th-celebration-coin-set-s-chn-vorbestellung-versand-ende-september-2026-kopie": {
       "a": false,
@@ -5227,18 +5239,14 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30-jahre-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-display-eng": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-top-trainer-box-eng": {
       "a": false,
       "p": false
     },
@@ -7244,6 +7252,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-deck-crafters-collection-meowth-ex": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-pitch-black-pokemon-center-elite-trainer-box": {
       "a": false,
       "p": false
@@ -7577,7 +7589,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-box-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-inferno-x-booster-box-koreansk": {
@@ -11465,12 +11477,12 @@
       "p": true
     },
     "pokemon-30th-anniversary-tech-sticker-lucario": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-tech-sticker-alolan-exeggutor": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-collection-ex-box-sylveon-ex": {
       "a": true,
@@ -11537,8 +11549,8 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-lost-origin-elite-trainer-box": {
       "a": true,
@@ -11702,7 +11714,7 @@
     },
     "pokemon-chaos-rising-booster-box": {
       "a": true,
-      "p": false
+      "p": true
     },
     "pokemon-chaos-rising-elite-trainer-box": {
       "a": false,
@@ -11862,6 +11874,18 @@
     }
   },
   "The TCG Shop UK::ALL": {
+    "pokemon-tcg-30th-celebration-booster-bundle": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-mini-tin": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-tech-sticker-collection": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-greninja-ex-box-copy": {
       "a": false,
       "p": false
