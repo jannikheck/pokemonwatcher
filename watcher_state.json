@@ -4927,7 +4927,7 @@
   },
   "FantasiaCards::ALL": {
     "pokemon-phantasmal-flames-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-eng": {
