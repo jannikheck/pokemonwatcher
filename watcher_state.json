@@ -148,6 +148,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-celebration-binder-collection-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-2-pack-blister-evoli-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-elite-trainer-box-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-battle-styles-v-strikers-empoleon-v-tin-englisch": {
       "a": false,
       "p": false
@@ -6943,7 +6955,7 @@
       "p": false
     },
     "pokemon-mega-entwicklungen-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklungen-top-trainer-box-de": {
