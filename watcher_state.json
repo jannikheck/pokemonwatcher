@@ -2869,7 +2869,7 @@
       "p": false
     },
     "pokemon-glanzendes-schicksal-pikachu-v-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-charizard-ultra-premium-collection-eng": {
@@ -3985,7 +3985,7 @@
       "p": false
     },
     "pokemon-reisegefaehrten-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-kp8-5-prismatische-entwicklungen-binder-collection-de": {
@@ -4950,6 +4950,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
+      "a": false,
+      "p": false
+    },
     "pokemon-phantasmal-flames-display-eng": {
       "a": false,
       "p": false
@@ -7276,6 +7280,30 @@
     }
   },
   "Otakura::ALL": {
+    "30th-celebration-bundle-2-ex-tin-sylveon-greninja-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
+    "30th-celebration-elite-trainer-box-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
+    "30th-celebration-ex-tin-greninja-ex-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
+    "30th-celebration-ex-tin-sylveon-ex-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
+    "30th-celebration-binder-collection-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
+    "30th-celebration-poster-collection-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tin-da-collezione-megaforze-ita": {
       "a": true,
       "p": false
@@ -8781,7 +8809,7 @@
       "p": false
     },
     "pokemon-sword-shield-11-lost-origin-premium-checklane-blister-infernape": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
