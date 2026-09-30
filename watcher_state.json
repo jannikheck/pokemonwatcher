@@ -417,7 +417,7 @@
       "p": false
     },
     "pokemon-s-v-white-flare-booster-bundle-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
@@ -1836,6 +1836,42 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-wachsendes-chaos-18er-display-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-destined-rivals-sleeved-booster-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-lucario-vstar-premium-collection-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-galar-partners-tin": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-v-heroes-tins-umbreon-v-tin": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-v-heroes-tins-espeon-v-tin": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-v-heroes-tins-sylveon-v-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-v-powers-tins-eevee-v-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-kampfstile-3-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-ascended-heroes-mini-tin-display-eng": {
       "a": true,
       "p": false
@@ -5038,10 +5074,6 @@
       "a": true,
       "p": true
     },
-    "pokemon-30th-celebration-futuristic-box-s-chn-vorbestellung-versand-anfang-oktober-2026": {
-      "a": true,
-      "p": true
-    },
     "pokemon-30th-anniversary-first-partner-card-set-bundle-s-chn": {
       "a": true,
       "p": false
@@ -5139,7 +5171,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -6048,10 +6080,6 @@
     }
   },
   "YONKO TCG::ALL": {
-    "de-pokemon-top-trainer-box-30-jahre-mbe4": {
-      "a": false,
-      "p": false
-    },
     "pokemon-kartenbinder-30th-celebration": {
       "a": true,
       "p": true
@@ -6723,7 +6751,7 @@
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
