@@ -1,9 +1,5 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-karmesin-purpur-briduradon-2-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-premium-tournament-collection-lillie-en": {
       "a": false,
       "p": false
@@ -265,11 +261,11 @@
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-storm-emeralda-m6f-booster-display-chinesisch": {
@@ -1025,7 +1021,7 @@
       "p": false
     },
     "pokemon-storm-emerald-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
@@ -1571,7 +1567,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-meganie-psiaugon-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-impergator-knospi-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -5203,7 +5199,7 @@
       "p": false
     },
     "pokemon-german-booster-bundle-ewige-rivalen-reisegefahrten-wachsendes-chaos-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ultra-booster-bundle-sword-shield-era-eng-1": {
@@ -5487,7 +5483,7 @@
       "p": false
     },
     "pokemon-white-flare-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-verborgenes-schicksal-booster-de": {
@@ -6682,6 +6678,10 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30-jahre-poster-kollektion-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-binder-collection-en": {
       "a": false,
       "p": false
@@ -6711,27 +6711,27 @@
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -7865,7 +7865,7 @@
       "p": false
     },
     "pokemon-mega-dream-ex-booster-box-japansk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-inferno-x-booster-box-japansk": {
@@ -11593,7 +11593,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
