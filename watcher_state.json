@@ -685,7 +685,7 @@
       "p": false
     },
     "pokemon-evoli-entwicklungen-aquana-v-tin-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-evoli-entwicklungen-blitza-v-tin-box-deutsch": {
@@ -1423,7 +1423,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-illustrations-kollektion-erste-partner-serie-1-3-promokarten-2-boosterpacks-und-1-stickerbogen": {
@@ -2809,7 +2809,7 @@
       "p": false
     },
     "pokemon-phantasmal-flames-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-armarouge-ex-premium-collection-eng": {
@@ -11629,7 +11629,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
