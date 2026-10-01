@@ -165,11 +165,11 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-evoli-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-battle-styles-v-strikers-empoleon-v-tin-englisch": {
@@ -1699,7 +1699,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-me03-top-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario": {
@@ -2301,7 +2301,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weg-des-champs-mary-special-kollektion-de": {
@@ -4986,6 +4986,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-binder-collection-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
       "a": false,
       "p": false
@@ -5171,7 +5175,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5475,7 +5479,7 @@
       "p": false
     },
     "pokemon-journey-together-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-silver-tempest-sleeved-booster-eng": {
@@ -5851,7 +5855,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch-1": {
@@ -11479,7 +11483,7 @@
       "p": false
     },
     "pokemon-sword-shield-battle-styles-3-pack-blister-eevee": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-trainers-toolkit-2021": {
@@ -11526,11 +11530,11 @@
     },
     "pokemon-30th-anniversary-collection-ex-box-sylveon-ex": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-celebration-ex-box-greninja-ex": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-celebration-2-booster-blister-eevee": {
       "a": true,
