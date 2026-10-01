@@ -11753,8 +11753,8 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-chaos-rising-elite-trainer-box": {
       "a": false,
