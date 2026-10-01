@@ -144,6 +144,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-first-partner-illustration-collection-series-3-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paldeas-schicksale-tech-sticker-kollektion-gruff-deutsch": {
       "a": false,
       "p": false
@@ -257,7 +261,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
@@ -1021,7 +1025,7 @@
       "p": false
     },
     "pokemon-storm-emerald-30er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
@@ -1695,7 +1699,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-me03-top-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario": {
@@ -3593,7 +3597,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-kp10-5-top-trainer-box-de": {
@@ -5064,7 +5068,7 @@
     },
     "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-celebration-charizard-collectors-box-s-chn-vorbestellung-versand-ende-september-2026": {
       "a": true,
@@ -5167,7 +5171,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5267,7 +5271,7 @@
       "p": true
     },
     "pokemon-30-jahre-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-display-eng": {
@@ -6795,7 +6799,7 @@
       "p": false
     },
     "pokemon-mega-quajutsu-ex-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2026-de": {
@@ -11506,11 +11510,11 @@
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-greninja-ex": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-anniversary-tech-sticker-lucario": {
       "a": true,
@@ -11530,7 +11534,7 @@
     },
     "pokemon-30th-celebration-2-booster-blister-eevee": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-anniversary-celebration-5-pack-usa-tin-greninja-ex": {
       "a": false,
@@ -11550,7 +11554,7 @@
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-gem-pack-volume-4-booster-box-cn-1": {
       "a": true,
