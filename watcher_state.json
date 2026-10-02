@@ -1579,7 +1579,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-galagladi-viscora-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1699,7 +1699,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-me03-top-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario": {
@@ -6710,6 +6710,14 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30-jahre-mini-tin-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-booster-bundle-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-poster-kollektion-de": {
       "a": true,
       "p": false
@@ -6759,7 +6767,7 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
