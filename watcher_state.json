@@ -148,22 +148,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-paldeas-schicksale-tech-sticker-kollektion-gruff-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-paldeas-schicksale-tech-sticker-kollektion-mobtiff-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-paldeas-schicksale-tech-sticker-kollektion-hefel-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-binder-collection-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30th-celebration-2-pack-blister-evoli-englisch": {
       "a": true,
       "p": false
@@ -212,10 +196,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
       "a": false,
       "p": false
@@ -238,42 +218,6 @@
     },
     "pokemon-25th-anniversary-collection-box-jpn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-ascended-heroes-mega-emboar-ex-tin-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ascended-heroes-mega-feraligatr-ex-tin-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ascended-heroes-mega-meganium-ex-tin-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-evolution-perfect-order-booster-bundle-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-journey-together-booster-bundle-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-storm-emeralda-m6f-booster-display-chinesisch": {
-      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-englisch": {
@@ -320,10 +264,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-mega-evolution-ascended-heroes-booster-bundle-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-gem-pack-vol-7-booster-box-chinesich": {
       "a": false,
       "p": false
@@ -360,108 +300,12 @@
       "a": true,
       "p": false
     },
-    "pokemon-mewtu-v-union-binder-box-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-quajutsu-v-union-binder-box-chinesisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-brilliant-illusions-csv8c-slim-display-chinesisch": {
       "a": true,
       "p": false
     },
-    "pokemon-30-jahre-kampfdeck-psiana-ex-victini-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-mew-figuren-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-mewtu-figuren-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-ditto-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-ultra-premium-kollektion-nacht-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-ultra-premium-kollektion-tag-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-mini-tin-box-zufaellige-variante-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-umbreon-frame-collection-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mew-frame-collection-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-maskerade-im-zwielicht-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-black-bolt-booster-bundle-englisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-s-v-white-flare-booster-bundle-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-ordner-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-tech-sticker-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-tin-box-tag-feelinara-ex-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-2er-pack-blister-evoli-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-dunkelnacht-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-dunkelnacht-top-trainer-box-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-chasing-glory-csv10c-jumbo-booster-display-chinesisch": {
@@ -470,10 +314,6 @@
     },
     "pokemon-chasing-glory-csv10c-slim-booster-display-chinesisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-stellar-crystal-csv9c-jumbo-booster-display-chinesisch": {
-      "a": false,
       "p": false
     },
     "pokemon-terastal-grand-gathering-badge-set-chinesisch": {
@@ -508,10 +348,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-mega-quajutsu-ex-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-enhanced-2-pack-blister-zarude-deutsch": {
       "a": true,
       "p": false
@@ -524,16 +360,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-tin-box-130-mega-dragoran-ex-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-weltmeisterschaftsdeck-display-2025-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-erste-partner-illustration-kollektion-box-serie-3-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-terastal-gathering-tin-box-csv9-5-chinesisch-zufalliges-design": {
@@ -548,214 +376,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-celebrations-ultra-premium-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-abyss-eye-jpn-bundle-mit-9-pocket-binder-lila": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-optimale-ordnung-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-go-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-blissey-tin-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-team-r-snobilikat-ex-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-team-r-mewtu-ex-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-team-r-nidoking-ex-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weg-des-champs-mary-spezial-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schwarze-blitze-ordner-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-snorlax-tin-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-pikachu-tin-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weisse-flammen-ordner-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-fates-boltund-v-tin-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-infernape-v-showcase-collection-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-fates-cramorant-v-tin-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-galarian-rapidash-v-kollektion-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-fates-eldegoss-v-tin-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-prime-collection-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-build-battle-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weg-des-champs-zwollock-v-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-v-power-endynalos-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatische-entwicklungen-prem-figuren-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-reisegefahrten-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-infernape-v-kollektion-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-drachenwandel-top-trainer-box-segv-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-verborgenes-potenzial-rotom-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-miraidon-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-koraidon-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-v-power-pikachu-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-v-power-evoli-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weg-des-champs-passbeck-arena-spezial-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-obsidianflammen-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-evoli-entwicklungen-flamara-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-evoli-entwicklungen-aquana-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-evoli-entwicklungen-blitza-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sturmische-funken-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-pikachu-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-morpeko-v-union-premium-spielunterlagen-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-heiteira-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-me-fatale-flammen-booster-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weg-des-champs-claw-city-arena-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schw-schi-astralglanz-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glanzendes-schicksal-cottomi-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-spezial-kollektion-team-intuition-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-booster-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-relaxo-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-ultra-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-fatale-flammen-18er-booster-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-151-blooming-waters-premium-collection-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-weg-des-champs-fairballey-arena-pin-kollektion-deutsch": {
       "a": true,
       "p": false
@@ -764,156 +384,32 @@
       "a": true,
       "p": false
     },
-    "pokemon-schwert-schild-glurak-ultra-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-spezial-kollektion-team-weisheit-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-spezial-kollektion-team-wagemut-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-premium-kollektion-strahlendes-evoli-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-strahlende-sterne-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-trading-card-game-classic-box-set-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-flammende-finsternis-top-trainer-box-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-drachenwandel-top-trainer-box-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-fusionsangriff-booster-display-deutsch": {
       "a": true,
       "p": false
     },
-    "pokemon-drachenwandel-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-deluxe-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-verlorener-ursprung-build-battle-stadion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-151-poster-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatische-entwicklungen-super-premium-kollektion-box-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-nacht-in-flammen-booster-display-box-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-151-ultra-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-xy-evolution-display-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-pikachu-v-union-card-frame-collection-box-chinesisch": {
       "a": true,
       "p": false
     },
-    "pokemon-dragon-boat-festival-gift-box-2026-chinesisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-abyss-eye-booster-pack-japanisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-me01-lucario-top-trainer-box-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display-englisch": {
       "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-obsidianflammen-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-paradox-rift-maskerade-im-zwielicht-2-pack-blister-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-ewige-rivalen-obsidian-flammen-2-pack-blister-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-prismatische-entwicklungen-uberraschungs-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schillerndes-katapuldra-vmax-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ewige-rivalen-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-glurak-x-ex-ultra-premium-kollektion-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-charizard-ultra-premium-collection-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-kampf-akademie-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-viridium-v-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-panferno-v-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-hisui-zoroark-vstar-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ur-palkia-vstar-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ur-dialga-vstar-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-dragoran-v-kollektion-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-151-ordner-kollektion-deutsch": {
@@ -932,92 +428,12 @@
       "a": true,
       "p": false
     },
-    "pokemon-glurak-ex-spezial-kollektion-mit-promo-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weg-des-champs-spezial-pin-kollektion-circhester-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-pikachu-v-union-spezial-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glurak-super-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-flammende-finsternis-clash-der-rebellen-2-pack-blister-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-go-dragoran-vstar-premier-deckhalter-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatische-entwicklungen-ordner-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-vivid-voltage-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-obsidianflammen-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-151-top-trainer-box-deutsch": {
       "a": true,
       "p": false
     },
-    "pokemon-schwert-schild-astralglanz-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sonne-mond-verborgenes-schicksal-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ewige-rivalen-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-sturmische-funken-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-gem-pack-badge-set-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-dunkelnacht-3-pack-blister-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-enhanced-marz-2026-2-pack-blister-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-dunkelnacht-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-center-special-box-set-tohoku-japanisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-5-booster-box-chinesisch-sammler-edition": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-erhabene-helden-mega-impergator-ex-kollektion-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-storm-emerald-booster-display-koreanisch": {
@@ -1028,14 +444,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-abyss-eye-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-abyss-eye-30er-display-japanisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-ninja-spinner-booster-display-koreanisch": {
       "a": true,
       "p": false
@@ -1044,384 +452,224 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-prismatische-entwicklungen-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schwarze-blitze-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weisse-flammen-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-151-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schwert-schild-silberne-sturmwinde-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-verlorener-ursprung-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-elite-trainer-box-pokemon-center-edition-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-destined-rivals-elite-trainer-box-pokemon-center-edition-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-nebel-der-sagen-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-gem-pack-vol-4-booster-box-chinesisch-sammler-edition": {
       "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-3-booster-box-chinesich-sammler-edition": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-2-booster-box-chinesisch-sammler-edition": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-1-booster-box-chinesisch-sammler-edition": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-evoli-schlusselanhanger-mystery-box-nine-colors-gathering-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-trainer-collection-gift-box-mystery-trainer-tin-mit-boostern-chinesisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-illumina-city-mini-tin-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-erste-partner-illustration-kollektion-box-serie-2-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-nihil-zero-booster-display-koreanisch": {
       "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-tin-box-128-mega-gengar-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-tin-box-129-mega-pixi-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-151-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shining-fates-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-darkness-ablaze-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-obsidian-flames-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-25th-anniversary-celebrations-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-chilling-reign-elite-trainer-box-purple-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paradox-rift-elite-trainer-box-roaring-moon-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-paldeas-schicksale-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-151-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldean-fates-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paldea-evolved-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-obsidianflammen-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-vivid-voltage-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pok-mon-sword-shield-lost-origin-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paradox-rift-iron-valiant-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-astral-radiance-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-temporal-forces-walking-wake-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-crown-zenith-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-paradox-rift-eisenkrieger-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-paradox-rift-donnersichel-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-gewalten-der-zeit-windewoge-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-gewalten-der-zeit-eisenblatt-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-temporal-forces-iron-leaves-elite-trainer-box-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-koraidon-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-miraidon-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-twilight-masquerade-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-maskerade-im-zwielicht-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-chilling-reign-elite-trainer-box-blau-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-shrouded-fable-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-nebel-der-sagen-elite-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-stellarkrone-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-stuermische-funken-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-surging-sparks-elite-trainer-box-en": {
-      "a": false,
-      "p": false
-    },
     "pokemon-scarlet-violet-prismatic-evolutions-elite-trainer-box-en": {
       "a": true,
       "p": false
     },
-    "pokemon-scarlet-violet-journey-together-elite-trainer-box-en": {
-      "a": false,
+    "pokemon-white-flare-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-reisegefahrten-top-trainer-box-de": {
-      "a": false,
+    "pokemon-black-bolt-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-koraidon-top-trainer-box-de": {
-      "a": false,
+    "pokemon-white-flare-deluxe-display-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-miraidon-top-trainer-box-de": {
-      "a": false,
+    "pokemon-evolving-skies-booster-display-englisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-schwarze-blitze-top-trainer-box-de": {
-      "a": false,
+    "pokemon-mega-zygarde-ex-premium-kollektion-deutsch": {
+      "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-weisse-flammen-top-trainer-box-de": {
-      "a": false,
+    "pokemon-ninja-spinner-30er-display-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-scarlet-violet-black-bolt-elite-top-trainer-box-en": {
-      "a": false,
+    "pokemon-mega-inferno-x-case-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-scarlet-violet-white-flare-elite-trainer-box-en": {
-      "a": false,
+    "pokemon-hot-wind-arena-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-lucario-top-trainer-box-deutsch": {
-      "a": false,
+    "pokemon-snow-hazard-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-guardevoir-top-trainer-box-deutsch": {
-      "a": false,
+    "pokemon-paradise-dragona-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-fatale-flammen-top-trainer-box-deutsch": {
-      "a": false,
+    "pokemon-nihil-zero-display-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-optimale-ordnung-top-trainer-box-deutsch": {
-      "a": false,
+    "pokemon-blade-awakening-jumbo-booster-box-chinesisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-erhabene-helden-top-trainer-box-deutsch": {
-      "a": false,
+    "pokemon-stella-miracle-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-celebrations-pokemon-center-elite-trainer-box-englisch": {
-      "a": false,
+    "pokemon-shiny-treasure-ex-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-evolving-skies-pokemon-center-elite-trainer-box-englisch": {
-      "a": false,
+    "pokemon-wild-force-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-evolving-skies-pokemon-center-elite-trainer-box-espeon-englisch": {
-      "a": false,
+    "pokemon-mega-inferno-x-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-evolving-skies-elite-trainer-box-espeon-englisch": {
-      "a": false,
+    "pokemon-mega-dream-ex-display-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-evolving-skies-elite-trainer-box-umbreon-englisch": {
-      "a": false,
+    "pokemon-fatale-flammen-booster-box-deutsch": {
+      "a": true,
       "p": false
     },
-    "pokemon-pokemon-go-pokemon-center-elite-trainer-box-plus-englisch": {
-      "a": false,
+    "pokemon-super-electric-breaker-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-wachsendes-chaos-top-trainer-box-deutsch": {
-      "a": false,
+    "pokemon-mega-symphonia-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-kampf-akademie-box-2024-deutsch": {
-      "a": false,
+    "pokemon-mega-brave-booster-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-erhabene-helden-mega-guardevoir-ex-premium-poster-kollektion-deutsch": {
-      "a": false,
+    "pokemon-dark-crystal-blaze-slim-booster-box-chinesisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-erhabene-helden-mega-lucario-ex-premium-poster-kollektion-deutsch": {
-      "a": false,
+    "pokemon-dark-crystal-blaze-jumbo-booster-box-chinesisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-erhabene-helden-deluxe-pin-kollektion-erste-partner-deutsch": {
-      "a": false,
+    "pokemon-mega-symphonia-30er-display-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-center-fukuoka-special-box-japanisch": {
-      "a": false,
+    "pokemon-mega-brave-display-japanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-erhabene-helden-booster-bundle-deutsch": {
-      "a": false,
+    "pokemon-glory-of-team-rocket-booster-display-kor": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-wachsendes-chaos-bundle-de": {
-      "a": false,
+    "pokemon-battle-partners-booster-display-kor": {
+      "a": true,
       "p": false
     },
-    "pokemon-mega-entwicklung-optimale-ordnung-booster-bundle-deutsch": {
-      "a": false,
+    "pokemon-the-glory-of-team-rocket-display-jpn": {
+      "a": true,
       "p": false
     },
-    "pokemon-prismatische-entwicklungen-booster-bundle-de": {
-      "a": false,
+    "pokemon-scarlet-violet-destined-rivals-elite-trainer-box-en": {
+      "a": true,
       "p": false
     },
-    "pokemon-silver-tempest-booster-bundle-en": {
-      "a": false,
+    "pokemon-prismatic-evolutions-super-premium-collection-en": {
+      "a": true,
       "p": false
     },
-    "pokemon-trick-or-trade-2024-booster-bundle-englisch": {
-      "a": false,
+    "pokemon-star-birth-booster-display-kor": {
+      "a": true,
       "p": false
     },
-    "pokemon-karmesin-purpur-paldeas-schicksale-booster-bundle-deutsch": {
-      "a": false,
+    "pokemon-terastal-festival-ex-booster-display-kor": {
+      "a": true,
       "p": false
     },
-    "pokemon-nebel-der-sagen-booster-bundle-deutsch": {
-      "a": false,
+    "pokemon-battle-partners-30er-display-jpn": {
+      "a": true,
       "p": false
     },
-    "pokemon-shrouded-fable-booster-bundle-en": {
-      "a": false,
+    "pokemon-lost-abyss-display-booster-box-kor": {
+      "a": true,
       "p": false
     },
-    "pokemon-paldean-fates-booster-bundle-englisch": {
-      "a": false,
+    "pokemon-evee-heroes-display-booster-box-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-scarlet-violet-151-booster-bundle-englisch": {
-      "a": false,
+    "pokemon-151-display-koreanisch": {
+      "a": true,
       "p": false
     },
-    "pokemon-scarlet-violet-destined-rivals-sleeved-booster-en": {
-      "a": false,
+    "pokemon-terastal-festival-ex-display-jpn": {
+      "a": true,
       "p": false
     },
-    "pokemon-25th-anniversary-collection-booster-pack-japanisch": {
-      "a": false,
+    "pokemon-paradise-dragona-30er-display-jpn": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-super-electric-breaker-30er-display-jpn": {
+      "a": true,
+      "p": false
+    },
+    "cardcosmos-pokemon-booster-box-acrylic-case": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-night-wanderer-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-triple-beat-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-ex-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-clay-burst-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mask-of-change-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-crimson-haze-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-151-20er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-cyber-judge-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-raging-surf-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-ancient-roar-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-future-flash-30er-display-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-shiny-treasure-ex-10er-display-japanisch": {
+      "a": true,
       "p": false
     }
   },
@@ -1623,7 +871,7 @@
       "p": false
     },
     "wachsendes-chaos-booster-bundle-alle-4-artworks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-glurak-x-card-sleeves-65-ultra-premium-collection-upc-mega-charizard-x-2025": {
@@ -4234,23 +3482,15 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-paldean-fates-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-phantasmal-flames-display-englisch": {
       "a": true,
       "p": false
     },
-    "pokemon-pokemon-coin-set-terastal-grand-gathering-csv9-5-live-boxbreak-chris": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-box-terastal-grand-gathering-tin-box-csv9-5-liveboxbreak-chris": {
-      "a": true,
-      "p": false
-    },
     "pokemon-evolving-skies-elite-trainer-box-englisch-1": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-paldean-fates-elite-trainer-box": {
       "a": true,
       "p": false
     },
@@ -4340,10 +3580,6 @@
     },
     "pokemon-ascended-heroes-booster-bundle-englisch": {
       "a": false,
-      "p": false
-    },
-    "pokemon-crown-zenith-elite-trainer-box-etb-englisch": {
-      "a": true,
       "p": false
     },
     "pokemon-silver-tempest-stadium-box-build-battle-englische-version-en": {
@@ -5107,7 +4343,7 @@
       "p": false
     },
     "pokemon-schwarze-blitze-ordner-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-booster-de-1": {
@@ -5518,10 +4754,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-white-flare-booster-bundle-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-verborgenes-schicksal-booster-de": {
       "a": true,
       "p": false
@@ -5568,10 +4800,6 @@
     },
     "pokemon-csv6c-true-mystery-slim-display-s-chn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-go-booster-de": {
-      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-booster-eng-1": {
@@ -5644,10 +4872,6 @@
     },
     "pokemon-set-off-to-collect-gift-box-s-chn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-set-off-to-battle-gift-box-s-chn": {
-      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-booster-englisch-1": {
@@ -5854,6 +5078,10 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30-jahre-boosterbundle-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
       "a": true,
       "p": false
@@ -6755,7 +5983,7 @@
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
@@ -6771,7 +5999,7 @@
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -6835,7 +6063,7 @@
       "p": false
     },
     "pokemon-illumina-city-mini-tins-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-3-pack-blister-de": {
@@ -7632,6 +6860,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-perfect-order-elite-trainer-box": {
       "a": true,
       "p": false
@@ -7989,7 +7221,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection": {
@@ -8681,7 +7913,7 @@
       "p": false
     },
     "pokemon-tcg-holiday-calendar-adventskalender-2024": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-armarouge-ex-premium-collection-box": {
@@ -8843,14 +8075,6 @@
     "pokemon-sword-shield-11-lost-origin-build-battle-box": {
       "a": false,
       "p": false
-    },
-    "pokemon-sword-shield-11-lost-origin-premium-checklane-blister-torterra": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-11-lost-origin-premium-checklane-blister-infernape": {
-      "a": false,
-      "p": false
     }
   },
   "Templars Arena::ALL": {
@@ -8867,15 +8091,15 @@
       "p": true
     },
     "the-acrylic-box-premium-pokemon-elite-trainer-box-acrylic-case": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-delta-reign-prerelease-event-ticket": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-bitty-pop-display-vinyl-figures-poke-ball": {
@@ -8887,11 +8111,11 @@
       "p": false
     },
     "pokemon-first-partner-illustration-collection-3": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-05-pitch-black-2-pack-checklane-blister-zarude": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-booster-bundle-english-copy": {
@@ -8899,7 +8123,7 @@
       "p": false
     },
     "up-energy-fighting-type-65ct-deck-protector-sleeves-for-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-kanto-friends-mini-tin-bulbasaur": {
@@ -8915,7 +8139,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-3-booster-blister-binacle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box-36-boosters": {
@@ -8923,11 +8147,11 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-random": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-luxray": {
@@ -8935,31 +8159,31 @@
       "p": false
     },
     "pokemon-mega-moonlit-ex-tin-gengar-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-2": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lumiose-city-mini-tin-feraligatr-budew": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-moonlit-ex-tin-clefable-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-surging-sparks-bundle-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-battle-styles-booster": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-rebels-clash-booster": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-fusion-strike-booster": {
@@ -8967,11 +8191,11 @@
       "p": false
     },
     "tcglab-pokemon-booster-box-acrylic-protector-uv": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "mega-zygarde-ex-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-half-booster-display-18-booster": {
@@ -8979,7 +8203,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-checklane-blister-toxel": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-3-pack-blister-charmeleon": {
@@ -8987,7 +8211,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-booster-display-36-booster": {
@@ -9007,7 +8231,7 @@
       "p": false
     },
     "pokemon-enhanced-2-booster-blister-oddish-gloom-vileplume": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon": {
@@ -9035,7 +8259,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-flareon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "prismatic-evolutions-espeon-mini-tin": {
@@ -9055,7 +8279,7 @@
       "p": false
     },
     "acrylic-protection-for-pokemon-booster-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-me2-5-premium-poster-collection-gardevoir-ascended-heroes": {
@@ -9071,23 +8295,23 @@
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-squirtle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-bulbasaur": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ch-151-first-partner-gift-box-charmander": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-perfect-order-elite-trainer-box-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-perfect-order-booster-box-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-perfect-order-booster-bundle-en-copy": {
@@ -9099,11 +8323,11 @@
       "p": false
     },
     "pokemon-temporal-forces-baxcalibur-1-pack-blister-1": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-temporal-forces-baxcalibur-1-pack-blister": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-team-rockets-moltres-ex-ultra-premium-collection": {
@@ -9131,11 +8355,11 @@
       "p": false
     },
     "acrylic-bundle-display-for-pokemon-and-magic-display-anti-uv": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "acrylic-booster-bundle-display-for-pokemon-and-magic-display-anti-uv": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-booster-bundle-en": {
@@ -9147,19 +8371,19 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-repeat-ball-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-ultra-ball-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-poke-ball-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-great-ball-english": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "tera-brawlers-premium-collection-copy": {
@@ -9183,7 +8407,7 @@
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-collection-larry-s-komala": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-elite-trainer-box": {
@@ -9191,15 +8415,15 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-sneasel": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-premium-checklane-blister-blaziken": {
@@ -9235,7 +8459,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -11633,7 +10857,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
