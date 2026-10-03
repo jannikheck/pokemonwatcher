@@ -1065,7 +1065,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-infernape-v-kollektion-englisch": {
@@ -4365,10 +4365,6 @@
     "pokemon-mega-evolutions-display-englisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-shiny-treasure-ex-display-mit-folie-live-boxbreak-fred": {
-      "a": false,
-      "p": false
     }
   },
   "God of Cards::ALL": {
@@ -6707,7 +6703,7 @@
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
