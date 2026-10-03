@@ -1037,7 +1037,7 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-box-zufaellige-variante-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-reisegefahrten-booster-display-deutsch": {
@@ -1531,7 +1531,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-kangama-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-lucario-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -1539,7 +1539,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-latias-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-ultra-premium-kollektion-mega-glurak-x-ex-2-holografische-promokarten-18-boosterpacks-premium-zubehor": {
@@ -1575,7 +1575,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -3465,7 +3465,7 @@
       "p": false
     },
     "pokemon-team-rockets-tin-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-mini-tin-display-de": {
@@ -6682,6 +6682,26 @@
     }
   },
   "Cardcorner::ALL": {
+    "verlorener-ursprung-top-trainer-box-de": {
+      "a": false,
+      "p": false
+    },
+    "ultra-premium-kollektion-glurak-de": {
+      "a": false,
+      "p": false
+    },
+    "paldeas-schicksale-tin-de": {
+      "a": false,
+      "p": false
+    },
+    "obsidianflammen-top-trainer-box-de": {
+      "a": false,
+      "p": false
+    },
+    "glaziola-vstar-spezial-kollektion-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-mini-tin-de": {
       "a": false,
       "p": false
