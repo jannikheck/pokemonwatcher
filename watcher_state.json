@@ -125,22 +125,6 @@
     "pokemon-tcg-mbe03-mega-quajutsu-ex-premium-kollektion-jetzt-vorbestellen": {
       "a": false,
       "p": false
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-top-trainer-box-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-3er-blister-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-booster-bundle-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-entwicklung-dunkelnacht-booster-display-36-booster-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
     }
   },
   "CardCosmos::ALL": {
@@ -217,7 +201,7 @@
       "p": false
     },
     "pokemon-vmax-climax-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-violet-ex-booster-display-koreanisch": {
@@ -777,7 +761,7 @@
       "p": false
     },
     "pokemon-abyss-eye-jpn-bundle-mit-9-pocket-binder-lila": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-destined-rivals-checklane-blister-zarude-en": {
@@ -1065,7 +1049,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-infernape-v-kollektion-englisch": {
@@ -1273,7 +1257,7 @@
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-ewige-rivalen-booster-display-de": {
@@ -1435,7 +1419,7 @@
   },
   "TradingToys::ALL": {
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-illustrations-kollektion-erste-partner-serie-1-3-promokarten-2-boosterpacks-und-1-stickerbogen": {
@@ -1451,7 +1435,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-131": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "erste-partner-deluxe-pin-kollektion-erhabene-helden-mega-entwicklung-deutsch": {
@@ -1543,15 +1527,15 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-guardevoir-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-kangama-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-lucario-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-latias-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -4213,7 +4197,7 @@
       "p": false
     },
     "pokemon-kp06-maskerade-im-zwielicht-top-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-kp04-paradoxrift-top-trainer-box-de": {
@@ -11829,7 +11813,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
