@@ -1037,7 +1037,7 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-box-zufaellige-variante-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-reisegefahrten-booster-display-deutsch": {
@@ -5155,7 +5155,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
@@ -5827,7 +5827,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch-1": {
@@ -6703,11 +6703,11 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
@@ -6747,11 +6747,11 @@
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
@@ -6759,11 +6759,11 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -11590,7 +11590,7 @@
     },
     "pitch-black-booster-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
       "a": true,
@@ -11754,7 +11754,7 @@
     },
     "pokemon-chaos-rising-booster-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
       "a": false,
