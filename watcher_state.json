@@ -1805,30 +1805,6 @@
     "pokemon-tcg-ultra-premium-collection-charizard-kaufen-englisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-schwert-schild-galagladi-v-promo-tin-box-deutsch-swsh": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schwert-schild-giratina-v-promo-tin-box-deutsch-swsh259": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karte-schwert-schild-giratina-v-promo-swsh259-tin": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sammelkartenspiel-panferno-v-kollektion-xxl-karte-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "giratina-verlorener-ursprung-karten-sleeves-hol-dir-power": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-kaufen-ultra-premium-kollektion-glurak-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -1881,7 +1857,7 @@
       "p": false
     },
     "pokemon-reisegefahrten-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-azure-legends-kyogre-tin-eng": {
@@ -5282,10 +5258,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-collect-151-gathering-jumbo-booster-s-chn": {
-      "a": false,
-      "p": false
-    },
     "pokemon-collect-151-surprises-slim-display-s-chn": {
       "a": false,
       "p": false
@@ -5717,10 +5689,6 @@
       "p": false
     },
     "30-jahre-tech-sticker-kollektion": {
-      "a": false,
-      "p": false
-    },
-    "pok-mon-mystery-slab-bag": {
       "a": false,
       "p": false
     },
@@ -11573,7 +11541,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-2": {
