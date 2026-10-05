@@ -2397,7 +2397,7 @@
       "p": false
     },
     "pokemon-go-pin-collection-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-celebrations-spezial-kollektion-pikachu-v-union-de": {
@@ -3101,7 +3101,7 @@
       "p": false
     },
     "pokemon-v-heroes-nachtara-v-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatische-entwicklungen-premium-figuren-kollektion": {
@@ -3321,7 +3321,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-3-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-crown-zenith-morpeko-v-union-premium-playmat-collection": {
@@ -3517,7 +3517,7 @@
       "p": false
     },
     "pokemon-guardians-rising-1-pack-blister-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-tech-sticker-3-pack-blister-de": {
@@ -3945,7 +3945,7 @@
       "p": true
     },
     "pokemon-gallade-v-herbst-tin-box-2022-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-hisuian-zoroark-vstar-premium-kollektion-de": {
@@ -4975,7 +4975,7 @@
       "p": false
     },
     "pokemon-30th-celebration-sylveon-ex-tin-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-greninja-ex-tin-eng": {
@@ -5187,7 +5187,7 @@
       "p": false
     },
     "pokemon-german-booster-bundle-obsidianflammen-entwicklungen-in-paldea-karmesin-purpur-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ultra-booster-bundle-sword-shield-era-eng-1": {
@@ -5251,7 +5251,7 @@
       "p": false
     },
     "pokemon-booster-bundle-temporal-forces-twilight-masquerade-stellar-crown-eng-1": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-collect-151-surprises-slim-display-s-chn": {
@@ -11553,7 +11553,7 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
