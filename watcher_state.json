@@ -128,6 +128,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-anniversary-collection-20er-display-ohne-folie-japanisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-scarlet-violet-black-bolt-booster-bundle-englisch": {
       "a": true,
       "p": false
@@ -705,7 +709,7 @@
       "p": false
     },
     "pokemon-go-dragoran-vstar-premier-deckhalter-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "ultra-pro-first-partner-accessory-bundle-for-pokemon": {
@@ -893,7 +897,7 @@
       "p": false
     },
     "pokemon-pokemon-go-pikachu-tin-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-booster-display-deutsch": {
@@ -1041,7 +1045,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-booster-display-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-journey-together-3-pack-blister-scrafty-en": {
@@ -1209,7 +1213,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-briduradon-ex-kollektion-deutsch": {
@@ -1349,7 +1353,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-booster-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-relaxo-tin-box-deutsch": {
@@ -2277,7 +2281,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weg-des-champs-mary-special-kollektion-de": {
@@ -4982,14 +4986,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-sylveon-ex-tin-eng": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-greninja-ex-tin-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-reisegefahrten-display-de": {
       "a": true,
       "p": false
@@ -5232,7 +5228,7 @@
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30-jahre-booster-eng": {
       "a": true,
@@ -5263,7 +5259,7 @@
       "p": false
     },
     "pokemon-collect-151-surprises-slim-display-s-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-twilight-masquerade-booster-eng-1": {
@@ -5855,7 +5851,7 @@
       "p": false
     },
     "pokemon-mega-impergator-ex-kollektion-erhabene-helden-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-36er-booster-display-de": {
@@ -5931,7 +5927,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-flambirex-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-meganie-ex-kollektion-de": {
@@ -6675,7 +6671,7 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
@@ -8769,7 +8765,7 @@
       "p": false
     },
     "forkop-pokemon-scarlet-violet-shrouded-fable-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-8-pokemon-center-fusion-strike-elite-trainer-box": {
@@ -8847,7 +8843,7 @@
       "p": false
     },
     "pokemon-first-partner-illustration-collection-3": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-05-pitch-black-2-pack-checklane-blister-zarude": {
@@ -8883,7 +8879,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-random": {
@@ -8895,11 +8891,11 @@
       "p": false
     },
     "pokemon-mega-moonlit-ex-tin-gengar-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-2": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lumiose-city-mini-tin-feraligatr-budew": {
@@ -8907,7 +8903,7 @@
       "p": false
     },
     "pokemon-mega-moonlit-ex-tin-clefable-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-surging-sparks-bundle-english": {
@@ -8931,7 +8927,7 @@
       "p": false
     },
     "mega-zygarde-ex-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-4-chaos-rising-half-booster-display-18-booster": {
@@ -9043,11 +9039,11 @@
       "p": false
     },
     "pokemon-tcg-perfect-order-elite-trainer-box-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-perfect-order-booster-box-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-perfect-order-booster-bundle-en-copy": {
@@ -11545,7 +11541,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-2": {
@@ -11593,7 +11589,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
