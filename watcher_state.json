@@ -1411,10 +1411,6 @@
     "pokemon-prismatic-evolutions-elite-trainer-box-pokemon-center-edition-englisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-scarlet-violet-temporal-forces-iron-leaves-elite-trainer-box-en": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -5459,7 +5455,7 @@
       "p": false
     },
     "pokemon-booster-bundle-journey-together-obsidian-flames-paradox-rift-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-astralglanz-booster-deutsch": {
@@ -6723,7 +6719,7 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
@@ -8827,7 +8823,7 @@
       "p": false
     },
     "pokemon-tcg-delta-reign-prerelease-event-ticket": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-bitty-pop-display-vinyl-figures-poke-ball": {
