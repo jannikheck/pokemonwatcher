@@ -128,6 +128,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-scarlet-violet-black-bolt-booster-bundle-englisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-pokemon-30th-celebration-sylveon-ex-tin-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-pokemon-30th-celebration-greninja-ex-tin-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-dream-ex-booster-display-case-japanisch": {
       "a": false,
       "p": false
@@ -761,7 +773,7 @@
       "p": false
     },
     "pokemon-abyss-eye-jpn-bundle-mit-9-pocket-binder-lila": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-destined-rivals-checklane-blister-zarude-en": {
@@ -1257,7 +1269,7 @@
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-ewige-rivalen-booster-display-de": {
@@ -5455,7 +5467,7 @@
       "p": false
     },
     "pokemon-booster-bundle-journey-together-obsidian-flames-paradox-rift-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-astralglanz-booster-deutsch": {
@@ -8757,7 +8769,7 @@
       "p": false
     },
     "forkop-pokemon-scarlet-violet-shrouded-fable-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-8-pokemon-center-fusion-strike-elite-trainer-box": {
