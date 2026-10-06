@@ -4946,6 +4946,18 @@
     }
   },
   "FantasiaCards::ALL": {
+    "fantasiacards-pokemon-booster-bag": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-feelinara-ex-tin-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-quajutsu-ex-tin-box-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-german-booster-bundle-ewige-rivalen-reisegefahrten-mega-entwicklung-de": {
       "a": true,
       "p": false
@@ -4999,7 +5011,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-eng-1": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-4-display-s-chn": {
@@ -5030,10 +5042,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-charizard-collectors-box-s-chn-vorbestellung-versand-ende-september-2026": {
-      "a": true,
-      "p": true
-    },
     "pokemon-30th-anniversary-first-partner-card-set-bundle-s-chn": {
       "a": true,
       "p": false
@@ -5051,11 +5059,11 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -5216,10 +5224,6 @@
     },
     "pokemon-blue-sky-stream-booster-kor": {
       "a": true,
-      "p": false
-    },
-    "pokemon-30-jahre-booster-bundle-de": {
-      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
@@ -6073,7 +6077,7 @@
       "p": false
     },
     "de-pokemon-pokeball-tin-box-2025": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-box-glurak-ex-super-premium-kollektion": {
@@ -6707,7 +6711,7 @@
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
