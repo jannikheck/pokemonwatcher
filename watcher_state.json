@@ -121,10 +121,6 @@
     "ultra-pro-pokemon-deck-box-tinkaton": {
       "a": false,
       "p": false
-    },
-    "pokemon-tcg-mbe03-mega-quajutsu-ex-premium-kollektion-jetzt-vorbestellen": {
-      "a": false,
-      "p": false
     }
   },
   "CardCosmos::ALL": {
@@ -1217,7 +1213,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-briduradon-ex-kollektion-deutsch": {
@@ -2049,7 +2045,7 @@
       "p": false
     },
     "pokemon-celebrations-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-evolving-skies-elite-trainer-box": {
@@ -3797,7 +3793,7 @@
       "p": false
     },
     "pokemon-tcg-destined-rivals-sv10-36er-display-eng": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-paradox-rift-3-pack-blister-eng": {
@@ -4946,6 +4942,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30-jahre-top-trainer-box-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-surging-sparks-display-eng": {
+      "a": true,
+      "p": false
+    },
     "fantasiacards-pokemon-booster-bag": {
       "a": true,
       "p": false
@@ -4971,7 +4975,7 @@
       "p": false
     },
     "pokemon-phantasmal-flames-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-eng": {
@@ -7801,7 +7805,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-raging-surf-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-triplet-beat-booster-box": {
@@ -7813,7 +7817,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-clay-burst-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-scarlet-booster-box": {
@@ -7869,7 +7873,7 @@
       "p": false
     },
     "pokemon-mega-dream-ex-booster-box-japansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-inferno-x-booster-box-japansk": {
@@ -7881,7 +7885,7 @@
       "p": false
     },
     "pokemon-mega-brave-booster-box-japansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-symphonia-booster-box-japansk": {
@@ -7913,7 +7917,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-battle-partners-booster-box-japansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-terastal-festival-booster-box-japansk": {
@@ -8765,7 +8769,7 @@
       "p": false
     },
     "forkop-pokemon-scarlet-violet-shrouded-fable-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-8-pokemon-center-fusion-strike-elite-trainer-box": {
@@ -8793,18 +8797,6 @@
       "p": false
     },
     "pokemon-tcg-paradox-clash-tin-walking-wake-ex": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-paradox-rift-build-battle-stadium-box": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-build-battle-stadium-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-11-lost-origin-build-battle-box": {
       "a": false,
       "p": false
     }
@@ -9357,10 +9349,6 @@
       "p": false
     },
     "pokemon-evolving-skies-booster-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-evolving-skies-elite-trainer-box": {
       "a": false,
       "p": false
     },
@@ -11469,8 +11457,8 @@
   },
   "BESCARDS::ALL": {
     "pokemon-30th-anniversary-mini-tin": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-30th-anniversary-booster-bundle": {
       "a": true,
@@ -11542,7 +11530,7 @@
     },
     "pokemon-ascended-heroes-elite-trainer-box": {
       "a": true,
-      "p": false
+      "p": true
     },
     "pokemon-first-partner-illustration-collection-series-2": {
       "a": true,
@@ -11557,8 +11545,8 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-lost-origin-elite-trainer-box": {
       "a": true,
@@ -11769,7 +11757,7 @@
       "p": false
     },
     "pokemon-crown-zenith-premium-figure-collection-1-willekeurige-variant": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-tin-1-willekeurige-variant": {
@@ -11801,7 +11789,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-booster-bundle": {
