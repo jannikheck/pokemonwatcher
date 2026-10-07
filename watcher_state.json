@@ -132,6 +132,10 @@
       "a": false,
       "p": false
     },
+    "pokemon-30th-anniversary-celebration-booster-display-traditional-chinese-traditionelles-chinesisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-black-bolt-booster-bundle-englisch": {
       "a": false,
       "p": false
@@ -1285,7 +1289,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
@@ -1413,10 +1417,6 @@
       "p": false
     },
     "pokemon-erhabene-helden-mega-guardevoir-ex-premium-poster-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-wild-force-30er-display-japanisch": {
       "a": false,
       "p": false
     }
@@ -2025,7 +2025,7 @@
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-3-de": {
@@ -5795,7 +5795,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch-1": {
@@ -5823,7 +5823,7 @@
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
