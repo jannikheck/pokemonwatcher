@@ -1563,7 +1563,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-meganie-psiaugon-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -5011,7 +5011,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-eng-1": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-4-display-s-chn": {
@@ -5827,7 +5827,7 @@
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
@@ -6003,7 +6003,7 @@
       "p": false
     },
     "pokemon-151-poster-kollektion": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-display-nine-colors-gathering-origin-cs4b": {
@@ -9517,14 +9517,6 @@
       "p": false
     },
     "pokemon-hidden-fates-premium-powers-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-binder-collection": {
       "a": false,
       "p": false
     }
