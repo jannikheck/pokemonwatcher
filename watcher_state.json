@@ -897,7 +897,7 @@
       "p": false
     },
     "pokemon-pokemon-go-pikachu-tin-box-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-booster-display-deutsch": {
@@ -1813,7 +1813,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-18er-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-sleeved-booster-eng": {
@@ -2021,7 +2021,7 @@
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-3-de": {
@@ -2173,7 +2173,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "acrylcase-mit-magneten-fur-pokemon-36-display": {
@@ -2189,7 +2189,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
@@ -3053,7 +3053,7 @@
       "p": false
     },
     "pokemon-erhabene-helden-tech-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erhabene-helden-tech-sticker-kollektion": {
@@ -3641,7 +3641,7 @@
       "p": false
     },
     "pokemon-lost-origin-36er-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-astralglanz-18er-display-de": {
@@ -4942,6 +4942,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-scarlet-violet-151-booster-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-surging-sparks-booster-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mewtwo-vstar-box-s-chn": {
       "a": true,
       "p": false
@@ -4952,10 +4960,6 @@
     },
     "pokemon-30-jahre-top-trainer-box-eng": {
       "a": false,
-      "p": false
-    },
-    "pokemon-surging-sparks-display-eng": {
-      "a": true,
       "p": false
     },
     "fantasiacards-pokemon-booster-bag": {
@@ -4980,10 +4984,6 @@
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
       "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-display-eng": {
-      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-eng": {
@@ -5051,7 +5051,7 @@
       "p": false
     },
     "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-bundle-s-chn": {
@@ -5123,10 +5123,6 @@
       "p": false
     },
     "pokemon-phantasmal-flames-sleeved-booster-eng": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-151-karmesin-und-purpur-booster-bundle-de-1": {
       "a": true,
       "p": false
     },
@@ -5358,10 +5354,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-scarlet-violet-151-booster-eng": {
-      "a": true,
-      "p": false
-    },
     "pokemon-wachsendes-chaos-booster-de": {
       "a": true,
       "p": false
@@ -5498,10 +5490,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-surging-sparks-booster-eng": {
-      "a": true,
-      "p": false
-    },
     "pokemon-stellar-crown-booster-eng": {
       "a": true,
       "p": false
@@ -5559,7 +5547,7 @@
       "p": false
     },
     "pokemon-evolving-skies-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatische-entwicklungen-mini-tin-display-de": {
@@ -7278,10 +7266,6 @@
     }
   },
   "TCG Stadium::ALL": {
-    "6-piece-pokemon-collection-pikachu-pen-holder-anime-action-figures-perfect-toy-gift-set": {
-      "a": false,
-      "p": false
-    },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
       "a": false,
       "p": false
@@ -7965,7 +7949,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection": {
@@ -8137,7 +8121,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-ultra-pro-9-pocket-binder": {
@@ -8205,7 +8189,7 @@
       "p": false
     },
     "pokemon-tcg-holiday-calendar-adventskalender-2025": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-team-rocket-ex-tin-1": {
@@ -11589,11 +11573,11 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11601,7 +11585,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
@@ -11689,7 +11673,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
@@ -11701,7 +11685,7 @@
       "p": false
     },
     "pokemon-black-bolt-tech-sticker-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-and-white-flare-mini-tin-1-willekeurig": {
@@ -11733,7 +11717,7 @@
       "p": false
     },
     "pokemon-charizard-ex-special-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-charizard-ultra-premium-collection-box": {
@@ -11781,7 +11765,7 @@
       "p": false
     },
     "pokemon-crown-zenith-unown-v-lugia-v-special-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-crown-zenith-pikachu-vmax-premium-collection": {
