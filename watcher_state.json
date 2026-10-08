@@ -1559,11 +1559,11 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-meganie-psiaugon-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-impergator-knospi-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1571,11 +1571,11 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-galagladi-viscora-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -1808,6 +1808,18 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemonback-to-school-2024-eraser-2-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-hidden-potential-tins-giratina-v-tin-box-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-silberne-sturmwinde-3-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
     "crispy-christmas-bundle-pokemon-one-piece-dragon-ball": {
       "a": true,
       "p": false
@@ -8609,7 +8621,7 @@
       "p": false
     },
     "pokemon-tcg-charizard-ex-super-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-darkrai-vstar-premium-collection-box": {
@@ -11489,7 +11501,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-booster-blister-eevee": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-5-pack-usa-tin-greninja-ex": {
@@ -11709,7 +11721,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
