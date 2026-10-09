@@ -124,6 +124,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-anniversary-celebration-booster-pack-tchn": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-anniversary-collection-20er-display-ohne-folie-japanisch": {
       "a": false,
       "p": false
@@ -2201,7 +2205,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
@@ -2669,7 +2673,7 @@
       "p": false
     },
     "pokemon-evolving-skies-3-pack-blister-icecue-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-arceus-v-figure-kollektion-de": {
@@ -2757,7 +2761,7 @@
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-3-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ascended-heroes-tech-sticker-collection-eng": {
@@ -2877,7 +2881,7 @@
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-boltund-v-box-eng": {
@@ -6687,7 +6691,7 @@
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
@@ -8201,7 +8205,7 @@
       "p": false
     },
     "pokemon-tcg-holiday-calendar-adventskalender-2025": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-team-rocket-ex-tin-1": {
@@ -9599,7 +9603,7 @@
       "p": false
     },
     "pokemon-perfect-order-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
@@ -11466,7 +11470,7 @@
     },
     "pokemon-30th-anniversary-booster-bundle": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
       "a": true,
@@ -11534,7 +11538,7 @@
     },
     "pokemon-ascended-heroes-elite-trainer-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-first-partner-illustration-collection-series-2": {
       "a": true,
@@ -11809,7 +11813,7 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-portfolio-9-pocket": {
