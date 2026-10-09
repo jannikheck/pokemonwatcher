@@ -8545,7 +8545,7 @@
       "p": false
     },
     "pokemon-ar-chr-bulk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-rr-rrr-bulk": {
@@ -11497,7 +11497,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-booster-blister-eevee": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-5-pack-usa-tin-greninja-ex": {
