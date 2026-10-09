@@ -9511,14 +9511,6 @@
     "pokemon-hidden-fates-premium-powers-collection": {
       "a": false,
       "p": false
-    },
-    "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatic-evolutions-binder-collection": {
-      "a": false,
-      "p": false
     }
   },
   "PKMWinkel::ALL": {
@@ -11907,7 +11899,7 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box": {
