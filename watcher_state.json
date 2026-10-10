@@ -7268,15 +7268,19 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-30th-celebration-tin-greninja-ex-empty-tin": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-tin-sylveon-ex-empty-tin": {
+      "a": false,
+      "p": false
+    },
     "pokemon-deck-crafters-collection-meowth-ex": {
       "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-pokemon-center-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-evolution-ascended-heroes-focused-fighters-premium-collection": {
       "a": false,
       "p": false
     }
@@ -8161,7 +8165,7 @@
       "p": false
     },
     "pokemon-mega-evolution-phantasmal-flames-premium-checklane-blister-pack-blaziken": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-phantasmal-flames-premium-checklane-blister-pack-hydrapple": {
@@ -11469,7 +11473,7 @@
       "p": true
     },
     "pokemon-30th-anniversary-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
