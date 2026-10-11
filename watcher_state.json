@@ -1619,7 +1619,7 @@
       "p": false
     },
     "wachsendes-chaos-booster-bundle-alle-4-artworks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-glurak-x-card-sleeves-65-ultra-premium-collection-upc-mega-charizard-x-2025": {
@@ -5283,7 +5283,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-booster-eng": {
@@ -5838,8 +5838,20 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30th-celebration-greninja-ex-box-englisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-sylveon-ex-box-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-poster-collection-en": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
@@ -5863,7 +5875,7 @@
       "p": false
     },
     "pokemon-30-jahre-tin-box-tag-feelinara-ex-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
@@ -7319,11 +7331,11 @@
   },
   "TCG Stadium::ALL": {
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
@@ -9727,7 +9739,7 @@
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-3-pack-blister-sneasel": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-booster-bundle": {
@@ -11621,7 +11633,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11801,7 +11813,7 @@
       "p": false
     },
     "pokemon-crown-zenith-premium-figure-collection-1-willekeurige-variant": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-crown-zenith-tin-1-willekeurige-variant": {
