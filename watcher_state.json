@@ -5127,7 +5127,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -11521,7 +11521,7 @@
       "p": true
     },
     "pokemon-30th-anniversary-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
