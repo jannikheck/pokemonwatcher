@@ -1,5 +1,45 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-first-partner-illustration-collection-booster-collection-vol-3-en": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-pokemon-day-2026-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-erhabene-helden-me2-5-mega-premium-poster-kollektion-de-random-preorder-20-03-2026-limit-2-person": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-erste-partner-kollektion-serie-1-de-preorder-20-03-2026-limit-1-person": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-ewige-rivalen-kp10-36er-display-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-phantasmal-flames-me02-booster-display-box-36-packs-en": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-prismatic-evolutions-sv8-5-super-premium-collection-en-limit": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-premium-tournament-collection-lillie-en": {
       "a": false,
       "p": false
@@ -54,6 +94,22 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-mega-entwicklung-optimale-ordnung-top-trainer-box-deutsch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-erhabene-helden-top-trainer-box-de": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-mega-entwicklung-wachsendes-chaos-3-pack-blister-deutsch-jetzt-vorbestellen": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-wachsendes-chaos-booster-bundle-deutsch-jetzt-vorbestellen": {
+      "a": true,
+      "p": true
+    },
     "pokemon-mega-evolution-pitch-black-booster-bundle-englisch": {
       "a": true,
       "p": false
@@ -129,7 +185,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-20er-display-ohne-folie-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-traditional-chinese-traditionelles-chinesisch": {
@@ -1383,42 +1439,6 @@
     "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-schwert-schild-glurak-ultra-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-erhabene-helden-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-erhabene-helden-deluxe-pin-kollektion-erste-partner-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-nebel-der-sagen-booster-bundle-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-vstar-universe-10er-display-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-spezial-kollektion-team-weisheit-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-destined-rivals-elite-trainer-box-pokemon-center-edition-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-erhabene-helden-mega-lucario-ex-premium-poster-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-erhabene-helden-mega-guardevoir-ex-premium-poster-kollektion-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1579,7 +1599,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-galagladi-viscora-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -5287,11 +5307,11 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-display-eng": {
@@ -6739,7 +6759,7 @@
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
@@ -7027,7 +7047,7 @@
       "p": false
     },
     "pokemon-mega-entwicklungen-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklungen-top-trainer-box-de": {
@@ -7199,7 +7219,7 @@
       "p": false
     },
     "reisegefahrten-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "reisegefahrten-3-pack-blister-de": {
@@ -8153,7 +8173,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
@@ -8745,7 +8765,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-7-stellar-crown-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-origin-forme-palkia-vstar-premium-collection-box": {
@@ -11633,7 +11653,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
@@ -11645,7 +11665,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
@@ -11865,7 +11885,7 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-portfolio-9-pocket": {
