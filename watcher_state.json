@@ -1,5 +1,9 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
       "a": false,
       "p": false
@@ -29,7 +33,7 @@
       "p": false
     },
     "pokemon-tcg-ewige-rivalen-kp10-36er-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-me02-booster-display-box-36-packs-en": {
@@ -1125,7 +1129,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-infernape-v-kollektion-englisch": {
@@ -1273,7 +1277,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-briduradon-ex-kollektion-deutsch": {
@@ -4274,10 +4278,6 @@
     }
   },
   "Pokitrio::ALL": {
-    "pokemon-30th-celebration-card-display-set-s-chn-live-boxbreak-chris": {
-      "a": false,
-      "p": false
-    },
     "pokemon-paldean-fates-elite-trainer-box": {
       "a": true,
       "p": false
@@ -4292,10 +4292,6 @@
     },
     "pokemon-chilling-reign-display-englisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-dunkelnacht-display-deutsch": {
-      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-elite-trainer-box-englisch": {
@@ -4375,10 +4371,6 @@
       "p": false
     },
     "pokemon-ascended-heroes-booster-bundle-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-silver-tempest-stadium-box-build-battle-englische-version-en": {
       "a": false,
       "p": false
     },
@@ -5756,6 +5748,18 @@
     }
   },
   "CardBuddies::ALL": {
+    "30-jahre-booster-bundle-de": {
+      "a": false,
+      "p": false
+    },
+    "pok-mon-mystery-booster-bag": {
+      "a": false,
+      "p": false
+    },
+    "pok-mon-mystery-slab-bag": {
+      "a": false,
+      "p": false
+    },
     "acryl-case-f-r-pokemon-super-premium-collection-prismatic-evolution": {
       "a": false,
       "p": false
@@ -6759,7 +6763,7 @@
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
@@ -7676,6 +7680,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-scarlet-violet-9-journey-together-booster-bundle": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
       "a": true,
       "p": false
