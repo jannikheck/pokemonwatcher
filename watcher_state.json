@@ -1,7 +1,7 @@
 {
   "TCGViert::ALL": {
     "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-first-partner-illustration-collection-booster-collection-vol-3-en": {
@@ -2261,7 +2261,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
@@ -2289,7 +2289,7 @@
       "p": false
     },
     "pokemon-mega-zygarde-ex-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-twilight-masquerade-display-eng": {
@@ -5875,7 +5875,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
@@ -6823,7 +6823,7 @@
       "p": false
     },
     "pokemon-mega-darkrai-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-dragoran-tin-de": {
@@ -6871,7 +6871,7 @@
       "p": false
     },
     "pokemon-mega-pixi-ex-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-gengar-ex-tin-de": {
@@ -7219,7 +7219,7 @@
       "p": false
     },
     "reisegefahrten-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "reisegefahrten-3-pack-blister-de": {
@@ -11537,8 +11537,8 @@
   },
   "BESCARDS::ALL": {
     "pokemon-30th-anniversary-mini-tin": {
-      "a": true,
-      "p": true
+      "a": false,
+      "p": false
     },
     "pokemon-30th-anniversary-booster-bundle": {
       "a": true,
@@ -11582,11 +11582,11 @@
     },
     "pokemon-30th-anniversary-celebration-binder-collection": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-anniversary-celebration-poster-collection": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
       "a": true,
@@ -11653,7 +11653,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
@@ -11665,7 +11665,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
@@ -11753,7 +11753,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
