@@ -193,7 +193,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-traditional-chinese-traditionelles-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-booster-bundle-englisch": {
@@ -1446,6 +1446,14 @@
     }
   },
   "TradingToys::ALL": {
+    "pokemon-delta-herrschaft-boosterbundle-mega-entwicklung-6-boosterpacks": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-display-mega-entwicklung-36-boosterpacks": {
+      "a": false,
+      "p": false
+    },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-dunkelnacht-6-boosterpacks": {
       "a": false,
       "p": false
@@ -1603,7 +1611,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-galagladi-viscora-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1845,7 +1853,7 @@
       "p": false
     },
     "pokemon-30-jahre-kollektion-quajutsu-ex-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
@@ -2265,7 +2273,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-top-trainer-box-de": {
@@ -5127,7 +5135,7 @@
       "p": false
     },
     "pokemon-30th-celebration-card-display-set-quajutsu-ex-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-coin-set-s-chn-vorbestellung-versand-ende-september-2026-kopie": {
@@ -5499,7 +5507,7 @@
       "p": false
     },
     "pokemon-journey-together-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-silver-tempest-sleeved-booster-eng": {
@@ -8890,6 +8898,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-enhanced-2-pack-blister-gengar-marshadow-team-rockets-mimikyu-english": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-mega-evolution-pitch-black-checklane-blister-slowpoke-en": {
       "a": false,
       "p": true
