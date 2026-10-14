@@ -1969,7 +1969,7 @@
       "p": false
     },
     "pokemon-mega-krafte-tin-box-130-mega-dragoran-ex-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-cynthias-garchomp-ex-premium-collection-eng": {
@@ -2101,7 +2101,7 @@
       "p": false
     },
     "pokemon-wachsendes-chaos-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
@@ -7374,6 +7374,14 @@
     }
   },
   "TCG Stadium::ALL": {
+    "pokemon-scarlet-violet-151-blooming-waters-premium-collection": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-and-violet-sv9-journey-together-booster-box": {
+      "a": true,
+      "p": false
+    },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
       "a": true,
       "p": false
