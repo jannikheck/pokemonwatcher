@@ -1129,7 +1129,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-infernape-v-kollektion-englisch": {
@@ -1885,7 +1885,7 @@
       "p": false
     },
     "pokemon-hidden-potential-tins-giratina-v-tin-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-silberne-sturmwinde-3-pack-blister-de": {
@@ -1917,11 +1917,11 @@
       "p": false
     },
     "pokemon-v-heroes-tins-espeon-v-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-v-heroes-tins-sylveon-v-tin-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-v-powers-tins-eevee-v-tin-eng": {
@@ -1945,7 +1945,7 @@
       "p": false
     },
     "pokemon-reisegefahrten-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-azure-legends-kyogre-tin-eng": {
@@ -3961,7 +3961,7 @@
       "p": false
     },
     "pokemon-xerneas-ex-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-meowth-vmax-special-collection-eng": {
@@ -6771,7 +6771,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-binder-collection-en": {
@@ -7345,7 +7345,7 @@
   },
   "Total Cards::ALL": {
     "pokemon-sylveon-card-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-brassius-sudowoodo-card-display-keychain": {
