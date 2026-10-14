@@ -1,9 +1,5 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-scarlet-violet-chasing-glory-together-csv10-slim-booster-display-cn": {
-      "a": true,
-      "p": false
-    },
     "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
       "a": false,
       "p": false
@@ -5760,10 +5756,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "30-jahre-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
     "pok-mon-mystery-booster-bag": {
       "a": false,
       "p": false
@@ -6125,7 +6117,7 @@
   },
   "YONKO TCG::ALL": {
     "pokemon-kartenbinder-30th-celebration": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "de-pokemon-kampfdecks": {
@@ -6779,7 +6771,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-binder-collection-en": {
@@ -8593,7 +8585,7 @@
       "p": false
     },
     "pokemon-tcg-palafin-ex-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-3-obsidian-flames-checklane-blister-pack-paldean-wooper": {
