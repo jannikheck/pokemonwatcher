@@ -1,5 +1,9 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-scarlet-violet-chasing-glory-together-csv10-slim-booster-display-cn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
       "a": false,
       "p": false
@@ -1611,7 +1615,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-galagladi-viscora-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
