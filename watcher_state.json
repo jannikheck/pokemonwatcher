@@ -433,7 +433,7 @@
       "p": false
     },
     "pokemon-30th-celebration-binder-collection-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-shrouded-fable-3-pack-blister-english": {
@@ -2085,7 +2085,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2026-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pitch-black-expansion-premium-checklane-blister-eng": {
@@ -3457,7 +3457,7 @@
       "p": false
     },
     "pokemon-galarian-birds-2-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-astral-radiance-elite-trainer-box": {
@@ -5147,7 +5147,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -7344,6 +7344,18 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-sylveon-card-display": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-brassius-sudowoodo-card-display-keychain": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-penny-umbreon-card-display-keychain": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-tin-greninja-ex-empty-tin": {
       "a": false,
       "p": false
@@ -7865,7 +7877,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-cyber-judge-booster-box-japansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-battle-region-booster-box": {
@@ -8225,7 +8237,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-ultra-pro-9-pocket-binder": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-7-evolving-skies-booster-box": {
