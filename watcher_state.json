@@ -1869,7 +1869,7 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-feelinara-ex-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-booster-bundle-de": {
@@ -1877,7 +1877,7 @@
       "p": false
     },
     "pokemon-30th-celebrations-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemonback-to-school-2024-eraser-2-pack-blister-de": {
@@ -9405,10 +9405,6 @@
       "p": false
     },
     "pokemon-mega-evolution-booster-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-evolution-elite-trainer-box": {
       "a": false,
       "p": false
     },
