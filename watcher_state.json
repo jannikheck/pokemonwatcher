@@ -1,10 +1,14 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
-      "a": false,
+    "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-tcg-mega-entwicklungen-me05-dunkelnacht-booster-bundle-de": {
+      "a": true,
       "p": false
     },
-    "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
+    "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
       "a": false,
       "p": false
     },
@@ -135,7 +139,7 @@
       "p": true
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen-kopie": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen-kopie": {
@@ -155,7 +159,7 @@
       "p": true
     },
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-30th-celebration-ultra-premium-collection-deutsch-jetzt-vorbestellen": {
@@ -184,6 +188,18 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30th-celebration-sylveon-ex-collection-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-greninja-ex-collection-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-anniversary-collection-20er-display-japanisch-16-pocket-zip-premium-leather-binder-pink": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-anniversary-celebration-booster-pack-tchn": {
       "a": false,
       "p": false
@@ -1433,14 +1449,6 @@
       "p": false
     },
     "pokemon-fatale-flammen-18er-booster-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-151-blooming-waters-premium-collection-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-anniversary-first-partner-card-set-v1-chinesisch": {
       "a": false,
       "p": false
     }
@@ -7374,6 +7382,10 @@
     }
   },
   "TCG Stadium::ALL": {
+    "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-151-blooming-waters-premium-collection": {
       "a": true,
       "p": false
