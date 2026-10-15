@@ -1,18 +1,10 @@
 {
   "TCGViert::ALL": {
     "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
-      "a": true,
+      "a": false,
       "p": true
     },
-    "pokemon-tcg-mega-entwicklungen-me05-dunkelnacht-booster-bundle-de": {
-      "a": true,
-      "p": false
-    },
     "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-first-partner-illustration-collection-booster-collection-vol-3-en": {
       "a": false,
       "p": false
     },
@@ -82,10 +74,6 @@
     },
     "pokemon-tcg-destined-rivals-sv10-elite-trainer-box-en": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-mega-greninja-ex-premium-collection-en-limit-1-person": {
-      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-quajutsu-ex-premium-kollektion-de-limit-1-person": {
@@ -6779,7 +6767,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-binder-collection-en": {
@@ -6807,31 +6795,31 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -8661,7 +8649,7 @@
       "p": false
     },
     "pokemon-ar-chr-bulk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-rr-rrr-bulk": {
