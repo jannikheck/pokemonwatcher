@@ -5010,6 +5010,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-dschungel-light-booster-knnuddeluff-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-151-booster-eng": {
       "a": true,
       "p": false
@@ -5116,10 +5120,6 @@
     },
     "pokemon-maskerade-im-zwielicht-booster-de": {
       "a": true,
-      "p": false
-    },
-    "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
-      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-first-partner-card-set-bundle-s-chn": {
@@ -9622,6 +9622,14 @@
     }
   },
   "PKMWinkel::ALL": {
+    "pokemon-30th-celebration-mini-tin-random-art": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-booster-bundle": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-poster-collection": {
       "a": true,
       "p": false
@@ -11689,7 +11697,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
