@@ -9464,7 +9464,7 @@
       "a": false,
       "p": false
     },
-    "pokemon-paradox-rift-build-battle-stadium": {
+    "pokemon-scarlet-violet-build-battle-stadium": {
       "a": false,
       "p": false
     },
@@ -11809,7 +11809,7 @@
       "p": false
     },
     "pokemon-black-bolt-white-flare-illustration-collection-victini": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-binder-collection": {
@@ -12007,7 +12007,7 @@
   },
   "The TCG Shop UK::ALL": {
     "pokemon-tcg-30th-celebration-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-30th-celebration-mini-tin": {
