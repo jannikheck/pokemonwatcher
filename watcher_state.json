@@ -177,11 +177,11 @@
   },
   "CardCosmos::ALL": {
     "pokemon-30th-celebration-sylveon-ex-collection-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-greninja-ex-collection-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-collection-20er-display-japanisch-16-pocket-zip-premium-leather-binder-pink": {
@@ -1133,7 +1133,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-infernape-v-kollektion-englisch": {
@@ -1607,7 +1607,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-galagladi-viscora-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -5010,6 +5010,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-silver-tempest-booster-eng-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-dschungel-light-booster-knnuddeluff-de": {
       "a": true,
       "p": false
@@ -5615,7 +5619,7 @@
       "p": false
     },
     "pokemon-evolving-skies-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatische-entwicklungen-mini-tin-display-de": {
@@ -5895,11 +5899,11 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch-1": {
@@ -6835,7 +6839,7 @@
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -11593,7 +11597,7 @@
   },
   "BESCARDS::ALL": {
     "pokemon-30th-anniversary-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-booster-bundle": {
@@ -11633,7 +11637,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-binder-collection": {
@@ -12007,7 +12011,7 @@
   },
   "The TCG Shop UK::ALL": {
     "pokemon-tcg-30th-celebration-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-30th-celebration-mini-tin": {
