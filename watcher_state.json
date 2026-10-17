@@ -5607,7 +5607,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-3-booster-s-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-3-display-s-chn": {
@@ -8971,7 +8971,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-05-pitch-black-2-pack-checklane-blister-zarude": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-booster-bundle-english-copy": {
@@ -8995,7 +8995,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-3-booster-blister-binacle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box-36-boosters": {
@@ -9007,7 +9007,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-random": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-luxray": {
@@ -9035,11 +9035,11 @@
       "p": false
     },
     "pokemon-tcg-battle-styles-booster": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-rebels-clash-booster": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-fusion-strike-booster": {
@@ -9087,7 +9087,7 @@
       "p": false
     },
     "pokemon-enhanced-2-booster-blister-oddish-gloom-vileplume": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-vaporeon": {
@@ -9275,11 +9275,11 @@
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-sneasel": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-premium-checklane-blister-blaziken": {
