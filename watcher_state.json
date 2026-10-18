@@ -1861,7 +1861,7 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-quajutsu-ex-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-nacht-feelinara-ex-tin-de": {
@@ -11838,7 +11838,7 @@
     },
     "pokemon-chaos-rising-booster-box": {
       "a": true,
-      "p": false
+      "p": true
     },
     "pokemon-chaos-rising-elite-trainer-box": {
       "a": false,
