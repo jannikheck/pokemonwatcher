@@ -5010,6 +5010,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
+      "a": true,
+      "p": false
+    },
     "pokemon-silver-tempest-booster-eng-1": {
       "a": true,
       "p": false
@@ -5032,10 +5036,6 @@
     },
     "pokemon-charizard-vstar-box-s-chn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-30-jahre-top-trainer-box-eng": {
-      "a": false,
       "p": false
     },
     "fantasiacards-pokemon-booster-bag": {
@@ -5931,7 +5931,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
@@ -9263,7 +9263,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile": {
