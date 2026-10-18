@@ -5010,6 +5010,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-151-karmesin-und-purpur-booster-bundle-de-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
       "a": true,
       "p": false
@@ -5887,7 +5891,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
@@ -5911,7 +5915,7 @@
       "p": false
     },
     "pokemon-30-jahre-tin-box-tag-feelinara-ex-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-evoli-2er-blister-deutsch": {
@@ -8922,6 +8926,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-delta-reign-booster-box-36-boosters-english": {
+      "a": false,
+      "p": false
+    },
     "pokemon-enhanced-2-pack-blister-gengar-marshadow-team-rockets-mimikyu-english": {
       "a": true,
       "p": false
