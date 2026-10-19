@@ -17,7 +17,7 @@
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-erhabene-helden-me2-5-mega-premium-poster-kollektion-de-random-preorder-20-03-2026-limit-2-person": {
@@ -1651,7 +1651,7 @@
       "p": false
     },
     "wachsendes-chaos-booster-bundle-alle-4-artworks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-glurak-x-card-sleeves-65-ultra-premium-collection-upc-mega-charizard-x-2025": {
@@ -4005,7 +4005,7 @@
       "p": false
     },
     "pokemon-tcg-paldea-partners-tin-2023-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-destined-rivals-sv10-elite-trainer-box-eng": {
@@ -5143,7 +5143,7 @@
       "p": false
     },
     "pokemon-30th-celebration-coin-set-s-chn-vorbestellung-versand-ende-september-2026-kopie": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
@@ -7400,6 +7400,10 @@
     }
   },
   "Otakura::ALL": {
+    "30th-celebration-booster-bundle-6-buste-pokemon-tcg-eng": {
+      "a": false,
+      "p": false
+    },
     "30th-celebration-bundle-2-ex-tin-sylveon-greninja-pokemon-tcg-eng": {
       "a": false,
       "p": false
@@ -8995,7 +8999,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-box-36-boosters": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
