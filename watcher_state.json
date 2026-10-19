@@ -176,6 +176,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-evolution-pitch-black-booster-display-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-celebration-sylveon-ex-collection-englisch": {
       "a": false,
       "p": false
@@ -1435,10 +1439,6 @@
     "pokemon-pokemon-day-2026-kollektion-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-fatale-flammen-18er-booster-box-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -2489,7 +2489,7 @@
       "p": false
     },
     "pokemon-go-special-collection-team-valor-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-go-special-collection-team-mystic-eng": {
@@ -2497,7 +2497,7 @@
       "p": false
     },
     "pokemon-go-special-collection-team-instinct": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-go-premium-collection-radiant-eevee-eng": {
@@ -2877,7 +2877,7 @@
       "p": false
     },
     "pokemon-white-flare-booster-bundle-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-white-flare-booster-bundle-eng": {
@@ -3509,7 +3509,7 @@
       "p": false
     },
     "pokemon-silver-tempest-3-pack-blister-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lost-origin-build-battle-stadium-box-eng": {
@@ -3553,7 +3553,7 @@
       "p": false
     },
     "pokemon-v-forces-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-white-flare-unova-mini-tin-display-eng": {
@@ -4057,7 +4057,7 @@
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-18er-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-journey-together-elite-trainer-box-eng": {
@@ -6803,11 +6803,11 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
@@ -8125,7 +8125,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-sleeves-65st": {
@@ -11580,6 +11580,18 @@
     }
   },
   "BESCARDS::ALL": {
+    "pok-shrouded-fable-booster-bundle-fr": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-coffret-collection-premium-pouvoirs-en-evolution-fr": {
+      "a": true,
+      "p": false
+    },
+    "pok-151-poster-collection-fr": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-anniversary-mini-tin": {
       "a": true,
       "p": false
@@ -11670,7 +11682,7 @@
     },
     "pitch-black-booster-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
       "a": true,
@@ -11834,7 +11846,7 @@
     },
     "pokemon-chaos-rising-booster-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
       "a": false,
