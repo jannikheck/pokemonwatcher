@@ -5151,7 +5151,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -5647,7 +5647,7 @@
       "p": false
     },
     "pokemon-gewalten-der-zeit-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-booster-deutsch": {
@@ -5903,7 +5903,7 @@
       "p": false
     },
     "pokemon-30-jahre-tech-sticker-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
@@ -6173,7 +6173,7 @@
       "p": false
     },
     "de-pokemon-pokeball-tin-box-2025": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "de-pokemon-box-glurak-ex-super-premium-kollektion": {
@@ -7716,6 +7716,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-30th-celebration-booster-bundle": {
+      "a": false,
+      "p": false
+    },
     "pokemon-scarlet-violet-9-journey-together-booster-bundle": {
       "a": true,
       "p": false
@@ -11613,7 +11617,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-greninja-ex": {
