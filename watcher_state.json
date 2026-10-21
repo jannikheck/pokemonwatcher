@@ -1595,7 +1595,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-meganie-psiaugon-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -5151,7 +5151,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -5752,6 +5752,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "pokemon-mega-entwicklungen-delta-herrschaft-prerelease-turnier-31-10-26-11-uhr": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-entwicklungen-delta-herrschaft-prerelease-turnier-31-10-26-17-uhr": {
       "a": true,
       "p": false
