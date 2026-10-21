@@ -1427,18 +1427,6 @@
     "pokemon-mega-entwicklung-booster-box-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-pokemon-go-relaxo-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-celebrations-ultra-premium-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-day-2026-kollektion-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -6177,7 +6165,7 @@
       "p": false
     },
     "de-pokemon-pokeball-tin-box-2025": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-box-glurak-ex-super-premium-kollektion": {
@@ -6782,32 +6770,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-binder-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-poster-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-tin-day-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-tin-night-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-sylveon-ex-kollektion-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-greninja-ex-kollektion-en": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
@@ -8261,7 +8225,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-ultra-pro-9-pocket-binder": {
@@ -8329,7 +8293,7 @@
       "p": false
     },
     "pokemon-tcg-holiday-calendar-adventskalender-2025": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-team-rocket-ex-tin-1": {
@@ -11609,7 +11573,7 @@
       "p": false
     },
     "pok-151-poster-collection-fr": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-mini-tin": {
