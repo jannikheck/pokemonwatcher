@@ -1,9 +1,5 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
-      "a": false,
-      "p": true
-    },
     "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
       "a": false,
       "p": false
@@ -4749,7 +4745,7 @@
       "p": false
     },
     "pokemon-obsidian-flames-3-pack-blister-eevee-houndstone": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-paldean-fates-tech-sticker-collection-fidough-greavard-maschiff": {
@@ -5523,7 +5519,7 @@
       "p": false
     },
     "pokemon-booster-bundle-journey-together-obsidian-flames-paradox-rift-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-astralglanz-booster-deutsch": {
