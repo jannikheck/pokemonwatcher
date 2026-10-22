@@ -5622,10 +5622,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-gewalten-der-zeit-booster-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-entwicklungen-in-paldea-booster-deutsch": {
       "a": true,
       "p": false
@@ -5728,6 +5724,14 @@
     }
   },
   "CardBuddies::ALL": {
+    "30-jahre-2-pack-blister-de-1": {
+      "a": false,
+      "p": false
+    },
+    "30-jahre-booster-bundle-de": {
+      "a": false,
+      "p": false
+    },
     "30-jahre-top-trainer-box-de": {
       "a": false,
       "p": false
@@ -7360,6 +7364,10 @@
     }
   },
   "Otakura::ALL": {
+    "bundle-2-mazzi-lotte-espeon-ex-umbreon-ex-30-anniversario-ita": {
+      "a": true,
+      "p": false
+    },
     "30th-celebration-booster-bundle-6-buste-pokemon-tcg-eng": {
       "a": false,
       "p": false
