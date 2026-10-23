@@ -8293,7 +8293,7 @@
       "p": false
     },
     "pokemon-tcg-holiday-calendar-adventskalender-2025": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-team-rocket-ex-tin-1": {
@@ -8881,18 +8881,6 @@
       "p": false
     },
     "pokemon-crown-zenith-forvaringslada-tom-elite-trainer-box-4st-card-dividers": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-combined-powers-premium-collection-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-paradox-clash-tin-iron-leaves-ex": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-paradox-clash-tin-walking-wake-ex": {
       "a": false,
       "p": false
     }
@@ -11925,7 +11913,7 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-portfolio-9-pocket": {
