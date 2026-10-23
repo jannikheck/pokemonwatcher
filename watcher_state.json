@@ -5875,7 +5875,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
@@ -5971,7 +5971,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de-mega-entwicklung-major-cards-tcg": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-boosterbundle-de-major-cards-tcg": {
@@ -6767,7 +6767,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
@@ -6779,11 +6779,11 @@
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
@@ -6791,7 +6791,7 @@
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -7312,6 +7312,126 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-30th-celebration-mini-tin-night-zapdos-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-umbreon-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-mewtwo-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-pikachu-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-greninja-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-moltres-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-lapras-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-mew-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-pikachu-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-espeon-art-card": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-zapdos-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-umbreon-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-mewtwo-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-pikachu-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-greninja-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-moltres-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-lapras-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-mew-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-pikachu-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-espeon-sticker": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-zapdos-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-umbreon-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-mewtwo-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-greninja-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-night-pikachu-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-pikachu-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-moltres-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-mew-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-espeon-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-mini-tin-day-lapras-empty-mini-tin": {
+      "a": false,
+      "p": true
+    },
     "pokemon-sylveon-card-display": {
       "a": false,
       "p": false
@@ -7365,7 +7485,7 @@
   },
   "Otakura::ALL": {
     "bundle-2-mazzi-lotte-espeon-ex-umbreon-ex-30-anniversario-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "30th-celebration-booster-bundle-6-buste-pokemon-tcg-eng": {
@@ -7481,7 +7601,7 @@
       "p": false
     },
     "tin-da-collezione-mega-chiarodiluna-mega-gengar-ex-pokemon-tcg-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "tin-da-collezione-mega-chiarodiluna-mega-clefable-ex-pokemon-tcg-ita": {
@@ -8101,7 +8221,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-sleeves-65st": {
