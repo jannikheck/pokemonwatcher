@@ -1820,6 +1820,42 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-battle-styles-premium-3-pack-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-verlorener-ursprung-3-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-obsidianflammen-3-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-karmesin-und-purpur-build-battle-stadium-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-phantasmal-flames-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-chilling-reign-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-galar-power-mini-tin-display-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-hidden-potential-tins-giratina-v-tin-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-build-and-battlebox-reisegefahrten-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-kollektion-feelinara-ex-de": {
       "a": false,
       "p": false
@@ -5035,7 +5071,7 @@
       "p": false
     },
     "pokemon-30th-celebration-binder-collection-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
@@ -5862,6 +5898,10 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-mega-entwicklung-booster-display-36-booster-deutsch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-greninja-ex-box-englisch": {
       "a": true,
       "p": false
@@ -5875,7 +5915,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
@@ -8901,7 +8941,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-7-stellar-crown-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-origin-forme-palkia-vstar-premium-collection-box": {
