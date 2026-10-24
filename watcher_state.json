@@ -225,7 +225,7 @@
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch": {
@@ -1857,7 +1857,7 @@
       "p": false
     },
     "pokemon-30-jahre-kollektion-feelinara-ex-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-kollektion-quajutsu-ex-de": {
@@ -1865,7 +1865,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-booster-bundle-de": {
@@ -1985,7 +1985,7 @@
       "p": false
     },
     "pokemon-mega-quajutsu-ex-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-fliessender-angriff-wulaosu-v-box-de": {
@@ -3373,7 +3373,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-display": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-lucario-ex-tyranitar-ex-premium-collection": {
@@ -4294,6 +4294,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-crown-zenith-elite-trainer-box-etb-englisch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paldean-fates-elite-trainer-box": {
       "a": true,
       "p": false
@@ -5070,10 +5074,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-binder-collection-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn-vorbestellung-release-ende-september-2026": {
       "a": true,
       "p": false
@@ -5773,10 +5773,6 @@
       "p": false
     },
     "pokemon-mega-entwicklungen-delta-herrschaft-prerelease-turnier-31-10-26-17-uhr": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mega-entwicklungen-delta-herrschaft-prerelease-turnier-24-10-26-17-uhr": {
       "a": true,
       "p": false
     },
