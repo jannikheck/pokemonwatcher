@@ -7507,7 +7507,7 @@
       "p": false
     },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
@@ -7763,15 +7763,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7831,7 +7831,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -8341,7 +8341,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
