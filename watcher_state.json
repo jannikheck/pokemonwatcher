@@ -6807,11 +6807,11 @@
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
@@ -8025,7 +8025,7 @@
       "p": false
     },
     "pokemon-sword-shield-battle-region-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-shiny-treasure-booster-box": {
@@ -8069,7 +8069,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-scarlet-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-violet-booster-box": {
