@@ -5163,7 +5163,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -5287,7 +5287,7 @@
       "p": false
     },
     "pokemon-german-booster-bundle-obsidianflammen-entwicklungen-in-paldea-karmesin-purpur-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ultra-booster-bundle-sword-shield-era-eng-1": {
@@ -6237,7 +6237,7 @@
       "p": false
     },
     "s-chn-pokemon-box-collect-151-card-stands": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-box-vstar-premium-kollektion-ur-dialga-vstar-45416": {
@@ -9335,7 +9335,7 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-repeat-ball-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-ultra-ball-english": {
@@ -9343,7 +9343,7 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-poke-ball-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-great-ball-english": {
@@ -11793,7 +11793,7 @@
       "p": false
     },
     "pokemon-perfect-order-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-twilight-masquerade-18-packs-booster-box-brand-new-sealed": {
