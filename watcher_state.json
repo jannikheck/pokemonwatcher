@@ -1575,7 +1575,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-meganie-psiaugon-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -2273,7 +2273,7 @@
       "p": false
     },
     "acrylcase-mit-magneten-fur-pokemon-36-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "acrylcase-mit-magneten-fur-pokemon-trainer-box": {
@@ -5030,6 +5030,14 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-gem-pack-vol-2-booster-s-chn-1": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-gem-pack-vol-2-display-s-chn-1": {
+      "a": true,
+      "p": false
+    },
     "pokemon-151-karmesin-und-purpur-booster-bundle-de-kopie": {
       "a": true,
       "p": false
@@ -9843,7 +9851,7 @@
       "p": false
     },
     "pokemon-perfect-order-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
@@ -12130,6 +12138,18 @@
     }
   },
   "The TCG Shop UK::ALL": {
+    "pokemon-tcg-30th-celebration-night-ultra-premium-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-delta-reign-booster-display-box": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-booster-bundle": {
       "a": false,
       "p": false
