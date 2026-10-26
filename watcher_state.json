@@ -172,6 +172,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-aura-seeker-m7-booster-display-japanisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-pitch-black-booster-display-englisch": {
       "a": true,
       "p": false
@@ -1353,7 +1357,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
@@ -6791,7 +6795,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
@@ -7713,7 +7717,7 @@
       "p": false
     },
     "calendario-avvento-pokemon-2025-it": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "white-flare-elite-trainer-box-pokemon-eng": {
