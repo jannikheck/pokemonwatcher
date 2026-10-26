@@ -7503,7 +7503,7 @@
   },
   "TCG Stadium::ALL": {
     "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-151-blooming-waters-premium-collection": {
