@@ -5772,10 +5772,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "30-jahre-2-pack-blister-de-1": {
-      "a": false,
-      "p": false
-    },
     "pokemon-mega-entwicklungen-delta-herrschaft-prerelease-turnier-31-10-26-17-uhr": {
       "a": true,
       "p": false
@@ -6803,7 +6799,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
@@ -11733,11 +11729,11 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-sylveon-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-tin-greninja-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-tech-sticker-lucario": {
@@ -12118,22 +12114,6 @@
     },
     "lot-de-6-boosters-pokemon-151-ecarlate-et-violet-frans": {
       "a": false,
-      "p": false
-    },
-    "pokemon-galar-pals-mini-tin": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-galar-pals-mini-tin-10x": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-volume-4-booster-box-cn": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-volume-5-booster-box-cn": {
-      "a": true,
       "p": false
     }
   },
