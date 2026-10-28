@@ -2185,7 +2185,7 @@
       "p": false
     },
     "pokemon-pitch-black-3-pack-blister-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-booster-bundle-eng": {
@@ -5175,7 +5175,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -6141,7 +6141,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-kartenbinder-30th-celebration": {
@@ -6791,11 +6791,11 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-booster-bundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-de": {
@@ -6807,7 +6807,7 @@
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
@@ -6823,11 +6823,11 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -6843,7 +6843,7 @@
       "p": false
     },
     "pokemon-2-pack-blister-august-2026-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-3-de": {
@@ -6855,7 +6855,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-booster-bundle-de": {
@@ -7199,7 +7199,7 @@
       "p": false
     },
     "prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-accessory-pouch-special-collection-en": {
@@ -7844,8 +7844,20 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-perfect-order-booster-bundle": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-scarlet-violet-7-stellar-crown-half-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-30th-celebration-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-bundle": {
@@ -8213,7 +8225,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection": {
@@ -11845,7 +11857,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
