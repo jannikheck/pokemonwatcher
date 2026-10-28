@@ -6140,6 +6140,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
+      "a": true,
+      "p": true
+    },
     "pokemon-kartenbinder-30th-celebration": {
       "a": false,
       "p": true
@@ -7515,7 +7519,7 @@
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -9779,7 +9783,7 @@
       "p": false
     },
     "pokemon-tcg-pitch-black-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-pitch-black-3-pack-booster-blister-binacle": {
@@ -9799,7 +9803,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
