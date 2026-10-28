@@ -8809,7 +8809,7 @@
       "p": false
     },
     "pokemon-rr-rrr-bulk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-9-brilliant-stars-booster-box": {
@@ -11857,7 +11857,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
