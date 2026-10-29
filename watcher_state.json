@@ -5123,7 +5123,7 @@
       "p": false
     },
     "pokemon-twilight-masquerade-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-booster-eng-1": {
@@ -5311,7 +5311,7 @@
       "p": false
     },
     "pokemon-ultra-booster-bundle-scarlet-violet-era-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-1-booster-eng": {
@@ -5559,7 +5559,7 @@
       "p": false
     },
     "pokemon-booster-bundle-journey-together-obsidian-flames-paradox-rift-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-astralglanz-booster-deutsch": {
@@ -7502,6 +7502,18 @@
     }
   },
   "TCG Stadium::ALL": {
+    "pokemon-trading-card-game-prismatic-evolutions-blister-two-pack": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-and-violet-151-ultra-premium-collection-preorder": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-tcg-scarlet-violet-10-5-white-flare-binder-collection": {
+      "a": false,
+      "p": false
+    },
     "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
       "a": false,
       "p": false
@@ -9500,10 +9512,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-chaos-rising-booster-bundle": {
-      "a": false,
-      "p": false
-    },
     "pokemon-chaos-rising-booster-box": {
       "a": false,
       "p": false
@@ -9517,10 +9525,6 @@
       "p": false
     },
     "pokemon-ascended-heroes-mini-tin": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ascended-heroes-2-pack-blister-collection": {
       "a": false,
       "p": false
     },
