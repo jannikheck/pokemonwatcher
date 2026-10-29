@@ -51,7 +51,7 @@
   },
   "Feenturm::ALL": {
     "pokemon-mega-entwicklung-optimale-ordnung-top-trainer-box-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-erhabene-helden-top-trainer-box-de": {
@@ -1555,7 +1555,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -2901,7 +2901,7 @@
       "p": false
     },
     "pokemon-schwarze-blitze-weisse-flammen-mini-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklungen-3-pack-blister-de": {
@@ -5523,7 +5523,7 @@
       "p": false
     },
     "pokemon-booster-bundle-journey-together-obsidian-flames-paradox-rift-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-astralglanz-booster-deutsch": {
@@ -7549,7 +7549,7 @@
       "p": false
     },
     "pokemon-30th-poster-collection-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "bundle-2-tin-sylveon-ex-greninja-ex-30-anniversario-pokemon-tcg-ita": {
@@ -7845,7 +7845,7 @@
       "p": false
     },
     "pokemon-mega-evolution-perfect-order-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-first-partner-illustration-collection-series-2": {
@@ -8029,7 +8029,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-future-flash-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-ancient-roar-booster-box": {
@@ -8057,7 +8057,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-snow-hazard-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-clay-burst-booster-box": {
@@ -8229,7 +8229,7 @@
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-first-partner-deluxe-pin-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box": {
@@ -8356,6 +8356,10 @@
       "a": true,
       "p": false
     },
+    "pokemon-scarlet-violet-8-5-prismatic-evolutions-accessory-pouch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-premium-figure-collection-1": {
       "a": true,
       "p": false
@@ -8373,7 +8377,7 @@
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-destined-rivals-ultra-pro-9-pocket-binder": {
@@ -8413,7 +8417,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-elite-trainer-box-gardevoir": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-elite-trainer-box-lucario": {
@@ -8449,11 +8453,11 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-trick-or-trade-booster-bundle-2023": {
@@ -8465,23 +8469,23 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-tech-sticker-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-tech-sticker-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-white-flare-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-white-flare-victini-illustration-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-single-strike-urshifu-vmax-premium-collection-box": {
@@ -8761,11 +8765,11 @@
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-tech-sticker-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-binder-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-poster-collection-box": {
@@ -8925,7 +8929,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-7-stellar-crown-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-7-stellar-crown-booster-box": {
