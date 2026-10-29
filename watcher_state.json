@@ -1,8 +1,8 @@
 {
   "TCGViert::ALL": {
-    "pokemon-tcg-enhanced-2-pack-blister-marz-2025-de": {
-      "a": false,
-      "p": false
+    "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
+      "a": true,
+      "p": true
     },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
       "a": true,
@@ -20,48 +20,12 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-erste-partner-kollektion-serie-1-de-preorder-20-03-2026-limit-1-person": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-ewige-rivalen-kp10-36er-display-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-phantasmal-flames-me02-booster-display-box-36-packs-en": {
       "a": true,
       "p": false
     },
     "pokemon-tcg-prismatic-evolutions-sv8-5-super-premium-collection-en-limit": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-premium-tournament-collection-lillie-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-terapagos-ex-ultra-premium-collection-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-prismatische-entwicklungen-kp8-5-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-prismatische-entwicklungen-kp8-5-poster-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-obsidian-flames-sv3-3er-blister-random-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-nebel-der-sagen-kp6-5-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-erhabene-helden-me2-5-mega-ex-box-de-preorder-24-04-26-limit-3-person": {
-      "a": false,
       "p": false
     },
     "pokemon-tcg-pokeball-tin-2025-en-max-3-person": {
@@ -1443,7 +1407,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -5547,7 +5511,7 @@
       "p": false
     },
     "pokemon-optimale-ordnung-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-1-de": {
@@ -5571,7 +5535,7 @@
       "p": false
     },
     "pokemon-obsidian-flammen-booster-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-temporal-forces-booster-eng": {
@@ -7701,7 +7665,7 @@
       "p": false
     },
     "rivali-predestinati-booster-display-da-36-bustine-pokemon-scarlatto-e-violetto-sv10-ita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "mega-evolution-perfect-order-booster-display-da-36-bustine-pokemon-eng": {
