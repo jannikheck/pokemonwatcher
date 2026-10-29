@@ -1,5 +1,9 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-erhabene-helden-me2-5-mega-premium-poster-kollektion-de-random-preorder-20-03-2026-limit-2-person": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
       "a": true,
       "p": true
@@ -14,10 +18,6 @@
     },
     "pokemon-tcg-pokemon-day-2026-kollektion-de": {
       "a": false,
-      "p": false
-    },
-    "pokemon-tcg-erhabene-helden-me2-5-mega-premium-poster-kollektion-de-random-preorder-20-03-2026-limit-2-person": {
-      "a": true,
       "p": false
     },
     "pokemon-tcg-phantasmal-flames-me02-booster-display-box-36-packs-en": {
@@ -109,30 +109,6 @@
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen": {
       "a": false,
       "p": true
-    },
-    "pokemon-30th-celebration-ultra-premium-collection-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-30th-celebration-booster-display-de-vorbestellung": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-erste-partner-illustrations-kollektion-serie-3-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-glurak-ex-super-premium-kollektion-deutsch-kopie": {
-      "a": false,
-      "p": false
-    },
-    "ultra-pro-pokemon-deck-box-tinkaton": {
-      "a": false,
-      "p": false
     }
   },
   "CardCosmos::ALL": {
@@ -153,7 +129,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-20er-display-japanisch-16-pocket-zip-premium-leather-binder-pink": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-pack-tchn": {
@@ -1249,7 +1225,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-briduradon-ex-kollektion-deutsch": {
@@ -5271,7 +5247,7 @@
       "p": false
     },
     "pokemon-booster-bundle-shining-fates-paldea-evolved-vivid-voltage-eng-1": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ultra-booster-bundle-scarlet-violet-era-eng": {
@@ -5379,10 +5355,6 @@
       "p": false
     },
     "pokemon-dream-painting-water-figure-set-blind-box-s-chn": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-blue-sky-stream-display-kor": {
       "a": true,
       "p": false
     },
@@ -8069,7 +8041,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-violet-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-vstar-universe-booster-box": {
