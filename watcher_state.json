@@ -1379,10 +1379,6 @@
     "pokemon-glurak-ex-super-premium-kollektion-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-glanzendes-schicksal-cottomi-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -11813,7 +11809,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11821,7 +11817,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
