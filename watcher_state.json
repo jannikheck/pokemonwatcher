@@ -109,6 +109,30 @@
     "pokemon-tcg-30th-celebration-booster-bundle-deutsch-jetzt-vorbestellen": {
       "a": false,
       "p": true
+    },
+    "pokemon-30th-celebration-ultra-premium-collection-deutsch-jetzt-vorbestellen": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-30th-celebration-elite-trainer-box-deutsch-jetzt-vorbestellen": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-tcg-30th-celebration-booster-display-de-vorbestellung": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-tcg-erste-partner-illustrations-kollektion-serie-3-deutsch-jetzt-vorbestellen": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-glurak-ex-super-premium-kollektion-deutsch-kopie": {
+      "a": false,
+      "p": false
+    },
+    "ultra-pro-pokemon-deck-box-tinkaton": {
+      "a": false,
+      "p": false
     }
   },
   "CardCosmos::ALL": {
@@ -9404,20 +9428,8 @@
     }
   },
   "Hobby Addicts::ALL": {
-    "pokemon-30th-celebration-tech-sticker-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-poster-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-knock-out-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-elite-trainer-box": {
-      "a": false,
+    "pokemon-deck-crafters-collection-meowth": {
+      "a": true,
       "p": false
     },
     "pokemon-perfect-order-booster-box": {
