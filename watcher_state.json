@@ -6109,7 +6109,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-kartenbinder-30th-celebration": {
@@ -9375,7 +9375,7 @@
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-collection-erika-s-tangela": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-collection-larry-s-komala": {
@@ -11809,7 +11809,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
