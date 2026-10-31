@@ -51,7 +51,7 @@
   },
   "Feenturm::ALL": {
     "pokemon-mega-entwicklung-optimale-ordnung-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-erhabene-helden-top-trainer-box-de": {
@@ -269,7 +269,7 @@
       "p": false
     },
     "pokemon-mega-lucario-ex-figuren-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-silver-tempest-booster-bundle-en": {
@@ -305,7 +305,7 @@
       "p": false
     },
     "pokemon-night-wanderer-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-team-rocket-nidoking-ex-tin-box-deutsch": {
@@ -829,7 +829,7 @@
       "p": false
     },
     "pokemon-gem-pack-badge-set-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-destined-rivals-sleeved-booster-en": {
@@ -905,7 +905,7 @@
       "p": false
     },
     "pokemon-clay-burst-booster-display-kor": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-terapagos-ex-ultra-premium-collection-englisch": {
@@ -4370,10 +4370,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-booster-wachsendes-chaos-deutsch-live-boxbreak-chris": {
-      "a": false,
-      "p": false
-    },
     "pokemon-ascended-heroes-booster-bundle-englisch": {
       "a": false,
       "p": false
@@ -4383,10 +4379,6 @@
       "p": false
     },
     "pokemon-prismatic-evolution-elite-trainer-box-etb-englische-version-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-gem-pack-badge-set-cbb1-2-3-live-boxbreak-fred": {
       "a": false,
       "p": false
     },
@@ -5899,7 +5891,7 @@
       "p": false
     },
     "pokemon-30-jahre-tech-sticker-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tin-box-nacht-quajutsu-ex-deutsch": {
