@@ -189,7 +189,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
@@ -209,7 +209,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-mini-tin-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-und-violet-white-flare-booster-bundle-englisch": {
@@ -641,7 +641,7 @@
       "p": false
     },
     "pokemon-battle-styles-v-strikers-empoleon-v-tin-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-panferno-v-kollektion-deutsch": {
@@ -653,7 +653,7 @@
       "p": false
     },
     "pokemon-battle-styles-v-strikers-tyranitar-v-tin-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-hisui-zoroark-vstar-premium-kollektion-deutsch": {
@@ -689,7 +689,7 @@
       "p": false
     },
     "pokemon-glanzendes-schicksal-bellektro-v-tin-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dragoran-v-kollektion-deutsch": {
@@ -1141,7 +1141,7 @@
       "p": false
     },
     "pokemon-pokemon-go-20er-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-koraidon-top-trainer-box-deutsch": {
@@ -4421,7 +4421,7 @@
       "p": false
     },
     "pokemon-tin-box-team-rockets-mewtu-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-wachsendes-chaos-display": {
@@ -5002,6 +5002,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-elite-trainer-box-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-vol-2-booster-s-chn-1": {
       "a": true,
       "p": false
@@ -5619,7 +5623,7 @@
       "p": false
     },
     "pokemon-trick-or-trade-2024-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "the-acrylic-box-elite-trainer-box-pokemon": {
@@ -5740,10 +5744,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "pokemon-mega-entwicklungen-delta-herrschaft-prerelease-turnier-31-10-26-17-uhr": {
-      "a": true,
-      "p": false
-    },
     "pok-mon-mystery-booster-bag": {
       "a": false,
       "p": false
@@ -6109,7 +6109,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-kartenbinder-30th-celebration": {
@@ -7171,7 +7171,7 @@
       "p": false
     },
     "prismatische-entwicklungen-super-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "prismatic-evolutions-accessory-pouch-special-collection-en": {
@@ -7869,7 +7869,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-box-jpn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-inferno-x-booster-box-koreansk": {
@@ -9127,7 +9127,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-luxray": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-moonlit-ex-tin-gengar-ex": {
