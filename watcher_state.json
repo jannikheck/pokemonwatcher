@@ -665,7 +665,7 @@
       "p": false
     },
     "pokemon-verborgenes-potenzial-galagladi-v-tin-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ur-palkia-vstar-premium-kollektion-deutsch": {
@@ -689,7 +689,7 @@
       "p": false
     },
     "pokemon-glanzendes-schicksal-bellektro-v-tin-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dragoran-v-kollektion-deutsch": {
@@ -697,7 +697,7 @@
       "p": false
     },
     "pokemon-glanzendes-schicksal-urgl-v-tin-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-glurak-ex-spezial-kollektion-mit-promo-deutsch": {
@@ -1137,7 +1137,7 @@
       "p": false
     },
     "pokemon-enhanced-marz-2025-2-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pokemon-go-20er-display-japanisch": {
@@ -3369,7 +3369,7 @@
       "p": false
     },
     "pokemon-mega-evolution-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-display": {
@@ -8937,7 +8937,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-6-5-shrouded-fable-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-mini-tin": {
@@ -9363,6 +9363,10 @@
       "p": false
     },
     "pokemon-phantasmal-flames-booster-bundle": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-phantasmal-flames-booster-box-english": {
       "a": false,
       "p": false
     }
