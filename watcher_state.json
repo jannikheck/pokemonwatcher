@@ -677,7 +677,7 @@
       "p": false
     },
     "pokemon-verborgenes-potenzial-giratina-v-tin-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ur-dialga-vstar-premium-kollektion-deutsch": {
@@ -701,7 +701,7 @@
       "p": false
     },
     "pokemon-glurak-ex-spezial-kollektion-mit-promo-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-evolving-skies-pokemon-center-elite-trainer-box-englisch": {
@@ -1365,7 +1365,7 @@
       "p": false
     },
     "pokemon-weg-des-champs-claw-city-arena-pin-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-charizard-ex-super-premium-collection-englisch": {
@@ -2161,7 +2161,7 @@
       "p": false
     },
     "pokemon-pitch-black-3-pack-blister-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pitch-black-booster-bundle-eng": {
@@ -4298,10 +4298,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-ascended-heroes-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-evolving-skies-elite-trainer-box-englisch": {
       "a": true,
       "p": false
@@ -4310,36 +4306,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-espeon-v-tin-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-umbreonv-tin-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-151-elite-trainer-box-englisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-display-gewalten-der-zeit-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-black-bolt-white-flare-sv10-5-unova-victini-illustration-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-vivid-voltage-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-astral-radiance-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-darkness-ablaze-elite-trainer-box-englisch-kopie": {
-      "a": false,
       "p": false
     },
     "pokemon-obsidian-flames-elite-trainer-box-englisch": {
@@ -4350,28 +4318,8 @@
       "a": false,
       "p": false
     },
-    "pokemon-strahlende-sterne-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-charizard-ultra-premium-collection-englische-version": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ewige-rivalen-top-trainer-box-ttb-deutsche-version": {
-      "a": false,
-      "p": false
-    },
     "pokemon-151-mini-tin-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-top-trainer-box-ttb-deutsche-version-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-ascended-heroes-booster-bundle-englisch": {
-      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-display-englisch": {
@@ -4379,10 +4327,6 @@
       "p": false
     },
     "pokemon-prismatic-evolution-elite-trainer-box-etb-englische-version-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-evolutions-display-englisch": {
       "a": false,
       "p": false
     }
@@ -5239,7 +5183,7 @@
       "p": false
     },
     "pokemon-chilling-reign-snorlax-3er-blister-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chilling-reign-eevee-3er-blister-eng": {
@@ -6739,7 +6683,7 @@
   },
   "Cardcorner::ALL": {
     "pokemon-30th-celebration-poster-collection-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "verlorener-ursprung-top-trainer-box-de": {
