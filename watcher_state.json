@@ -136,6 +136,42 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-brave-30er-display-ohne-folie-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-symphonia-30er-display-ohne-folie-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-m6a-booster-koreanisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-abyss-eye-30er-display-noshrink-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-ninja-spinner-30er-display-noshrink-japanisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-m6a-booster-display-koreanisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-karmesin-purpur-151-zapdos-ex-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-weg-des-champs-silembrim-v-kollektion-deutsch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-pikachu-v-collection-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-aura-seeker-m7-booster-display-japanisch": {
       "a": false,
       "p": false
@@ -233,7 +269,7 @@
       "p": false
     },
     "pokemon-mega-inferno-x-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-collect-151-first-partner-glumanda-display-set-chinesisch": {
@@ -641,7 +677,7 @@
       "p": false
     },
     "pokemon-battle-styles-v-strikers-empoleon-v-tin-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-panferno-v-kollektion-deutsch": {
@@ -653,7 +689,7 @@
       "p": false
     },
     "pokemon-battle-styles-v-strikers-tyranitar-v-tin-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-hisui-zoroark-vstar-premium-kollektion-deutsch": {
@@ -1281,7 +1317,7 @@
       "p": false
     },
     "pokemon-abyss-eye-booster-display-koreanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-ewige-rivalen-top-trainer-box-de": {
@@ -1365,18 +1401,6 @@
       "p": false
     },
     "pokemon-weg-des-champs-claw-city-arena-pin-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-charizard-ex-super-premium-collection-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-schw-schi-astralglanz-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-glurak-ex-super-premium-kollektion-deutsch": {
       "a": false,
       "p": false
     }
@@ -4946,6 +4970,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-gem-pack-vol-7-display-s-chn-vorbestellung-release-21-11-26": {
+      "a": true,
+      "p": true
+    },
     "pokemon-30th-celebration-elite-trainer-box-eng": {
       "a": true,
       "p": false
@@ -5251,7 +5279,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-booster-eng": {
@@ -5688,6 +5716,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "mega-entwicklungen-delta-herrschaft-booster-bundle-de": {
+      "a": false,
+      "p": false
+    },
     "pok-mon-mystery-booster-bag": {
       "a": false,
       "p": false
@@ -6053,7 +6085,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-kartenbinder-30th-celebration": {
@@ -7373,7 +7405,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-moltres-empty-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-mew-empty-mini-tin": {
@@ -7772,6 +7804,42 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-30th-celebration-card-set-first-partner-gen-9-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-8-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-7-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-6-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-5-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-4-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-3-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-2-jpn": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-card-set-first-partner-gen-1-jpn": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
       "a": true,
       "p": false
@@ -7813,7 +7881,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-box-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-inferno-x-booster-box-koreansk": {
