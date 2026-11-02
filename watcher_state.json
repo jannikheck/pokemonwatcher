@@ -1391,7 +1391,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-dunkelnacht-6-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -8986,6 +8986,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-bundle-first-partner-illustration-collection-2-illustration-collection-3": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-reign-booster-box-36-boosters-english": {
       "a": false,
       "p": false
@@ -9359,14 +9363,6 @@
       "p": false
     },
     "pokemon-phantasmal-flames-elite-trainer-box-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-booster-box-english": {
       "a": false,
       "p": false
     }
