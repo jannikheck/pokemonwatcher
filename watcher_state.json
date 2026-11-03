@@ -825,7 +825,7 @@
       "p": false
     },
     "pokemon-sonne-mond-verborgenes-schicksal-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-violet-ex-30er-display-japanisch": {
@@ -5809,10 +5809,6 @@
       "p": false
     },
     "generationen-mysteriose-pokemon-kollektion-manaphy-de": {
-      "a": false,
-      "p": false
-    },
-    "acryl-case-f-r-pokemon-regular-tin": {
       "a": false,
       "p": false
     },
