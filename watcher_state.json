@@ -5039,7 +5039,7 @@
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-white-flare-elite-trainer-box-eng-1": {
@@ -5123,7 +5123,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -6085,7 +6085,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-kartenbinder-30th-celebration": {
@@ -6609,7 +6609,7 @@
       "p": false
     },
     "gem-pack-vol-2-display-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "karmesin-purpur-build-and-battle-stadium-box-de": {
@@ -9054,6 +9054,22 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-mega-evolution-lumiose-city-mini-tin-gallade": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-lumiose-city-mini-tin-meganium": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-lumiose-city-mini-tin-salamence": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-lumiose-city-mini-tin-emboar": {
+      "a": true,
+      "p": false
+    },
     "pokemon-bundle-first-partner-illustration-collection-2-illustration-collection-3": {
       "a": true,
       "p": false
@@ -9155,7 +9171,7 @@
       "p": false
     },
     "pokemon-lumiose-city-mini-tin-feraligatr-budew": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-moonlit-ex-tin-clefable-ex": {
@@ -9408,30 +9424,6 @@
     },
     "pokemon-phantasmal-flames-3-pack-blister-weavile": {
       "a": true,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-3-pack-blister-sneasel": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-premium-checklane-blister-blaziken": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-premium-checklane-blister-hydrapple": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-checklane-blister-cottone": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-checklane-blister-whimsicott": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-elite-trainer-box-english": {
-      "a": false,
       "p": false
     }
   },
