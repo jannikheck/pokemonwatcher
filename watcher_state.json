@@ -1357,7 +1357,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
@@ -1373,34 +1373,6 @@
       "p": false
     },
     "pokemon-scarlet-violet-151-poster-collection-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-heiteira-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-prismatische-entwicklungen-premium-figuren-kollektion-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-stellarkrone-3-pack-blister-latias-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-stellarkrone-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-me-fatale-flammen-booster-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-weg-des-champs-claw-city-arena-pin-kollektion-deutsch": {
       "a": false,
       "p": false
     }
@@ -4314,32 +4286,8 @@
       "a": true,
       "p": false
     },
-    "pokemon-evolving-skies-elite-trainer-box-englisch-1": {
-      "a": true,
-      "p": false
-    },
     "pokemon-chilling-reign-display-englisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-evolving-skies-elite-trainer-box-englisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-weisse-flammen-ttb-deutsch-live-boxbreak-chris": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-151-elite-trainer-box-englisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-obsidian-flames-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-silver-tempest-elite-trainer-box-englisch": {
-      "a": false,
       "p": false
     },
     "pokemon-151-mini-tin-deutsch": {
@@ -4397,11 +4345,11 @@
       "p": false
     },
     "pokemon-tin-box-team-rockets-snobilikat": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tin-box-team-rockets-nidoking-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-display1": {
@@ -6710,6 +6658,22 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-delta-herrschaft-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-3-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-booster-bundle-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-display-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-poster-collection-en": {
       "a": false,
       "p": false
@@ -6775,7 +6739,7 @@
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-darkrai-tin-de": {
@@ -7292,6 +7256,18 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box-dice": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box-empty": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-pitch-black-elite-trainer-box-card-sleeves-65-sleeves": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-mini-tin-online-code-card": {
       "a": false,
       "p": false
@@ -8273,7 +8249,7 @@
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-sleeves-65st": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-premium-tournament-collection-professor-juniper-sleeves-65st": {
@@ -11933,7 +11909,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
