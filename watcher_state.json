@@ -5891,7 +5891,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
@@ -6747,7 +6747,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-2-pack-blister-30-jahre-de": {
@@ -9412,14 +9412,6 @@
     },
     "pokemon-me2-5-ascended-heroes-elite-trainer-box": {
       "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-phantasmal-flames-3-pack-blister-weavile": {
-      "a": true,
       "p": false
     }
   },
