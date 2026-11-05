@@ -209,7 +209,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
@@ -229,7 +229,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-mini-tin-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-und-violet-white-flare-booster-bundle-englisch": {
@@ -1253,11 +1253,11 @@
       "p": false
     },
     "pokemon-mega-entwicklung-delta-herrschaft-booster-bundle-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-delta-herrschaft-3-pack-blister-jurob-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-evoli-entwicklungen-blitza-v-tin-box-deutsch": {
@@ -1293,7 +1293,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-delta-herrschaft-me06-booster-display-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-pikachu-tin-box-deutsch": {
@@ -1341,7 +1341,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
@@ -1391,7 +1391,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-krafte-mega-zeraora-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
@@ -1765,10 +1765,6 @@
     "pokemon-schild-fusions-angriff-booster-pack-abenteuer": {
       "a": false,
       "p": false
-    },
-    "pokemon-tcg-ultra-premium-collection-charizard-kaufen-englisch": {
-      "a": false,
-      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -1777,7 +1773,7 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tech-sticker-kollektion-de": {
@@ -1785,7 +1781,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-battle-styles-premium-3-pack-blister-eng": {
@@ -4271,7 +4267,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-booster-deutsch-live-boxbreak-chris-kopie": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-display-englisch": {
@@ -4910,6 +4906,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-gem-pack-vol-6-display-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-vol-7-display-s-chn-vorbestellung-release-21-11-26": {
       "a": true,
       "p": true
@@ -5656,7 +5656,19 @@
     }
   },
   "CardBuddies::ALL": {
+    "mega-entwicklungen-delta-herrschaft-top-trainer-box-de": {
+      "a": false,
+      "p": false
+    },
+    "mega-entwicklungen-delta-herrschaft-jurob-3-pack-blister-de": {
+      "a": false,
+      "p": false
+    },
     "mega-entwicklungen-delta-herrschaft-booster-bundle-de": {
+      "a": false,
+      "p": false
+    },
+    "acryl-case-f-r-pokemon-regular-tin": {
       "a": false,
       "p": false
     },
@@ -6651,7 +6663,7 @@
   },
   "Cardcorner::ALL": {
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
@@ -9018,6 +9030,26 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-delta-reign-booster-box-18-boosters-english": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-ultra-premium-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-mew-figure-collection": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-mew": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-ditto-premium-collection-english": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-lumiose-city-mini-tin-gallade": {
       "a": true,
       "p": false
@@ -9039,7 +9071,7 @@
       "p": false
     },
     "pokemon-delta-reign-booster-box-36-boosters-english": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-gengar-marshadow-team-rockets-mimikyu-english": {
@@ -11636,12 +11668,16 @@
     }
   },
   "BESCARDS::ALL": {
-    "pok-shrouded-fable-booster-bundle-fr": {
+    "pokemon-25th-anniversary-charizard-gardevoir-2-reinforced-cn": {
       "a": true,
       "p": false
     },
+    "pok-shrouded-fable-booster-bundle-fr": {
+      "a": false,
+      "p": false
+    },
     "pokemon-coffret-collection-premium-pouvoirs-en-evolution-fr": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pok-151-poster-collection-fr": {
@@ -11649,7 +11685,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-booster-bundle": {
@@ -11697,7 +11733,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
@@ -11725,7 +11761,7 @@
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-2": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-perfect-order-booster-bundle": {
@@ -11753,7 +11789,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-premium-figure-collection-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-elite-trainer-box": {
@@ -11833,7 +11869,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-deluxe-pin-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ascended-heroes-mega-emboar-ex-collection-box": {
@@ -11849,7 +11885,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-premium-poster-collection-mega-gardevoir": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-astral-radiance-elite-trainer-box": {
@@ -12037,10 +12073,6 @@
       "p": false
     },
     "pokemon-future-flash-booster-box-kr": {
-      "a": false,
-      "p": false
-    },
-    "lot-de-6-boosters-pokemon-151-ecarlate-et-violet-frans": {
       "a": false,
       "p": false
     }
