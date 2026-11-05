@@ -149,7 +149,7 @@
       "p": false
     },
     "pokemon-weg-des-champs-silembrim-v-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pikachu-v-collection-box": {
@@ -4906,6 +4906,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-gem-pack-vol-6-booster-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-vol-6-display-s-chn": {
       "a": true,
       "p": false
@@ -5219,7 +5223,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-bundle-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-booster-eng": {
@@ -7431,11 +7435,11 @@
       "p": false
     },
     "pokemon-scarlet-and-violet-151-ultra-premium-collection-preorder": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-scarlet-violet-10-5-white-flare-binder-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
@@ -9030,6 +9034,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-delta-reign-3-pack-blister-seel": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-reign-booster-box-18-boosters-english": {
       "a": true,
       "p": false
@@ -9416,6 +9424,10 @@
     }
   },
   "Hobby Addicts::ALL": {
+    "pokemon-ultra-premium-collection-day": {
+      "a": false,
+      "p": false
+    },
     "pokemon-deck-crafters-collection-meowth": {
       "a": true,
       "p": false
@@ -11673,11 +11685,11 @@
       "p": false
     },
     "pok-shrouded-fable-booster-bundle-fr": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-coffret-collection-premium-pouvoirs-en-evolution-fr": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pok-151-poster-collection-fr": {
@@ -11685,7 +11697,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-booster-bundle": {
@@ -11733,7 +11745,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-elite-trainer-box": {
@@ -11761,7 +11773,7 @@
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-2": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-perfect-order-booster-bundle": {
@@ -11789,7 +11801,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-premium-figure-collection-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-elite-trainer-box": {
@@ -11869,7 +11881,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-deluxe-pin-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ascended-heroes-mega-emboar-ex-collection-box": {
@@ -11885,7 +11897,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-premium-poster-collection-mega-gardevoir": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-astral-radiance-elite-trainer-box": {
@@ -12033,7 +12045,7 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-portfolio-9-pocket": {
