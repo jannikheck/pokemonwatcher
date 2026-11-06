@@ -13,7 +13,7 @@
       "p": false
     },
     "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-kollektion-de": {
@@ -136,6 +136,14 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-white-flare-csv10-6c-slim-booster-display-chinesisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-black-bolt-csv10-5c-slim-booster-display-chinesisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-celebration-m6a-booster-koreanisch": {
       "a": false,
       "p": false
@@ -1109,7 +1117,7 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-box-zufaellige-variante-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-reisegefahrten-booster-display-deutsch": {
@@ -1351,14 +1359,6 @@
     "pokemon-mega-bisaflor-ex-premium-kollektion-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-karmesin-purpur-stellarkrone-3-pack-bilster-granforgita-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-151-poster-collection-englisch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1535,7 +1535,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -1797,7 +1797,7 @@
       "p": false
     },
     "pokemon-phantasmal-flames-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chilling-reign-display-eng": {
@@ -3241,10 +3241,6 @@
       "p": false
     },
     "pokemon-lost-origin-infernape-premium-checklane-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-adventskalender-2025": {
       "a": false,
       "p": false
     },
@@ -4902,6 +4898,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-delta-herrschaft-booster-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-vol-6-booster-s-chn": {
       "a": true,
       "p": false
@@ -5558,10 +5558,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-set-off-to-collect-gift-box-s-chn": {
-      "a": true,
-      "p": false
-    },
     "pokemon-scarlet-violet-booster-englisch-1": {
       "a": true,
       "p": false
@@ -5778,6 +5774,26 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-30-jahre-mew-figuren-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-mewtu-figuren-kollektion-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-3er-blister-jurob-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-booster-display-36er-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-entwicklung-booster-display-36-booster-deutsch": {
       "a": true,
       "p": false
@@ -7773,35 +7789,35 @@
   },
   "TCGStore.se::ALL": {
     "pokemon-30th-celebration-card-set-first-partner-gen-9-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-8-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-7-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-6-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-5-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-4-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-3-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-2-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-1-jpn": {
@@ -8021,7 +8037,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-future-flash-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-ancient-roar-booster-box": {
@@ -8061,7 +8077,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-violet-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-vstar-universe-booster-box": {
@@ -8093,7 +8109,7 @@
       "p": false
     },
     "pokemon-mega-nihil-zero-booster-box-koreansk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-ninja-spinner-booster-box-japansk": {
@@ -9022,6 +9038,18 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-delta-reign-premium-checklane-delphox": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-checklane-premium-blister-ampharos": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-checklane-blister-spritzee": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-reign-3-pack-blister-seel": {
       "a": true,
       "p": false
@@ -9714,6 +9742,10 @@
     }
   },
   "PKMWinkel::ALL": {
+    "pokemon-delta-reign-booster-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-celebration-mini-tin-random-art": {
       "a": true,
       "p": false
@@ -9726,10 +9758,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-30th-celebration-2-pack": {
-      "a": true,
-      "p": false
-    },
     "pokemon-30th-celebration-elite-trainer-box": {
       "a": true,
       "p": false
@@ -9739,7 +9767,7 @@
       "p": false
     },
     "pokemon-tcg-pitch-black-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-pitch-black-3-pack-booster-blister-binacle": {
@@ -9759,7 +9787,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
@@ -9807,7 +9835,7 @@
       "p": false
     },
     "pokemon-perfect-order-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
@@ -11668,6 +11696,10 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-tcg-poke-ball-tin-series-8-1-pc-2022-j21": {
+      "a": false,
+      "p": false
+    },
     "pokemon-25th-anniversary-charizard-gardevoir-2-reinforced-cn": {
       "a": true,
       "p": false
@@ -11805,7 +11837,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
