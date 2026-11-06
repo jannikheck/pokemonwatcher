@@ -9,7 +9,7 @@
       "p": true
     },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
@@ -1515,7 +1515,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1535,7 +1535,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
@@ -1651,7 +1651,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-me03-top-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-premium-poster-kollektion-mega-entwicklung-erhabene-helden-mega-lucario": {
@@ -1727,7 +1727,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-top-trainer-box-karmesin-purpur-miraidon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "krasse-pokemon-karten-premium-kollektion-action": {
@@ -5534,10 +5534,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-trick-or-trade-2024-booster-eng": {
-      "a": false,
-      "p": false
-    },
     "the-acrylic-box-elite-trainer-box-pokemon": {
       "a": false,
       "p": false
@@ -5775,7 +5771,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-30-jahre-mew-figuren-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-mewtu-figuren-kollektion-de": {
@@ -5783,7 +5779,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3er-blister-jurob-de": {
@@ -7443,7 +7439,7 @@
       "p": true
     },
     "pokemon-tcg-scarlet-violet-10-5-white-flare-binder-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
@@ -7459,7 +7455,7 @@
       "p": false
     },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
@@ -9766,6 +9762,10 @@
       "a": true,
       "p": false
     },
+    "pokemon-pitch-black-elite-trainerbox": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-pitch-black-booster-box": {
       "a": true,
       "p": false
@@ -9874,6 +9874,10 @@
       "a": false,
       "p": false
     },
+    "pokemon-mega-evolution-phantasmal-flames-premium-checklane-random": {
+      "a": false,
+      "p": false
+    },
     "pokemon-trading-card-game-kanto-power-mini-tin-random": {
       "a": true,
       "p": false
@@ -9895,18 +9899,6 @@
       "p": false
     },
     "pokemon-mega-venusaur-ex-premium-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-kangaskhan-ex-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-november-figure-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-evolution-mega-latias-ex-box": {
       "a": false,
       "p": false
     },
@@ -9990,10 +9982,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-trading-card-game-dragonite-v-box": {
-      "a": false,
-      "p": false
-    },
     "pokemon-sword-shield-darkness-ablaze-booster-box-36-sealed-pakjes": {
       "a": false,
       "p": false
@@ -10018,10 +10006,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-tcg-urshifu-battle-style-v-box-single-strike": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tag-team-generations-premium-collection": {
       "a": false,
       "p": false
@@ -10030,27 +10014,11 @@
       "a": false,
       "p": false
     },
-    "pokemon-galarian-rapidash-v-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-chilling-reign-shadow-rider-calyrex-v-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-toxtricity-v-box": {
-      "a": false,
-      "p": false
-    },
     "pokemon-surging-sparks-boosterbox": {
       "a": false,
       "p": false
     },
     "pokemon-stellar-crown-premium-checklane-future": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-chilling-reign-ice-rider-calyrex-v-box": {
       "a": false,
       "p": false
     },
@@ -10071,10 +10039,6 @@
       "p": false
     },
     "pokemon-meowth-vmax-special-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-may-v-box": {
       "a": false,
       "p": false
     },
@@ -10114,19 +10078,11 @@
       "a": false,
       "p": false
     },
-    "pokemon-collectors-chest-2020": {
-      "a": false,
-      "p": false
-    },
     "pokemon-xy-evolutions-mega-blastoise-elite-trainer-box": {
       "a": false,
       "p": false
     },
     "pokemon-tcg-25th-celebrations-collections-lances-charizard-v": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-alolan-sandslash-gx-box": {
       "a": false,
       "p": false
     },
@@ -10155,10 +10111,6 @@
       "p": false
     },
     "pokemon-shrouded-fable-booster-bundle-display-10x-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-25th-celebrations-collector-chest": {
       "a": false,
       "p": false
     },
@@ -10202,6 +10154,14 @@
       "a": false,
       "p": false
     },
+    "pokemon-scarlet-violet-temporal-forces-checklane-belibolt": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-violet-temporal-forces-checklane-carvanha": {
+      "a": false,
+      "p": false
+    },
     "pokemon-scarlet-violet-booster-box": {
       "a": false,
       "p": false
@@ -10234,6 +10194,14 @@
       "a": false,
       "p": false
     },
+    "pokemon-scarlet-violet-temporal-forces-elite-trainerbox-iron-leaves": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-violet-temporal-forces-elite-trainerbox-walking-wake": {
+      "a": false,
+      "p": false
+    },
     "pokemon-crown-zenith-regidrago-v-collection-box": {
       "a": false,
       "p": false
@@ -10247,6 +10215,10 @@
       "p": false
     },
     "pokemon-sun-moon-unified-minds-booster-box-pre-order": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-violet-temporal-forces-boosterbox": {
       "a": false,
       "p": false
     },
@@ -10307,10 +10279,6 @@
       "p": false
     },
     "pokemon-dialga-vstar-premium-collection-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-virizion-v-box": {
       "a": false,
       "p": false
     },
@@ -10570,15 +10538,7 @@
       "a": false,
       "p": false
     },
-    "pokemon-battle-styles-spring-collector-chest-single-strike-tepig-rapid-strike-shinx": {
-      "a": false,
-      "p": false
-    },
     "pokemon-galar-collection-grookey-scorbunny-sobble": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-collector-chest-fall-2019-mew-mewtwo": {
       "a": false,
       "p": false
     },
@@ -10618,23 +10578,11 @@
       "a": false,
       "p": false
     },
-    "pokemon-shining-fates-pikachu-v-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pale-moon-gx-box": {
-      "a": false,
-      "p": false
-    },
     "pokemon-pikachu-gx-eevee-gx-special-collection": {
       "a": false,
       "p": false
     },
     "pokemon-tcg-2023-trick-or-trade-booster-bundle": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-cyclizar-ex-box-1": {
       "a": false,
       "p": false
     },
@@ -10647,10 +10595,6 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-journey-together-booster-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-infernape-v-box": {
       "a": false,
       "p": false
     },
@@ -10691,10 +10635,6 @@
       "p": false
     },
     "pokemon-sword-shield-4-5-shining-fates-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-alakazam-v-box": {
       "a": false,
       "p": false
     },
@@ -10782,10 +10722,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-tcg-mabosstiff-ex-box": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-armarouge-ex-box-premium-collection": {
       "a": false,
       "p": false
@@ -10810,10 +10746,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-holiday-calendar-2023": {
-      "a": false,
-      "p": false
-    },
     "glaceon-vstar-special-collection-pokemon-tcg": {
       "a": false,
       "p": false
@@ -10834,15 +10766,7 @@
       "a": false,
       "p": false
     },
-    "pokemon-annihilape-exbox": {
-      "a": false,
-      "p": false
-    },
     "pokemon-pokemon-go-pin-box-collection-bulbasaur": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pikachu-v-box-pokemon-kaarten": {
       "a": false,
       "p": false
     },
@@ -10942,14 +10866,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-trading-card-game-dragonite-ex-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-snorlax-gx-box-trading-card-game": {
-      "a": false,
-      "p": false
-    },
     "pokemon-cosmic-eclipse-trainer-box": {
       "a": false,
       "p": false
@@ -10958,7 +10874,7 @@
       "a": false,
       "p": false
     },
-    "pokemon-sword-shield-champions-path-galarian-sirfetchd-v-box": {
+    "pokemon-sword-shield-brilliant-stars-checklane-booster-pack-eevee": {
       "a": false,
       "p": false
     },
@@ -11018,15 +10934,7 @@
       "a": false,
       "p": false
     },
-    "pokemon-151-zapdos-ex-box": {
-      "a": false,
-      "p": false
-    },
     "pokemon-marnie-premium-tournament-collection-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-league-battle-deck": {
       "a": false,
       "p": false
     },
@@ -11035,10 +10943,6 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-tech-sticker-blister-leafeon": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-151-alakazam-ex-box": {
       "a": false,
       "p": false
     },
@@ -11051,10 +10955,6 @@
       "p": false
     },
     "pokemon-eternatus-vmax-premium-collection-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-collector-chest-q4-2020": {
       "a": false,
       "p": false
     },
@@ -11166,6 +11066,10 @@
       "a": false,
       "p": false
     },
+    "pokemon-sword-shield-darkness-ablaze-celebration-pack": {
+      "a": false,
+      "p": false
+    },
     "pokemon-scarlet-violet-paldea-evolved-booster-box": {
       "a": false,
       "p": false
@@ -11179,10 +11083,6 @@
       "p": false
     },
     "pokemon-tcg-sword-shield-evolving-skies-galarian-slowpoke-blister": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-champions-path-dubwool-v-box": {
       "a": false,
       "p": false
     },
@@ -11222,10 +11122,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-sword-shield-champions-path-hatterene-v-box": {
-      "a": false,
-      "p": false
-    },
     "pokemon-champions-path-elite-trainer-box": {
       "a": false,
       "p": false
@@ -11235,10 +11131,6 @@
       "p": false
     },
     "pokemon-paldea-friends-mini-tin-pawmo": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-trainers-toolkit-2023": {
       "a": false,
       "p": false
     },
@@ -11267,10 +11159,6 @@
       "p": false
     },
     "pokemon-sword-shield-evolving-skies-checklane-blister-eevee": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-hisuian-electrode-v-box": {
       "a": false,
       "p": false
     },
@@ -11303,10 +11191,6 @@
       "p": false
     },
     "pokemon-sword-shield-evolving-skies-build-battle-stadium": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-crown-zenith-mimikyu-ex-box": {
       "a": false,
       "p": false
     },
@@ -11602,6 +11486,14 @@
       "a": false,
       "p": false
     },
+    "pokemon-scarlet-violet-temporal-forces-premium-checklane-togekiss": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-scarlet-violet-temporal-forces-premium-checklane-baxcalibur": {
+      "a": true,
+      "p": false
+    },
     "pokemon-shrouded-fable-mini-tin-display-10x-mini-tin": {
       "a": true,
       "p": false
@@ -11622,6 +11514,10 @@
       "a": false,
       "p": false
     },
+    "pokemon-stellar-crown-checklane-porygon2": {
+      "a": false,
+      "p": false
+    },
     "pokemon-shrouded-fable-illustration-collection-kingambit": {
       "a": false,
       "p": false
@@ -11634,7 +11530,19 @@
       "a": false,
       "p": false
     },
-    "pokemon-trading-card-game-classic": {
+    "pokemon-twilight-masquerade-premium-checklane-porygon-z": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-twilight-masquerade-premium-checklane-kingdra": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-twilight-masquerade-checklane-toxel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-twilight-masquerade-checklane-pupitar": {
       "a": false,
       "p": false
     },
@@ -11642,15 +11550,7 @@
       "a": false,
       "p": false
     },
-    "mega-construx-pokemon-jumbo-pikachu-bouwdoos": {
-      "a": false,
-      "p": false
-    },
     "pokemon-scarlet-violet-obsidian-flames-premium-checklane-annihilape": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-obsidian-flames-sleeved-boosterpack-kingamit": {
       "a": false,
       "p": false
     },
@@ -11666,7 +11566,7 @@
       "a": false,
       "p": false
     },
-    "pokemon-battle-academy": {
+    "pokemon-sword-shield-brilliant-stars-checklane-booster-pack-flapple": {
       "a": false,
       "p": false
     },
@@ -11675,10 +11575,6 @@
       "p": false
     },
     "pokemon-sword-shield-battle-styles-3-pack-blister-eevee": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-trainers-toolkit-2021": {
       "a": false,
       "p": false
     },
@@ -11696,8 +11592,12 @@
     }
   },
   "BESCARDS::ALL": {
+    "tripack-modele-aleatoire-evolutions-prismatiques-ev8-5-carte-pokemon-vf": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-poke-ball-tin-series-8-1-pc-2022-j21": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-25th-anniversary-charizard-gardevoir-2-reinforced-cn": {
@@ -11873,7 +11773,7 @@
       "p": false
     },
     "pokemon-151-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151-ultra-premium-collection": {
@@ -12101,10 +12001,6 @@
       "p": false
     },
     "pokemon-trading-card-games-sas8-fusion-strike-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-future-flash-booster-box-kr": {
       "a": false,
       "p": false
     }
