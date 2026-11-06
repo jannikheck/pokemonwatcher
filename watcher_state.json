@@ -13,7 +13,7 @@
       "p": false
     },
     "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-kollektion-de": {
@@ -1359,10 +1359,6 @@
     "pokemon-scarlet-violet-151-poster-collection-englisch": {
       "a": false,
       "p": false
-    },
-    "pokemon-pokemon-go-heiteira-tin-box-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1763,7 +1759,7 @@
       "p": false
     },
     "pokemon-schild-fusions-angriff-booster-pack-abenteuer": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
@@ -5660,10 +5656,6 @@
     }
   },
   "CardBuddies::ALL": {
-    "mega-entwicklungen-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
     "mega-entwicklungen-delta-herrschaft-jurob-3-pack-blister-de": {
       "a": false,
       "p": false
@@ -6037,11 +6029,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-kartenbinder-30th-celebration": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "de-pokemon-kampfdecks": {
