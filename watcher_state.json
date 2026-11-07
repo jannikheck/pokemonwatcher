@@ -4305,7 +4305,7 @@
       "p": false
     },
     "pokemon-ultra-premium-collection-mega-charizard-x-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-world-championships-deck-2023-display-8-decks": {
@@ -11592,6 +11592,10 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-paldea-evolved-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
     "tripack-modele-aleatoire-evolutions-prismatiques-ev8-5-carte-pokemon-vf": {
       "a": true,
       "p": false
