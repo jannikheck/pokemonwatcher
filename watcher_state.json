@@ -4898,6 +4898,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-set-off-to-collect-gift-box-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-herrschaft-booster-de": {
       "a": true,
       "p": false
@@ -5855,7 +5859,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ewige-rivalen-destined-rivals-elite-trainer-box-englisch": {
@@ -8685,7 +8689,7 @@
       "p": false
     },
     "ultra-pro-9-pocket-portfolio-pokemon-tinkaton": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-crown-zenith-pikachu-vmax-premium-collection": {
