@@ -753,7 +753,7 @@
       "p": false
     },
     "pokemon-celebrations-pikachu-v-union-spezial-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mewtu-v-union-binder-box-chinesisch": {
@@ -1129,7 +1129,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-infernape-v-kollektion-englisch": {
@@ -4267,7 +4267,7 @@
       "p": false
     },
     "pokemon-chilling-reign-display-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-mini-tin-deutsch": {
@@ -5770,6 +5770,14 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-dream-painting-collection-eevee-friends-zh": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-chasing-glory-together-csv10c-slim-display-zh": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-mew-figuren-kollektion-de": {
       "a": false,
       "p": false
@@ -7357,7 +7365,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-espeon-sticker": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-zapdos-empty-mini-tin": {
@@ -7365,7 +7373,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-umbreon-empty-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-mewtwo-empty-mini-tin": {
@@ -7393,7 +7401,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-espeon-empty-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-lapras-empty-mini-tin": {
@@ -7711,15 +7719,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7779,7 +7787,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
@@ -7833,7 +7841,7 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-30th-celebration-booster-bundle": {
@@ -9034,6 +9042,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "pokemon-pre-release-kit-delta-reign": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-reign-premium-checklane-delphox": {
       "a": true,
       "p": false
@@ -9279,7 +9291,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-prismatic-evolutions-mini-tin-flareon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "prismatic-evolutions-espeon-mini-tin": {
