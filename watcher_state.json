@@ -1515,7 +1515,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-x-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-flambirex-iscalar-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
@@ -1535,11 +1535,11 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-illumina-city-brutalanda-leufeo-2-boosterpacks-1-bildkarte-und-1-stickerbogen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -1727,7 +1727,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-top-trainer-box-karmesin-purpur-miraidon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "krasse-pokemon-karten-premium-kollektion-action": {
@@ -1869,7 +1869,7 @@
       "p": false
     },
     "pokemon-destined-rivals-sleeved-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lucario-vstar-premium-collection-eng": {
@@ -2853,11 +2853,11 @@
       "p": false
     },
     "pokemon-white-flare-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-go-dragoran-vstar-kollektion-de": {
@@ -4093,7 +4093,7 @@
       "p": false
     },
     "pokemon-sv8-5-prismatic-evolutions-tech-sticker-3-pack-blister-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mystery-box-togepi": {
@@ -5175,7 +5175,7 @@
       "p": false
     },
     "pokemon-evolutions-booster-eng-kopie": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-first-partner-illustration-collection-series-1-eng": {
@@ -5660,10 +5660,6 @@
       "a": false,
       "p": false
     },
-    "acryl-case-f-r-pokemon-regular-tin": {
-      "a": false,
-      "p": false
-    },
     "pok-mon-mystery-booster-bag": {
       "a": false,
       "p": false
@@ -5816,10 +5812,6 @@
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-30-jahre-ordner-kollektion-deutsch-1": {
-      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tag-nacht-tin-bundle-deutsch": {
@@ -7268,6 +7260,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-mega-rayquaza-ex-premium-tournament-collection": {
+      "a": false,
+      "p": true
+    },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-dice": {
       "a": true,
       "p": false
@@ -9171,7 +9167,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-random": {
