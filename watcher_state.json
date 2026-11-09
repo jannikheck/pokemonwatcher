@@ -433,7 +433,7 @@
       "p": false
     },
     "pokemon-30th-celebration-binder-collection-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-shrouded-fable-3-pack-blister-english": {
@@ -7281,7 +7281,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box-card-sleeves-65-sleeves": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-online-code-card": {
@@ -7719,15 +7719,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7787,7 +7787,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
@@ -9383,7 +9383,7 @@
       "p": false
     },
     "acrylic-elite-trainer-box-etb-display-for-pokemon-and-magic-display-anti-uv": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "acrylic-bundle-display-for-pokemon-and-magic-display-anti-uv": {
@@ -11753,7 +11753,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11973,7 +11973,7 @@
       "p": false
     },
     "pokemon-destined-rivals-booster-pack": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-checkalane-blister-pack-1-willekeurig": {
@@ -12014,10 +12014,6 @@
     },
     "pokemon-fusion-strike-booster-box-half-18-pack": {
       "a": true,
-      "p": false
-    },
-    "pokemon-trading-card-games-sas8-fusion-strike-elite-trainer-box": {
-      "a": false,
       "p": false
     }
   },
