@@ -805,7 +805,7 @@
       "p": false
     },
     "pokemon-erste-partner-illustration-kollektion-box-serie-3-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-top-trainer-box-deutsch": {
@@ -1539,7 +1539,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-mega-glurak-mega-glurak-y-ex-4-boosterpacks-und-1-holografische-promokarte": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-erhabene-helden-6-boosterpacks": {
@@ -3657,7 +3657,7 @@
       "p": false
     },
     "pokemon-tcg-white-flare-sv10-5-binder-collection-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-stadion-box-de": {
@@ -3893,7 +3893,7 @@
       "p": false
     },
     "pokemon-tcg-black-bolt-sv10-5-binder-collection-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-destined-rivals-sv10-3-pack-blister-eng": {
@@ -5656,14 +5656,6 @@
       "a": false,
       "p": false
     },
-    "mega-entwicklungen-delta-herrschaft-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "pok-mon-mystery-booster-bag": {
-      "a": false,
-      "p": false
-    },
     "pok-mon-mystery-slab-bag": {
       "a": false,
       "p": false
@@ -5787,7 +5779,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-3er-blister-jurob-de": {
@@ -6044,6 +6036,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-top-trainer-box-30-jahre-mbe4": {
+      "a": false,
+      "p": false
+    },
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
       "a": true,
       "p": true
@@ -6670,12 +6666,20 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-figuren-kollektion-mew-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
       "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-booster-bundle-de": {
@@ -6683,10 +6687,6 @@
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-poster-collection-en": {
       "a": false,
       "p": false
     },
@@ -6735,11 +6735,11 @@
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
@@ -7289,7 +7289,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-zapdos-art-card": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-umbreon-art-card": {
@@ -7309,7 +7309,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-moltres-art-card": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-lapras-art-card": {
@@ -7325,7 +7325,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-espeon-art-card": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-zapdos-sticker": {
@@ -7792,6 +7792,18 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-chaos-rising-half-booster-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-eevee-2-pack-blister": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-evolution-pitch-black-3-pack-blister-binacle": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-card-set-first-partner-gen-9-jpn": {
       "a": true,
       "p": false
@@ -7825,7 +7837,7 @@
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-1-jpn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
@@ -8349,7 +8361,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
@@ -8945,7 +8957,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-7-stellar-crown-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-origin-forme-palkia-vstar-premium-collection-box": {
@@ -9115,11 +9127,11 @@
       "p": true
     },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-day-espeon": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "pokemon-tcg-30th-celebration-ultra-premium-collection-night-umbreon": {
-      "a": false,
+      "a": true,
       "p": true
     },
     "the-acrylic-box-premium-pokemon-elite-trainer-box-acrylic-case": {
@@ -12010,10 +12022,6 @@
     },
     "pokemon-fusion-art-booster-box-kr": {
       "a": false,
-      "p": false
-    },
-    "pokemon-fusion-strike-booster-box-half-18-pack": {
-      "a": true,
       "p": false
     }
   },
