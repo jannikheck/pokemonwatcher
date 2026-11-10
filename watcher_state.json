@@ -149,7 +149,7 @@
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-151-zapdos-ex-kollektion-deutsch": {
@@ -5198,10 +5198,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-booster-bundle-shining-fates-paldea-evolved-vivid-voltage-eng-1": {
-      "a": false,
-      "p": false
-    },
     "pokemon-ultra-booster-bundle-scarlet-violet-era-eng": {
       "a": true,
       "p": false
@@ -5444,10 +5440,6 @@
     },
     "pokemon-erhabene-helden-booster-de-1": {
       "a": true,
-      "p": false
-    },
-    "pokemon-booster-bundle-journey-together-obsidian-flames-paradox-rift-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-astralglanz-booster-deutsch": {
