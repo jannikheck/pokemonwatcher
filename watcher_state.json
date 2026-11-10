@@ -1041,7 +1041,7 @@
       "p": false
     },
     "pokemon-30-jahre-mew-figuren-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-celebrations-prime-collection-englisch": {
@@ -1169,7 +1169,7 @@
       "p": false
     },
     "pokemon-pokemon-go-20er-display-japanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-koraidon-top-trainer-box-deutsch": {
@@ -1793,7 +1793,7 @@
       "p": false
     },
     "pokemon-karmesin-und-purpur-build-battle-stadium-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-display-eng": {
@@ -2053,7 +2053,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2026-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-expansion-premium-checklane-blister-eng": {
@@ -6667,15 +6667,15 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-booster-bundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
@@ -7784,6 +7784,14 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-tcg-30th-celebration-booster-box-kor": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-storm-emeralda-booster-box-kor": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-chaos-rising-half-booster-box": {
       "a": true,
       "p": false
@@ -7885,7 +7893,7 @@
       "p": false
     },
     "pokemon-mega-brave-booster-box-koreansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-booster-box-koreansk": {
@@ -7893,7 +7901,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-booster-box-koreansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-snow-hazard-booster-box-koreansk": {
@@ -7965,7 +7973,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-super-electric-breaker-booster-box-koreansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-crimson-haze-booster-box-koreansk": {
@@ -8001,7 +8009,7 @@
       "p": false
     },
     "pokemon-sword-shield-vstar-universe-booster-box-koreansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-ruler-of-the-black-flame-booster-box-koreansk": {
@@ -8069,7 +8077,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-triplet-beat-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-snow-hazard-booster-box": {
@@ -8077,7 +8085,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-clay-burst-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-scarlet-booster-box": {
@@ -8117,7 +8125,7 @@
       "p": false
     },
     "pokemon-mega-nihil-zero-booster-box-koreansk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-ninja-spinner-booster-box-japansk": {
@@ -8249,7 +8257,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-booster-bundle": {
@@ -8421,7 +8429,7 @@
       "p": false
     },
     "pokemon-mega-evolution-phantasmal-flames-premium-checklane-blister-pack-hydrapple": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-venusaur-ex-premium-collection": {
@@ -8805,7 +8813,7 @@
       "p": false
     },
     "pokemon-rr-rrr-bulk": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sword-shield-9-brilliant-stars-booster-box": {
@@ -9026,22 +9034,6 @@
     },
     "pokemon-mystery-box-1": {
       "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-shrouded-fable-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "forkop-pokemon-scarlet-violet-shrouded-fable-booster-bundle": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-sword-shield-8-pokemon-center-fusion-strike-elite-trainer-box": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sword-shield-12-silver-tempest-checklane-blister-pack-hisuian-basculin": {
-      "a": false,
       "p": false
     }
   },
@@ -11725,7 +11717,7 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
