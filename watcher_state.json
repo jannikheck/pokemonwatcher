@@ -2837,7 +2837,7 @@
       "p": false
     },
     "pokemon-phantasmal-flames-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-armarouge-ex-premium-collection-eng": {
@@ -4934,10 +4934,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-pikachu-figure-set-collection-s-chn-vorbestellung-versand-anfang-oktober-2026": {
-      "a": false,
-      "p": false
-    },
     "pokemon-silver-tempest-booster-eng-1": {
       "a": true,
       "p": false
@@ -6028,6 +6024,14 @@
     }
   },
   "YONKO TCG::ALL": {
+    "nanoblock-pokemon-sets": {
+      "a": true,
+      "p": false
+    },
+    "de-pokemon-box-ultra-premium-kollektion-30-jahre-tag-nacht": {
+      "a": false,
+      "p": true
+    },
     "de-pokemon-top-trainer-box-30-jahre-mbe4": {
       "a": false,
       "p": false
@@ -11596,6 +11600,10 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-eevee-evolutions-tin-2021-1-pc-random-art": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-mini-tin-1-pc": {
       "a": true,
       "p": false
@@ -11745,7 +11753,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
@@ -11757,7 +11765,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
