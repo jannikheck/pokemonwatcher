@@ -1349,7 +1349,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
@@ -5807,7 +5807,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
@@ -6042,7 +6042,7 @@
     },
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
       "a": true,
-      "p": true
+      "p": false
     },
     "de-pokemon-kampfdecks": {
       "a": true,
@@ -6667,7 +6667,7 @@
   },
   "Cardcorner::ALL": {
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mew-de": {
@@ -8397,7 +8397,7 @@
       "p": false
     },
     "pokemon-tcg-kanto-friends-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-charizard-x-ex-ultra-premium-collection": {
@@ -9139,10 +9139,6 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-prismatic-evolutions-elite-trainer-box-english": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-delta-reign-prerelease-event-ticket": {
       "a": true,
       "p": false
     },
@@ -11616,6 +11612,10 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-30th-celebration-mini-tin-1-pc": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paldea-evolved-elite-trainer-box": {
       "a": true,
       "p": false
@@ -12017,10 +12017,6 @@
       "p": false
     },
     "pokemon-tcg-first-partner-illustration-collection-series-1-sealed-ovp-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-fusion-art-booster-box-kr": {
       "a": false,
       "p": false
     }
