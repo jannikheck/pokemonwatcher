@@ -808,10 +808,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-mega-entwicklung-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-schwert-schild-astralglanz-top-trainer-box-deutsch": {
       "a": false,
       "p": false
@@ -1350,10 +1346,6 @@
     },
     "pokemon-30th-anniversary-celebration-booster-display-chn": {
       "a": true,
-      "p": false
-    },
-    "pokemon-pokemon-go-alola-kokowei-v-kollektion-deutsch": {
-      "a": false,
       "p": false
     }
   },
@@ -2133,7 +2125,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pitch-black-3-pack-blister-eng": {
@@ -2201,7 +2193,7 @@
       "p": false
     },
     "pokemon-perfect-order-checklane-blister-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-checklane-blister-eng": {
@@ -4041,7 +4033,7 @@
       "p": true
     },
     "pokemon-journey-together-36er-booster-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-swsh11-lost-origin-3-pack-blister-eng": {
@@ -6654,6 +6646,10 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30-jahre-ordner-kollektion-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
       "a": false,
       "p": false
@@ -6663,7 +6659,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
@@ -6671,7 +6667,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
@@ -9025,10 +9021,6 @@
       "p": false
     },
     "pokemon-scarlet-violet-3-obsidian-flames-3-pack-blister-eevee": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-mystery-box-1": {
       "a": true,
       "p": false
     }
@@ -11717,8 +11709,8 @@
       "p": false
     },
     "pitch-black-booster-box": {
-      "a": false,
-      "p": false
+      "a": true,
+      "p": true
     },
     "pokemon-lost-origin-elite-trainer-box": {
       "a": true,
@@ -11745,19 +11737,19 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
