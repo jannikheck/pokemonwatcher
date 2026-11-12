@@ -6,7 +6,7 @@
     },
     "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
       "a": false,
@@ -2365,7 +2365,7 @@
       "p": false
     },
     "pokemon-mythical-collection-magearna-eng-b-ware": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-stapel-tin-2022-de": {
@@ -2841,7 +2841,7 @@
       "p": false
     },
     "pokemon-white-flare-booster-bundle-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-white-flare-booster-bundle-eng": {
@@ -4281,7 +4281,7 @@
       "p": false
     },
     "pokemon-paldea-trainer-battle-box-display-10-boxen": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-paldea-trainer-keychain-box-display-10-boxen": {
@@ -6651,7 +6651,7 @@
   },
   "Cardcorner::ALL": {
     "pokemon-30-jahre-ditto-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-de": {
@@ -6659,23 +6659,23 @@
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mew-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-booster-bundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
@@ -6727,7 +6727,7 @@
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
@@ -7277,7 +7277,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-online-code-card": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-night-zapdos-art-card": {
@@ -11726,7 +11726,7 @@
     },
     "pitch-black-booster-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-lost-origin-elite-trainer-box": {
       "a": true,
