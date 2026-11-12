@@ -136,6 +136,22 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-30-jahre-set-ditto-premium-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-set-figuren-kollektion-mewtu-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-set-figuren-kollektion-mew-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-set-ordner-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-white-flare-csv10-6c-slim-booster-display-chinesisch": {
       "a": false,
       "p": false
@@ -1333,18 +1349,6 @@
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-ewige-rivalen-booster-display-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-koraidon-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-anniversary-celebration-booster-display-chn": {
       "a": true,
       "p": false
     }
@@ -5043,7 +5047,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
@@ -5319,7 +5323,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-5-booster-s-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-phantasmal-flames-booster-eng": {
@@ -5487,7 +5491,7 @@
       "p": false
     },
     "pokemon-gem-pack-vol-3-booster-s-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-3-display-s-chn": {
@@ -6646,20 +6650,24 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-30-jahre-ditto-premium-kollektion-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-ordner-kollektion-de": {
       "a": true,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mew-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
@@ -6667,7 +6675,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-booster-bundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
@@ -6723,7 +6731,7 @@
       "p": false
     },
     "pokemon-30-jahre-feelinara-ex-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-nacht-tin-de": {
@@ -9730,6 +9738,10 @@
     }
   },
   "PKMWinkel::ALL": {
+    "pokemon-delta-reign-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-reign-booster-box": {
       "a": true,
       "p": false
