@@ -1069,7 +1069,7 @@
       "p": false
     },
     "pokemon-30-jahre-mewtu-figuren-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-build-battle-box-deutsch": {
@@ -1793,7 +1793,7 @@
       "p": false
     },
     "pokemon-chilling-reign-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-galar-power-mini-tin-display-eng": {
@@ -2345,7 +2345,7 @@
       "p": false
     },
     "pokemon-aufziehen-der-sturmrote-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-zenit-der-konige-pikachu-vmax-premium-kollektion-de": {
@@ -3421,7 +3421,7 @@
       "p": false
     },
     "pokemon-battle-styles-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-vaporeon-vmax-premium-collection-eu-eng": {
@@ -3689,7 +3689,7 @@
       "p": false
     },
     "pokemon-darkness-ablaze-elite-trainer-box-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-obsidian-flames-1-pack-blister-eng": {
@@ -5628,6 +5628,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "mega-entwicklungen-delta-herrschaft-top-trainer-box-de": {
+      "a": false,
+      "p": false
+    },
     "mega-entwicklungen-delta-herrschaft-jurob-3-pack-blister-de": {
       "a": false,
       "p": false
@@ -5755,7 +5759,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3er-blister-jurob-de": {
@@ -5763,31 +5767,31 @@
       "p": false
     },
     "pokemon-delta-herrschaft-booster-display-36er-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-booster-display-36-booster-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-greninja-ex-box-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-sylveon-ex-box-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-tag-nacht-tin-bundle-deutsch": {
@@ -5819,7 +5823,7 @@
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
@@ -5827,7 +5831,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ewige-rivalen-destined-rivals-elite-trainer-box-englisch": {
@@ -5863,7 +5867,7 @@
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-booster-display-36-booster-en-major-cards-tcg": {
@@ -5875,7 +5879,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de-mega-entwicklung-major-cards-tcg": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-dunkelnacht-boosterbundle-de-major-cards-tcg": {
@@ -5959,11 +5963,11 @@
       "p": false
     },
     "guardevoir-ex-liga-kampfdeck-de-pokemon-tcg-ovp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "collect-151-gathering-slim-display-zh-pokemon-tcg-ovp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "collect-151-surprise-slim-display-zh-pokemon-tcg-ovp": {
@@ -5991,7 +5995,7 @@
       "p": false
     },
     "pokemon-sealed-151-mini-tin-display-sealed": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-me02-mega-entwicklung-ultra-premium-kollektion-mega-glurak-x-ex-deutsch": {
@@ -6643,7 +6647,7 @@
   },
   "Cardcorner::ALL": {
     "pokemon-30-jahre-ditto-premium-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-de": {
@@ -6655,7 +6659,7 @@
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mew-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
@@ -7865,7 +7869,7 @@
       "p": false
     },
     "pokemon-30th-celebration-card-set-first-partner-gen-1-jpn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-ascended-heroes-elite-trainer-box": {
@@ -9195,7 +9199,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-premium-checklane-blister-random": {
@@ -9819,7 +9823,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
@@ -11624,6 +11628,18 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-back-to-school-erasers-blister": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-elite-trainer-box": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-booster-box": {
+      "a": true,
+      "p": true
+    },
     "pokemon-mega-evolution-delta-reign-3-booster-blister-seel": {
       "a": true,
       "p": true
@@ -12038,10 +12054,6 @@
     },
     "pokemon-evolution-celeste-display-eb07-fr": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-first-partner-illustration-collection-series-1-sealed-ovp-english": {
-      "a": false,
       "p": false
     }
   },
