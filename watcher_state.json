@@ -209,7 +209,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-traditional-chinese-traditionelles-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-booster-bundle-englisch": {
@@ -5819,7 +5819,7 @@
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
@@ -5938,10 +5938,6 @@
       "a": false,
       "p": false
     },
-    "pokemon-boosterbundle-optimale-ordnung-de-me03-pokemon-tcg-6x-booster-ovp": {
-      "a": false,
-      "p": false
-    },
     "pokemon-erhabene-helden-poster-kollektion-eng-mega-guardevoir-me02-5-pokemon-tcg-ovp": {
       "a": false,
       "p": false
@@ -5951,10 +5947,6 @@
       "p": false
     },
     "pokemon-erhabene-helden-poster-kollektion-de-me02-5-pokemon-tcg-ovp": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-top-trainer-box-optimale-ordnung-me03-de": {
       "a": false,
       "p": false
     },
@@ -6025,7 +6017,7 @@
       "p": false
     },
     "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-kampfdecks": {
@@ -6655,7 +6647,7 @@
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
