@@ -6643,19 +6643,19 @@
   },
   "Cardcorner::ALL": {
     "pokemon-30-jahre-ditto-premium-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mew-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
@@ -6663,7 +6663,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-booster-bundle-de": {
@@ -6671,7 +6671,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "verlorener-ursprung-top-trainer-box-de": {
@@ -7341,7 +7341,7 @@
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-mew-sticker": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-day-pikachu-sticker": {
@@ -7412,13 +7412,49 @@
       "a": false,
       "p": false
     },
-    "pokemon-deck-crafters-collection-meowth-ex": {
-      "a": false,
-      "p": false
+    "ultra-pro-pokemon-espeon-wrap-tower-deck-box": {
+      "a": true,
+      "p": true
     },
-    "pokemon-mega-evolution-pitch-black-pokemon-center-elite-trainer-box": {
-      "a": false,
-      "p": false
+    "ultra-pro-pokemon-umbreon-wrap-tower-deck-box": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-eevee-espeon-and-umbreon-die-cut-playmat": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-espeon-9-pocket-zippered-pro-binder": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-espeon-12-pocket-zippered-pro-binder": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-espeon-apex-deck-protector-sleeves-105-sleeves": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-espeon-foil-playmat": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-umbreon-9-pocket-zippered-pro-binder": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-umbreon-12-pocket-zippered-pro-binder": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-umbreon-apex-deck-protector-sleeves-105-sleeves": {
+      "a": true,
+      "p": true
+    },
+    "ultra-pro-pokemon-elite-series-umbreon-foil-playmat": {
+      "a": true,
+      "p": true
     }
   },
   "TCG Stadium::ALL": {
@@ -11588,6 +11624,10 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-mega-evolution-delta-reign-3-booster-blister-seel": {
+      "a": true,
+      "p": true
+    },
     "pokemon-30th-celebration-ultra-premium-collection-set-of-2": {
       "a": true,
       "p": false
