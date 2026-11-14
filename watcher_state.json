@@ -1307,50 +1307,6 @@
     "pokemon-greninja-ex-ultra-premium-collection-en": {
       "a": false,
       "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-booster-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-delta-herrschaft-me06-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-pokemon-go-pikachu-tin-box-deutsch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-abyss-eye-booster-display-koreanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-ewige-rivalen-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-blue-sky-stream-display-booster-box-kor": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-3-pack-bilster-tinkaton-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-stellar-crown-3-pack-blister-latias-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-miraidon-elite-trainer-box-englisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-morpeko-v-union-premium-spielunterlagen-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-abyss-eye-30er-display-japanisch": {
-      "a": true,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -4254,10 +4210,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-chilling-reign-display-englisch": {
-      "a": false,
-      "p": false
-    },
     "pokemon-151-mini-tin-deutsch": {
       "a": true,
       "p": false
@@ -4886,6 +4838,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
+      "a": false,
+      "p": false
+    },
     "pokemon-set-off-to-collect-gift-box-s-chn": {
       "a": true,
       "p": false
@@ -4966,10 +4922,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-poster-collection-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-white-flare-elite-trainer-box-eng-1": {
       "a": true,
       "p": false
@@ -5003,7 +4955,7 @@
       "p": false
     },
     "pokemon-30th-celebration-booster-eng-1": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-4-display-s-chn": {
@@ -5051,7 +5003,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -5118,10 +5070,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": false,
-      "p": false
-    },
     "pokemon-destined-rivals-elite-trainer-box-eng-kopie": {
       "a": true,
       "p": false
@@ -5136,14 +5084,6 @@
     },
     "pokemon-shrouded-fable-booster-bundle-eng": {
       "a": true,
-      "p": false
-    },
-    "pokemon-chilling-reign-snorlax-3er-blister-eng": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-chilling-reign-eevee-3er-blister-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-battle-styles-jolteon-3er-blister-eng": {
@@ -6655,7 +6595,7 @@
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mewtu-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-figuren-kollektion-mew-de": {
