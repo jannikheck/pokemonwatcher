@@ -7463,7 +7463,7 @@
   },
   "TCG Stadium::ALL": {
     "pokemon-trading-card-game-prismatic-evolutions-blister-two-pack": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-and-violet-151-ultra-premium-collection-preorder": {
@@ -8029,7 +8029,7 @@
       "p": false
     },
     "pokemon-sword-shield-time-gazer-booster-box-koreansk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sword-shield-space-juggler-booster-box-koreansk": {
@@ -8625,7 +8625,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-mini-tin": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-center-japan-connecting-worlds-secret-stairs-card-sleeves-64st": {
@@ -12050,10 +12050,6 @@
     },
     "pokemon-enhanced-2-pack-blister-pawmot": {
       "a": false,
-      "p": false
-    },
-    "pokemon-evolution-celeste-display-eb07-fr": {
-      "a": true,
       "p": false
     }
   },
