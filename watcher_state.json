@@ -1712,6 +1712,18 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-delta-herrschaft-display-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-3-pack-blister-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-2-pack-blister-de": {
       "a": true,
       "p": false
@@ -1725,7 +1737,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-battle-styles-premium-3-pack-blister-eng": {
@@ -1749,7 +1761,7 @@
       "p": false
     },
     "pokemon-chilling-reign-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-galar-power-mini-tin-display-eng": {
@@ -2301,7 +2313,7 @@
       "p": false
     },
     "pokemon-aufziehen-der-sturmrote-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-zenit-der-konige-pikachu-vmax-premium-kollektion-de": {
@@ -2321,7 +2333,7 @@
       "p": false
     },
     "pokemon-mythical-collection-magearna-eng-b-ware": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-stapel-tin-2022-de": {
@@ -2797,7 +2809,7 @@
       "p": false
     },
     "pokemon-white-flare-booster-bundle-display-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-white-flare-booster-bundle-eng": {
@@ -5347,7 +5359,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-eng": {
@@ -5572,10 +5584,6 @@
       "a": false,
       "p": false
     },
-    "mega-entwicklungen-delta-herrschaft-jurob-3-pack-blister-de": {
-      "a": false,
-      "p": false
-    },
     "pok-mon-mystery-slab-bag": {
       "a": false,
       "p": false
@@ -5669,10 +5677,6 @@
       "p": false
     },
     "acryl-case-f-r-pokemon-mini-tin-display-8-tins": {
-      "a": false,
-      "p": false
-    },
-    "acryl-case-f-r-pokemon-ultra-premium-collection-box-151": {
       "a": false,
       "p": false
     },
@@ -5950,18 +5954,6 @@
   "YONKO TCG::ALL": {
     "nanoblock-pokemon-sets": {
       "a": true,
-      "p": false
-    },
-    "de-pokemon-box-ultra-premium-kollektion-30-jahre-tag-nacht": {
-      "a": false,
-      "p": true
-    },
-    "de-pokemon-top-trainer-box-30-jahre-mbe4": {
-      "a": false,
-      "p": false
-    },
-    "de-pokemon-top-trainer-box-mega-entwicklung-delta-herrschaft-me06": {
-      "a": false,
       "p": false
     },
     "de-pokemon-kampfdecks": {
