@@ -1273,7 +1273,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-delta-herrschaft-booster-bundle-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-entwicklung-delta-herrschaft-3-pack-blister-jurob-deutsch": {
@@ -5703,7 +5703,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-3er-blister-jurob-de": {
@@ -5711,23 +5711,23 @@
       "p": false
     },
     "pokemon-delta-herrschaft-booster-display-36er-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-booster-display-36-booster-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-greninja-ex-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-sylveon-ex-box-en": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-poster-collection-en": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
@@ -5767,7 +5767,7 @@
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
@@ -5811,7 +5811,7 @@
       "p": false
     },
     "erhabene-helden-booster-bundle-display-de-10-bundles-60-boosterpacks-major-cards-tcg": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-pitch-black-booster-display-36-booster-en-major-cards-tcg": {
@@ -5823,7 +5823,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de-mega-entwicklung-major-cards-tcg": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-dunkelnacht-boosterbundle-de-major-cards-tcg": {
@@ -5907,7 +5907,7 @@
       "p": false
     },
     "guardevoir-ex-liga-kampfdeck-de-pokemon-tcg-ovp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "collect-151-gathering-slim-display-zh-pokemon-tcg-ovp": {
@@ -5939,7 +5939,7 @@
       "p": false
     },
     "pokemon-sealed-151-mini-tin-display-sealed": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-me02-mega-entwicklung-ultra-premium-kollektion-mega-glurak-x-ex-deutsch": {
@@ -7675,15 +7675,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7743,7 +7743,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
@@ -8998,6 +8998,10 @@
     }
   },
   "Templars Arena::ALL": {
+    "bundle-upc-day-night": {
+      "a": true,
+      "p": false
+    },
     "pokemon-pre-release-kit-delta-reign": {
       "a": true,
       "p": false
@@ -9347,7 +9351,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-booster-bundle-en": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-lucario-ex-figure-collection": {
@@ -9391,10 +9395,6 @@
       "p": false
     },
     "pokemon-me2-5-ascended-heroes-collection-larry-s-komala": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-me2-5-ascended-heroes-elite-trainer-box": {
       "a": false,
       "p": false
     }
@@ -11965,7 +11965,7 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-destined-rivals-portfolio-9-pocket": {
