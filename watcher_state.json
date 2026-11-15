@@ -5015,7 +5015,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -7675,15 +7675,15 @@
   },
   "TCG Collection::ALL": {
     "mini-lata-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "caja-de-entrenador-elite-caos-creciente-esp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "protector-acrilico-cajas-de-sobres-pokemon": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lata-mega-charizard": {
@@ -7743,7 +7743,7 @@
       "p": false
     },
     "mystery-box": {
-      "a": true,
+      "a": false,
       "p": false
     }
   },
