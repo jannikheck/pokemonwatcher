@@ -4214,10 +4214,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-dunkelnacht-booster-deutsch-live-boxbreak-chris-kopie": {
-      "a": false,
-      "p": false
-    },
     "pokemon-phantasmal-flames-display-englisch": {
       "a": true,
       "p": false
@@ -4228,10 +4224,6 @@
     },
     "pokemon-destined-rivals-display-englisch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-prismatic-evolution-elite-trainer-box-etb-englische-version-en": {
-      "a": false,
       "p": false
     }
   },
@@ -5686,6 +5678,10 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-delta-herrschaft-boosterbundle-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-dream-painting-collection-eevee-friends-zh": {
       "a": false,
       "p": false
@@ -5735,7 +5731,7 @@
       "p": false
     },
     "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-tag-nacht-tin-bundle-deutsch": {
@@ -5775,7 +5771,7 @@
       "p": false
     },
     "pokemon-30th-celebration-elite-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ewige-rivalen-destined-rivals-elite-trainer-box-englisch": {
@@ -7821,7 +7817,7 @@
       "p": false
     },
     "pokemon-mega-evolution-30th-celebration-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-bundle": {
@@ -9393,10 +9389,6 @@
     "pokemon-me2-5-ascended-heroes-collection-erika-s-tangela": {
       "a": true,
       "p": false
-    },
-    "pokemon-me2-5-ascended-heroes-collection-larry-s-komala": {
-      "a": false,
-      "p": false
     }
   },
   "Hobby Addicts::ALL": {
@@ -9755,7 +9747,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
