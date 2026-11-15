@@ -1689,26 +1689,6 @@
     "pokemon-sammelkartenspiel-super-premium-kollektion-glurak-ex-3": {
       "a": false,
       "p": false
-    },
-    "pokemon-2x-jumbo-karten-verschiedene-buendel-uebergrosse-karten": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tin-keilflamme-ex-116-deutsch-pokemon-sammelkartenspiel": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tin-furienblitz-ex-114-deutsch-pokemon-sammelkartenspiel": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mystery-box-ultra-premium": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-trick-or-trade-booster-packs-halloween": {
-      "a": false,
-      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -4851,7 +4831,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-6-booster-s-chn": {
@@ -7424,6 +7404,22 @@
     }
   },
   "Otakura::ALL": {
+    "bundle-6-buste-30-anniversario-6-bustine-buio-pesto-pokemon-tcg-ita": {
+      "a": true,
+      "p": false
+    },
+    "mega-evolution-delta-reign-booster-bundle-6-bustine-pokemon-tcg-eng": {
+      "a": true,
+      "p": false
+    },
+    "mega-evolution-delta-reign-elite-trainer-box-pokemon-tcg-eng": {
+      "a": true,
+      "p": false
+    },
+    "mega-evolution-delta-reign-booster-box-36-bustine-pokemon-tcg-eng": {
+      "a": true,
+      "p": false
+    },
     "bundle-2-mazzi-lotte-espeon-ex-umbreon-ex-30-anniversario-ita": {
       "a": false,
       "p": false
@@ -8061,7 +8057,7 @@
       "p": false
     },
     "pokemon-sword-shield-paradigm-trigger-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-ruler-of-the-black-flame-booster-box": {
@@ -9385,10 +9381,6 @@
     "pokemon-me2-5-premium-poster-collection-lucario-ascended-heroes": {
       "a": false,
       "p": false
-    },
-    "pokemon-me2-5-ascended-heroes-collection-erika-s-tangela": {
-      "a": true,
-      "p": false
     }
   },
   "Hobby Addicts::ALL": {
@@ -9747,7 +9739,7 @@
       "p": false
     },
     "pokemon-chaos-rising-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
@@ -11957,7 +11949,7 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-destined-rivals-portfolio-9-pocket": {
