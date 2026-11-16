@@ -1,7 +1,7 @@
 {
   "TCGViert::ALL": {
     "pokemon-tcg-erhabene-helden-me2-5-mega-premium-poster-kollektion-de-random-preorder-20-03-2026-limit-2-person": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
@@ -5552,6 +5552,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "30th-celebration-pokemon-center-elite-trainer-box-en": {
+      "a": false,
+      "p": false
+    },
     "mega-entwicklungen-delta-herrschaft-top-trainer-box-de": {
       "a": false,
       "p": false
@@ -5679,7 +5683,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-3er-blister-jurob-de": {
@@ -5743,7 +5747,7 @@
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
