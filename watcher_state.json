@@ -153,11 +153,11 @@
       "p": false
     },
     "pokemon-white-flare-csv10-6c-slim-booster-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-csv10-5c-slim-booster-display-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-koreanisch": {
@@ -637,7 +637,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-booster-display-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-lost-abyss-booster-display-japanisch": {
@@ -1717,7 +1717,7 @@
       "p": false
     },
     "pokemon-30-jahre-boosterbundle-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-battle-styles-premium-3-pack-blister-eng": {
@@ -4186,6 +4186,22 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-karmesin-purpur-top-trainer-box-deutsch-kopie": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-ewige-rivalen-display-deutsche-version-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-151-premium-collection-englisch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-herrschaft-display-deutsch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-crown-zenith-elite-trainer-box-etb-englisch": {
       "a": true,
       "p": false
@@ -5932,6 +5948,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-poster-kollektion-30-jahre-mbe4": {
+      "a": false,
+      "p": false
+    },
     "nanoblock-pokemon-sets": {
       "a": true,
       "p": false
@@ -7168,6 +7188,14 @@
     }
   },
   "Total Cards::ALL": {
+    "funko-pop-pokemon-bitty-pop-display-poke-ball": {
+      "a": true,
+      "p": false
+    },
+    "funko-pop-pokemon-bitty-pop-display-pokeball-bundle": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-rayquaza-ex-premium-tournament-collection": {
       "a": false,
       "p": true
@@ -9377,14 +9405,6 @@
     "pokemon-tcg-scarlet-violet-01-elite-trainer-box-koraidon": {
       "a": false,
       "p": false
-    },
-    "pokemon-day-2026-collection": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-me2-5-premium-poster-collection-lucario-ascended-heroes": {
-      "a": false,
-      "p": false
     }
   },
   "Hobby Addicts::ALL": {
@@ -9747,7 +9767,7 @@
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-booster-bundle": {
@@ -11558,11 +11578,11 @@
     },
     "pokemon-delta-reign-booster-box": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-mega-evolution-delta-reign-3-booster-blister-seel": {
       "a": true,
-      "p": true
+      "p": false
     },
     "pokemon-30th-celebration-ultra-premium-collection-set-of-2": {
       "a": true,
@@ -11713,7 +11733,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle": {
