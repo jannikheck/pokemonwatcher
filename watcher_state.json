@@ -5346,10 +5346,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-prismatic-evolutions-booster-bundle-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-prismatic-evolutions-booster-eng": {
       "a": true,
       "p": false
@@ -5456,10 +5452,6 @@
     },
     "the-acrylic-box-elite-trainer-box-pokemon": {
       "a": false,
-      "p": false
-    },
-    "pokemon-sturmische-funken-booster-de": {
-      "a": true,
       "p": false
     },
     "pokemon-pokeball-levelball-gift-box-s-chn": {
@@ -5678,6 +5670,18 @@
     }
   },
   "Major Cards TCG::ALL": {
+    "pokemon-delta-herrschaft-display-36er-de-b-ware-folienbeschadigung": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-ultra-premium-kollektion-nacht-nachtara-ex-de": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-ultra-premium-kollektion-tag-psiana-ex-de": {
+      "a": false,
+      "p": false
+    },
     "pokemon-delta-herrschaft-boosterbundle-de": {
       "a": true,
       "p": false
@@ -5847,14 +5851,6 @@
       "p": false
     },
     "pokemon-mega-moonlight-tin-bundle-mega-gengar-ex-mega-pixi-ex-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-wachsendes-chaos-booster-bundle-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-mega-entwicklung-wachsendes-chaos-top-trainer-box-de": {
       "a": false,
       "p": false
     },
@@ -11609,7 +11605,7 @@
       "p": false
     },
     "pokemon-25th-anniversary-charizard-gardevoir-2-reinforced-cn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pok-shrouded-fable-booster-bundle-fr": {
