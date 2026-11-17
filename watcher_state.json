@@ -13,7 +13,7 @@
       "p": false
     },
     "pokemon-tcg-mega-zygarde-premium-kollektion-de-limit-1-kunde": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-pokemon-day-2026-kollektion-de": {
@@ -50,6 +50,38 @@
     }
   },
   "Feenturm::ALL": {
+    "pokemon-tcg-mega-evolution-flowing-fists-top-trainer-box-deutsch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-booster-bundle-deutsch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-3er-blister-deutsch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-booster-display-deutsch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-booster-display-englisch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-3er-blister-englisch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-booster-bundle-englisch-exklusiver-bundartikel-kopie": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-flowing-fists-elite-trainer-box-englisch-exklusiver-bundartikel": {
+      "a": false,
+      "p": false
+    },
     "pokemon-mega-entwicklung-optimale-ordnung-top-trainer-box-deutsch": {
       "a": false,
       "p": false
@@ -136,6 +168,26 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-sv2a-151-20er-display-japanisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-delta-reign-booster-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-delta-reign-booster-display-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30th-celebration-espeon-ex-ultra-premium-collection-englisch": {
+      "a": false,
+      "p": false
+    },
+    "pok-mon-30th-celebration-umbreon-ex-ultra-premium-collection-englisch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30-jahre-set-ditto-premium-kollektion-deutsch": {
       "a": false,
       "p": false
@@ -1289,22 +1341,6 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-briduradon-ex-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-ewige-rivalen-3-pack-blister-zebritz-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-karmesin-purpur-ewige-rivalen-3-pack-blister-kangama-de": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-greninja-ex-ultra-premium-collection-en": {
       "a": false,
       "p": false
     }
@@ -5560,6 +5596,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "mega-entwicklungen-delta-herrschaft-jurob-3-pack-blister-de": {
+      "a": false,
+      "p": false
+    },
     "30th-celebration-pokemon-center-elite-trainer-box-en": {
       "a": false,
       "p": false
@@ -7184,6 +7224,34 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-wonderful-waters-mini-tin-staryu": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-wonderful-waters-mini-tin-froakie": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-wonderful-waters-mini-tin-amaura": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-wonderful-waters-mini-tin-slowbro": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-wonderful-waters-mini-tin-dragonair": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-valentines-box": {
+      "a": false,
+      "p": true
+    },
+    "pokemon-pokemon-day-2027-collection": {
+      "a": false,
+      "p": true
+    },
     "funko-pop-pokemon-bitty-pop-display-poke-ball": {
       "a": true,
       "p": false
@@ -8209,7 +8277,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-8-5-prismatic-evolutions-super-premium-collection": {
@@ -9046,10 +9114,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-ultra-premium-collection": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30th-celebration-mew-figure-collection": {
       "a": true,
       "p": false
@@ -9399,6 +9463,10 @@
       "p": false
     },
     "pokemon-tcg-scarlet-violet-01-elite-trainer-box-koraidon": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-day-2026-collection": {
       "a": false,
       "p": false
     }
