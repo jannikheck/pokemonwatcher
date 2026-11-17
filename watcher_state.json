@@ -1331,18 +1331,6 @@
     "pokemon-mega-entwicklung-delta-herrschaft-3-pack-blister-jurob-deutsch": {
       "a": true,
       "p": false
-    },
-    "pokemon-evoli-entwicklungen-blitza-v-tin-box-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sturmische-funken-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-anniversary-collection-30er-display-japanisch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -4222,6 +4210,22 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-day-kollektion-deutsch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-poster-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-feelinara-ex-kollektion-deutsch-deutsch": {
+      "a": true,
+      "p": false
+    },
     "pokemon-karmesin-purpur-top-trainer-box-deutsch-kopie": {
       "a": true,
       "p": false
@@ -5510,10 +5514,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-departure-gift-box-charizard": {
-      "a": true,
-      "p": false
-    },
     "pokemon-gem-pack-vol-1-booster-cn": {
       "a": true,
       "p": false
@@ -5807,7 +5807,7 @@
       "p": false
     },
     "pokemon-30-jahre-ordner-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-deutsch": {
@@ -5985,7 +5985,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-poster-kollektion-30-jahre-mbe4": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "nanoblock-pokemon-sets": {
@@ -6747,7 +6747,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-2026-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "maskerade-im-zwielicht-top-trainer-box-de": {
@@ -7419,50 +7419,6 @@
     "pokemon-30th-celebration-tin-sylveon-ex-empty-tin": {
       "a": false,
       "p": false
-    },
-    "ultra-pro-pokemon-espeon-wrap-tower-deck-box": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-umbreon-wrap-tower-deck-box": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-eevee-espeon-and-umbreon-die-cut-playmat": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-espeon-9-pocket-zippered-pro-binder": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-espeon-12-pocket-zippered-pro-binder": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-espeon-apex-deck-protector-sleeves-105-sleeves": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-espeon-foil-playmat": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-umbreon-9-pocket-zippered-pro-binder": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-umbreon-12-pocket-zippered-pro-binder": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-umbreon-apex-deck-protector-sleeves-105-sleeves": {
-      "a": true,
-      "p": true
-    },
-    "ultra-pro-pokemon-elite-series-umbreon-foil-playmat": {
-      "a": true,
-      "p": true
     }
   },
   "TCG Stadium::ALL": {
@@ -7500,6 +7456,22 @@
     }
   },
   "Otakura::ALL": {
+    "pokemon-30th-bundle-6-buste-ita": {
+      "a": true,
+      "p": false
+    },
+    "bundle-delta-reign-booster-box-2-booster-bundle-30th-celebration-eng": {
+      "a": true,
+      "p": false
+    },
+    "bundle-2-booster-bundle-delta-reign-1-booster-bundle-30th-celebration-eng": {
+      "a": true,
+      "p": false
+    },
+    "bundle-delta-reign-elite-trainer-box-30th-celebration-booster-bundle-eng": {
+      "a": false,
+      "p": false
+    },
     "bundle-6-buste-30-anniversario-6-bustine-buio-pesto-pokemon-tcg-ita": {
       "a": true,
       "p": false
@@ -7509,7 +7481,7 @@
       "p": false
     },
     "mega-evolution-delta-reign-elite-trainer-box-pokemon-tcg-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "mega-evolution-delta-reign-booster-box-36-bustine-pokemon-tcg-eng": {
@@ -8213,7 +8185,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-deluxe-booster-box-japansk": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-white-flare-booster-box-japansk": {
@@ -9459,14 +9431,6 @@
       "p": false
     },
     "tera-brawlers-premium-collection-copy": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-scarlet-violet-01-elite-trainer-box-koraidon": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-day-2026-collection": {
       "a": false,
       "p": false
     }
@@ -11632,6 +11596,14 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-25th-anniversary-celebrations-elite-trainer-box-damaged-seal": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-destined-rivals-elite-trainer-box-damaged-seal": {
+      "a": true,
+      "p": false
+    },
     "pokemon-back-to-school-erasers-blister": {
       "a": true,
       "p": false
@@ -11945,7 +11917,7 @@
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-charizard-ex-special-collection": {
@@ -12046,14 +12018,6 @@
     },
     "pokemon-destined-rivals-sleeved-booster-pack": {
       "a": true,
-      "p": false
-    },
-    "the-acrylic-box-acrylic-box-protezione-pokemon-box-36-buste": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-enhanced-2-pack-blister-pawmot": {
-      "a": false,
       "p": false
     }
   },
