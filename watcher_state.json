@@ -1339,7 +1339,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-me05-top-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-boosterbundle-mega-entwicklung-6-boosterpacks": {
@@ -5984,6 +5984,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-blister-myrapla-duflor-giflor-2-pack": {
+      "a": true,
+      "p": false
+    },
     "de-pokemon-poster-kollektion-30-jahre-mbe4": {
       "a": true,
       "p": false
@@ -6643,7 +6647,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "verlorener-ursprung-top-trainer-box-de": {
@@ -11781,7 +11785,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
@@ -11917,7 +11921,7 @@
       "p": false
     },
     "pokemon-chaos-rising-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-charizard-ex-special-collection": {
