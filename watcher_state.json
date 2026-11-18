@@ -1,5 +1,17 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-quajutsu-feelinareex-4er-tin-30-jahre-de-random-limit-2-person-preorder-16-09-2026-beschreibung-lesen": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-erste-partner-illustration-booster-kollektion-vol-3-de-limit-1-person": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-mega-entwicklungen-me05-dunkelnacht-booster-bundle-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-erhabene-helden-me2-5-mega-premium-poster-kollektion-de-random-preorder-20-03-2026-limit-2-person": {
       "a": false,
       "p": false
@@ -168,6 +180,10 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-mega-entwicklung-drei-pack-blister-entoron-deutsch-presale": {
+      "a": true,
+      "p": false
+    },
     "pokemon-sv2a-151-20er-display-japanisch": {
       "a": false,
       "p": false
@@ -1327,10 +1343,6 @@
     "pokemon-mega-entwicklung-delta-herrschaft-booster-bundle-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-mega-entwicklung-delta-herrschaft-3-pack-blister-jurob-deutsch": {
-      "a": true,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1716,6 +1728,10 @@
     }
   },
   "CrispyCards::ALL": {
+    "pokemon-30-jahre-ordner-kollektion-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-herrschaft-display-de": {
       "a": true,
       "p": false
@@ -7812,6 +7828,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-evolution-delta-reign-booster-box": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-booster-box-kor": {
       "a": true,
       "p": false
@@ -7881,7 +7901,7 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-30th-celebration-booster-bundle": {
@@ -8777,7 +8797,7 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2024": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-pokemon-go-premium-collection-radiant-eevee": {
@@ -11773,7 +11793,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle": {
@@ -11785,7 +11805,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatic-evolutions-super-premium-collection": {
