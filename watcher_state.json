@@ -123,7 +123,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-top-trainer-box-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
@@ -181,13 +181,13 @@
     "pokemon-glurak-ex-super-premium-kollektion-deutsch-kopie": {
       "a": false,
       "p": false
-    },
-    "ultra-pro-pokemon-deck-box-tinkaton": {
-      "a": false,
-      "p": false
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-center-special-box-set-hiroshima-jpn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch-presale": {
       "a": true,
       "p": false
@@ -209,7 +209,7 @@
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-display-koreanisch-presale": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-black-bolt-csv10-5c-slim-booster-display-chinesisch-presale": {
@@ -265,7 +265,7 @@
       "p": false
     },
     "pokemon-black-bolt-booster-display-koreanisch-presale": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-white-flare-booster-display-koreanisch-presale": {
@@ -317,7 +317,7 @@
       "p": false
     },
     "pokemon-abyss-eye-30er-display-japanisch-presale": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ninja-spinner-booster-display-koreanisch-presale": {
@@ -1403,26 +1403,6 @@
     "pokemon-prismatische-entwicklungen-prem-figuren-kollektion-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-karmesin-purpur-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-journey-together-3-pack-blister-scrafty-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-mini-tin-box-zufaellige-variante-deutsch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-reisegefahrten-booster-display-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-violet-journey-together-3-pack-blister-yanmega-en": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1443,7 +1423,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-dunkelnacht-6-boosterpacks": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -3429,7 +3409,7 @@
       "p": false
     },
     "pokemon-karmesin-purpur-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-morpeko-v-union-premium-playmat-collection": {
@@ -4306,6 +4286,10 @@
     }
   },
   "Pokitrio::ALL": {
+    "pokemon-karmesin-purpur-top-trainer-box-deutsch-kopie": {
+      "a": true,
+      "p": false
+    },
     "pokemon-day-kollektion-deutsch": {
       "a": true,
       "p": false
@@ -5002,10 +4986,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-30th-celebration-mini-tin-display-eng": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30th-celebration-ultra-premium-collection-espeon-eng": {
       "a": false,
       "p": false
@@ -5408,6 +5388,10 @@
     }
   },
   "CardBuddies::ALL": {
+    "30th-celebration-elite-trainer-box-en": {
+      "a": false,
+      "p": false
+    },
     "mega-entwicklungen-delta-herrschaft-jurob-3-pack-blister-de": {
       "a": false,
       "p": false
@@ -7052,41 +7036,17 @@
     }
   },
   "Total Cards::ALL": {
-    "pokemon-mega-evolution-flowing-fists-booster-bundle": {
+    "pokemon-scarlet-violet-temporal-forces-elite-trainer-box-walking-wake-empty": {
       "a": false,
-      "p": true
+      "p": false
     },
-    "pokemon-mega-evolution-flowing-fists-half-booster-box-18-packs": {
+    "pokemon-mega-evolution-base-set-elite-trainer-box-lucario-empty": {
       "a": false,
-      "p": true
+      "p": false
     },
-    "pokemon-mega-evolution-flowing-fists-checklane-blister-tynamo": {
+    "pokemon-graded-masters-mystery-box": {
       "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-flowing-fists-premium-checklane-blister-primarina": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-flowing-fists-premium-checklane-blister-bastiodon": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-flowing-fists-3-pack-blister-wimpod": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-flowing-fists-elite-trainer-box": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-flowing-fists-booster-pack": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-mega-evolution-flowing-fists-booster-box-36-boosters": {
-      "a": false,
-      "p": true
+      "p": false
     }
   },
   "TCG Stadium::ALL": {
@@ -9095,10 +9055,6 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-great-ball-english": {
-      "a": false,
-      "p": false
-    },
-    "tera-brawlers-premium-collection-copy": {
       "a": false,
       "p": false
     }
@@ -11686,16 +11642,28 @@
     }
   },
   "The TCG Shop UK::ALL": {
+    "pokemon-tcg-30th-celebration-ditto-premium-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-mega-forces-tin-assorted-display-6-tins": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-day-ultra-premium-collection": {
+      "a": false,
+      "p": false
+    },
     "pokemon-tcg-30th-celebration-night-ultra-premium-collection": {
       "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-delta-reign-booster-display-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-30th-celebration-booster-bundle": {
