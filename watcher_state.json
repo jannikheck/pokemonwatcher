@@ -1369,7 +1369,7 @@
       "p": false
     },
     "pokemon-30-jahre-ditto-premium-kollektion-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weg-des-champs-zwollock-v-kollektion-deutsch": {
@@ -5788,6 +5788,10 @@
     }
   },
   "YONKO TCG::ALL": {
+    "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
+      "a": true,
+      "p": false
+    },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
       "a": false,
       "p": false
@@ -7084,6 +7088,10 @@
     }
   },
   "Otakura::ALL": {
+    "bundle-dominio-delta-set-allenatore-fuoriclasse-bundle-6-buste-30-anniversario-ita": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-bundle-6-buste-ita": {
       "a": true,
       "p": false
@@ -7112,12 +7120,40 @@
       "a": true,
       "p": false
     },
+    "bundle-dominio-delta-box-36-bundle-6-buste-30-anniversario": {
+      "a": false,
+      "p": false
+    },
     "bundle-2-mazzi-lotte-espeon-ex-umbreon-ex-30-anniversario-ita": {
+      "a": false,
+      "p": false
+    },
+    "bundle-dominio-delta-30-anniversario-box-36-bundle-6-set-allenatore-poster": {
+      "a": false,
+      "p": false
+    },
+    "bundle-dominio-delta-box-36-set-allenatore-fuoriclasse-30-anniversario": {
       "a": false,
       "p": false
     },
     "30th-celebration-booster-bundle-6-buste-pokemon-tcg-eng": {
       "a": false,
+      "p": false
+    },
+    "bundle-completo-megaevoluzione-dominio-delta-ita": {
+      "a": false,
+      "p": false
+    },
+    "megaevoluzione-dominio-delta-bundle-6-buste-ita": {
+      "a": true,
+      "p": false
+    },
+    "megaevoluzione-dominio-delta-blister-3-buste-ita": {
+      "a": true,
+      "p": false
+    },
+    "megaevoluzione-dominio-delta-box-36-buste-ita": {
+      "a": true,
       "p": false
     },
     "30th-celebration-bundle-2-ex-tin-sylveon-greninja-pokemon-tcg-eng": {
@@ -8401,7 +8437,7 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2024": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-pokemon-go-premium-collection-radiant-eevee": {
