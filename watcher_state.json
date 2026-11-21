@@ -217,7 +217,7 @@
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-display-koreanisch-presale": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-csv10-5c-slim-booster-display-chinesisch-presale": {
@@ -417,7 +417,7 @@
       "p": false
     },
     "pokemon-mega-evolution-delta-reign-booster-display-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-espeon-ex-ultra-premium-collection-englisch": {
@@ -429,19 +429,19 @@
       "p": false
     },
     "pokemon-30-jahre-set-ditto-premium-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-set-figuren-kollektion-mewtu-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-set-figuren-kollektion-mew-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-set-ordner-kollektion-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-white-flare-csv10-6c-slim-booster-display-chinesisch": {
@@ -457,7 +457,7 @@
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-display-koreanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-purpur-151-zapdos-ex-kollektion-deutsch": {
@@ -497,7 +497,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-20er-display-ohne-folie-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-traditional-chinese-traditionelles-chinesisch": {
@@ -1329,7 +1329,7 @@
       "p": false
     },
     "pokemon-30-jahre-kampfdeck-psiana-ex-victini-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-shining-fates-eldegoss-v-tin-box-englisch": {
@@ -1393,7 +1393,7 @@
       "p": false
     },
     "pokemon-30-jahre-ultra-premium-kollektion-nacht-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-151c-collect-151-journey-booster-display-chinesisch": {
@@ -3917,7 +3917,7 @@
       "p": false
     },
     "pokemon-temporal-forces-3-pack-blister-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-bloodmoon-ursaluna-ex-box-eng": {
@@ -6527,7 +6527,7 @@
       "p": false
     },
     "pokemon-30-jahre-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-zeraora-tin-de": {
@@ -7048,6 +7048,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-30th-celebration-ditto-premium-collection-acrylic-display-card-frame": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-temporal-forces-elite-trainer-box-walking-wake-empty": {
       "a": false,
       "p": false
@@ -9055,7 +9059,7 @@
       "p": false
     },
     "acrylic-protection-for-pokemon-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "acrylic-protection-for-pokemon-booster-boxes": {
@@ -9096,10 +9100,6 @@
     },
     "pokemon-tcg-poke-ball-tin-2025-poke-ball-english": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2025-great-ball-english": {
-      "a": false,
       "p": false
     }
   },
