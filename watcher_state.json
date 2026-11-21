@@ -1,5 +1,13 @@
 {
   "TCGViert::ALL": {
+    "preis-pokemon-tcg-prismatic-evolutions-sv8-5-elite-trainer-box-en-limit-2-kunde-preorder-mitte-mai": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-mega-evolution-delta-reign-me06-elite-trainer-box-en-preorder-06-11-26-limit-1-kunde-beschreibung-beachten": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-top-trainer-box-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
       "a": true,
       "p": false
@@ -3909,7 +3917,7 @@
       "p": false
     },
     "pokemon-temporal-forces-3-pack-blister-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-bloodmoon-ursaluna-ex-box-eng": {
@@ -4679,7 +4687,7 @@
       "p": false
     },
     "pokemon-30th-celebration-2-pack-blister-eng-vorbestellung": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-set-off-to-collect-gift-box-s-chn": {
@@ -5789,7 +5797,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
@@ -9071,7 +9079,7 @@
       "p": false
     },
     "pokemon-ascended-heroes-booster-bundle-en": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-lucario-ex-figure-collection": {
