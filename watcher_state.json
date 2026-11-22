@@ -333,7 +333,7 @@
       "p": false
     },
     "pokemon-storm-emerald-30er-display-japanisch-presale": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-storm-emerald-booster-display-koreanisch-presale": {
@@ -7048,6 +7048,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-30th-celebration-ditto-premium-collection-online-code-card": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-ditto-premium-collection-acrylic-display-card-frame": {
       "a": true,
       "p": false
