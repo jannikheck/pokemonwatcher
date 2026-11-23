@@ -131,7 +131,7 @@
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-top-trainer-box-englisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-erste-partner-illustrations-kollektion-serie-1-deutsch": {
@@ -289,7 +289,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-display-traditional-chinese-traditionelles-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-black-bolt-booster-bundle-englisch": {
@@ -313,7 +313,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-wachsendes-chaos-2-pack-blister-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
@@ -321,7 +321,7 @@
       "p": false
     },
     "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-karmesin-und-purpur-booster-box-deutsch": {
@@ -1233,7 +1233,7 @@
       "p": false
     },
     "pokemon-drachenwandel-top-trainer-box-segv-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-journey-together-enhanced-booster-box-en": {
@@ -1303,10 +1303,6 @@
     "pokemon-maskerade-im-zwielicht-top-trainer-box-deutsch": {
       "a": false,
       "p": false
-    },
-    "pokemon-obsidianflammen-booster-display-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -1343,7 +1339,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-boosterbundle-mega-entwicklung-dunkelnacht-6-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -1693,18 +1689,6 @@
     "pokemon-tcg-koraidon-tin-deutsch-schlagkraeftige-legenden": {
       "a": false,
       "p": false
-    },
-    "pokemon-sammelkartenspiel-top-trainer-box-karmesin-purpur-miraidon": {
-      "a": false,
-      "p": false
-    },
-    "krasse-pokemon-karten-premium-kollektion-action": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-sammelkartenspiel-super-premium-kollektion-glurak-ex-3": {
-      "a": false,
-      "p": false
     }
   },
   "CrispyCards::ALL": {
@@ -1717,7 +1701,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-3-pack-blister-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
@@ -1985,7 +1969,7 @@
       "p": false
     },
     "pokemon-enhanced-2-pack-blister-zarude-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-zenit-der-konige-special-pin-collection-de": {
@@ -2097,7 +2081,7 @@
       "p": false
     },
     "pokemon-dunkelnacht-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-3-pack-blister-eng": {
@@ -2685,7 +2669,7 @@
       "p": false
     },
     "pokemon-mega-glurak-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-lillie-premium-tournament-collection-eng": {
@@ -3981,7 +3965,7 @@
       "p": false
     },
     "pokemon-entwicklungen-in-paldea-18er-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-journey-together-elite-trainer-box-eng": {
@@ -4206,26 +4190,6 @@
     }
   },
   "Pokitrio::ALL": {
-    "pokemon-karmesin-purpur-top-trainer-box-deutsch-kopie": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-day-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-poster-kollektion-deutsch": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30-jahre-quajutsu-ex-kollektion-deutsch": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-30-jahre-feelinara-ex-kollektion-deutsch-deutsch": {
-      "a": true,
-      "p": false
-    },
     "pokemon-ewige-rivalen-display-deutsche-version-de": {
       "a": true,
       "p": false
@@ -4273,7 +4237,7 @@
       "p": false
     },
     "pokemon-paldea-trainer-battle-box-display-10-boxen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-paldea-trainer-keychain-box-display-10-boxen": {
@@ -4943,7 +4907,7 @@
       "p": false
     },
     "pokemon-ewige-rivalen-display-de-1": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-display-eng": {
@@ -5328,10 +5292,6 @@
       "a": false,
       "p": false
     },
-    "pok-mon-mystery-slab-bag": {
-      "a": false,
-      "p": false
-    },
     "acryl-case-f-r-pokemon-super-premium-collection-prismatic-evolution": {
       "a": false,
       "p": false
@@ -5713,7 +5673,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
@@ -7400,6 +7360,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-mega-aura-seeker-booster-box-jpn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-evolution-delta-reign-booster-box": {
       "a": true,
       "p": false
@@ -7417,7 +7381,7 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-eevee-2-pack-blister": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-3-pack-blister-binacle": {
@@ -9011,14 +8975,6 @@
       "p": false
     },
     "pokemon-tcg-poke-ball-tin-2025-repeat-ball-english": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2025-ultra-ball-english": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2025-poke-ball-english": {
       "a": true,
       "p": false
     }
@@ -11189,7 +11145,7 @@
       "p": false
     },
     "pokemon-back-to-school-erasers-blister": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-delta-reign-elite-trainer-box": {
@@ -11409,7 +11365,7 @@
       "p": false
     },
     "pokemon-2-pack-pin-blister-jirachi-celebi": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ancient-roar-booster-box-kr": {
