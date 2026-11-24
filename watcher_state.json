@@ -317,7 +317,7 @@
       "p": false
     },
     "pokemon-primordial-arts-torrent-cs3bc-jumbo-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-primordial-arts-overgrow-cs3ac-jumbo-display-chinesisch": {
@@ -8972,10 +8972,6 @@
     },
     "pokemon-tcg-mega-lucario-ex-figure-collection": {
       "a": false,
-      "p": false
-    },
-    "pokemon-tcg-poke-ball-tin-2025-repeat-ball-english": {
-      "a": true,
       "p": false
     }
   },
