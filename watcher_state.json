@@ -1299,10 +1299,6 @@
     "pokemon-tera-brawlers-premium-collection-en": {
       "a": false,
       "p": false
-    },
-    "pokemon-maskerade-im-zwielicht-top-trainer-box-deutsch": {
-      "a": false,
-      "p": false
     }
   },
   "TradingToys::ALL": {
@@ -5403,7 +5399,7 @@
       "p": false
     },
     "pokemon-30-jahre-ultra-premium-kollektion-nacht-nachtara-ex-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-ultra-premium-kollektion-tag-psiana-ex-de": {
@@ -6951,7 +6947,7 @@
       "p": false
     },
     "pokemon-scarlet-and-violet-151-ultra-premium-collection-preorder": {
-      "a": true,
+      "a": false,
       "p": true
     },
     "pokemon-tcg-scarlet-violet-10-5-white-flare-binder-collection": {
@@ -7441,7 +7437,7 @@
       "p": false
     },
     "pokemon-mega-evolution-30th-celebration-booster-bundle": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-bundle": {
@@ -8133,7 +8129,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-10-5-black-bolt-white-flare-unova-poster-collection": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-lillie-premium-tournament-collection": {
@@ -9299,7 +9295,7 @@
       "p": false
     },
     "pokemon-me05-pitch-black-booster-bundle": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-pitch-black-elite-trainerbox": {
@@ -11161,7 +11157,7 @@
       "p": false
     },
     "pokemon-eevee-evolutions-tin-2021-1-pc-random-art": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-1-pc": {
