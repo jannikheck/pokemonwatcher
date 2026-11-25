@@ -429,7 +429,7 @@
       "p": false
     },
     "pokemon-night-wanderer-booster-display-koreanisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-team-rocket-nidoking-ex-tin-box-deutsch": {
@@ -1351,7 +1351,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-130": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-sammelkartenspiel-pkm-tin-131": {
@@ -1745,7 +1745,7 @@
       "p": false
     },
     "pokemon-galar-power-mini-tin-display-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-hidden-potential-tins-giratina-v-tin-box-de": {
@@ -1773,7 +1773,7 @@
       "p": false
     },
     "pokemon-30-jahre-nacht-quajutsu-ex-tin-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-nacht-feelinara-ex-tin-de": {
@@ -1933,7 +1933,7 @@
       "p": false
     },
     "pokemon-sammelkoffer-fruhling-2021-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-weg-des-champs-pin-collection-de": {
@@ -4550,6 +4550,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-paradox-rift-display-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-gem-pack-booster-bundle-7x-booster-s-chn": {
       "a": true,
       "p": false
@@ -5419,15 +5423,15 @@
       "p": false
     },
     "pokemon-30-jahre-mew-figuren-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-mewtu-figuren-kollektion-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-herrschaft-3er-blister-jurob-de": {
@@ -5435,7 +5439,7 @@
       "p": false
     },
     "pokemon-delta-herrschaft-booster-display-36er-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-entwicklung-booster-display-36-booster-deutsch": {
@@ -5669,7 +5673,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
@@ -5677,7 +5681,7 @@
       "p": false
     },
     "de-pokemon-blister-myrapla-duflor-giflor-2-pack": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-poster-kollektion-30-jahre-mbe4": {
@@ -7356,6 +7360,18 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-tcg-30th-celebration-mewtwo-figure-collection": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-30th-celebration-ditto-premium-collection": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-30th-ultra-premium-collection": {
+      "a": true,
+      "p": false
+    },
     "pokemon-tcg-deck-crafter-s-collection": {
       "a": true,
       "p": false
@@ -11141,7 +11157,7 @@
       "p": false
     },
     "pokemon-back-to-school-erasers-blister": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-delta-reign-elite-trainer-box": {
@@ -11161,7 +11177,7 @@
       "p": false
     },
     "pokemon-eevee-evolutions-tin-2021-1-pc-random-art": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-celebration-mini-tin-1-pc": {
@@ -11257,7 +11273,7 @@
       "p": false
     },
     "pokemon-perfect-order-3-pack-blister-chikorita": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-charizard-x-ex-tin": {
@@ -11361,7 +11377,7 @@
       "p": false
     },
     "pokemon-2-pack-pin-blister-jirachi-celebi": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-ancient-roar-booster-box-kr": {
