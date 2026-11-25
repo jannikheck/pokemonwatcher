@@ -4963,7 +4963,7 @@
       "p": false
     },
     "3x-pokemon-silver-tempest-sleeved-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-chaos-rising-booster-eng": {
@@ -5027,7 +5027,7 @@
       "p": false
     },
     "pokemon-sun-moon-booster-eng": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-karmesin-und-purpur-booster-de": {
@@ -5669,7 +5669,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
