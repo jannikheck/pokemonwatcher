@@ -13,7 +13,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-me01-36er-display-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-ex-kollektion-30-jahre-de-random-limit-2-person-preorder-16-09-2026-beschreibung-lesen": {
@@ -5669,7 +5669,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
@@ -7356,6 +7356,10 @@
     }
   },
   "TCGStore.se::ALL": {
+    "pokemon-tcg-deck-crafter-s-collection": {
+      "a": true,
+      "p": false
+    },
     "pokemon-mega-aura-seeker-booster-box-jpn": {
       "a": true,
       "p": false
