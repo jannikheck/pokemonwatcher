@@ -673,7 +673,7 @@
       "p": false
     },
     "pokemon-terastal-gathering-eevee-friends-gift-box-chinesisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-enigmaras-wampitz-ex-premium-kollektion-de": {
@@ -4546,6 +4546,34 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-30th-celebration-ultra-premium-collection-umbreon-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-ultra-premium-collection-espeon-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-top-trainer-box-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-ditto-premium-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-ultra-premium-kollektion-psyana-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-elite-trainer-box-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-booster-bundle-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-scarlet-violet-151-booster-eng": {
       "a": true,
       "p": false
@@ -4955,7 +4983,7 @@
       "p": false
     },
     "3x-pokemon-silver-tempest-sleeved-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-chaos-rising-booster-eng": {
@@ -5187,7 +5215,7 @@
       "p": false
     },
     "pokemon-nebel-der-sagen-booster-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-miracle-journey-slim-booster-cn": {
@@ -5264,6 +5292,18 @@
     }
   },
   "CardBuddies::ALL": {
+    "acryl-case-f-r-pokemon-regular-tin": {
+      "a": false,
+      "p": false
+    },
+    "acryl-case-f-r-pokemon-booster-bundle-display": {
+      "a": false,
+      "p": false
+    },
+    "pok-mon-mystery-booster-bag": {
+      "a": false,
+      "p": false
+    },
     "30th-celebration-elite-trainer-box-en": {
       "a": false,
       "p": false
@@ -5673,7 +5713,7 @@
       "p": false
     },
     "de-pokemon-poster-kollektion-30-jahre-mbe4": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "nanoblock-pokemon-sets": {
@@ -6924,6 +6964,10 @@
     }
   },
   "Total Cards::ALL": {
+    "pokemon-build-battle-stadium-random-used-empty-storage": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-ditto-premium-collection-online-code-card": {
       "a": true,
       "p": false
@@ -9323,7 +9367,7 @@
       "p": false
     },
     "pokemon-tcg-pitch-black-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-pitch-black-3-pack-booster-blister-binacle": {
