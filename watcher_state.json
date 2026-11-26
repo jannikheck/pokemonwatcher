@@ -182,10 +182,6 @@
       "a": false,
       "p": true
     },
-    "pokemon-tcg-erste-partner-illustrations-kollektion-serie-3-deutsch-jetzt-vorbestellen": {
-      "a": false,
-      "p": true
-    },
     "pokemon-glurak-ex-super-premium-kollektion-deutsch-kopie": {
       "a": false,
       "p": false
@@ -6306,6 +6302,18 @@
     }
   },
   "Cardcorner::ALL": {
+    "pokemon-reisegefahrten-build-battle-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-fatale-flammen-build-battle-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-mega-entwicklungen-build-battle-de": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30-jahre-ditto-premium-kollektion-de": {
       "a": false,
       "p": false
@@ -6587,7 +6595,7 @@
       "p": false
     },
     "pokemon-fatale-flammen-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-fatale-flammen-top-trainer-box-de": {
