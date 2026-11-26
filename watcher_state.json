@@ -1339,7 +1339,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-bisaflor-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-illustrations-kollektion-erste-partner-serie-1-3-promokarten-2-boosterpacks-und-1-stickerbogen": {
@@ -1447,7 +1447,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-guardevoir-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-kangama-1-sticker-1-bildkarte-2-boosterpacks": {
@@ -1459,7 +1459,7 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-mini-tin-box-mega-helden-mega-latias-1-sticker-1-bildkarte-2-boosterpacks": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-sammelkartenspiel-ultra-premium-kollektion-mega-glurak-x-ex-2-holografische-promokarten-18-boosterpacks-premium-zubehor": {
@@ -4203,7 +4203,7 @@
       "p": false
     },
     "pokemon-paldean-fates-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-phantasmal-flames-display-englisch": {
@@ -4550,6 +4550,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-scarlet-violet-151-booster-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-paradox-rift-display-de": {
       "a": true,
       "p": false
@@ -4611,10 +4615,6 @@
       "p": false
     },
     "pokemon-dschungel-light-booster-knnuddeluff-de": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-scarlet-violet-151-booster-eng": {
       "a": true,
       "p": false
     },
@@ -4872,14 +4872,6 @@
     },
     "pokemon-30-jahre-booster-eng": {
       "a": true,
-      "p": false
-    },
-    "pokemon-30th-celebration-ultra-premium-collection-espeon-eng": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-30th-celebration-ultra-premium-collection-umbreon-eng": {
-      "a": false,
       "p": false
     },
     "pokemon-csv9-stellar-crystal-slim-booster-s-chn": {
@@ -5199,7 +5191,7 @@
       "p": false
     },
     "pokemon-nebel-der-sagen-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-miracle-journey-slim-booster-cn": {
@@ -5231,7 +5223,7 @@
       "p": false
     },
     "pokemon-shining-fates-booster-eng": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-vivid-voltage-booster-eng": {
@@ -5403,7 +5395,7 @@
       "p": false
     },
     "pokemon-30-jahre-ultra-premium-kollektion-nacht-nachtara-ex-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ultra-premium-kollektion-tag-psiana-ex-de": {
@@ -5423,7 +5415,7 @@
       "p": false
     },
     "pokemon-30-jahre-mew-figuren-kollektion-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-mewtu-figuren-kollektion-de": {
@@ -7365,7 +7357,7 @@
       "p": false
     },
     "pokemon-tcg-30th-celebration-ditto-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-30th-ultra-premium-collection": {
@@ -8992,6 +8984,10 @@
     }
   },
   "Hobby Addicts::ALL": {
+    "pokemon-unova-poster-collection": {
+      "a": false,
+      "p": false
+    },
     "pokemon-30th-ultra-premium-collection": {
       "a": false,
       "p": false
@@ -9281,10 +9277,6 @@
       "p": false
     },
     "pokemon-pokemon-go-mini-tins-assorted": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-terapagos-ex-ultra-premium-collection": {
       "a": false,
       "p": false
     }
@@ -11148,6 +11140,18 @@
     }
   },
   "BESCARDS::ALL": {
+    "pokemon-phantasmal-flames-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-black-bolt-elite-trainer-box": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-latias-ex-box": {
+      "a": false,
+      "p": false
+    },
     "pokemon-25th-anniversary-celebrations-elite-trainer-box-damaged-seal": {
       "a": true,
       "p": false
@@ -11561,14 +11565,6 @@
       "p": false
     },
     "pokemon-destined-rivals-elite-trainer-box": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-destined-rivals-portfolio-9-pocket": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-destined-rivals-sleeved-booster-pack": {
       "a": true,
       "p": false
     }
