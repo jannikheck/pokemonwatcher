@@ -881,7 +881,7 @@
       "p": false
     },
     "pokemon-mega-entwicklung-tin-box-130-mega-dragoran-ex-deutsch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-vivid-voltage-elite-trainer-box-englisch": {
@@ -1671,14 +1671,6 @@
       "p": false
     },
     "pokemon-sammelkartenspiel-tin-box-team-rocket": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-zacian-ex-tin-deutsch-schlagkraftige-legenden": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-koraidon-tin-deutsch-schlagkraeftige-legenden": {
       "a": false,
       "p": false
     }
@@ -4546,10 +4538,6 @@
     }
   },
   "FantasiaCards::ALL": {
-    "pokemon-30th-celebration-ultra-premium-collection-umbreon-eng": {
-      "a": true,
-      "p": false
-    },
     "pokemon-30th-celebration-ultra-premium-collection-espeon-eng": {
       "a": true,
       "p": false
@@ -7413,7 +7401,7 @@
       "p": false
     },
     "pokemon-tcg-30th-ultra-premium-collection": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-deck-crafter-s-collection": {
@@ -8005,7 +7993,7 @@
       "p": false
     },
     "pokemon-scarlet-violet-9-journey-together-booster-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-scarlet-violet-4-5-paldean-fates-great-tusk-ex-iron-treads-ex-premium-collection-box": {
@@ -9027,10 +9015,6 @@
       "p": false
     },
     "pokemon-ascended-heroes-booster-bundle-en": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-tcg-mega-lucario-ex-figure-collection": {
       "a": false,
       "p": false
     }
@@ -11433,7 +11417,7 @@
       "p": false
     },
     "pokemon-2-pack-pin-blister-jirachi-celebi": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-ancient-roar-booster-box-kr": {
