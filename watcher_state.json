@@ -1,5 +1,41 @@
 {
   "TCGViert::ALL": {
+    "pokemon-tcg-poster-kollektion-30-jahre-de-random-limit-1-person-preorder-16-09-2026-beschreibung-lesen": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-top-trainer-box-30-jahre-de-random-limit-1-person-preorder-16-09-2026-beschreibung-lesen": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-tcg-quajutsu-feelinareex-4er-tin-30-jahre-de-random-limit-2-person-preorder-16-09-2026-beschreibung-lesen": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-booster-bundle-30-jahre-de-random-limit-1-person-preorder-02-10-2026-beschreibung-lesen": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-tcg-figuren-kollektion-mewtu-30-jahre-de-limit-1-person-preorder-06-11-2026-beschreibung-lesen": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-tcg-figuren-kollektion-mew-30-jahre-de-limit-1-person-preorder-06-11-2026-beschreibung-lesen": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-tcg-premium-kollektion-ditto-30-jahre-de-limit-1-person-preorder-06-11-2026-beschreibung-lesen": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-tcg-ordner-kollektion-30-jahre-de-random-limit-1-person-preorder-02-10-2026-beschreibung-lesen": {
+      "a": true,
+      "p": true
+    },
+    "pokemon-tcg-prismatische-entwicklungen-kp8-5-super-premium-kollektion-de-limit-1-person": {
+      "a": true,
+      "p": false
+    },
     "preis-pokemon-tcg-prismatic-evolutions-sv8-5-elite-trainer-box-en-limit-2-kunde-preorder-mitte-mai": {
       "a": true,
       "p": false
@@ -13,11 +49,11 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-me01-36er-display-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-ex-kollektion-30-jahre-de-random-limit-2-person-preorder-16-09-2026-beschreibung-lesen": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-tcg-mega-evolution-pitch-black-me05-elite-trainer-box-en-preorder-17-07-26-limit-1-kunde": {
@@ -229,11 +265,11 @@
       "p": false
     },
     "pokemon-white-flare-csv10-6c-slim-booster-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-black-bolt-csv10-5c-slim-booster-display-chinesisch": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-koreanisch": {
@@ -257,7 +293,7 @@
       "p": false
     },
     "pokemon-aura-seeker-m7-booster-display-japanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-mega-evolution-pitch-black-booster-display-englisch": {
@@ -3909,7 +3945,7 @@
       "p": false
     },
     "pokemon-sammelkoffer-herbst-2024-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mimikyu-ex-box-eng": {
@@ -4575,7 +4611,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-gem-pack-vol-7-booster-s-chn": {
@@ -5203,7 +5239,7 @@
       "p": false
     },
     "pokemon-nebel-der-sagen-booster-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-miracle-journey-slim-booster-cn": {
@@ -5313,10 +5349,6 @@
       "p": false
     },
     "30-jahre-tech-sticker-kollektion": {
-      "a": false,
-      "p": false
-    },
-    "acryl-case-fur-pokemon-ultra-premium-collection-box-charizard-kopie": {
       "a": false,
       "p": false
     },
@@ -5643,7 +5675,7 @@
       "p": false
     },
     "guardevoir-ex-liga-kampfdeck-de-pokemon-tcg-ovp": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "collect-151-gathering-slim-display-zh-pokemon-tcg-ovp": {
@@ -6390,10 +6422,6 @@
       "a": false,
       "p": false
     },
-    "glaziola-vstar-spezial-kollektion-de": {
-      "a": false,
-      "p": false
-    },
     "pokemon-30-jahre-mini-tin-de": {
       "a": true,
       "p": false
@@ -6973,37 +7001,17 @@
       "p": false
     },
     "pokemon-graded-masters-mystery-box": {
-      "a": false,
+      "a": true,
       "p": false
     }
   },
   "TCG Stadium::ALL": {
-    "pokemon-trading-card-game-prismatic-evolutions-blister-two-pack": {
-      "a": false,
-      "p": false
-    },
-    "pokemon-scarlet-and-violet-151-ultra-premium-collection-preorder": {
-      "a": false,
-      "p": true
-    },
-    "pokemon-tcg-scarlet-violet-10-5-white-flare-binder-collection": {
-      "a": false,
-      "p": false
-    },
-    "prismatic-evolutions-booster-bundle-sv-prismatic-evolutions-pre": {
-      "a": false,
-      "p": false
-    },
     "pokemon-scarlet-violet-151-blooming-waters-premium-collection": {
       "a": true,
       "p": false
     },
-    "pokemon-scarlet-and-violet-sv9-journey-together-booster-box": {
-      "a": false,
-      "p": false
-    },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
