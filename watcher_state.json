@@ -4,10 +4,6 @@
       "a": true,
       "p": false
     },
-    "pokemon-tcg-top-trainer-box-30-jahre-de-random-limit-1-person-preorder-16-09-2026-beschreibung-lesen": {
-      "a": false,
-      "p": false
-    },
     "pokemon-tcg-quajutsu-feelinareex-4er-tin-30-jahre-de-random-limit-2-person-preorder-16-09-2026-beschreibung-lesen": {
       "a": true,
       "p": false
@@ -15,18 +11,6 @@
     "pokemon-tcg-booster-bundle-30-jahre-de-random-limit-1-person-preorder-02-10-2026-beschreibung-lesen": {
       "a": true,
       "p": false
-    },
-    "pokemon-tcg-figuren-kollektion-mewtu-30-jahre-de-limit-1-person-preorder-06-11-2026-beschreibung-lesen": {
-      "a": true,
-      "p": true
-    },
-    "pokemon-tcg-figuren-kollektion-mew-30-jahre-de-limit-1-person-preorder-06-11-2026-beschreibung-lesen": {
-      "a": true,
-      "p": true
-    },
-    "pokemon-tcg-premium-kollektion-ditto-30-jahre-de-limit-1-person-preorder-06-11-2026-beschreibung-lesen": {
-      "a": true,
-      "p": true
     },
     "pokemon-tcg-ordner-kollektion-30-jahre-de-random-limit-1-person-preorder-02-10-2026-beschreibung-lesen": {
       "a": true,
@@ -37,10 +21,6 @@
       "p": false
     },
     "preis-pokemon-tcg-prismatic-evolutions-sv8-5-elite-trainer-box-en-limit-2-kunde-preorder-mitte-mai": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-tcg-mega-evolution-delta-reign-me06-elite-trainer-box-en-preorder-06-11-26-limit-1-kunde-beschreibung-beachten": {
       "a": true,
       "p": false
     },
@@ -69,7 +49,7 @@
       "p": false
     },
     "pokemon-tcg-mega-entwicklungen-delta-herrschaft-me06-36er-display-de-vvk-06-11-26-limit-1-kunde-beschreibung-beachten": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-entwicklungen-wachsendes-chaos-me04-36er-display-de-vvk-22-05-26-limit-1-person": {
@@ -224,6 +204,34 @@
     }
   },
   "CardCosmos::ALL": {
+    "pokemon-wundervolle-gewasser-mini-tin-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-pokemon-day-2027-kollektion-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-flinke-fauste-booster-display-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-flinke-fauste-3-pack-blister-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-entwicklung-flinke-fauste-booster-bundle-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pokemon-mega-evolution-flowing-fists-elite-trainer-box-deutsch": {
+      "a": false,
+      "p": false
+    },
+    "pok-mon-premium-turnierkollektion-mega-rayquaza-ex-deutsch": {
+      "a": false,
+      "p": false
+    },
     "pokemon-center-special-box-set-hiroshima-jpn": {
       "a": true,
       "p": false
@@ -241,11 +249,11 @@
       "p": false
     },
     "pokemon-30th-celebration-espeon-ex-ultra-premium-collection-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pok-mon-30th-celebration-umbreon-ex-ultra-premium-collection-englisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-set-ditto-premium-kollektion-deutsch": {
@@ -309,7 +317,7 @@
       "p": false
     },
     "pokemon-30th-anniversary-collection-20er-display-japanisch-16-pocket-zip-premium-leather-binder-pink": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30th-anniversary-celebration-booster-pack-tchn": {
@@ -461,7 +469,7 @@
       "p": false
     },
     "pokemon-night-wanderer-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-team-rocket-nidoking-ex-tin-box-deutsch": {
@@ -1225,7 +1233,7 @@
       "p": false
     },
     "pokemon-30-jahre-ultra-premium-kollektion-tag-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-prismatische-entwicklungen-prem-figuren-kollektion-deutsch": {
@@ -1241,7 +1249,7 @@
       "p": false
     },
     "pokemon-30-jahre-mini-tin-box-zufaellige-variante-deutsch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-reisegefahrten-booster-display-deutsch": {
@@ -1326,10 +1334,6 @@
     },
     "pokemon-weg-des-champs-passbeck-arena-spezial-pin-kollektion-deutsch": {
       "a": true,
-      "p": false
-    },
-    "pokemon-tera-brawlers-premium-collection-en": {
-      "a": false,
       "p": false
     }
   },
@@ -4574,6 +4578,34 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-delta-reign-premium-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-sylveon-ex-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30th-celebration-greninja-ex-tin-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-delta-reign-spritzee-blister-eng": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-mewtu-figuren-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-30-jahre-mew-figuren-kollektion-de": {
+      "a": true,
+      "p": false
+    },
+    "pokemon-day-2026-collection-eng": {
+      "a": true,
+      "p": false
+    },
     "pokemon-30th-celebration-ultra-premium-collection-espeon-eng": {
       "a": true,
       "p": false
@@ -4611,7 +4643,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-gift-box-espeon-ex-umbreon-ex-s-chn": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-gem-pack-vol-7-booster-s-chn": {
@@ -4775,7 +4807,7 @@
       "p": false
     },
     "pokemon-30th-celebration-display-s-chn-vorbestellung-release-ende-september-2026": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-weisse-flammen-ordner-kollektion-de": {
@@ -4879,10 +4911,6 @@
       "p": false
     },
     "pokemon-pitch-black-booster-eng": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-german-mega-booster-bundle-de": {
       "a": true,
       "p": false
     },
@@ -5439,7 +5467,7 @@
   },
   "Major Cards TCG::ALL": {
     "pokemon-30-jahre-kampfdeck-nachtara-ex-de": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-30-jahre-kampfdeck-psiana-ex-victini-de": {
@@ -5721,7 +5749,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
@@ -7006,12 +7034,8 @@
     }
   },
   "TCG Stadium::ALL": {
-    "pokemon-scarlet-violet-151-blooming-waters-premium-collection": {
-      "a": true,
-      "p": false
-    },
     "empty-pokemon-tcg-poke-ball-tin-styles-may-vary-no-cards": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "empty-pokemon-tcg-tin-assorted-styles-no-cards-3-each": {
@@ -7909,7 +7933,7 @@
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-checklane-blister-pack-toxel": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-mega-evolution-chaos-rising-booster-box": {
@@ -11565,7 +11589,7 @@
       "p": false
     },
     "pokemon-crown-zenith-tin-1-willekeurige-variant": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-crown-zenith-unown-v-lugia-v-special-collection-box": {
@@ -11607,10 +11631,6 @@
     "pokemon-destined-rivals-checkalane-blister-pack-1-willekeurig": {
       "a": false,
       "p": false
-    },
-    "pokemon-destined-rivals-elite-trainer-box": {
-      "a": true,
-      "p": false
     }
   },
   "The TCG Shop UK::ALL": {
@@ -11631,7 +11651,7 @@
       "p": false
     },
     "pokemon-tcg-mega-evolution-delta-reign-booster-display-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box": {
