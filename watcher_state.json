@@ -17,7 +17,7 @@
       "p": true
     },
     "pokemon-tcg-prismatische-entwicklungen-kp8-5-super-premium-kollektion-de-limit-1-person": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "preis-pokemon-tcg-prismatic-evolutions-sv8-5-elite-trainer-box-en-limit-2-kunde-preorder-mitte-mai": {
@@ -285,7 +285,7 @@
       "p": false
     },
     "pokemon-30th-celebration-m6a-booster-display-koreanisch": {
-      "a": false,
+      "a": true,
       "p": false
     },
     "pokemon-karmesin-purpur-151-zapdos-ex-kollektion-deutsch": {
@@ -4578,7 +4578,7 @@
     }
   },
   "FantasiaCards::ALL": {
-    "pokemon-gem-pack-vol-7-display-s-chn": {
+    "pokemon-gem-pack-vol-7-display-s-chn-vorbestellung-release-21-11-26": {
       "a": true,
       "p": false
     },
@@ -5369,10 +5369,6 @@
       "p": false
     },
     "mega-entwicklungen-delta-herrschaft-top-trainer-box-de": {
-      "a": false,
-      "p": false
-    },
-    "acryl-case-f-r-pokemon-super-premium-collection-prismatic-evolution": {
       "a": false,
       "p": false
     },
@@ -6471,7 +6467,7 @@
       "p": false
     },
     "pokemon-tech-sticker-kollektion-30-jahre-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-quajutsu-ex-kollektion-de": {
@@ -11393,7 +11389,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-elite-trainer-box": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-prismatic-evolutions-booster-bundle": {
@@ -11413,7 +11409,7 @@
       "p": false
     },
     "pokemon-prismatic-evolutions-mini-tin-display": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-151-blooming-waters-premium-collection": {
