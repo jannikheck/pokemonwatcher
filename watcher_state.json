@@ -4578,6 +4578,10 @@
     }
   },
   "FantasiaCards::ALL": {
+    "pokemon-gem-pack-vol-7-display-s-chn": {
+      "a": true,
+      "p": false
+    },
     "pokemon-delta-reign-premium-blister-eng": {
       "a": true,
       "p": false
@@ -4611,7 +4615,7 @@
       "p": false
     },
     "pokemon-30-jahre-top-trainer-box-de": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "pokemon-30-jahre-ditto-premium-kollektion-de": {
@@ -4667,10 +4671,6 @@
       "p": false
     },
     "pokemon-gem-pack-vol-6-display-s-chn": {
-      "a": true,
-      "p": false
-    },
-    "pokemon-gem-pack-vol-7-display-s-chn-vorbestellung-release-21-11-26": {
       "a": true,
       "p": false
     },
@@ -5749,7 +5749,7 @@
   },
   "YONKO TCG::ALL": {
     "de-pokemon-kampfdecks-30-jahre-psiana-ex-nachtara-ex": {
-      "a": true,
+      "a": false,
       "p": false
     },
     "de-pokemon-premium-kollektion-ditto-30-jahre": {
